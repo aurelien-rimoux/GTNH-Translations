@@ -1568,7 +1568,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8g.desc=Certains matériaux, comme l'Ac
 
 # Quest: Ruby Electrolyzing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.name=§6§lÉlectrolyse du Rubis
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.desc=Le Rubis est une bonne source de Chrome et d'un peu d'Alumine. Quand vous commencez à manquer de Rubis, vous pouvez centrifuger de la Redstone pour en obtenir davantage.%n%nUne autre bonne source d'Alumine et d'Oxygène est la poudre de Granite rouge. Vous pouvez l'obtenir grâce aux nénuphars de pierre de Granite rouge. Consultez l'onglet The Green Revolution pour plus de détails sur les cultures.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.desc=Le Rubis est une bonne source de Chrome et d'un peu d'Alumine. Quand vous commencez à manquer de Rubis, vous pouvez centrifuger de la Redstone pour en obtenir davantage.%n%nUne autre bonne source d'Alumine et d'Oxygène est la poudre de Granite rouge. Vous pouvez l'obtenir grâce aux nénuphars de pierre de Granite rouge. Consultez l'onglet La révolution verte pour plus de détails sur les cultures.
 
 # Quest: Molten Polyethylene
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.name=§6§lPolyéthylène en fusion
@@ -2021,7 +2021,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAoA.desc=Votre première carcasse, comme
 
 # Quest: Dimensional Goal: Moon
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.name=§5§lObjectif dimensionnel : la Lune
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.desc=Le HV consiste à aller sur la Lune pour obtenir du Titane, utilisé pour fabriquer les machines EV et AE2. C'est cependant une tâche longue et complexe, alors rendez-vous dans l'onglet Space Race pour plus d'informations.%n%n[note]Il vous faut toutefois des circuits IV et l'Assembler HV pour commencer cet onglet.[/note]%n%n§6Si vous faites une partie sans fusée, tenez en main une pile de lingots de Titane pour continuer. Même chose pour l'Acier au Tungstène quand vous arriverez en EV.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.desc=Le HV consiste à aller sur la Lune pour obtenir du Titane, utilisé pour fabriquer les machines EV et AE2. C'est cependant une tâche longue et complexe, alors rendez-vous dans l'onglet Course à l'espace pour plus d'informations.%n%n[note]Il vous faut toutefois des circuits IV et l'Assembler HV pour commencer cet onglet.[/note]%n%n§6Si vous faites une partie sans fusée, tenez en main une pile de lingots de Titane pour continuer. Même chose pour l'Acier au Tungstène quand vous arriverez en EV.
 
 # Quest: I See Everything
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.name=§5§lJe vois tout
@@ -2149,7 +2149,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADpA.desc=Le Miner HV est plus rapide, a 
 
 # Quest: Performing Chemical Experiments at HV Level
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADrw.name=§5§lExpériences chimiques en HV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADrw.desc=Un certain nombre de recettes chimiques sont débloquées avec un §5Chemical Reactor HV§r : vous pourrez enfin produire des Yeux de l'Ender, de l'Ammoniac, du Toluène gélifié et bien d'autres composants utiles. %n%nSinon, si le cœur vous en dit, vous pouvez vous rendre dans l'onglet Mass Processing et construire à la place un §5Large Chemical Reactor§r (LCR) ! En plus d'un overclock plus efficace, le LCR accepte plusieurs liquides en entrée, vous n'aurez donc plus à vous embêter avec ces fichues cellules. %n%n[note]Si vous choisissez la voie du LCR, jetez un œil au chapitre PTFE juste après celui-ci, en commençant par « Teflon Don ».[/note]%n%n[note]P.S. Vous pouvez passer n'importe lequel des chapitres caoutchouc/plastique suivants en tenant en main 128 des feuilles correspondantes ![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADrw.desc=Un certain nombre de recettes chimiques sont débloquées avec un §5Chemical Reactor HV§r : vous pourrez enfin produire des Yeux de l'Ender, de l'Ammoniac, du Toluène gélifié et bien d'autres composants utiles. %n%nSinon, si le cœur vous en dit, vous pouvez vous rendre dans l'onglet Traitement de masse et construire à la place un §5Large Chemical Reactor§r (LCR) ! En plus d'un overclock plus efficace, le LCR accepte plusieurs liquides en entrée, vous n'aurez donc plus à vous embêter avec ces fichues cellules. %n%n[note]Si vous choisissez la voie du LCR, jetez un œil au chapitre PTFE juste après celui-ci, en commençant par « Teflon Don ».[/note]%n%n[note]P.S. Vous pouvez passer n'importe lequel des chapitres caoutchouc/plastique suivants en tenant en main 128 des feuilles correspondantes ![/note]
 
 # Quest: You're Gonna Hate This 5 and 6 in HV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0A.name=§5§lVous allez détester ça 5 et 6 en HV
@@ -2369,7 +2369,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBQ.desc=Pour produire du Polystyrène, 
 
 # Quest: Bio Lab
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBg.name=§5§lBio Lab
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBg.desc=Le Bio Lab est une station de bio-ingénierie polyvalente. Elle permet de créer des cultures bactériennes pour le Bacterial Vat, ainsi que des DNA Samples, des Data Orbs, et des Plasmids pour dupliquer des cultures et en créer de nouvelles.%n%nLe Bacterial Vat se trouve dans l'onglet Multiblock Goals. Vous pouvez l'utiliser dès maintenant si vous avez des besoins de brassage industriel, ou attendre plus tard, quand vous vous lancerez dans la bio-ingénierie.%n%n[note]Si vous ne faites cela que plus tard, autant fabriquer un Bio Lab de plus haut tier. Un seul suffit pour terminer la quête.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBg.desc=Le Bio Lab est une station de bio-ingénierie polyvalente. Elle permet de créer des cultures bactériennes pour le Bacterial Vat, ainsi que des DNA Samples, des Data Orbs, et des Plasmids pour dupliquer des cultures et en créer de nouvelles.%n%nLe Bacterial Vat se trouve dans l'onglet Objectifs multiblocs. Vous pouvez l'utiliser dès maintenant si vous avez des besoins de brassage industriel, ou attendre plus tard, quand vous vous lancerez dans la bio-ingénierie.%n%n[note]Si vous ne faites cela que plus tard, autant fabriquer un Bio Lab de plus haut tier. Un seul suffit pour terminer la quête.[/note]
 
 # Quest: Petri Dishes, Not for Eating
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBw.name=§5§lPetri Dishes, pas pour manger
@@ -2430,7 +2430,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1A.desc=Littéralement. Vous pouvez bro
 
 # Quest: Tier 4 (EV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsA.name=§8§lTier 4 (EV)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsA.desc=L'objectif principal ici est d'obtenir une fusée de tier 2 et d'atteindre Mars. Vous devriez aussi repenser votre production d'énergie, car de plus en plus de machines vont être améliorées. Ce groupe de quêtes vous présentera quelques options de production d'énergie.%n%nL'onglet Multiblock Goals contient des quêtes sur la Large Gas Turbine, le Large Combustion Engine et la foreuse à minerai multibloc.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsA.desc=L'objectif principal ici est d'obtenir une fusée de tier 2 et d'atteindre Mars. Vous devriez aussi repenser votre production d'énergie, car de plus en plus de machines vont être améliorées. Ce groupe de quêtes vous présentera quelques options de production d'énergie.%n%nL'onglet Objectifs multiblocs contient des quêtes sur la Large Gas Turbine, le Large Combustion Engine et la foreuse à minerai multibloc.
 
 # Quest: Dimensional Goal: Mars
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.name=§8§lObjectif dimensionnel : Mars
@@ -2478,7 +2478,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD7Q.desc=En EV, vous pouvez fabriquer de
 
 # Quest: Lapotron Dust
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJQ.name=§8§lLapotron Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADJQ.desc=Les Lapotron Crystals nécessitent de mélanger votre Energium Dust avec de la poudre de Lapis. Consultez l'onglet Storing and Transforming EU pour le Lapotron Crystal et le multibloc Lapotronic Supercapacitor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADJQ.desc=Les Lapotron Crystals nécessitent de mélanger votre Energium Dust avec de la poudre de Lapis. Consultez l'onglet Stocker et transformer les EU pour le Lapotron Crystal et le multibloc Lapotronic Supercapacitor.
 
 # Quest: Hypochlorous Acid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.name=§8§lAcide Hypochloreux
@@ -2658,7 +2658,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHYw.desc=Pour davantage de Tungstène et
 
 # Quest: What's in the Box?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhQ.name=§8§lQu'y a-t-il dans la boîte ?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhQ.desc=Vous vous demandez comment faire désintégrer votre Radium ? Avec une §5Lead-Lined Box§r, vous pouvez y laisser votre Radium en toute sécurité, et il se désintégrera pendant que vous faites du vrai travail.%n%n[note]Les tuyaux fonctionnent avec, mais vous ne pouvez pas utiliser de WA.[/note]%n%nVous pouvez aussi choisir d'utiliser le §5Decay Warehouse§r pour cette tâche ; il est plus efficace mais bien plus coûteux. (Plus d'infos dans l'onglet Multiblock Goals)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHhQ.desc=Vous vous demandez comment faire désintégrer votre Radium ? Avec une §5Lead-Lined Box§r, vous pouvez y laisser votre Radium en toute sécurité, et il se désintégrera pendant que vous faites du vrai travail.%n%n[note]Les tuyaux fonctionnent avec, mais vous ne pouvez pas utiliser de WA.[/note]%n%nVous pouvez aussi choisir d'utiliser le §5Decay Warehouse§r pour cette tâche ; il est plus efficace mais bien plus coûteux. (Plus d'infos dans l'onglet Objectifs multiblocs)
 
 # Quest: Platinum Processing, Step 4
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI-A.name=§8§lTraitement du Platine, étape 4
@@ -2791,7 +2791,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFgQ.desc=Que diriez-vous de fils 8192 EU
 
 # Quest: IV Mixer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFgg.name=§9§lMixer IV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFgg.desc=Un Mixer IV est nécessaire, par exemple, pour mélanger la poudre de HSS-S ou pour fabriquer les supraconducteurs IV.%n%nVous pouvez aussi consulter l'onglet Mass Processing et vous en servir pour fabriquer un mixer multibloc.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFgg.desc=Un Mixer IV est nécessaire, par exemple, pour mélanger la poudre de HSS-S ou pour fabriquer les supraconducteurs IV.%n%nVous pouvez aussi consulter l'onglet Traitement de masse et vous en servir pour fabriquer un mixer multibloc.
 
 # Quest: You're Gonna Hate This 1-4 in IV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFhQ.name=§9§lVous allez détester ça 1-4 en IV
@@ -2935,7 +2935,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGtA.desc=Le seul minerai intéressant su
 
 # Quest: Venus Trip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGtQ.name=§9§lVoyage sur Vénus
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGtQ.desc=Vénus possède 3 filons différents ; le Quantium et le Titane sont les plus importants à récupérer. Et le Naquadah, si vous n'en avez toujours pas assez.%n%n[note]Vous pouvez aussi obtenir de la Firestone à partir de petits minerais si vous en avez encore besoin.[/note]%n%n§5Attention ! Vénus exige une armure complète dotée de la capacité Spacesuit, sinon elle tuera le joueur dès son arrivée !!%n%nConsultez l'onglet Space Race pour plus d'informations.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGtQ.desc=Vénus possède 3 filons différents ; le Quantium et le Titane sont les plus importants à récupérer. Et le Naquadah, si vous n'en avez toujours pas assez.%n%n[note]Vous pouvez aussi obtenir de la Firestone à partir de petits minerais si vous en avez encore besoin.[/note]%n%n§5Attention ! Vénus exige une armure complète dotée de la capacité Spacesuit, sinon elle tuera le joueur dès son arrivée !!%n%nConsultez l'onglet Course à l'espace pour plus d'informations.
 
 # Quest: Yttrium Barium Cuprate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGtg.name=§9§lCuprate d'Yttrium Baryum
@@ -3336,7 +3336,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF0g.desc=Certaines machines ont besoin d
 
 # Quest: Tier 6 (LuV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1Q.name=§d§lTier 6 (LuV)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1Q.desc=Niveau LuV. Il vous faudra du Palladium plaqué Rhodium pour les machines. Planètes et lunes conseillées : Io (lune de Jupiter), Vénus et Mercure. Les pièces de machine nécessitent désormais une Assembly Line : consultez l'onglet Multiblock Goals pour plus de détails.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF1Q.desc=Niveau LuV. Il vous faudra du Palladium plaqué Rhodium pour les machines. Planètes et lunes conseillées : Io (lune de Jupiter), Vénus et Mercure. Les pièces de machine nécessitent désormais une Assembly Line : consultez l'onglet Objectifs multiblocs pour plus de détails.
 
 # Quest: Fluid TP for Magic-Haters
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGVQ.name=§d§lTP fluide pour ceux qui détestent la magie
@@ -3520,7 +3520,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALdw.desc=Ce solvant peut être recyclé 
 
 # Quest: Separation
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALfA.name=§d§lSéparation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALfA.desc=IL REVIENT ENCOOOOORE ? ! ! !%n%n[note]Vous en apprendrez plus sur le Neutron Activator et le Precise Assembler dans l'onglet Multiblock Goals.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALfA.desc=IL REVIENT ENCOOOOORE ? ! ! !%n%n[note]Vous en apprendrez plus sur le Neutron Activator et le Precise Assembler dans l'onglet Objectifs multiblocs.[/note]
 
 # Quest: Almost Success
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALfQ.name=§d§lPresque réussi
@@ -4131,11 +4131,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKaQ.desc=Le Bioware Mainframe est le pre
 
 # Quest: Compressing the Core of a Star
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKcg.name=§4§l§nComprimer le cœur d'une étoile
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKcg.desc=Le matériau suivant est le Catalyseur d'Infinité. Il doit être compressé avec une force démentielle. La seule machine capable de cela est le Neutronium Compressor. Consultez la quête Neutronium Compressor dans l'onglet Multiblock Goals si vous n'en avez pas encore fabriqué.%n%nPour fabriquer le Catalyseur, allez sur Vega B pour obtenir la poudre. Utilisez ensuite le Neutronium Compressor pour fabriquer du Catalyseur d'Infinité avec 64 poudres.%n%nVous pouvez aussi utiliser la recette démentielle d'Avaritia pour fabriquer le Catalyseur d'Infinité, si vous aimez les défis :P%n%n[note]Le compresseur peut aussi servir à fabriquer des singularités, jusqu'à l'Eternal Singularity, utilisée dans la recette alternative.[/note]%n%n[note]Si vous voulez automatiser la création de singularités, il vous suffit de cliquer avec le bouton du milieu de la souris pour modifier le nombre d'objets d'un pattern au-delà des limites normales.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKcg.desc=Le matériau suivant est le Catalyseur d'Infinité. Il doit être compressé avec une force démentielle. La seule machine capable de cela est le Neutronium Compressor. Consultez la quête Neutronium Compressor dans l'onglet Objectifs multiblocs si vous n'en avez pas encore fabriqué.%n%nPour fabriquer le Catalyseur, allez sur Vega B pour obtenir la poudre. Utilisez ensuite le Neutronium Compressor pour fabriquer du Catalyseur d'Infinité avec 64 poudres.%n%nVous pouvez aussi utiliser la recette démentielle d'Avaritia pour fabriquer le Catalyseur d'Infinité, si vous aimez les défis :P%n%n[note]Le compresseur peut aussi servir à fabriquer des singularités, jusqu'à l'Eternal Singularity, utilisée dans la recette alternative.[/note]%n%n[note]Si vous voulez automatiser la création de singularités, il vous suffit de cliquer avec le bouton du milieu de la souris pour modifier le nombre d'objets d'un pattern au-delà des limites normales.[/note]
 
 # Quest: One Ingot, Infinite Power
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKcw.name=§4§l§nUn lingot, une puissance infinie
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKcw.desc=Chez Questbook, Inc., nous sommes sérieusement inquiets pour votre santé si vous êtes arrivé ici de manière légitime. Jouer autant pourrait vous nuire. Vous pouvez toujours sortir prendre l'air, vous savez ?%n%nAu passage, pour fabriquer le lingot, il suffit d'une simple recette dans l'Établi de Dire. Souvenez-vous que c'est vous qui avez choisi d'être ici.%n%n[note]Un certain nombre de recettes de fin de partie sont désormais accessibles. Consultez l'onglet Endgame Goals ou les recettes NEI de l'Établi pour savoir lesquelles.[/note]%n%n[note]À noter également : il existe un DCT automatisé si jamais vous en avez besoin d'un grand nombre (indice : ce sera le cas).[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKcw.desc=Chez Questbook, Inc., nous sommes sérieusement inquiets pour votre santé si vous êtes arrivé ici de manière légitime. Jouer autant pourrait vous nuire. Vous pouvez toujours sortir prendre l'air, vous savez ?%n%nAu passage, pour fabriquer le lingot, il suffit d'une simple recette dans l'Établi de Dire. Souvenez-vous que c'est vous qui avez choisi d'être ici.%n%n[note]Un certain nombre de recettes de fin de partie sont désormais accessibles. Consultez l'onglet Objectifs de fin de partie ou les recettes NEI de l'Établi pour savoir lesquelles.[/note]%n%n[note]À noter également : il existe un DCT automatisé si jamais vous en avez besoin d'un grand nombre (indice : ce sera le cas).[/note]
 
 # Quest: Collecting Neutrons the Alternate Way
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKdA.name=§4§l§nCollecter des neutrons autrement
@@ -4308,7 +4308,7 @@ betterquesting.quest.WIx0jq8hS8ifWxZWTmC5yA.desc=L'Optical Supercomputer est le 
 
 # Quest: The Final Frontier!
 betterquesting.quest.X1tb5rwVSVi5SR5rY7vQIw.name=§5§l§nL'ultime frontière !
-betterquesting.quest.X1tb5rwVSVi5SR5rY7vQIw.desc=Avec le §1§lMothership§r (consultez l'onglet Space Race pour savoir comment en construire un), vous pouvez visiter le tout dernier système : le système Amun-Ra. Il compte six planètes et lunes visitables, chacune avec au moins un filon unique.%n%n§l§nAnubis§r%nFilon de Catalyseur d'Infinité (Neutronium, Adamantium, Catalyseur d'Infinité, Bedrockium)%n%n§l§nHorus§r%nFilon de Neutronium Cosmique (Neutronium, Neutronium Cosmique, Plutonium noir, Bedrockium)%n%n§l§nMaahes§r%nFilon de Naquadria (Naquadah, Naquadah enrichi, Naquadria, Trinium)%n%n§l§nCeinture de Mehen§r%nFilon de Draconium éveillé (Draconium, Draconium, Draconium éveillé, Étoile du Nether)%n%n§l§nNeper§r%nDilithium (Dilithium, Dilithium, Cristal mystérieux, Vintéum)%n%n§l§nSeth§r%nTengam brut (Tengam brut, Tengam brut, Electrotine, Samarium)%n%nLe Tengam brut est le filon que vous voudrez le plus, car vous pouvez le transformer en Tengam Harmonisé, qui remplace le Samarium Magnétique à partir de l'UEV. Sur Horus et Neper se génèrent aussi des filons de Quartz Certus (Quartz Certus, Quartz Certus, Quartz Certus chargé, Sable de Quartz), §mmême si je ne vois vraiment pas pourquoi vous en auriez encore besoin§r.
+betterquesting.quest.X1tb5rwVSVi5SR5rY7vQIw.desc=Avec le §1§lMothership§r (consultez l'onglet Course à l'espace pour savoir comment en construire un), vous pouvez visiter le tout dernier système : le système Amun-Ra. Il compte six planètes et lunes visitables, chacune avec au moins un filon unique.%n%n§l§nAnubis§r%nFilon de Catalyseur d'Infinité (Neutronium, Adamantium, Catalyseur d'Infinité, Bedrockium)%n%n§l§nHorus§r%nFilon de Neutronium Cosmique (Neutronium, Neutronium Cosmique, Plutonium noir, Bedrockium)%n%n§l§nMaahes§r%nFilon de Naquadria (Naquadah, Naquadah enrichi, Naquadria, Trinium)%n%n§l§nCeinture de Mehen§r%nFilon de Draconium éveillé (Draconium, Draconium, Draconium éveillé, Étoile du Nether)%n%n§l§nNeper§r%nDilithium (Dilithium, Dilithium, Cristal mystérieux, Vintéum)%n%n§l§nSeth§r%nTengam brut (Tengam brut, Tengam brut, Electrotine, Samarium)%n%nLe Tengam brut est le filon que vous voudrez le plus, car vous pouvez le transformer en Tengam Harmonisé, qui remplace le Samarium Magnétique à partir de l'UEV. Sur Horus et Neper se génèrent aussi des filons de Quartz Certus (Quartz Certus, Quartz Certus, Quartz Certus chargé, Sable de Quartz), §mmême si je ne vois vraiment pas pourquoi vous en auriez encore besoin§r.
 
 # Quest: Dimensional Breach Imminent
 betterquesting.quest._TtL1y6-SfCCNKRrWSvrNQ.name=§5§l§nBrèche dimensionnelle imminente
