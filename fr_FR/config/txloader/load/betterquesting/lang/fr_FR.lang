@@ -9698,345 +9698,345 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAGag.desc=The greatest reward is having y
 
 
 ## Quest Line: SFM and Computers
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHw.name=SFM and Computers
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHw.desc=SFM and OC have your back for assline automation! And automating other stuff too complex for AE2, like infusion or blood altars. You can do a lot of cool stuff with OC, feel free to give it a try.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHw.name=SFM et ordinateurs
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHw.desc=SFM et OC sont là pour vous aider à automatiser l'Assembly Line ! Ainsi que d'autres choses trop complexes pour AE2, comme l'infusion ou les autels de sang. Vous pouvez faire plein de choses sympas avec OC, n'hésitez pas à essayer.
 
 # Quest: It's everytime these Transistors
-betterquesting.quest.5mcwk7dYSBydA9KRHbW59A.name=It's everytime these Transistors
-betterquesting.quest.5mcwk7dYSBydA9KRHbW59A.desc=Hello fellow achievement hunter.%n%nLooking for the OC Transistor to get one out of all these achievements?%nLucky you, because now you can craft it and it's really simple.%n%nJust put one of your first GT Transistors in your 2x2 crafting grid and be happy with its result. Don't forget to change it back the same way.
+betterquesting.quest.5mcwk7dYSBydA9KRHbW59A.name=Toujours ces Transistors
+betterquesting.quest.5mcwk7dYSBydA9KRHbW59A.desc=Bonjour, cher chasseur de succès.%n%nVous cherchez le Transistor d'OC pour en obtenir un parmi tous ces succès ?%nVous avez de la chance, car vous pouvez maintenant le fabriquer et c'est très simple.%n%nPlacez simplement l'un de vos premiers Transistors GT dans votre grille de fabrication 2x2 et réjouissez-vous du résultat. N'oubliez pas de le reconvertir de la même manière.
 
 # Quest: Welcome to OpenComputers!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0Q.name=Welcome to OpenComputers!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0Q.desc=Hello there, my name is Teirdalin and today we shall embark on one of the most exciting and fun mods; OpenComputers! First things first though, you will need some patience to get through this mod, but it will certainly pay off in the end!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0Q.name=Bienvenue dans OpenComputers !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0Q.desc=Bonjour, je m'appelle Teirdalin et aujourd'hui, nous allons nous lancer dans l'un des mods les plus passionnants et amusants : OpenComputers ! Mais avant tout, il vous faudra un peu de patience pour venir à bout de ce mod, mais cela finira sans aucun doute par payer !
 
 # Quest: Your First Microchip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0g.name=Your First Microchip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0g.desc=Microchips will be used in most things you make, so if possible; I suggest bulk crafting quite a few of these.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0g.name=Votre premier Microchip
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0g.desc=Les Microchips serviront dans la plupart des choses que vous fabriquerez, donc si possible, je vous conseille d'en fabriquer un bon paquet d'un coup.
 
 # Quest: Your First Computer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0w.name=Your First Computer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0w.desc=Place the power converter you got earlier near a cable (you could also power it with RF if you wanted) and connect it with your wire cutters. Now place your computer case by the converter and by the magic of technology it shall fuel the computer case! Now take your hard drive, memory and graphics cards and place them inside, place the disk drive next to the computer and insert the operating system disk. Insert the BIOS we made into the case and turn it on.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0w.name=Votre premier ordinateur
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0w.desc=Placez le Power Converter obtenu plus tôt près d'un câble (vous pouvez aussi l'alimenter en RF si vous le souhaitez) et connectez-le avec votre pince coupante. Placez ensuite votre Computer Case à côté du convertisseur et, par la magie de la technologie, il alimentera le Computer Case ! Prenez maintenant votre disque dur, votre mémoire et vos cartes graphiques et placez-les à l'intérieur, posez le Disk Drive à côté de l'ordinateur et insérez la disquette du système d'exploitation. Insérez le BIOS que nous avons fabriqué dans le boîtier et allumez-le.
 
 # Quest: Arithmetic Logic Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1A.name=Arithmetic Logic Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1A.desc=Arithmetic Logic Circuits are used in numerous parts, typically in groups of 8-16, and occasionally up to 64.%n%nSo be sure to make plenty.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1A.name=Circuits arithmétiques et logiques
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1A.desc=Les unités arithmétiques et logiques (ALU) servent dans de nombreux composants, généralement par groupes de 8 à 16, et parfois jusqu'à 64.%n%nAlors faites-en beaucoup.
 
 # Quest: All Your Card Are Belong To Us
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1Q.name=All Your Card Are Belong To Us
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1Q.desc=Card bases are just as you might think they are; they're the base part that each card you make will use to connect onto the motherboard.%n%nI suggest making a handful of these for future cards.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1Q.desc=Les Card Bases sont exactement ce que vous imaginez : la base que chaque carte que vous fabriquerez utilisera pour se brancher sur la carte mère.%n%nJe vous conseille d'en fabriquer une poignée pour vos futures cartes.
 
 # Quest: Short Term Memory
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1g.name=Short Term Memory
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1g.desc=Gotta get more RAM.%n%nMemory, or RAM, is essentially a temporary storage of data on your computer that can be rapidly accessed via your programs.%n%nHence the name Rapid Access Memory.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1g.name=Mémoire à court terme
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1g.desc=Il faut plus de RAM.%n%nLa mémoire, ou RAM, est en gros un stockage temporaire de données sur votre ordinateur, auquel vos programmes peuvent accéder très rapidement.%n%nD'où le nom de « Rapid Access Memory » (mémoire à accès rapide).
 
 # Quest: Woah, Rad Graphics!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1w.name=Woah, Rad Graphics!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1w.desc=See the digital world.%n%nYour graphics card allows the computer to draw text and other things to the screen.%n%nThe better graphics card you use the higher resolution, and better features can be drawn.%n%nYou also need a higher tier monitor to display colors or to get touchscreen compatibility, but that's something to worry about for another day.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1w.name=Wouah, des graphismes de folie !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG1w.desc=Découvrez le monde numérique.%n%nVotre carte graphique permet à l'ordinateur d'afficher du texte et d'autres choses à l'écran.%n%nMeilleure est la carte graphique, plus la résolution est élevée et plus les fonctionnalités d'affichage sont riches.%n%nIl vous faut aussi un écran de tier supérieur pour afficher des couleurs ou pour obtenir la compatibilité tactile, mais on s'en souciera un autre jour.
 
 # Quest: Control Units
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2A.name=Control Units
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2A.desc=Control Units are used for a variety of crafts, but most namely CPUs and GPUs. You will be needing quite a few of these, let's just make 16 for now.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2A.desc=Les Control Units servent dans toutes sortes de fabrications, notamment les CPU et les GPU. Il vous en faudra pas mal, alors faisons-en 16 pour l'instant.
 
 # Quest: What Did the Data Say to the CPU?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2Q.name=What Did the Data Say to the CPU?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2Q.desc=Cache me outside.%n%nYour CPU will essentially be how fast your computer processes data.%nA stronger CPU = A faster computer.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2Q.name=Qu'a dit la donnée au CPU ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2Q.desc=« Cache me outside. »%n%nVotre CPU détermine en gros la vitesse à laquelle votre ordinateur traite les données.%nCPU plus puissant = ordinateur plus rapide.
 
 # Quest: Computer Case
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2g.name=Computer Case
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2g.desc=100 Percent Waterproof.%n%nThe Computer Case is the HUB of all your computer parts essentially. It takes two memory sticks, a BIOs rom, a CPU, and a hard drive at the very least to run your computer.%n%nThe power converter allows you to power it from your GregTech power grid, and the floppy drive will allow you to install your operating system onto the hard drive.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2g.desc=100 % étanche.%n%nLe Computer Case est en gros le centre névralgique de tous vos composants informatiques. Il lui faut au minimum deux barrettes de mémoire, une ROM de BIOS, un CPU et un disque dur pour faire tourner votre ordinateur.%n%nLe Power Converter vous permet de l'alimenter depuis votre réseau électrique GregTech, et le lecteur de disquettes vous permettra d'installer votre système d'exploitation sur le disque dur.
 
 # Quest: My Little Scrench
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2w.name=My Little Scrench
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2w.desc=A screwdriver and wrench in one. Not really a necessary tool, but has some purposes; I suggest referring to your computer manual.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2w.name=Mon petit Scrench
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG2w.desc=Un tournevis et une clé en un. Pas vraiment indispensable, mais il a quelques usages ; je vous conseille de consulter le manuel de votre ordinateur.
 
 # Quest: HDD
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3A.name=HDD
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3A.desc=Your hard drive is where all your programs and data is stored.%n%nYou're playing minecraft, you should already know this though. Unless you use an SSD I guess.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3A.desc=Votre disque dur est l'endroit où sont stockés tous vos programmes et vos données.%n%nVous jouez à Minecraft, vous devriez déjà le savoir. À moins que vous n'utilisiez un SSD, j'imagine.
 
 # Quest: Not Your Average Platter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3Q.name=Not Your Average Platter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3Q.desc=We'll need these for our hard drives.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3Q.name=Pas un plateau ordinaire
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3Q.desc=Il nous en faudra pour nos disques durs.
 
 # Quest: BIOS
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3g.name=BIOS
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3g.desc=The ROM disks are necessary to get your computer to start, they're also what you use to run a drone off from.%n%nYour BIOS go onto these little disks, get a blank one and write the basic BIOS onto it.%n%nYou can do this later when you make more computers by flashing your existing BIOS onto new cards or combining a blank with the manual.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3g.desc=Les disques ROM sont indispensables pour démarrer votre ordinateur ; ce sont aussi eux qui servent à faire fonctionner un drone.%n%nVotre BIOS va sur ces petits disques : prenez-en un vierge et écrivez-y le BIOS de base.%n%nPlus tard, quand vous fabriquerez d'autres ordinateurs, vous pourrez le faire en flashant votre BIOS existant sur de nouvelles cartes ou en combinant un disque vierge avec le manuel.
 
 # Quest: Tier 1
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3w.name=Tier 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3w.desc=Congratulations, we have the parts to start making a computer!%n%nLet's start with the basics here.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG3w.desc=Félicitations, nous avons les composants pour commencer à fabriquer un ordinateur !%n%nCommençons par les bases.
 
 # Quest: Intelligence is the Ability to Adapt to Change
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4A.name=Intelligence is the Ability to Adapt to Change
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4A.desc=This block allows our computer to interact with GT machines and everything else. A must have!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4A.name=L'intelligence est la capacité à s'adapter au changement
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4A.desc=Ce bloc permet à notre ordinateur d'interagir avec les machines GT et tout le reste. Indispensable !
 
 # Quest: Hello World!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4Q.name=Hello World!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4Q.desc=First things first, let's install OpenOS to the computer so you don't always need disk in the drive. Type in 'install' and then type 'Y' when asked if you wish to install OpenOS.%n%nWhen finished, remove the disk and toss it on your wall and reboot the computer.%n%nType 'df' to display all present file systems and mount points, you'll notice one named OpenOS; this is your hard drive's default name after installing the OS.%n%nLet's change it with 'label -a OpenOS HDD', '-a' checks for names starting with what you type after it with that command. [note]<-- part of this is apparently wrong? Thanks for the non-ticket explaining what part, guys.[/note]%n%nNow for fun, let's make your first program! How about something functional, make a with 'edit startup' this will bring you to an edit page for a new program called startup. Let's just have it do something simple, 'print("Hello World!")' Like that'll never get old.%n%nNow press Ctrl+S to save, and Ctrl+W to get out of that screen. Back in your home root let's now type startup and you'll see it display "Hello World!" neat huh?%n%nLet's now make startup actually work on startup. Type 'edit .shrc' .shrc is a mystic file that runs shell commands when booting your PC. So in .shrc type 'startup' save and reboot the computer. Now it should say "Hello World!" upon starting. Double neat right?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4Q.name=Hello World !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4Q.desc=Avant tout, installons OpenOS sur l'ordinateur pour ne plus avoir besoin de la disquette dans le lecteur. Tapez 'install' puis 'Y' quand on vous demande si vous voulez installer OpenOS.%n%nUne fois terminé, retirez la disquette, accrochez-la au mur et redémarrez l'ordinateur.%n%nTapez 'df' pour afficher tous les systèmes de fichiers et points de montage présents ; vous en remarquerez un nommé OpenOS : c'est le nom par défaut de votre disque dur après l'installation du système.%n%nChangeons-le avec 'label -a OpenOS HDD' ; '-a' cherche les noms qui commencent par ce que vous tapez ensuite dans cette commande. [note]<-- Une partie de ceci serait apparemment fausse ? Merci pour le non-ticket qui explique quelle partie, les gars.[/note]%n%nMaintenant, pour le plaisir, créons votre premier programme ! Quelque chose d'utile : tapez 'edit startup', ce qui vous amène sur une page d'édition pour un nouveau programme appelé startup. Faisons-lui faire quelque chose de simple : 'print("Hello World!")'. On ne s'en lassera jamais.%n%nAppuyez maintenant sur Ctrl+S pour enregistrer, puis Ctrl+W pour quitter cet écran. De retour à la racine de votre dossier personnel, tapez startup et vous le verrez afficher « Hello World! ». Sympa, non ?%n%nFaisons maintenant en sorte que startup s'exécute vraiment au démarrage. Tapez 'edit .shrc' ; .shrc est un fichier mystique qui exécute des commandes shell au démarrage de votre PC. Dans .shrc, tapez donc 'startup', enregistrez et redémarrez l'ordinateur. Il devrait maintenant afficher « Hello World! » au démarrage. Doublement sympa, non ?
 
 # Quest: I Love Pressing the F5 Key.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4g.name=I Love Pressing the F5 Key.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4g.desc=It's so refreshing.%n%nPlace a keyboard facing a screen, or stuck to the back of a screen to make it able to interact with a computer.%n%nAbsolutely necessary to doing anything on your computer, but can safely be removed once you have an endlessly running program.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4g.name=J'adore appuyer sur la touche F5.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4g.desc=C'est tellement rafraîchissant.%n%nPlacez un Keyboard face à un écran, ou collé à l'arrière d'un écran, pour pouvoir interagir avec un ordinateur.%n%nAbsolument indispensable pour faire quoi que ce soit sur votre ordinateur, mais vous pouvez le retirer sans risque une fois que vous avez un programme qui tourne en boucle.
 
 # Quest: Mounting Your HDD
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4w.name=Mounting Your HDD
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4w.desc=Alright, you have your computer, it says "Hello World!" When you start it, and you feel awesome and capable of world domination.%n%nNow let's set up your HDD. Open .shrc again in the editor, and press ENTER to go down a line after the print, and type in 'cd ../' this will move your viewed directory that's being viewed to the absolute base directory.%n%nNow go down another line and type in 'mount HDD C:' because why not, it's Classic; this mounts the file drive into the folder you're in. Go down another line and type cd 'C:/' save and reboot the computer.%n%nYou'll now start in C:/ nifty! Try typing 'mkdir programs' and now you have a dedicated directory to put your programs in for the sake of organization.%n'cd programs' will then take you to programs, and 'cd ../' will take you back a directory; you can also do things like, let's say you have a folder called apples in C as well but you're in apples, type 'cd ../apples' and it'll take you to apples. '..' essentially just means previous directory and this can be stacked; works with copying files and moving them as well, very useful to know.%n%nBut right now we're going to do something functional, come over to the next quest and bring your adapter and cables.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4w.name=Monter votre HDD
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG4w.desc=Bien, vous avez votre ordinateur, il affiche « Hello World! » au démarrage, et vous vous sentez génial et capable de dominer le monde.%n%nConfigurons maintenant votre HDD. Ouvrez à nouveau .shrc dans l'éditeur, appuyez sur ENTRÉE pour descendre d'une ligne après le print, et tapez 'cd ../' : cela déplace le répertoire affiché vers le répertoire racine absolu.%n%nDescendez encore d'une ligne et tapez 'mount HDD C:', parce que pourquoi pas, c'est un classique ; cela monte le disque dans le dossier où vous vous trouvez. Descendez encore d'une ligne et tapez cd 'C:/', enregistrez et redémarrez l'ordinateur.%n%nVous démarrerez désormais dans C:/, chouette ! Essayez de taper 'mkdir programs' : vous avez maintenant un répertoire dédié pour ranger vos programmes, par souci d'organisation.%n'cd programs' vous amènera ensuite dans programs, et 'cd ../' vous ramènera un répertoire en arrière ; vous pouvez aussi faire des choses comme ceci : disons que vous avez aussi un dossier nommé apples dans C mais que vous êtes dans programs, tapez 'cd ../apples' et vous arriverez dans apples. '..' signifie simplement « répertoire précédent » et peut s'enchaîner ; cela fonctionne aussi pour copier et déplacer des fichiers, très utile à savoir.%n%nMais pour l'instant, nous allons faire quelque chose d'utile : passez à la quête suivante et apportez votre Adapter et des câbles.
 
 # Quest: Basic Power Display
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5A.name=Basic Power Display
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5A.desc=For this part we will learn how to use our adapter, place it next to, let's say your EBFs battery buffer and connect it to the computer with cables.%nNow let's type in lua while on the computer to open the LUA environment where we can test things without worrying about saving and trying our program.%n%nType in 'component.list()' this will display a table of all of .list from component. What we're looking for is gt_batterybuffer.%nIf you have too many nearby things it may not display and the way to search the entire list of components is too advanced for starters.%n%nSo now assign a variable to it; for example 'a = component.gt_batterybuffer'; now we can call 'a' to see what methods the batteryBuffer has.%nWhat we'll be using in this example is the 'getBatteryCharge' method. So type  'a.getBatteryCharge(1)' this will call the method getBatteryCharge from the first inventory slot on the gt_batterybuffer in component.%n%nSo if we're using a 2x2 battery buffer; we can type something like, 'for i=1, 4 do print(a.getBatteryCharge(i)) end'%nPoof you now see what all the batteries EU values. Now what can we do with this?%n%nTry making a variable called 'batteryCharge = 0', now do 'for i=1, 4 do batteryCharge = batteryCharge + a.getBatteryCharge(i) end'%n%nNow print(batteryCharge) will display the total charge. Here's a program example of this being used.%n%nPlace in your tape drive and type 'install', and follow the prompts to install it into C. Then edit it, test it, figure how it works.%n%nI suppose that's enough for now; congrats! Experiment and learn, and don't forget to check google as much as possible!%nThis questline will be updated again in the future; but I figure this is a good ending point for now.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5A.name=Affichage basique de l'énergie
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5A.desc=Dans cette partie, nous allons apprendre à utiliser notre Adapter : placez-le à côté, disons, du Battery Buffer de votre EBF et reliez-le à l'ordinateur avec des câbles.%nTapez ensuite lua sur l'ordinateur pour ouvrir l'environnement LUA, où l'on peut tester des choses sans se soucier d'enregistrer et d'essayer notre programme.%n%nTapez 'component.list()' : cela affichera une table de tout le .list de component. Ce que nous cherchons, c'est gt_batterybuffer.%nSi vous avez trop de choses à proximité, il risque de ne pas s'afficher, et la façon de parcourir toute la liste des composants est trop avancée pour débuter.%n%nAffectez-lui donc une variable ; par exemple 'a = component.gt_batterybuffer' ; nous pouvons maintenant appeler 'a' pour voir quelles méthodes possède le batteryBuffer.%nCelle que nous utiliserons dans cet exemple est la méthode 'getBatteryCharge'. Tapez donc 'a.getBatteryCharge(1)' : cela appelle la méthode getBatteryCharge sur le premier emplacement d'inventaire du gt_batterybuffer dans component.%n%nSi nous utilisons un Battery Buffer 2x2, nous pouvons taper quelque chose comme 'for i=1, 4 do print(a.getBatteryCharge(i)) end'%nPouf, vous voyez maintenant les valeurs en EU de toutes les batteries. Que peut-on faire avec ça ?%n%nEssayez de créer une variable 'batteryCharge = 0', puis faites 'for i=1, 4 do batteryCharge = batteryCharge + a.getBatteryCharge(i) end'%n%nMaintenant, print(batteryCharge) affichera la charge totale. Voici un exemple de programme qui l'utilise.%n%nInsérez votre lecteur de cassette, tapez 'install' et suivez les instructions pour l'installer dans C. Puis modifiez-le, testez-le, comprenez comment il fonctionne.%n%nJe crois que ça suffit pour l'instant ; félicitations ! Expérimentez, apprenez, et n'oubliez pas de consulter Google autant que possible !%nCe chapitre sera mis à jour à l'avenir, mais je pense que c'est un bon point d'arrêt pour le moment.
 
 # Quest: Online Shopping - Tier 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5Q.name=Online Shopping - Tier 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5Q.desc=Hey, a use for bitcoins!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5Q.name=Achats en ligne - Tier 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5Q.desc=Tiens, une utilité pour les bitcoins !
 
 # Quest: Purchase Network Card
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5g.name=Purchase Network Card
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5g.desc=I'll sell you a Network Card for six Bitcoins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5g.name=Acheter une Network Card
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5g.desc=Je vous vends une Network Card pour six Bitcoins.
 
 # Quest: Purchase Tier 1 Wireless Network Card
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5w.name=Purchase Tier 1 Wireless Network Card
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5w.desc=I'll sell you a Tier 1 Wireless Network Card for 12 Bitcoins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5w.name=Acheter une Wireless Network Card Tier 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG5w.desc=Je vous vends une Wireless Network Card Tier 1 pour 12 Bitcoins.
 
 # Quest: Purchase Tier 1 Memory
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6A.name=Purchase Tier 1 Memory
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6A.desc=I'll sell you a pair of Tier 1 Memory Chips for four Bitcoins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6A.name=Acheter de la Memory Tier 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6A.desc=Je vous vends une paire de barrettes de Memory Tier 1 pour quatre Bitcoins.
 
 # Quest: Purchase Tier 1 Graphics Card
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6Q.name=Purchase Tier 1 Graphics Card
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6Q.desc=I'll sell you a Tier 1 Graphics Card for four Bitcoins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6Q.name=Acheter une Graphics Card Tier 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6Q.desc=Je vous vends une Graphics Card Tier 1 pour quatre Bitcoins.
 
 # Quest: Purchase Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6w.name=Purchase Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6w.desc=I'll sell you 16 cables for two bitcoins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6w.name=Acheter des câbles
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG6w.desc=Je vous vends 16 câbles pour deux bitcoins.
 
 # Quest: Purchase Tier 1 Screen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7A.name=Purchase Tier 1 Screen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7A.desc=I'll sell you a Tier 1 Screen for three Bitcoins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7A.name=Acheter un Screen Tier 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7A.desc=Je vous vends un Screen Tier 1 pour trois Bitcoins.
 
 # Quest: Purchase Tier 1 Hard Drive
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7Q.name=Purchase Tier 1 Hard Drive
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7Q.desc=I'll sell you a Tier 1 Hard Drive for eight Bitcoins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7Q.name=Acheter un Hard Disk Drive Tier 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7Q.desc=Je vous vends un Hard Disk Drive Tier 1 pour huit Bitcoins.
 
 # Quest: Purchase Floppy Disk
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7g.name=Purchase Floppy Disk
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7g.desc=I'll sell you a Floppy Disk for a Bitcoin.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7g.name=Acheter une Floppy Disk
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7g.desc=Je vous vends une Floppy Disk pour un Bitcoin.
 
 # Quest: Purchase Keyboard
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7w.name=Purchase Keyboard
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7w.desc=I'll sell you a Keyboard for two Bitcoins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7w.name=Acheter un Keyboard
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG7w.desc=Je vous vends un Keyboard pour deux Bitcoins.
 
 # Quest: Purchase Tier 1 Microchip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8A.name=Purchase Tier 1 Microchip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8A.desc=I'll sell you a Tier 1 Microchip for two Bitcoins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8A.name=Acheter un Microchip Tier 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8A.desc=Je vous vends un Microchip Tier 1 pour deux Bitcoins.
 
 # Quest: Coin Conversion
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8Q.name=Coin Conversion
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8Q.desc=Sell 32 of those Dogecoins for a Bitcoin.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8Q.name=Conversion de pièces
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8Q.desc=Vendez 32 de ces Dogecoins contre un Bitcoin.
 
 # Quest: Cable Camouflage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0A.name=Cable Camouflage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0A.desc=Camouflage blocks allow the faces of cable blocks to be made to imitate any other block. This works in the full workflow and thus can be updated on the fly.%n%nPlease note that this block is placed the same as all SFM cables. It does not act as an inventory cable and thus will need to be in an advanced cable cluster in many situations.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0A.desc=Les blocs Cable Camouflage permettent aux faces des câbles d'imiter n'importe quel autre bloc. Cela fonctionne dans tout le workflow et peut donc être modifié à la volée.%n%nNotez que ce bloc se place comme tous les câbles SFM. Il ne fait pas office d'Inventory Cable et devra donc souvent être placé dans un Advanced Cable Cluster.
 
 # Quest: Inventory Relay
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0Q.name=Inventory Relay
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0Q.desc=The inventory relay can access the inventory of non-stationary entities, such as minecarts.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0Q.desc=L'Inventory Relay peut accéder à l'inventaire d'entités mobiles, comme les wagonnets.
 
 # Quest: Double Sided Cable Camouflage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0g.name=Double Sided Cable Camouflage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0g.desc=Double sided cable camouflage blocks allows setting the inside face of the cable block, allowing you to imitate glass.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0g.desc=Les blocs Double Sided Cable Camouflage permettent de définir la face intérieure du câble, ce qui vous permet d'imiter du verre.
 
 # Quest: Transforming Cable Camouflage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0w.name=Transforming Cable Camouflage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0w.desc=Transforming Cable Camouflage allows you to change the collision box of the cable, so you can turn it into a door or whatever.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH0w.desc=Le Transforming Cable Camouflage vous permet de modifier la boîte de collision du câble, pour en faire une porte ou n'importe quoi d'autre.
 
 # Quest: Advanced Inventory Relay
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1A.name=Advanced Inventory Relay
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1A.desc=An Advanced Inventory Relay can add/remove items from a player's inventory.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH1A.desc=Un Advanced Inventory Relay peut ajouter ou retirer des objets de l'inventaire d'un joueur.
 
 # Quest: Sign Updater
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2Q.name=Sign Updater
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2Q.desc=The Sign Updater allows your MIM to update an external display of information.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2Q.desc=Le Sign Updater permet à votre MIM de mettre à jour un affichage externe d'informations.
 
 # Quest: Item Valve
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2g.name=Item Valve
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2g.desc=The Item Valve allows your factory manager to suck in dropped items from around them in a 3x3x3 cube. Or you can use them to push items out into the world in the direction they are pointing.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2g.desc=L'Item Valve permet à votre Factory Manager d'aspirer les objets lâchés autour d'elle dans un cube de 3x3x3. Vous pouvez aussi l'utiliser pour éjecter des objets dans le monde, dans la direction vers laquelle elle pointe.
 
 # Quest: Rapid Item Valve
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2w.name=Rapid Item Valve
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2w.desc=Rapid Item Valves can pick up items in the world without any delays.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH2w.desc=Les Rapid Item Valves ramassent les objets dans le monde sans aucun délai.
 
 # Quest: Cable Cluster
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH3A.name=Cable Cluster
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH3A.desc=The cable cluster allows you to combine as many of the other cables together into one block. You could have a redstone receiver and emitter and an inventory relay all in one block.%n%nThis cable is a "terminal" cable. It does not extend the MIM beyond it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH3A.desc=Le Cable Cluster vous permet de combiner autant de câbles différents que vous voulez en un seul bloc. Vous pourriez avoir un Redstone Receiver, un Redstone Emitter et un Inventory Relay dans un seul bloc.%n%nCe câble est un câble « terminal ». Il ne prolonge pas le MIM au-delà.
 
 # Quest: Advanced Cable Cluster
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH3Q.name=Advanced Cable Cluster
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH3Q.desc=The Advanced Cable Cluster will also act as an Inventory cable, extending the range of your MIM.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH3Q.desc=L'Advanced Cable Cluster fait aussi office d'Inventory Cable, ce qui étend la portée de votre MIM.
 
 # Quest: Redstone Receiver
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH3w.name=Redstone Receiver
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH3w.desc=The Redstone Receiver reads redstone signals on each of its 6 faces.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH3w.desc=Le Redstone Receiver lit les signaux de redstone sur chacune de ses 6 faces.
 
 # Quest: Block Gate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH4A.name=Block Gate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH4A.desc=The Block Gate can break, pickup, or place blocks.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH4A.desc=Le Block Gate peut casser, ramasser ou placer des blocs.
 
 # Quest: Block Detector
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH4Q.name=Block Detector
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH4Q.desc=The Block Detector allows your MIM to detect when a Block update occurs.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH4Q.desc=Le Block Detector permet à votre MIM de détecter quand une mise à jour de bloc se produit.
 
 # Quest: The Basics of SFM
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH4w.name=The Basics of SFM
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH4w.desc=Variables - Declaration vs Standard%nDeclaration is simply creating a variable with eligible blocks in it. This allows easy updating of workflows. For instance you could have a variable that contains 2 chests. You use it in a nifty for each loop and later add another chest. Simply update the variable and the for each loop will start using it.%n%nStandard variables are able to be inserted into the middle of a workflow (it has input/output) and thus can be modified on the run.%n%nPlease note that for each loop it will require an empty variable to work with. This is listed as "Element" in the loop.%n%nGlobal vs Local%nGlobal will keep changes to a variable that are done in the workflow, whereas local keeps anything done local to that part of the workflow.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH4w.name=Les bases de SFM
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH4w.desc=Variables - Déclaration ou standard%nUne déclaration consiste simplement à créer une variable contenant des blocs éligibles. Cela facilite la mise à jour des workflows. Par exemple, vous pouvez avoir une variable qui contient 2 coffres. Vous l'utilisez dans une chouette boucle « for each », puis vous ajoutez plus tard un autre coffre. Il suffit de mettre à jour la variable et la boucle « for each » se mettra à l'utiliser.%n%nLes variables standard peuvent être insérées au milieu d'un workflow (elles ont une entrée/sortie) et peuvent donc être modifiées en cours d'exécution.%n%nNotez que chaque boucle « for each » aura besoin d'une variable vide pour fonctionner. Elle apparaît sous le nom « Element » dans la boucle.%n%nGlobale ou locale%nUne variable globale conserve les modifications qui lui sont faites dans le workflow, alors qu'une variable locale garde tout ce qui est fait localement à cette partie du workflow.
 
 # Quest: Machine Inventory Manager
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHxQ.name=Machine Inventory Manager
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHxQ.desc=The core block of Stacy's...er Steve's Factory Manager. SFM is a high tier automation system. While AE2 can handle a lot of different crafting tasks, SFM can handle even more complex crafting. It's not actually needed for the Assembly Line. But still, this is one place where you can go that route.%n%nInventory Cables connect the MIM to inventories or tanks.%n%nRight now until some Moron figures it out, your best bet is to experiment, ask for help on Discord, and search Google. The interface resembles most GUI based automation systems like LabView.%n%nThere have been TPS problems caused by poorly designed SFM setups. Make sure your outputs are properly emptied, and don't get filled.%n%nInventory cables are the "basic" cable of SFM. They allow the MIM to interact with an inventory, and act as a connector cable to other cables.%n%nmehdi2344 thinks my jokes suck, but he's an idiot, so there.%n%nThanks to Nori Silverrage for writing up these quests!%n%n[note]BTW, there's a Creative Supplier for creative testing. The Energistics Connector is disabled because it doesn't work correctly.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHxQ.desc=Le bloc central de Stacy's... euh, Steve's Factory Manager. SFM est un système d'automatisation de haut niveau. Si AE2 sait gérer beaucoup de tâches de fabrication différentes, SFM peut gérer des fabrications encore plus complexes. Il n'est pas vraiment nécessaire pour l'Assembly Line. Mais c'est malgré tout une voie possible.%n%nLes Inventory Cables relient le MIM aux inventaires ou aux réservoirs.%n%nPour l'instant, en attendant qu'un crétin comprenne comment ça marche, le mieux est d'expérimenter, de demander de l'aide sur Discord et de chercher sur Google. L'interface ressemble à la plupart des systèmes d'automatisation à interface graphique, comme LabView.%n%nDes installations SFM mal conçues ont déjà causé des problèmes de TPS. Assurez-vous que vos sorties sont correctement vidées et qu'elles ne se remplissent pas.%n%nLes Inventory Cables sont le câble « de base » de SFM. Ils permettent au MIM d'interagir avec un inventaire, et servent de câble de liaison vers les autres câbles.%n%nmehdi2344 trouve que mes blagues sont nulles, mais c'est un idiot, na.%n%nMerci à Nori Silverrage d'avoir rédigé ces quêtes !%n%n[note]Au passage, il existe un Creative Supplier pour les tests en créatif. L'Energistics Connector est désactivé car il ne fonctionne pas correctement.[/note]
 
 # Quest: Moving the Manager 
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHxg.name=Moving the Manager 
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHxg.desc=Ever finished a wonderful program and then realized your Manager needs to move and you have to rewrite the whole thing? Ever need to copy and paste a section of code a bunch of times and been frustrated that you can't? Well we've got you covered with the Manager Duplicator!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHxg.name=Déménager le Manager
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHxg.desc=Vous avez déjà terminé un superbe programme pour vous rendre compte que votre Manager doit être déplacé et que vous devez tout réécrire ? Vous avez déjà eu besoin de copier-coller une portion de code plein de fois, frustré de ne pas pouvoir le faire ? Eh bien, on a ce qu'il vous faut avec le Manager Duplicator !
 
 # Quest: Naming Names
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHxw.name=Naming Names
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHxw.desc=The Factory Labeler allows you to assign unique names to anything that can be connected to a Manager - making it easy to identify when you are setting up commands.%n%nType in the text box to set a label or to searched stored labels - click any stored entry to select it, double-click to edit it. Closing the GUI will set the Labeler to whatever was in the text box at that time.%n%nLeft-click to set labels, right-click to open the gui. Setting a blank label will remove any existing labels.%n%n[note]May or may not be buggy. Will lose the label in MP when relogging, but works fine in SP. It'll still work until you need to change it though. Have fun![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHxw.name=Donner des noms
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHxw.desc=Le Factory Labeler vous permet d'attribuer des noms uniques à tout ce qui peut être connecté à un Manager, ce qui permet de les identifier facilement quand vous configurez des commandes.%n%nTapez dans la zone de texte pour définir une étiquette ou pour chercher parmi les étiquettes enregistrées ; cliquez sur une entrée enregistrée pour la sélectionner, double-cliquez pour la modifier. Fermer l'interface règle le Labeler sur ce qui se trouvait alors dans la zone de texte.%n%nClic gauche pour appliquer les étiquettes, clic droit pour ouvrir l'interface. Appliquer une étiquette vide supprime les étiquettes existantes.%n%n[note]Peut-être bugué, peut-être pas. En multijoueur, l'étiquette est perdue à la reconnexion, mais tout fonctionne bien en solo. Cela continuera toutefois de fonctionner jusqu'à ce que vous ayez besoin de la changer. Amusez-vous bien ![/note]
 
 # Quest: Redstone Emitter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzw.name=Redstone Emitter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzw.desc=The Redstone Emitter sends redstone signals on each of its 6 faces. The redstone signal strength can be set to any value, add, subtract, and more.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzw.desc=Le Redstone Emitter envoie des signaux de redstone sur chacune de ses 6 faces. La puissance du signal peut être réglée sur n'importe quelle valeur, augmentée, diminuée, et plus encore.
 
 # Quest: For All the Artists Out There
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKnw.name=For All the Artists Out There
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKnw.desc=These are the Creative components. Depending on what it is, there's also T2 and T3 components too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKnw.name=Pour tous les artistes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKnw.desc=Voici les composants créatifs. Selon ce dont il s'agit, il existe aussi des composants T2 et T3.
 
 # Quest: RF Node
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALQg.name=RF Node
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALQg.desc=The RF Node acts as an I/O point for RF. If you need that, I guess.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALQg.desc=Le RF Node sert de point d'entrée/sortie pour les RF. Si vous en avez besoin, j'imagine.
 
 
 ## Quest Line: Handle Logistics with Pipes
-betterquesting.questline.mZBBLGPDQQGDVfcT_wh9AQ.name=Handle Logistics with Pipes
-betterquesting.questline.mZBBLGPDQQGDVfcT_wh9AQ.desc=No access to AE2 yet? Want to see items zooming around while crafting? Logistics Pipes is for You.
+betterquesting.questline.mZBBLGPDQQGDVfcT_wh9AQ.name=Logistique par tuyaux
+betterquesting.questline.mZBBLGPDQQGDVfcT_wh9AQ.desc=Pas encore accès à AE2 ? Envie de voir des objets filer dans tous les sens pendant vos fabrications ? Logistics Pipes est fait pour vous.
 
 # Quest: Upgrades
-betterquesting.quest.3wK8pIDKSOii1__bwf6Ycw.name=Upgrades
-betterquesting.quest.3wK8pIDKSOii1__bwf6Ycw.desc=You want to automate recipes involving fluids, but the crafting module only accept items? You want to see how machines are handling recipes in the request table to see if something gets stuck? You will need §lupgrades§r.%n%nYou can apply upgrades to pipes and modules, but you can't just access the upgrade menu by right-clicking the chassis with a wrench.%n%nIntroducing the Logistics Pipe Controller. This item is like a wrench for LP, except it will open the upgrades menu. It can also allow you to view statistics related to the pipe you are accessing.
+betterquesting.quest.3wK8pIDKSOii1__bwf6Ycw.name=Améliorations
+betterquesting.quest.3wK8pIDKSOii1__bwf6Ycw.desc=Vous voulez automatiser des recettes impliquant des fluides, mais le module de fabrication n'accepte que des objets ? Vous voulez voir comment les machines traitent les recettes dans la Request Table pour savoir si quelque chose est bloqué ? Il vous faudra des §laméliorations§r.%n%nVous pouvez appliquer des améliorations aux tuyaux et aux modules, mais vous ne pouvez pas accéder au menu des améliorations en faisant simplement un clic droit sur le chassis avec une clé.%n%nVoici le Logistics Pipe Controller. Cet objet est comme une clé pour LP, sauf qu'il ouvre le menu des améliorations. Il permet aussi de consulter des statistiques sur le tuyau auquel vous accédez.
 
 # Quest: Filtering by Type
-betterquesting.quest.5rc45iPDSmqLbuvcioFDEQ.name=Filtering by Type
-betterquesting.quest.5rc45iPDSmqLbuvcioFDEQ.desc=There are situations where there are a large amount of the same type of items, but the quantity of each aren't large enough to get them dedicated storage...%n%nThe Type Filter ItemSink Module can assign an item type to inventory space it is connected to. All items of the same type will be assigned to that inventory space.
+betterquesting.quest.5rc45iPDSmqLbuvcioFDEQ.name=Filtrer par type
+betterquesting.quest.5rc45iPDSmqLbuvcioFDEQ.desc=Il arrive que vous ayez une grande quantité d'objets du même type, mais pas assez de chacun pour leur dédier un stockage...%n%nLe module Type Filter ItemSink peut attribuer un type d'objet à l'espace d'inventaire auquel il est connecté. Tous les objets de ce type seront attribués à cet espace d'inventaire.
 
 # Quest: Fluid Storage
-betterquesting.quest.7O4n10fJSxme0Bs0_n44xg.name=Fluid Storage
-betterquesting.quest.7O4n10fJSxme0Bs0_n44xg.desc=Logistics Pipes can handle fluids.%n%nThere are multiple pipes for fluids in logistics pipes. Logistics Fluid Basic Pipe will be the one you will be mainly using.%n%nYou can attach it to a tank, assign a fluid to it, and it will assign the buffer tank for that fluid. Basically a fluid version of the ItemSink.
+betterquesting.quest.7O4n10fJSxme0Bs0_n44xg.name=Stockage de fluides
+betterquesting.quest.7O4n10fJSxme0Bs0_n44xg.desc=Logistics Pipes sait gérer les fluides.%n%nIl existe plusieurs tuyaux pour les fluides dans Logistics Pipes. Le Logistics Fluid Basic Pipe sera celui que vous utiliserez le plus.%n%nVous pouvez le brancher à un réservoir et lui attribuer un fluide : il désignera alors ce réservoir comme tampon pour ce fluide. En gros, une version fluide de l'ItemSink.
 
 # Quest: Pls Provide
-betterquesting.quest.7_AtC62nTAKG1nTYoyS-8g.name=Pls Provide
-betterquesting.quest.7_AtC62nTAKG1nTYoyS-8g.desc=Just like items which have itemsink modules for storage and provider modules for request, fluids have basically the equivalent pipes.%n%nThe Logistics Fluid Provider Pipe will do the job. It will provide the fluid to other pipes and machines connected to them that need the fluid.
+betterquesting.quest.7_AtC62nTAKG1nTYoyS-8g.name=Fournis, stp
+betterquesting.quest.7_AtC62nTAKG1nTYoyS-8g.desc=Tout comme les objets ont des modules ItemSink pour le stockage et des modules Provider pour les demandes, les fluides ont en gros des tuyaux équivalents.%n%nLe Logistics Fluid Provider Pipe fera l'affaire. Il fournira le fluide aux autres tuyaux et aux machines qui y sont connectées et qui en ont besoin.
 
 # Quest: Crafting on Demand
-betterquesting.quest.8CwALDydSAaz9GGQm5tB-g.name=Crafting on Demand
-betterquesting.quest.8CwALDydSAaz9GGQm5tB-g.desc=We can now request items, but it sucks when the systems lack the component while we CAN craft those components.%n%nThe system needs to know how to craft the items it is requesting.%n%nTo get started, get a crafting module. Both automation of machine-crafted recipes and crafting table recipes need this module, in one way or another.
+betterquesting.quest.8CwALDydSAaz9GGQm5tB-g.name=Fabrication à la demande
+betterquesting.quest.8CwALDydSAaz9GGQm5tB-g.desc=Nous pouvons maintenant demander des objets, mais c'est nul quand le système manque d'un composant alors que nous POUVONS le fabriquer.%n%nLe système doit savoir comment fabriquer les objets qu'il demande.%n%nPour commencer, procurez-vous un module de fabrication. L'automatisation des recettes de machines comme celle des recettes d'établi a besoin de ce module, d'une manière ou d'une autre.
 
 # Quest: Chassis
 betterquesting.quest.9OtAPqTQQBaCixJITgpnFg.name=Chassis
-betterquesting.quest.9OtAPqTQQBaCixJITgpnFg.desc=Basic Pipes can interact with adjacent blocks, but they also don't do much on their own.%n%nLogistics Pipes has modules that provide the pipes with more complex functions, but the Basic Logistics Pipes can't make use of them.%n%nTo make use of the modules, there are special pipes called Chassis.%n%nThere are multiple tiers of Chassis in Logistics Pipes. For now, a Mk 1, which can hold 1 module, will work.%n%nYou can insert modules directly in the chassis by right-clicking said chassis with the module. But if you need to take modules out of a chassis or configure a module in one, you need to right-click the chassis with a wrench to access its UI.
+betterquesting.quest.9OtAPqTQQBaCixJITgpnFg.desc=Les tuyaux de base peuvent interagir avec les blocs adjacents, mais ils ne font pas grand-chose par eux-mêmes.%n%nLogistics Pipes propose des modules qui donnent aux tuyaux des fonctions plus complexes, mais les Basic Logistics Pipes ne peuvent pas s'en servir.%n%nPour utiliser les modules, il existe des tuyaux spéciaux appelés Chassis.%n%nIl existe plusieurs tiers de Chassis dans Logistics Pipes. Pour l'instant, un Mk 1, qui peut contenir 1 module, fera l'affaire.%n%nVous pouvez insérer des modules directement dans le chassis en faisant un clic droit dessus avec le module. Mais pour retirer des modules d'un chassis ou configurer un module qui s'y trouve, vous devez faire un clic droit sur le chassis avec une clé pour accéder à son interface.
 
 # Quest: Troubleshooting...
-betterquesting.quest.EfJnTMxuTMKc5VhvNOxrYQ.name=Troubleshooting...
-betterquesting.quest.EfJnTMxuTMKc5VhvNOxrYQ.desc=If you find your pipe has thick red corners, then it means something is wrong. Either the network is out of power or you formed a junction with an Unrouted Transport Pipe.%n%nWhen the system gets more complicated, the chances go up that something will go wrong. Have fun troubleshooting! :)
+betterquesting.quest.EfJnTMxuTMKc5VhvNOxrYQ.name=Dépannage...
+betterquesting.quest.EfJnTMxuTMKc5VhvNOxrYQ.desc=Si votre tuyau a de gros coins rouges, c'est que quelque chose ne va pas. Soit le réseau manque d'énergie, soit vous avez formé une jonction avec un Unrouted Transport Pipe.%n%nPlus le système devient compliqué, plus il y a de chances que quelque chose tourne mal. Amusez-vous bien à dépanner ! :)
 
 # Quest: Better Chassis
-betterquesting.quest.FFDyUcsHTpiFg7_Yjr8vGA.name=Better Chassis
-betterquesting.quest.FFDyUcsHTpiFg7_Yjr8vGA.desc=Now that storage is handled, you want to dive into the automation part?%n%nA Mk1 Chassis can't hold enough modules for complex functions. We need a better one.%n%nChassis Mk2 can hold 2 modules. It should do for now.
+betterquesting.quest.FFDyUcsHTpiFg7_Yjr8vGA.name=Un meilleur chassis
+betterquesting.quest.FFDyUcsHTpiFg7_Yjr8vGA.desc=Maintenant que le stockage est géré, vous voulez vous plonger dans l'automatisation ?%n%nUn Chassis Mk1 ne peut pas contenir assez de modules pour des fonctions complexes. Il nous en faut un meilleur.%n%nLe Chassis Mk2 peut contenir 2 modules. Ça devrait suffire pour l'instant.
 
 # Quest: Requestin' a Recipe
-betterquesting.quest.FYOm8b1PRTKsyVjFdpBqjg.name=Requestin' a Recipe
-betterquesting.quest.FYOm8b1PRTKsyVjFdpBqjg.desc=Most of the time you are requesting things because you need to craft something. So here is the Logistics Request Table.%n%nThis thing comes with a 3*3 crafting grid that you can load with a NEI recipe and request the recipe. There is also an inventory buffer that you can use to store items within.
+betterquesting.quest.FYOm8b1PRTKsyVjFdpBqjg.name=Demander une recette
+betterquesting.quest.FYOm8b1PRTKsyVjFdpBqjg.desc=La plupart du temps, vous demandez des choses parce que vous devez fabriquer quelque chose. Voici donc la Logistics Request Table.%n%nElle est dotée d'une grille de fabrication 3*3 que vous pouvez remplir avec une recette NEI pour demander cette recette. Il y a aussi un inventaire tampon dans lequel vous pouvez stocker des objets.
 
 # Quest: Sorting Incoming
-betterquesting.quest.FkDubMYaQ5GKGvvfHZ73yw.name=Sorting Incoming
-betterquesting.quest.FkDubMYaQ5GKGvvfHZ73yw.desc=Now that storage spaces are organized and assigned, time to let the network sort the items for us.%n%nThere are 2 ways to insert items into the system%n%n1. Use an extraction module to extract items into the system. It is slow, but everything that has a valid destination will be sent into the network.%n%n2. Use a QuickSort module. It extracts a whole stack of items that has a valid destination. This module will ignore items that have no destinations other than the default route though...%n%nIt is your choice. Pick what you like.
+betterquesting.quest.FkDubMYaQ5GKGvvfHZ73yw.name=Trier les arrivées
+betterquesting.quest.FkDubMYaQ5GKGvvfHZ73yw.desc=Maintenant que les espaces de stockage sont organisés et attribués, il est temps de laisser le réseau trier les objets pour nous.%n%nIl y a 2 façons d'insérer des objets dans le système%n%n1. Utiliser un module d'extraction pour extraire les objets vers le système. C'est lent, mais tout ce qui a une destination valide sera envoyé dans le réseau.%n%n2. Utiliser un module QuickSort. Il extrait une pile entière d'objets ayant une destination valide. Ce module ignorera toutefois les objets qui n'ont pas d'autre destination que la route par défaut...%n%nC'est à vous de voir. Choisissez ce qui vous plaît.
 
 # Quest: More ItemSinks in NEI
-betterquesting.quest.HA1vu57XQG-Na7rAPEFSDA.name=More ItemSinks in NEI
-betterquesting.quest.HA1vu57XQG-Na7rAPEFSDA.desc=There are more kinds of ItemSink modules in NEI. Feel free to look through them to find the ItemSink module that suits your needs.%n%nHow they sort items and assign inventory spaces are mostly explained by their item names.
+betterquesting.quest.HA1vu57XQG-Na7rAPEFSDA.name=Plus d'ItemSinks dans NEI
+betterquesting.quest.HA1vu57XQG-Na7rAPEFSDA.desc=Il existe d'autres sortes de modules ItemSink dans NEI. N'hésitez pas à les parcourir pour trouver le module ItemSink qui répond à vos besoins.%n%nLa façon dont ils trient les objets et attribuent les espaces d'inventaire est le plus souvent expliquée par leur nom.
 
 # Quest: The Basic Pipe
-betterquesting.quest.HpeL1-zMRnKpYxYmLHqHaw.name=The Basic Pipe
-betterquesting.quest.HpeL1-zMRnKpYxYmLHqHaw.desc=Unrouted Transport Pipes by themselves aren't useful.%n%nTime to use some of them to craft some Basic Logistics Pipes.%n%nThe Basic Logistics Pipes can connect to adjacent inventories and blocks. They also have item routing capabilities, so you can use them to form junctions.%n%nBut they also cost some diamonds...
+betterquesting.quest.HpeL1-zMRnKpYxYmLHqHaw.name=Le tuyau de base
+betterquesting.quest.HpeL1-zMRnKpYxYmLHqHaw.desc=Les Unrouted Transport Pipes ne servent à rien par eux-mêmes.%n%nIl est temps d'en utiliser quelques-uns pour fabriquer des Basic Logistics Pipes.%n%nLes Basic Logistics Pipes peuvent se connecter aux inventaires et blocs adjacents. Ils sont aussi capables de router les objets, vous pouvez donc les utiliser pour former des jonctions.%n%nMais ils coûtent aussi quelques diamants...
 
 # Quest: The Backbone of the System
-betterquesting.quest.Ig-vbx9-R2alDVAybPGzLA.name=The Backbone of the System
-betterquesting.quest.Ig-vbx9-R2alDVAybPGzLA.desc=Welcome to Logistics Pipes! This questline is dedicated to this automation mod, which is placed in the MV tier to help manage your chests, crafting and even fluid crafting. It's quite similar to ProjectRed: Transportation, but with some differences, particularly in fluid crafting.%n%nHere, you can connect chests and machines to a central location, but before you build that central location, you have to get some pipes for connection. The Unrouted Transport Pipe is the first pipe you will ever need in Logistics Pipes.%n%nThey only connect to other pipes and don't have any item routing capabilities, but you will need a ton of them.%n%n§cWarning: Do NOT form junctions with the Unrouted Transport Pipes. Items going into an unrouted transport pipe junction will come out of a random exit of the junction.
+betterquesting.quest.Ig-vbx9-R2alDVAybPGzLA.name=La colonne vertébrale du système
+betterquesting.quest.Ig-vbx9-R2alDVAybPGzLA.desc=Bienvenue dans Logistics Pipes ! Ce chapitre est consacré à ce mod d'automatisation, placé au tier MV pour vous aider à gérer vos coffres, vos fabrications et même vos fabrications avec fluides. Il ressemble beaucoup à ProjectRed: Transportation, avec quelques différences, notamment pour la fabrication avec fluides.%n%nIci, vous pouvez relier des coffres et des machines à un point central, mais avant de construire ce point central, il vous faut des tuyaux pour les connexions. L'Unrouted Transport Pipe est le tout premier tuyau dont vous aurez besoin dans Logistics Pipes.%n%nIls ne se connectent qu'à d'autres tuyaux et ne savent pas router les objets, mais il vous en faudra des tonnes.%n%n§cAttention : NE formez PAS de jonctions avec les Unrouted Transport Pipes. Les objets qui entrent dans une jonction d'Unrouted Transport Pipes ressortiront par une sortie aléatoire de la jonction.
 
 # Quest: There Is Extra Stuff...
-betterquesting.quest.Ix6qrScZQPGnl3jEm9P2Ag.name=There Is Extra Stuff...
-betterquesting.quest.Ix6qrScZQPGnl3jEm9P2Ag.desc=Sometimes, a recipe has some extra outputs but the crafting module only has 1 output slot.%n%nThat is where the Crafting Byproduct Extraction Upgrade comes in. You can assign a byproduct of the recipe and this upgrade will make the module extract the byproduct as well. Now they won't clog the output buffer.
+betterquesting.quest.Ix6qrScZQPGnl3jEm9P2Ag.name=Il y a du rab...
+betterquesting.quest.Ix6qrScZQPGnl3jEm9P2Ag.desc=Parfois, une recette a des sorties supplémentaires, mais le module de fabrication n'a qu'un seul emplacement de sortie.%n%nC'est là qu'intervient la Crafting Byproduct Extraction Upgrade. Vous pouvez désigner un sous-produit de la recette et cette amélioration fera aussi extraire ce sous-produit par le module. Ainsi, il n'encombrera plus le tampon de sortie.
 
 # Quest: Remote requests
-betterquesting.quest.MwRByyNxQt-LfGgUqm8QDQ.name=Remote requests
-betterquesting.quest.MwRByyNxQt-LfGgUqm8QDQ.desc=Remote requests aren't always convenient. As long as you are in range with a request pipe, the remote orderer can take the order and send it to a request pipe the orderer binds to.%n%nPretty handy if you have an ender chest and an ender pouch...%n%n[note]Author's note: Too bad ender chests and pouches are gated behind IV and thaumcraft... And why people would use an LP system at that point is really beyond me...[/note]
+betterquesting.quest.MwRByyNxQt-LfGgUqm8QDQ.name=Demandes à distance
+betterquesting.quest.MwRByyNxQt-LfGgUqm8QDQ.desc=Les demandes à distance ne sont pas toujours pratiques. Tant que vous êtes à portée d'un Request Pipe, le Remote Orderer peut prendre la commande et l'envoyer au Request Pipe auquel il est lié.%n%nBien pratique si vous avez un Ender Chest et un Ender Pouch...%n%n[note]Note de l'auteur : dommage que les Ender Chests et Ender Pouches soient bloqués derrière l'IV et Thaumcraft... Et pourquoi quelqu'un utiliserait un système LP à ce stade, ça me dépasse complètement...[/note]
 
 # Quest: Get Those Machines to Work
-betterquesting.quest.N8isBrjBRNe-3f-IHVymDg.name=Get Those Machines to Work
-betterquesting.quest.N8isBrjBRNe-3f-IHVymDg.desc=Most of the recipes are made in all kinds of machines. While a crafting logistics pipe works, it can only hold 1 recipe per pipe.%n%nIt is not an issue for logistics crafting tables as it can only hold one crafting table recipes, but it is wasteful to assign only one recipe for one machine.%n%nFor machines, use chassis. Preferably a higher tier. A Mk1 chassis with a crafting module is basically just a crafting logistics pipe.%n%nYou can't shift-click recipes from NEI so you have to drag the recipe from it. Don't worry, you can drag ghost items from NEI into the slots in the module to configure it.%n%nYou notice there are 3 gray slots at the right. They are for satellite logistics pipes. We will talk about it later.%n%n§cNote: do NOT use the output face of the machine. The output side blocks all interactions unless you hit it with a screwdriver.%n%nAlso do NOT use auto-output, or else the machine will output the item into the pipe and the network will treat the product as an item inserted into the system rather than an item requested by the system and will send it to its storage. Every other face except the cover works.§r%n%nThe check mark means you have read the whole thing and should know how machine automation works using LP. The reward of this quest is the knowledge of how to automate GT machine recipes
+betterquesting.quest.N8isBrjBRNe-3f-IHVymDg.name=Mettez ces machines au travail
+betterquesting.quest.N8isBrjBRNe-3f-IHVymDg.desc=La plupart des recettes se font dans toutes sortes de machines. Un Crafting Logistics Pipe fonctionne, mais il ne peut contenir qu'une recette par tuyau.%n%nCe n'est pas un problème pour les Logistics Crafting Tables, qui ne peuvent contenir qu'une recette d'établi, mais c'est du gâchis d'attribuer une seule recette à une machine.%n%nPour les machines, utilisez des chassis. De préférence d'un tier plus élevé. Un Chassis Mk1 avec un module de fabrication, c'est en gros juste un Crafting Logistics Pipe.%n%nVous ne pouvez pas faire Maj + clic sur les recettes depuis NEI, il faut donc faire glisser la recette. Pas d'inquiétude, vous pouvez faire glisser des objets fantômes depuis NEI dans les emplacements du module pour le configurer.%n%nVous remarquerez qu'il y a 3 emplacements gris à droite. Ils servent aux Satellite Logistics Pipes. Nous en parlerons plus tard.%n%n§cRemarque : n'utilisez PAS la face de sortie de la machine. Le côté sortie bloque toute interaction, sauf si vous le frappez avec un tournevis.%n%nN'utilisez PAS non plus la sortie automatique, sinon la machine sortira l'objet dans le tuyau et le réseau traitera le produit comme un objet inséré dans le système plutôt que comme un objet demandé par le système, et l'enverra vers son stockage. Toutes les autres faces, sauf celle du cover, fonctionnent.§r%n%nLa coche signifie que vous avez tout lu et que vous savez comment fonctionne l'automatisation des machines avec LP. La récompense de cette quête, c'est de savoir automatiser les recettes des machines GT
 
 # Quest: Let this Sink in
-betterquesting.quest.TBZf_HtQTQ-yckug0fs8kA.name=Let this Sink in
-betterquesting.quest.TBZf_HtQTQ-yckug0fs8kA.desc=A well organized storage system is crucial for a logistics system.%n%nWith the ability to use modules through a chassis, we can now prepare for storage modules.%n%nLogistics Pipes uses ItemSink modules to assign storage spaces.%n%nThis ItemSink modules can be used in 2 ways:%n%n1. Assign the storage of a connected inventory with at most 9 different kinds of items by setting 9 items as filter on the module.%n%n2. Assign a connected inventory as a default route. The default route is a destination for items that have no other valid storage spaces.%n%n§cNote: remember to always check if the default route has additional spaces because items that are stuck in the pipes without a destination will eventually YEET themselves out of the pipes.
+betterquesting.quest.TBZf_HtQTQ-yckug0fs8kA.name=Laissez couler
+betterquesting.quest.TBZf_HtQTQ-yckug0fs8kA.desc=Un système de stockage bien organisé est crucial pour un système logistique.%n%nAvec la possibilité d'utiliser des modules grâce à un chassis, nous pouvons maintenant préparer des modules de stockage.%n%nLogistics Pipes utilise des modules ItemSink pour attribuer les espaces de stockage.%n%nCes modules ItemSink peuvent s'utiliser de 2 façons :%n%n1. Attribuer le stockage d'un inventaire connecté à 9 sortes d'objets au maximum, en définissant 9 objets comme filtre sur le module.%n%n2. Désigner un inventaire connecté comme route par défaut. La route par défaut est la destination des objets qui n'ont aucun autre espace de stockage valide.%n%n§cRemarque : pensez toujours à vérifier que la route par défaut dispose de place, car les objets bloqués dans les tuyaux sans destination finiront par s'éjecter des tuyaux.
 
 # Quest: Time to Request
-betterquesting.quest.VH7nGtkWRp-riK1I3cq5yw.name=Time to Request
-betterquesting.quest.VH7nGtkWRp-riK1I3cq5yw.desc=Your system now has the capability of providing items for requests, time to request items.%n%nThis Request Logistics Pipe can send out requests that, if the network has items that can fulfill the requests, send the item to the pipe.%n%nAttach an inventory to it so that when items reach the request logistics pipe, they are stored in an inventory and don't get yeeted out.
+betterquesting.quest.VH7nGtkWRp-riK1I3cq5yw.name=À vos demandes
+betterquesting.quest.VH7nGtkWRp-riK1I3cq5yw.desc=Votre système est maintenant capable de fournir des objets sur demande ; il est temps de demander des objets.%n%nCe Request Logistics Pipe peut envoyer des demandes : si le réseau dispose d'objets pouvant les satisfaire, ceux-ci sont envoyés au tuyau.%n%nBranchez-y un inventaire pour que les objets qui arrivent au Request Logistics Pipe y soient stockés au lieu d'être éjectés.
 
 # Quest: Time to See The Process
-betterquesting.quest.VISeokU3R-efeF88FwLGLw.name=Time to See The Process
-betterquesting.quest.VISeokU3R-efeF88FwLGLw.desc=Want to see how the system is handling the request and fix it when you find things get stuck? Here is the upgrade for you.%n%nThe Crafting Monitoring Upgrade can let you view the current progress of the request. So if you find your crafting request is taking an abnormally long time and nothing is crafted by your machines, you may want to take a look here.%n%nIt can be applied to your Logistics Request Table.
+betterquesting.quest.VISeokU3R-efeF88FwLGLw.name=Voir le processus
+betterquesting.quest.VISeokU3R-efeF88FwLGLw.desc=Vous voulez voir comment le système traite une demande et la corriger quand quelque chose est bloqué ? Voici l'amélioration qu'il vous faut.%n%nLa Crafting Monitoring Upgrade vous permet de suivre l'avancement de la demande en cours. Si votre demande de fabrication prend un temps anormalement long et que vos machines ne fabriquent rien, jetez un œil ici.%n%nElle s'applique à votre Logistics Request Table.
 
 # Quest: EVEN EVEN BETTER CHASSIS
-betterquesting.quest.Va3q2ob4Q-6sSdIxiIfuJw.name=EVEN EVEN BETTER CHASSIS
-betterquesting.quest.Va3q2ob4Q-6sSdIxiIfuJw.desc=What? You need better chassis already? Need even more recipe slots?%n%nHere is the Chassis Mk4. It holds 4 modules.
+betterquesting.quest.Va3q2ob4Q-6sSdIxiIfuJw.name=UN CHASSIS ENCORE ENCORE MEILLEUR
+betterquesting.quest.Va3q2ob4Q-6sSdIxiIfuJw.desc=Quoi ? Il vous faut déjà un meilleur chassis ? Encore plus d'emplacements de recette ?%n%nVoici le Chassis Mk4. Il contient 4 modules.
 
 # Quest: Inserting Fluids
-betterquesting.quest.WTIyEmzLR_mlw__SXY_iwA.name=Inserting Fluids
-betterquesting.quest.WTIyEmzLR_mlw__SXY_iwA.desc=Sometimes you insert fluid in the system. You need something to get the fluid into the correct buffer other than inserting the fluid into the buffer manually.%n%nThere are 2 pipes that can do the job: transfer fluid into a tank connected to a fluid basic pipe allocated to said fluid.%n%n1. Logistics Fluid Extractor Pipe. It extracts fluid from connected buffer to the correct big storage tank. It doesn't require a pump but it is slower.%n%n2. Logistics Fluid Insertion Pipe. It does not pull fluids from tanks actively, requiring a GT pump if you are using GT tanks, but it can send fluids faster.%n%nTake a pick :)
+betterquesting.quest.WTIyEmzLR_mlw__SXY_iwA.name=Insérer des fluides
+betterquesting.quest.WTIyEmzLR_mlw__SXY_iwA.desc=Il arrive que vous insériez du fluide dans le système. Il vous faut alors un moyen de l'amener dans le bon tampon, autre que de l'y verser à la main.%n%nDeux tuyaux peuvent s'en charger, c'est-à-dire transférer le fluide vers un réservoir connecté à un Fluid Basic Pipe attribué à ce fluide.%n%n1. Logistics Fluid Extractor Pipe. Il extrait le fluide du tampon connecté vers le bon grand réservoir de stockage. Il ne nécessite pas de pompe, mais il est plus lent.%n%n2. Logistics Fluid Insertion Pipe. Il n'aspire pas activement les fluides des réservoirs, ce qui nécessite une pompe GT si vous utilisez des réservoirs GT, mais il envoie les fluides plus rapidement.%n%nFaites votre choix :)
 
 # Quest: It's DA BEST
-betterquesting.quest.ZS2_l5v3R2-gh69ESL-FNQ.name=It's DA BEST
-betterquesting.quest.ZS2_l5v3R2-gh69ESL-FNQ.desc=You still need MORE recipe slots for the crafting modules?%n%nYes? OK...%n%nHere is the final tier of chassis: Chassis Mk5. Instead of incrementing the number of modules it can hold by 1 compared to the last tier, it straight up doubles the slots. Hopefully you think it is worth it.
+betterquesting.quest.ZS2_l5v3R2-gh69ESL-FNQ.name=C'est LE MEILLEUR
+betterquesting.quest.ZS2_l5v3R2-gh69ESL-FNQ.desc=Il vous faut ENCORE PLUS d'emplacements de recette pour les modules de fabrication ?%n%nOui ? D'accord...%n%nVoici le dernier tier de chassis : le Chassis Mk5. Au lieu d'ajouter 1 module de plus que le tier précédent, il double carrément les emplacements. En espérant que vous trouviez que ça en vaut la peine.
 
 # Quest: Preparin' for Requestin'
-betterquesting.quest._XiSkFhJQ8-WjqujCxBtlw.name=Preparin' for Requestin'
-betterquesting.quest._XiSkFhJQ8-WjqujCxBtlw.desc=Logistics Pipes have automation capability in place, but first, it needs to know what inventory that items inside can be used for requests.%n%nThe Provider module does this job nicely. When you open the interface of the module, there is a 3*3 grid. You can pick what items that the module can provide, or you can leave it empty as "everything in the inventory can be provided for requests".
+betterquesting.quest._XiSkFhJQ8-WjqujCxBtlw.name=Se préparer aux demandes
+betterquesting.quest._XiSkFhJQ8-WjqujCxBtlw.desc=Logistics Pipes dispose de capacités d'automatisation, mais il doit d'abord savoir dans quel inventaire se trouvent les objets utilisables pour les demandes.%n%nLe module Provider fait très bien ce travail. Quand vous ouvrez l'interface du module, il y a une grille 3*3. Vous pouvez choisir les objets que le module peut fournir, ou la laisser vide, ce qui signifie « tout ce qui est dans l'inventaire peut être fourni pour les demandes ».
 
 # Quest: Even Better Chassis
-betterquesting.quest.b4P0yD1LSeO7HWzj70NM8Q.name=Even Better Chassis
-betterquesting.quest.b4P0yD1LSeO7HWzj70NM8Q.desc=2 Modules are still not enough? Need more recipe slots for machines?%n%nHere is the Mk3. It can hold 3 modules.
+betterquesting.quest.b4P0yD1LSeO7HWzj70NM8Q.name=Un chassis encore meilleur
+betterquesting.quest.b4P0yD1LSeO7HWzj70NM8Q.desc=2 modules, ça ne suffit toujours pas ? Besoin de plus d'emplacements de recette pour les machines ?%n%nVoici le Mk3. Il peut contenir 3 modules.
 
 # Quest: It gets polymorphic
-betterquesting.quest.bQCnuxrTTBe4ubytZPfl-g.name=It gets polymorphic
-betterquesting.quest.bQCnuxrTTBe4ubytZPfl-g.desc=Sometimes people have a storage system that contains a lot of different items, or they have a large quantity of the same item.%n%nHere comes the Polymorphic ItemSink. It assigns inventory space to the kind of items already in the inventory.%n%nVery handy especially when you have a storage controller connecting to a lot of drawers.
+betterquesting.quest.bQCnuxrTTBe4ubytZPfl-g.name=Ça devient polymorphe
+betterquesting.quest.bQCnuxrTTBe4ubytZPfl-g.desc=Certaines personnes ont un système de stockage contenant beaucoup d'objets différents, ou une grande quantité du même objet.%n%nVoici le Polymorphic ItemSink. Il attribue l'espace d'inventaire aux sortes d'objets déjà présentes dans l'inventaire.%n%nTrès pratique, surtout si vous avez un Storage Controller relié à beaucoup de tiroirs.
 
 # Quest: Powering Logistics
-betterquesting.quest.dSSmDusvSVSKi41Tnw51dA.name=Powering Logistics
-betterquesting.quest.dSSmDusvSVSKi41Tnw51dA.desc=Every system takes power. A Logistics Pipes network is no exception.%n%nThe Logistics Pipes system runs on an energy called LP, but there are no generators that generate LP.%n%nInstead, Logistics Pipes has a power adapter called the Logistics Power Junction that converts EU into LP. Use a Basic Logistics Pipe to connect the Power Junction to the whole network.%n%nThe Power Junction can receive power from all 6 sides while a Basic Logistics Pipe can only connect to the sides in the 4 cardinal directions.
+betterquesting.quest.dSSmDusvSVSKi41Tnw51dA.name=Alimenter la logistique
+betterquesting.quest.dSSmDusvSVSKi41Tnw51dA.desc=Tout système consomme de l'énergie. Un réseau Logistics Pipes ne fait pas exception.%n%nLe système Logistics Pipes fonctionne avec une énergie appelée LP, mais aucun générateur ne produit de LP.%n%nÀ la place, Logistics Pipes dispose d'un adaptateur d'énergie, la Logistics Power Junction, qui convertit les EU en LP. Utilisez un Basic Logistics Pipe pour relier la Power Junction à tout le réseau.%n%nLa Power Junction peut recevoir de l'énergie par ses 6 faces, alors qu'un Basic Logistics Pipe ne peut se connecter que sur les côtés des 4 directions cardinales.
 
 # Quest: Modular Upgrades
-betterquesting.quest.l26l6_loSeyuxQYps9XbbA.name=Modular Upgrades
-betterquesting.quest.l26l6_loSeyuxQYps9XbbA.desc=Upgrades can be applied for pipes and modules, but an extra upgrade is needed if we need to apply upgrades to modules.%n%nHere is the Upgrade Module Upgrade. But regardless of how many of these you stuff into a chassis, there will always be 2 module upgrades per module.%n%n[note]Author's Note: Why is the Upgrade Module Upgrade the ONLY upgrade that has a more 3D-style texture while the other modules and upgrades are completely flat?[/note]
+betterquesting.quest.l26l6_loSeyuxQYps9XbbA.name=Améliorations modulaires
+betterquesting.quest.l26l6_loSeyuxQYps9XbbA.desc=Les améliorations peuvent s'appliquer aux tuyaux et aux modules, mais il faut une amélioration supplémentaire pour pouvoir appliquer des améliorations aux modules.%n%nVoici l'Upgrade Module Upgrade. Mais peu importe combien vous en mettez dans un chassis, il y aura toujours 2 améliorations de module par module.%n%n[note]Note de l'auteur : pourquoi l'Upgrade Module Upgrade est-elle la SEULE amélioration à avoir une texture plus 3D, alors que les autres modules et améliorations sont complètement plats ?[/note]
 
 # Quest: Automating Crafting Table Recipes
-betterquesting.quest.qp3SFb9oSXKi5Yio_VwgEw.name=Automating Crafting Table Recipes
-betterquesting.quest.qp3SFb9oSXKi5Yio_VwgEw.desc=Automating crafting table recipes is a good first step to automate your processes.%n%nTo achieve this goal, get yourself a crafting logistics pipe and a logistics crafting table.%n%nYou can import a crafting table recipe into a logistics crafting table and you can click the "import" button on the crafting logistics pipes GUI that is connected to the crafting table to import the recipe into the pipe.
+betterquesting.quest.qp3SFb9oSXKi5Yio_VwgEw.name=Automatiser les recettes d'établi
+betterquesting.quest.qp3SFb9oSXKi5Yio_VwgEw.desc=Automatiser les recettes d'établi est une bonne première étape pour automatiser vos processus.%n%nPour cela, procurez-vous un Crafting Logistics Pipe et une Logistics Crafting Table.%n%nVous pouvez importer une recette d'établi dans une Logistics Crafting Table, puis cliquer sur le bouton « import » dans l'interface du Crafting Logistics Pipe relié à cette table pour importer la recette dans le tuyau.
 
 # Quest: I NEED THAT!!!!!!
-betterquesting.quest.tT0NrRMyTqePf1jeIx7krw.name=I NEED THAT!!!!!!
-betterquesting.quest.tT0NrRMyTqePf1jeIx7krw.desc=A lot of recipes take fluids. But crafting modules only have slots for items...%n%nIntroducing the Fluid Crafting Upgrade. It will allow you to allocate one kind of fluid for the craft. Drag one fluid cell containing the fluid you need into the fluid slot and set the correct amount.%n%nDon't forget to bind it to a fluid satellite pipe. The way it binds is identical to the satellite logistics pipe.
+betterquesting.quest.tT0NrRMyTqePf1jeIx7krw.name=IL ME LE FAUT !!!!!!
+betterquesting.quest.tT0NrRMyTqePf1jeIx7krw.desc=Beaucoup de recettes demandent des fluides. Mais les modules de fabrication n'ont d'emplacements que pour les objets...%n%nVoici la Fluid Crafting Upgrade. Elle vous permet d'attribuer un type de fluide à la fabrication. Faites glisser une cellule contenant le fluide voulu dans l'emplacement de fluide et réglez la bonne quantité.%n%nN'oubliez pas de la lier à un Fluid Satellite Pipe. La liaison se fait exactement comme avec le Satellite Logistics Pipe.
 
 # Quest: Satellites! Wait,... They don't Orbit...
-betterquesting.quest.y2mOWnXvRe2xWrdvVS297w.name=Satellites! Wait,... They don't Orbit...
-betterquesting.quest.y2mOWnXvRe2xWrdvVS297w.desc=A buffer of 64 per slot is never big enough. Just look at red alloy ingot for example. It can only hold 16 recipes worth of redstone at once. You don't really want the items to just zoom around the pipes while waiting for the machine to make room... You want to have a big chest buffering items to be processed.%n%nIntroducing the Satellite Logistics Pipes. It provides additional input into the recipe incorporating it.%n%nThe pipe runs on a numerical frequency system, with the whole server sharing the number pool. This ensures that 2 separate systems can be connected to each other without conflict.%n%nYou can "connect" a crafting module with one satellite pipe by selecting the correct frequency of the satellite part. Multiple modules can connect to a single satellite pipe.%n%nSatellite pipe inputs are the 3 gray slots on the right of the 9 slots of the module. Only items in the 3 gray slots will be sent to satellite pipes.%n%n§cNote: Ensure your satellite pipe has any frequency other than 0. A satellite pipe with frequency 0 will not work.
+betterquesting.quest.y2mOWnXvRe2xWrdvVS297w.name=Des satellites ! Attendez... ils ne sont pas en orbite...
+betterquesting.quest.y2mOWnXvRe2xWrdvVS297w.desc=Un tampon de 64 par emplacement n'est jamais assez grand. Prenez par exemple le lingot d'Alliage Rouge : il ne peut contenir que la redstone de 16 recettes à la fois. Vous ne voulez pas vraiment que les objets tournent en rond dans les tuyaux en attendant que la machine ait de la place... Vous voulez un grand coffre qui stocke les objets à traiter.%n%nVoici les Satellite Logistics Pipes. Ils fournissent une entrée supplémentaire à la recette qui les intègre.%n%nLe tuyau fonctionne avec un système de fréquences numériques, dont le serveur entier partage le pool de numéros. Cela garantit que 2 systèmes distincts peuvent être reliés l'un à l'autre sans conflit.%n%nVous pouvez « connecter » un module de fabrication à un Satellite Pipe en sélectionnant la bonne fréquence pour la partie satellite. Plusieurs modules peuvent se connecter à un seul Satellite Pipe.%n%nLes entrées du Satellite Pipe sont les 3 emplacements gris à droite des 9 emplacements du module. Seuls les objets placés dans ces 3 emplacements gris seront envoyés aux Satellite Pipes.%n%n§cRemarque : assurez-vous que votre Satellite Pipe a une fréquence différente de 0. Un Satellite Pipe sur la fréquence 0 ne fonctionnera pas.
 
 
 ## Quest Line: Applied Energistics
@@ -12667,127 +12667,127 @@ betterquesting.quest.u2VAsYrLRE-JvHOMy132lQ.desc=Maintaining multiblocks can be 
 
 ## Quest Line: Kaaami, Haaaami, ... HA!
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGA.name=Kaaami, Haaaami, ... HA!
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGA.desc=Ultimate (magical) POWER!!!
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGA.desc=Le POUVOIR (magique) ultime !!!
 
 # Quest: The Power of Gods
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMw.name=The Power of Gods
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMw.desc=The pearl you've found has some interesting effects on you. Not only are the voices almost gone, somehow it has also expanded your perception. You can "feel" the magic around you. This is definitely worth some further investigation.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMw.name=Le pouvoir des dieux
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMw.desc=La perle que vous avez trouvée a des effets intéressants sur vous. Non seulement les voix ont presque disparu, mais elle a aussi, d'une manière ou d'une autre, élargi votre perception. Vous pouvez « sentir » la magie autour de vous. Cela mérite assurément qu'on s'y intéresse de plus près.
 
 # Quest: Shards of Opposite Worlds
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.name=Shards of Opposite Worlds
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.desc=This morning, you just wanted to facepalm yourself to death. During your past journeys, you have already seen strangely colored shards. But unlike the primal shards you use every day, these seem to contain the raw essence of their dimension. Heaven and Hell... so to speak. Two opposite worlds.%n%nYou think you can use them to make something...powerful.%n%n[note]PS: Yes, I know the pearl isn't actually required for these crafts, just roll with it for story reasons, OK?[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.name=Éclats de mondes opposés
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.desc=Ce matin, vous aviez juste envie de vous frapper le front jusqu'à en mourir. Au cours de vos voyages passés, vous avez déjà vu des éclats aux couleurs étranges. Mais contrairement aux éclats primaires que vous utilisez tous les jours, ceux-ci semblent contenir l'essence brute de leur dimension. Le Paradis et l'Enfer... pour ainsi dire. Deux mondes opposés.%n%nVous pensez pouvoir vous en servir pour fabriquer quelque chose de... puissant.%n%n[note]PS : Oui, je sais que la perle n'est pas vraiment nécessaire pour ces fabrications, faites comme si, pour l'histoire, d'accord ?[/note]
 
 # Quest: Unleashed the Power - Cowl
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.name=Unleashed the Power - Cowl
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.desc=To make use of your armor to the fullest extent, you'll have to unleash its hidden power. This is not an easy task; But it's worth the effort!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.name=Libérer le pouvoir - Capuche
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.desc=Pour tirer pleinement parti de votre armure, vous devrez libérer son pouvoir caché. Ce n'est pas une mince affaire, mais cela en vaut la peine !
 
 # Quest: Unbreakable Cowl
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.name=Unbreakable Cowl
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.desc=It will never break. How convenient.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.name=Capuche incassable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.desc=Elle ne se cassera jamais. Comme c'est pratique.
 
 # Quest: Unleashed the Power - Leggings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.name=Unleashed the Power - Leggings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.desc=To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.name=Libérer le pouvoir - Jambières
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.desc=Pour tirer pleinement parti de votre armure, vous devrez libérer son pouvoir caché. Ce n'est pas une mince affaire, mais cela en vaut largement la peine !
 
 # Quest: Unbreakable Leggings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.name=Unbreakable Leggings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.desc=They will never break. How convenient.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.name=Jambières incassables
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.desc=Elles ne se casseront jamais. Comme c'est pratique.
 
 # Quest: Unleashed the Power - Robe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.name=Unleashed the Power - Robe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.desc=To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.name=Libérer le pouvoir - Robe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.desc=Pour tirer pleinement parti de votre armure, vous devrez libérer son pouvoir caché. Ce n'est pas une mince affaire, mais cela en vaut largement la peine !
 
 # Quest: Unbreakable Robe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.name=Unbreakable Robe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.desc=It will never break. How convenient.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.name=Robe incassable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.desc=Elle ne se cassera jamais. Comme c'est pratique.
 
 # Quest: Infused Cloth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPA.name=Infused Cloth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPA.desc=By combining ichor with enchanted fabric, you've created something that could be compared to mithril. Light as wool, but durable like steel. Also, it conducts magic energy like nothing else you've seen before. This seems to be an excellent material for a new type of armor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPA.name=Tissu infusé
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPA.desc=En combinant de l'Ichor avec du tissu enchanté, vous avez créé quelque chose de comparable au mithril. Léger comme la laine, mais résistant comme l'acier. De plus, il conduit l'énergie magique comme rien de ce que vous avez vu jusqu'ici. Cela semble être un excellent matériau pour un nouveau type d'armure.
 
 # Quest: Unleashed the Power - Boots
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=Unleashed the Power - Boots
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=Libérer le pouvoir - Bottes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=Pour tirer pleinement parti de votre armure, vous devrez libérer son pouvoir caché. Ce n'est pas une mince affaire, mais cela en vaut largement la peine !
 
 # Quest: Unbreakable Boots
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.name=Unbreakable Boots
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.desc=They will never break. How convenient.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.name=Bottes incassables
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.desc=Elles ne se casseront jamais. Comme c'est pratique.
 
 # Quest: Unbreakable Axe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.name=Unbreakable Axe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.desc=An axe made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.name=Hache incassable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.desc=Une hache faite de votre nouveau métal ne se cassera jamais et acceptera facilement les enchantements. Quelque chose vous dit qu'il doit y avoir plus...
 
 # Quest: Ichorium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQA.name=Ichorium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQA.desc=By combining ichor with some void metal and osmiridium, the metal turned into something new; Something extremely durable but also soft. Its magic conductivity is incredible!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQA.desc=En combinant de l'Ichor avec du Void Metal et de l'Osmiridium, le métal s'est transformé en quelque chose de nouveau : extrêmement résistant, mais aussi malléable. Sa conductivité magique est incroyable !
 
 # Quest: Unbreakable Sword
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQQ.name=Unbreakable Sword
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQQ.desc=A sword made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQQ.name=Épée incassable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQQ.desc=Une épée faite de votre nouveau métal ne se cassera jamais et acceptera facilement les enchantements. Quelque chose vous dit qu'il doit y avoir plus...
 
 # Quest: Unbreakable Pickaxe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=Unbreakable Pickaxe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=A pickaxe made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=Pioche incassable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=Une pioche faite de votre nouveau métal ne se cassera jamais et acceptera facilement les enchantements. Quelque chose vous dit qu'il doit y avoir plus...
 
 # Quest: Unbreakable Shovel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=Unbreakable Shovel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.desc=A shovel made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=Pelle incassable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.desc=Une pelle faite de votre nouveau métal ne se cassera jamais et acceptera facilement les enchantements. Quelque chose vous dit qu'il doit y avoir plus...
 
 # Quest: Unleashed the Power - Sword
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Unleashed the Power - Sword
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Libérer le pouvoir - Épée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=Pour tirer pleinement parti de votre outil, vous devrez libérer son pouvoir caché. Ce n'est pas une mince affaire, mais cela en vaut largement la peine !
 
 # Quest: Unleashed the Power - Shovel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRQ.name=Unleashed the Power - Shovel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRQ.desc=To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRQ.name=Libérer le pouvoir - Pelle
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRQ.desc=Pour tirer pleinement parti de votre outil, vous devrez libérer son pouvoir caché. Ce n'est pas une mince affaire, mais cela en vaut largement la peine !
 
 # Quest: Unleashed the Power - Axe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.name=Unleashed the Power - Axe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.desc=To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.name=Libérer le pouvoir - Hache
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.desc=Pour tirer pleinement parti de votre outil, vous devrez libérer son pouvoir caché. Ce n'est pas une mince affaire, mais cela en vaut largement la peine !
 
 # Quest: Unleashed the Power - Pickaxe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.name=Unleashed the Power - Pickaxe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.desc=To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.name=Libérer le pouvoir - Pioche
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.desc=Pour tirer pleinement parti de votre outil, vous devrez libérer son pouvoir caché. Ce n'est pas une mince affaire, mais cela en vaut largement la peine !
 
 # Quest: Hold All the Foci
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=Hold All the Foci
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=Hermione's first years bag.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=Tous les focalisateurs sous la main
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=Le sac d'Hermione en première année.
 
 # Quest: Where Do the Items Go?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.name=Where Do the Items Go?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.desc=It's probably better not to ask...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.name=Où vont les objets ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.desc=Mieux vaut sans doute ne pas demander...
 
 # Quest: Ohhh, Crunchy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVQ.name=Ohhh, Crunchy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVQ.desc=After many, many, hours of doing Thaumcraft research you've found a way to craft pure tears. Ichorium purifies the nether star which sucks all the warp away. Be careful, as this may have a deadly end.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVQ.name=Ohhh, croustillant
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVQ.desc=Après de très, très nombreuses heures de recherche dans Thaumcraft, vous avez trouvé un moyen de fabriquer des larmes pures. L'Ichorium purifie l'Étoile du Nether, qui aspire tout le Warp. Attention, cela pourrait mal finir.
 
 # Quest: Purge All Your Warp
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVg.name=Purge All Your Warp
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVg.desc=Did you ever have a dream where you could purge all your warp with no bad side effects? This purification talisman will let your dreams come true. It gets rid of it a little at a time, so no effects!%n%nDon't forget to wear it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVg.name=Purgez tout votre Warp
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEVg.desc=Avez-vous déjà rêvé de purger tout votre Warp sans aucun effet secondaire néfaste ? Ce talisman de purification va réaliser vos rêves. Il s'en débarrasse petit à petit, donc sans aucun effet !%n%nN'oubliez pas de le porter.
 
 # Quest: Journey to the Center of the Earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJag.name=Journey to the Center of the Earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJag.desc=After acquiring your new pickaxe and clearing away a mountain or two, you wonder if maybe you should go...§odeeper§r. After trying it out on some Bedrock, you see a way down into the very depths of the planet. After exploring this new realm you make a note that it is:%n%nA) Seemingly empty of life%nB) Full of Bedrock you need to clear away with your new pickaxe%nC) Full of ore veins going up and down%nD) Some of these ores are strange and §odifferent§r from the ones you are used to%nE) Since Miners cannot break Bedrock, if you wish to use one, you'll have to do it for it first.%nF) After leaving you wake up on the surface somewhere nearby, your lack of memories of such is probably due to Oxygen deprivation. §oProbably§r. (After leaving the Bedrock Dim, you'll be thrown out somewhere nearby on what is hopefully the surface, and not inside a block, but no guarantees!)%n%nAmong the ore samples you seem to have brought back with you, you find a number of "basic" and "intermediate" ores and gems, as well as a few you don't recognize! Perhaps a return trip is in order?%n%nAlso, you seem to smell like cheese for some reason?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJag.name=Voyage au centre de la Terre
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJag.desc=Après avoir obtenu votre nouvelle pioche et rasé une montagne ou deux, vous vous demandez si vous ne devriez pas aller... §oplus profond§r. Après l'avoir essayée sur de la Bedrock, vous entrevoyez un chemin vers les profondeurs mêmes de la planète. Après avoir exploré ce nouveau royaume, vous notez qu'il est :%n%nA) Apparemment dépourvu de vie%nB) Plein de Bedrock que vous devez dégager avec votre nouvelle pioche%nC) Plein de filons de minerai qui montent et descendent%nD) Certains de ces minerais sont étranges et §odifférents§r de ceux dont vous avez l'habitude%nE) Comme les Miners ne peuvent pas casser la Bedrock, si vous voulez en utiliser un, vous devrez d'abord le faire à sa place.%nF) En partant, vous vous réveillez quelque part près de là, à la surface ; votre absence de souvenirs à ce sujet est probablement due au manque d'Oxygène. §oProbablement§r. (En quittant la dimension Bedrock, vous serez éjecté quelque part à proximité, sur ce qui sera, espérons-le, la surface et non l'intérieur d'un bloc, mais sans garantie !)%n%nParmi les échantillons de minerai que vous semblez avoir rapportés, vous trouvez un certain nombre de minerais et de gemmes « basiques » et « intermédiaires », ainsi que quelques-uns que vous ne reconnaissez pas ! Peut-être faudrait-il y retourner ?%n%nEt puis, pour une raison obscure, vous semblez sentir le fromage ?
 
 # Quest: Ichor Core
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKpg.name=Ichor Core
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKpg.desc=You can now make the best wand core, so go ahead and do so.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKpg.name=Cœur en Ichor
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKpg.desc=Vous pouvez maintenant fabriquer le meilleur cœur de baguette, alors allez-y.
 
 # Quest: Ichor Caps
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKpw.name=Ichor Caps
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKpw.desc=These tie with Shadowmetal, but they look nicer.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKpw.name=Embouts en Ichor
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKpw.desc=Ils sont à égalité avec ceux en Métal de l'Ombre, mais ils sont plus jolis.
 
 # Quest: Best Wand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqA.name=Best Wand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqA.desc=This is the best non-endgame/creative wand you can make. There's also a Scepter version.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqA.name=La meilleure baguette
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqA.desc=C'est la meilleure baguette hors fin de partie/créatif que vous puissiez fabriquer. Il en existe aussi une version sceptre.
 
 # Quest: These Items Will Not 'Be Back'
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALRw.name=These Items Will Not 'Be Back'
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALRw.desc=One of the more useful things you can do with the pearl is to make a better Alchemical Furnace. You can melt items into essentia way faster with this.%n%n[note]The pearl is not used up, nor does it take durability damage from this craft.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALRw.name=Ces objets ne « reviendront » pas
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALRw.desc=L'une des choses les plus utiles à faire avec la perle est de fabriquer un meilleur Alchemical Furnace. Vous pourrez fondre des objets en essentia bien plus vite avec.%n%n[note]La perle n'est pas consommée et ne perd pas de durabilité avec cette fabrication.[/note]
 
 # Quest: Large Essentia Smeltery
 betterquesting.quest.GoTATpPcQAuqGyfJG_dI-Q.name=Large Essentia Smeltery
-betterquesting.quest.GoTATpPcQAuqGyfJG_dI-Q.desc=The §5§lLarge Essentia Smeltery§r is the GT version of the Alchemical Furnace which supercedes the Advanced Alchemical Furnace and is extremely fast at melting down items into essentia.%n%nUnlike it's predecessor which required centi-vis alone for power, this will also require electricity. The amount of electricity required is specified by the tier of the Essentia Diffusion Cell and the amount of parallels the machine has.%n%nNovice -> EV%nAdept -> IV%nMaster -> LuV%nGrandmaster -> ZPM%n%nThe amount of parallels made available to the machine is determined by both the Essentia Diffusion Cell tier and the length:%n§3Parallels = (2^Tier * (Length-1))§r
+betterquesting.quest.GoTATpPcQAuqGyfJG_dI-Q.desc=La §5§lLarge Essentia Smeltery§r est la version GT de l'Alchemical Furnace ; elle surpasse l'Advanced Alchemical Furnace et fond extrêmement vite les objets en essentia.%n%nContrairement à son prédécesseur, qui n'avait besoin que de centi-vis comme énergie, elle nécessite aussi de l'électricité. La quantité d'électricité requise dépend du tier de l'Essentia Diffusion Cell et du nombre de parallèles de la machine.%n%nNovice -> EV%nAdept -> IV%nMaster -> LuV%nGrandmaster -> ZPM%n%nLe nombre de parallèles disponibles pour la machine dépend à la fois du tier de l'Essentia Diffusion Cell et de la longueur :%n§3Parallèles = (2^Tier * (Longueur-1))§r
 
 
 ## Quest Line: Focus on Wand Foci & EMT
