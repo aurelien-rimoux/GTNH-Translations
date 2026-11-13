@@ -11944,168 +11944,168 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUQ.desc=Après avoir conquis l'essentie
 
 
 ## Quest Line: Novice Thaumaturgy
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFg.name=Novice Thaumaturgy
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFg.desc=Magic lies beyond. Great achievements, but also a lot of work. I shall be your guide. Follow my instructions, and you shall become a great wizard, like me.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFg.name=Thaumaturgie novice
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFg.desc=La magie vous attend. De grandes réalisations, mais aussi beaucoup de travail. Je serai votre guide. Suivez mes instructions, et vous deviendrez un grand sorcier, comme moi.
 
 # Quest: The Choice: Ordo
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=The Choice: Ordo
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=Le choix : Ordo
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=En échange de 6 amas de cristaux, je vous donnerai ce nœud. Puisse-t-il bien vous servir. Oh, ne le placez pas trop près d'un autre nœud, sinon il risque de se mettre à drainer de la vis...
 
 # Quest: The Choice: Aqua
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.name=The Choice: Aqua
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.desc=In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.name=Le choix : Aqua
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.desc=En échange de 6 amas de cristaux, je vous donnerai ce nœud. Puisse-t-il bien vous servir. Oh, ne le placez pas trop près d'un autre nœud, sinon il risque de se mettre à drainer de la vis...
 
 # Quest: The Choice: Aer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.name=The Choice: Aer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.desc=In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.name=Le choix : Aer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.desc=En échange de 6 amas de cristaux, je vous donnerai ce nœud. Puisse-t-il bien vous servir. Oh, ne le placez pas trop près d'un autre nœud, sinon il risque de se mettre à drainer de la vis...
 
 # Quest: Not Just For Decoration
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.name=Not Just For Decoration
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.desc=Sure, they look pretty, but they serve a much more important purpose: Channeling vast amounts of vis and essentia. Your first uses will be an infusion setup and an alchemical furnace.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.name=Pas seulement décoratif
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.desc=Certes, ils sont jolis, mais ils ont un rôle bien plus important : canaliser d'énormes quantités de vis et d'essentia. Vous vous en servirez d'abord pour une installation d'infusion et pour un Alchemical Furnace.
 
 # Quest: Witchy (Wo)man
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.name=Witchy (Wo)man
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.desc=If you've made the spinning wheel and done the research, you can make these.%n%nThe vis discount is very useful both to craft more efficiently and to ease your wand progression. Maybe you should look around for more discounts?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.name=Sorcier (ou sorcière) bien sapé(e)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.desc=Si vous avez fabriqué le rouet et fait la recherche, vous pouvez fabriquer ceux-ci.%n%nLa réduction de vis est très utile, à la fois pour fabriquer plus efficacement et pour faciliter la progression de vos baguettes. Vous devriez peut-être chercher d'autres réductions ?
 
 # Quest: Searching for Answers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=Searching for Answers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.desc=Last night you had a dream. A dimension, so strange and different, almost... magical? Like the saplings you found. You decided to go there and look for answers.%n%nFirst, place water in a 2x2 grid, with 12 flowers surrounding it. Then toss in a portal crystal to open it up. And no, a diamond is not enough.%n%n§3You should be able to use any vanilla flower.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=En quête de réponses
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.desc=La nuit dernière, vous avez fait un rêve. Une dimension, si étrange et si différente, presque... magique ? Comme les pousses que vous avez trouvées. Vous avez décidé de vous y rendre pour chercher des réponses.%n%nD'abord, placez de l'eau sur une grille de 2x2, entourée de 12 fleurs. Ensuite, jetez-y un cristal de portail pour l'ouvrir. Et non, un diamant ne suffit pas.%n%n§3Vous devriez pouvoir utiliser n'importe quelle fleur vanilla.
 
 # Quest: See the Unseen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.name=See the Unseen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.desc=Everything is made of 6 primal aspects. Those aspects can be combined to form compound aspects, but in the end, there are only 6, kinda like the infused shards you found. You noticed that those shards start to vibrate when you bring them next to something that is made of the respective aspect. Maybe you can create a device to actually "scan" items, and reveal their compounds? This could be very useful later on.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.name=Voir l'invisible
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.desc=Tout est composé de 6 aspects primaires. Ces aspects peuvent se combiner pour former des aspects composés, mais au bout du compte, il n'y en a que 6, un peu comme les éclats infusés que vous avez trouvés. Vous avez remarqué que ces éclats se mettent à vibrer quand vous les approchez de quelque chose composé de l'aspect correspondant. Peut-être pourriez-vous créer un appareil capable de « scanner » les objets et de révéler leur composition ? Cela pourrait être très utile plus tard.
 
 # Quest: A Table to Work On
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.name=A Table to Work On
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.desc=Now you need something on which to craft magical items. It probably needs to be a little magical itself. Let's see what the book says.%n%n§3I should probably take this time to read all the stuff in the Thaumonomicon I don't know about while I'm at it, instead of posting on Discord and looking stupid.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.name=Une table pour travailler
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.desc=Il vous faut maintenant un support sur lequel fabriquer des objets magiques. Il doit sans doute être lui-même un peu magique. Voyons ce que dit le livre.%n%n§3Je devrais sans doute en profiter pour lire tout ce que je ne connais pas dans le Thaumonomicon, au lieu de poster sur Discord et d'avoir l'air bête.
 
 # Quest: Infused Stones
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.name=Infused Stones
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.desc=This whole place here is filled with magic. No matter where you look at, it's just everywhere. You wonder what happens to regular stone if it's exposed to large amounts of magic for such a long time. Maybe it's time to go mining?%n%nThere are 3 veins. There's amber and cinnabar in each. They aren't super useful, but make sure to keep hold of some at least.%n%nEven when you find these infused stones, they won't drop the infused shards you desperately need. Rather, you have to process the raw ores themselves. The easiest way to do that is to throw these raw ores in your Forge Hammer.%n%nLater when you have a Sifter, you can sift purified ores for more shards. An autoclave can also turn shard dust into a shard. Maybe there's a magical way to do the same thing?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.name=Pierres infusées
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.desc=Tout cet endroit est rempli de magie. Où que vous regardiez, elle est partout. Vous vous demandez ce qu'il advient de la pierre ordinaire exposée si longtemps à de grandes quantités de magie. Il est peut-être temps d'aller miner ?%n%nIl existe 3 filons. Chacun contient de l'ambre et du cinabre. Ils ne sont pas très utiles, mais gardez-en au moins un peu.%n%nMême quand vous trouvez ces pierres infusées, elles ne donnent pas les éclats infusés dont vous avez désespérément besoin. Il faut plutôt traiter les minerais bruts eux-mêmes. Le plus simple est de jeter ces minerais bruts dans votre Forge Hammer.%n%nPlus tard, quand vous aurez un Sifter, vous pourrez tamiser les minerais purifiés pour obtenir davantage d'éclats. Un Autoclave peut aussi transformer de la poudre d'éclat en éclat. Peut-être existe-t-il un moyen magique de faire la même chose ?
 
 # Quest: Your First Wand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.name=Your First Wand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=You're sure that this place will give you all the answers you're looking for! To continue, you need something to handle the magic energy called "vis". Guess it's time to craft your first wand.%n%nIf you haven't started on defeating the TF bosses yet, you'll need to do so to proceed. All wands require some kind of TF boss drop, with better wands needing later boss's drops. Once you've defeated them once, you can buy a spawn egg (only usable in the TF) or use the trophy+salis mundus to make more of the drop.%n%n§3You should look for wand recipes in NEI. Not all of them are correct in the Thaumonomicon.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.name=Votre première baguette
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=Vous êtes sûr que cet endroit vous donnera toutes les réponses que vous cherchez ! Pour continuer, il vous faut de quoi manipuler l'énergie magique appelée « vis ». On dirait qu'il est temps de fabriquer votre première baguette.%n%nSi vous n'avez pas encore commencé à vaincre les boss de la TF, vous devrez le faire pour progresser. Toutes les baguettes nécessitent un butin de boss de la TF, et les meilleures baguettes demandent les butins de boss plus avancés. Une fois un boss vaincu, vous pouvez acheter un œuf d'apparition (utilisable uniquement dans la TF) ou utiliser le trophée + du salis mundus pour obtenir davantage de son butin.%n%n§3Cherchez les recettes des baguettes dans NEI. Elles ne sont pas toutes correctes dans le Thaumonomicon.
 
 # Quest: Tome of Knowledge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.name=Tome of Knowledge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=All the things you've discovered so far, you need to write them down. But you're lazy, and you have a wand, so why not try a magical way to "write down" your research? You wonder if you could enchant a book with your wand, so that it will keep track of your progress... You should try that on a bookshelf!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.name=Tome du savoir
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=Toutes les choses que vous avez découvertes jusqu'ici, il faut les consigner par écrit. Mais vous êtes paresseux, et vous avez une baguette, alors pourquoi ne pas essayer une façon magique de « noter » vos recherches ? Vous vous demandez si vous pourriez enchanter un livre avec votre baguette, pour qu'il garde une trace de vos progrès... Vous devriez essayer sur une bibliothèque !
 
 # Quest: Improving Your Wand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6A.name=Improving Your Wand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6A.desc=Your wand does a great job in storing and releasing vis as you please. However, those iron caps are... §oweak§r. If you don't pay enough attention to it, it might hurt the node. They also make crafting harder. Maybe you should try to improve it with caps made out of a more valuable material. Like... gold, perhaps?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6A.name=Améliorer votre baguette
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6A.desc=Votre baguette fait un excellent travail pour stocker et libérer la vis à volonté. Cependant, ces embouts en fer sont... §ofaibles§r. Si vous n'y faites pas assez attention, ils risquent d'abîmer le nœud. Ils rendent aussi la fabrication plus difficile. Vous devriez peut-être l'améliorer avec des embouts faits d'un matériau plus précieux. Comme... l'or, peut-être ?
 
 # Quest: Getting Shards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=Getting Shards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=However you obtained them, you've collected a variety of Infused Shards. Now on how to use them...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=Obtenir des éclats
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=Peu importe comment vous les avez obtenus, vous avez réuni toute une variété d'éclats infusés. Voyons maintenant comment les utiliser...
 
 # Quest: A "Greater" Wand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6g.name=A "Greater" Wand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6g.desc=While doing all your research and mining of these infused stones, you had an idea how to use the wood of a Greatwood tree to make a new wand. Actually, it turned out to be pretty simple, but you lacked one important thing back then: vis! The vis makes sure the wood doesn't lose its magical conductivity while forming the rod.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6g.name=Une baguette « supérieure »
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6g.desc=Pendant toutes vos recherches et l'extraction de ces pierres infusées, vous avez eu une idée pour utiliser le bois d'un Greatwood afin de fabriquer une nouvelle baguette. En réalité, c'était plutôt simple, mais il vous manquait à l'époque un élément important : la vis ! La vis empêche le bois de perdre sa conductivité magique pendant le façonnage du cœur.
 
 # Quest: Better Screws
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.name=Better Screws
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.desc=Unfortunately, your aluminium screws don't work with the greatwood rod. Somehow, the wood seems to repel the material. Luckily, you already have a blast furnace, so you can get a better material than aluminium.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.name=De meilleures vis
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.desc=Malheureusement, vos vis en Aluminium ne fonctionnent pas avec le cœur en Greatwood. D'une manière ou d'une autre, le bois semble repousser ce matériau. Heureusement, vous avez déjà un haut fourneau, vous pouvez donc obtenir un meilleur matériau que l'Aluminium.
 
 # Quest: A More Powerful "Scale"
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.name=A More Powerful "Scale"
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.desc=The naga scales are weak, they can only hold a very limited amount of vis. You need a better, more powerful component to store vis in your wand. You've heard rumors about an evil wizard in the Twilight Forest. Maybe he has... something... that can be used?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.name=Une « écaille » plus puissante
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.desc=Les Naga Scales sont faibles, elles ne peuvent contenir qu'une quantité très limitée de vis. Il vous faut un composant meilleur et plus puissant pour stocker la vis dans votre baguette. Vous avez entendu des rumeurs au sujet d'un sorcier maléfique dans la Twilight Forest. Peut-être a-t-il... quelque chose... qui pourrait servir ?
 
 # Quest: "Stores 50 Vis" Wand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.name="Stores 50 Vis" Wand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.desc=With gold caps you avoid the downsides of iron. So best to upgrade to a Gold Banded Greatwood Wand!%n%nYou could also consider making your Greatwood Wand with enchanted cloth caps instead. That gives you an extra 5%% discount!%n%nWith this Greatwood Wand you are more powerful than ever!%n%n[note]You only need one of the tasks to complete the quest.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.name=Baguette « stocke 50 vis »
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.desc=Avec des embouts en or, vous évitez les inconvénients du fer. Le mieux est donc de passer à une Gold Banded Greatwood Wand !%n%nVous pourriez aussi envisager de fabriquer votre baguette en Greatwood avec des embouts en tissu enchanté à la place. Cela vous donne 5%% de réduction en plus !%n%nAvec cette baguette en Greatwood, vous êtes plus puissant que jamais !%n%n[note]Vous n'avez besoin d'accomplir qu'une seule des tâches pour terminer la quête.[/note]
 
 # Quest: Fuuuuuu...(sion)!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.name=Fuuuuuu...(sion)!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.desc=Your arcane table does a great job with infusing primal vis into items while crafting. However, you feel that there must be more. What if you could infuse items with all kinds of magic aspects? The possibilities are endless...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.name=Fuuuuuu...(sion) !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.desc=Votre Établi arcanique fait un excellent travail pour infuser de la vis primaire dans les objets pendant leur fabrication. Pourtant, vous sentez qu'il doit y avoir plus. Et si vous pouviez infuser des objets avec toutes sortes d'aspects magiques ? Les possibilités sont infinies...
 
 # Quest: Yet Another Brick in the Wall...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.name=Yet Another Brick in the Wall...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.desc=A magical one this time. You're on your way to infusion which needs 8 of these. Another 4 will be needed for the alchemical furnace.%n%n§3Yes, you need an MV PLE, deal with it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.name=Encore une brique dans le mur...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.desc=Une brique magique, cette fois. Vous êtes en route vers l'infusion, qui en demande 8. Il en faudra 4 de plus pour l'Alchemical Furnace.%n%n§3Oui, il vous faut un PLE MV, faites avec.
 
 # Quest: Essentia Cooking
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=Essentia Cooking
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.desc=In order to get essentia, you need to dissolve items. Obviously, you only want to dissolve those items you don't really need, and only those with essentia you need to craft things.%n%nMake sure you keep your furnace as empty as possible. If it fills up with essentia, it can cause a large TPS drop.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=Cuisine d'essentia
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.desc=Pour obtenir de l'essentia, il faut dissoudre des objets. Évidemment, vous ne voulez dissoudre que les objets dont vous n'avez pas vraiment besoin, et seulement ceux qui contiennent l'essentia dont vous avez besoin pour fabriquer des choses.%n%nVeillez à garder votre four aussi vide que possible. S'il se remplit d'essentia, il peut provoquer une forte chute de TPS.
 
 # Quest: Not For Soup
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.name=Not For Soup
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.desc=At least not for edible soup, but for essentia slurry. Get yourself a cauldron and give it a solid whack with your wand. Place some netherrack 2 blocks under the crucible and set it on fire with some flint and steel. Lastly you need to fill it with water. This one works with pipes, so you can automate that.%n%nNow you can do crucible recipes!%n%nJust don't put in too much or, well, Bad Things will happen.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.name=Pas pour la soupe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.desc=Du moins pas pour une soupe comestible, mais pour une bouillie d'essentia. Procurez-vous un chaudron et donnez-lui un bon coup de baguette. Placez du netherrack 2 blocs sous le Crucible et allumez-le avec un briquet. Enfin, il faut le remplir d'eau. Celui-ci fonctionne avec des tuyaux, vous pouvez donc automatiser cela.%n%nVous pouvez maintenant réaliser les recettes du Crucible !%n%nNe mettez simplement pas trop de choses dedans, sinon, eh bien, de Mauvaises Choses arriveront.
 
 # Quest: Balanced Shards sdrahS decnalaB
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.name=Balanced Shards sdrahS decnalaB
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.desc=By combining all six primal aspects in a crucible, you are able to make balanced shards. They can be ground up into "Salis Mundus", an absolutely crucial thing to have, trust me!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.name=Éclats équilibrés sérbiliuqé stalcÉ
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.desc=En combinant les six aspects primaires dans un Crucible, vous pouvez fabriquer des éclats équilibrés. On peut les broyer pour obtenir du « Salis Mundus », un élément absolument crucial, croyez-moi !
 
 # Quest: Crystal Clusters
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.name=Crystal Clusters
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.desc=You, as a Thaumaturge, like shiny things. And what could be more shiny than a cluster made of those shards? You totally should get one of each.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.name=Amas de cristaux
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.desc=En tant que thaumaturge, vous aimez ce qui brille. Et quoi de plus brillant qu'un amas fait de ces éclats ? Vous devriez absolument en avoir un de chaque.
 
 # Quest: The Choice: Ignis
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=The Choice: Ignis
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=Le choix : Ignis
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=En échange de 6 amas de cristaux, je vous donnerai ce nœud. Puisse-t-il bien vous servir. Oh, ne le placez pas trop près d'un autre nœud, sinon il risque de se mettre à drainer de la vis...
 
 # Quest: The Choice...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9Q.name=The Choice...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9Q.desc=By now, you should've collected a few (or a lot) of locations for aura nodes to get vis from. You might also have noticed that you're probably low on a certain aspect, like ordo or ignis. Well, good news. In exchange for some crystal clusters, I will give you one of my old nodes. They're all pale, but they'll still help you out. You may only choose one, so think twice before you make your decision.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9Q.name=Le choix...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9Q.desc=À ce stade, vous devriez avoir repéré quelques emplacements (ou beaucoup) de nœuds d'aura où puiser de la vis. Vous avez peut-être aussi remarqué qu'il vous manque sans doute un certain aspect, comme ordo ou ignis. Eh bien, bonne nouvelle. En échange de quelques amas de cristaux, je vous donnerai l'un de mes anciens nœuds. Ils sont tous pâles, mais ils vous aideront tout de même. Vous ne pouvez en choisir qu'un seul, alors réfléchissez bien avant de prendre votre décision.
 
 # Quest: The Choice: Terra
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.name=The Choice: Terra
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.desc=In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.name=Le choix : Terra
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.desc=En échange de 6 amas de cristaux, je vous donnerai ce nœud. Puisse-t-il bien vous servir. Oh, ne le placez pas trop près d'un autre nœud, sinon il risque de se mettre à drainer de la vis...
 
 # Quest: The Choice: Perditio
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.name=The Choice: Perditio
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.desc=In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.name=Le choix : Perditio
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.desc=En échange de 6 amas de cristaux, je vous donnerai ce nœud. Puisse-t-il bien vous servir. Oh, ne le placez pas trop près d'un autre nœud, sinon il risque de se mettre à drainer de la vis...
 
 # Quest: This is the End...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=This is the End...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=...of your apprenticeship. You have mastered all 6 primal aspects, you mastered the weak and strong infusion of essentia and vis, and you've already made your adept wand. But be warned, young one. The further you progress, the more darkness, and evil will tempt you to follow the forbidden ways of magic. I have seen things... weather changing, random teleportation, or even a Wither tearing its way into our universe right next to someone. Be careful, my friend...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=C'est la fin...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=...de votre apprentissage. Vous maîtrisez les 6 aspects primaires, vous maîtrisez l'infusion faible et forte d'essentia et de vis, et vous avez déjà fabriqué votre baguette d'adepte. Mais prenez garde, jeune apprenti. Plus vous progresserez, plus les ténèbres et le mal vous tenteront de suivre les voies interdites de la magie. J'ai vu des choses... la météo changer, des téléportations aléatoires, ou même un Wither se frayer un chemin dans notre univers juste à côté de quelqu'un. Soyez prudent, mon ami...
 
 # Quest: Turning Liquids Into Essentia
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=Turning Liquids Into Essentia
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=What a simple idea. So many people waste tons of buckets just to get aqua from water, or sano from milk. Why didn't they just dissolve the liquid itself? Idiots...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=Transformer les liquides en essentia
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=Quelle idée simple. Tant de gens gaspillent des tonnes de seaux juste pour obtenir de l'aqua à partir d'eau, ou du sano à partir de lait. Pourquoi n'ont-ils pas simplement dissous le liquide lui-même ? Les idiots...
 
 # Quest: Essentia Filtering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=Essentia Filtering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=This nifty little device will filter essentia out of an Alchemical Crucible or Alchemical Boiler. Once it has received a single unit of any type, it will only accept this type until it is completely empty. You can place more than one on top of an alchemical furnace, and you should. Try to have one per essentia type in the item you're melting on a furnace.%n%nYou should lock the type with a Label, or every time it fills again, it's likely to be a different type, and gum up your pipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=Filtrage d'essentia
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=Ce petit appareil astucieux filtre l'essentia d'un Alchemical Crucible ou d'un Alchemical Boiler. Dès qu'il a reçu une seule unité d'un type, il n'accepte plus que ce type jusqu'à être complètement vide. Vous pouvez en placer plusieurs au-dessus d'un Alchemical Furnace, et vous devriez. Essayez d'en avoir un par type d'essentia contenu dans l'objet que vous faites fondre dans le four.%n%nVerrouillez le type avec une étiquette (Label), sinon, à chaque fois qu'il se remplira de nouveau, ce sera probablement un type différent, ce qui encrassera vos tuyaux.
 
 # Quest: An Alternative to Torches
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=An Alternative to Torches
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=And lava! It's an excellent magical light source. You can use it under your crucible, too! But not your witchery stuff. :(
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=Une alternative aux torches
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=Et à la lave ! C'est une excellente source de lumière magique. Vous pouvez aussi l'utiliser sous votre Crucible ! Mais pas pour vos trucs de Witchery. :(
 
 # Quest: Not Coal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=Not Coal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=Way better. More than Lignite even. It even speeds up the dissolving of items in an alchemical furnace.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=Pas du charbon
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=Bien mieux. Mieux encore que le Charbon de Lignite. Il accélère même la dissolution des objets dans un Alchemical Furnace.
 
 # Quest: Save the Squids, We Must
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.name=Save the Squids, We Must
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=A very convenient way to make PETA activists happy and get ink at the same time.%n%nHint: The essentia in those roses might be useful...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.name=Sauver les calamars, nous devons
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=Une façon très pratique de faire plaisir aux militants de PETA tout en obtenant de l'encre.%n%nIndice : l'essentia contenue dans ces roses pourrait être utile...
 
 # Quest: Infinite... Lava?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=Infinite... Lava?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=Well, it does need some ignis centi-vis, but hey, it's free. Also, expensive.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=De la lave infinie... ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=Bon, il faut bien un peu de centi-vis d'ignis, mais bon, c'est gratuit. Et cher, aussi.
 
 # Quest: Infinite Water!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.name=Infinite Water!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.desc=The struggle is over. You've finally discovered a way to get infinite amounts of water.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.name=De l'eau infinie !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.desc=La galère est terminée. Vous avez enfin découvert un moyen d'obtenir de l'eau en quantité infinie.
 
 # Quest: Improved Armor: Samurai Style
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Improved Armor: Samurai Style
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=Time to get some decent armor. With this, those infernal monsters won't be as much of a pain as they are now.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Armure améliorée : style samouraï
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=Il est temps de vous procurer une armure correcte. Avec elle, ces monstres infernaux seront bien moins pénibles qu'actuellement.
 
 # Quest: A New Way to "Farm" Resources
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=A New Way to "Farm" Resources
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=While regular plants are mostly used to make food, these magical plants (courtesy of Thaumic Bases) will grow you some good ol' resources!%n%nSpecifically, you have the ability to create Redlon (for Redstone), Metalleat (for Iron). Lucrite (for Gold), and Lazullia (for Lapis Lazuli).%n%nThere's also the fabled "Rainbow Cacti", which should help those who like to build with various colors...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=Une nouvelle façon de « cultiver » des ressources
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=Alors que les plantes ordinaires servent surtout à produire de la nourriture, ces plantes magiques (offertes par Thaumic Bases) vous feront pousser de bonnes vieilles ressources !%n%nPlus précisément, vous pouvez obtenir du Redlon (pour la Redstone), du Metalleat (pour le Fer), du Lucrite (pour l'Or) et du Lazullia (pour le Lapis-lazuli).%n%nIl y a aussi les légendaires « Rainbow Cacti », qui devraient aider ceux qui aiment construire avec des couleurs variées...
 
 # Quest: Lead, Galena, Silver and Cryolite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACYg.name=Lead, Galena, Silver and Cryolite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACYg.desc=You can't find Lead in the Overworld or the Nether. So it's time to explore the mysterious Twilight Forest a bit and find a Cryolite vein at Y 5-40.%n%nYou can get Lead, Silver, Cryolite for Aluminium production and Galena, which is more lead, in the vein.%n%nThere is some Silver in small ores in the OW and Nether, but this is a better source.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACYg.name=Plomb, Galène, Argent et Cryolite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACYg.desc=Vous ne trouverez pas de Plomb dans l'Overworld ni dans le Nether. Il est donc temps d'explorer un peu la mystérieuse Twilight Forest et d'y trouver un filon de Cryolite, entre Y 5 et 40.%n%nDans ce filon, vous pouvez obtenir du Plomb, de l'Argent, de la Cryolite pour la production d'Aluminium, et de la Galène, qui donne encore plus de plomb.%n%nIl y a un peu d'Argent dans les petits minerais de l'OW et du Nether, mais cette source est meilleure.
 
 # Quest: Enchanted Earth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6g.name=Enchanted Earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6g.desc=Enchanted Earth makes saplings and seeds planted on it grow faster. When stacked on top of each other it has a chance to add ticks to the block above accumulating all the way to the top. This will randomly speed up growth a bit.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6g.desc=L'Enchanted Earth fait pousser plus vite les pousses et les graines plantées dessus. Lorsqu'on en empile plusieurs, chaque bloc a une chance d'ajouter des ticks au bloc du dessus, en cumulant jusqu'au sommet. Cela accélère un peu la croissance de façon aléatoire.
 
 # Quest: Iron Capped Greatwood Wand
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=Iron Capped Greatwood Wand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=Making a gold capped greatwood wand requires 30 vis, but your old wand's limit is 25. So first create an iron or copper capped greatwood wand reload it with 50 vis and then later on in the next quest create a gold capped greatwood wand.%n%n§3You can always press the NEI 'U' command on the caps, the core, or the boss ingredient to find the correct GT:NH recipe for the wands.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=Fabriquer une baguette en Greatwood à embouts en or demande 30 vis, mais la limite de votre ancienne baguette est de 25. Fabriquez donc d'abord une baguette en Greatwood à embouts en fer ou en cuivre, rechargez-la avec 50 vis, puis fabriquez plus tard, dans la quête suivante, une baguette en Greatwood à embouts en or.%n%n§3Vous pouvez toujours utiliser la commande 'U' de NEI sur les embouts, le cœur ou l'ingrédient de boss pour trouver la bonne recette GT:NH des baguettes.
 
 # Quest: Gold-Banded Greatwood Scepter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADbQ.name=Gold-Banded Greatwood Scepter
@@ -12113,247 +12113,247 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADbQ.desc=Un sceptre est fabriqué à par
 
 # Quest: Primal Charm
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.name=Primal Charm
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.desc=With your new 50 vis wand you are able to make a Scepter which holds up to 75 vis.%nFirst you need some primal charms which cost 50 vis to craft.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.desc=Avec votre nouvelle baguette de 50 vis, vous pouvez fabriquer un sceptre, qui contient jusqu'à 75 vis.%nIl vous faut d'abord des Primal Charms, qui coûtent 50 vis à fabriquer.
 
 # Quest: Magic Feather
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAELg.name=Magic Feather
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAELg.desc=In order to understand where you are, and where you §owant§r to be, you'll need a map. This is a magical place, so why not a magical map? The main part is a Magic Map Focus.%n%nFirst, go find some Raven feathers. You can get them by killing Ravens. They like to hang out near the obsidian pillars.%n%nThen you need some Torchberries (found underground) and some Glowstone dust.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAELg.name=Plume magique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAELg.desc=Pour comprendre où vous êtes, et où vous §ovoulez§r être, il vous faudra une carte. C'est un endroit magique, alors pourquoi pas une carte magique ? L'élément principal est un Magic Map Focus.%n%nD'abord, allez chercher des Raven's Feathers. Vous les obtenez en tuant des corbeaux. Ils aiment traîner près des piliers d'obsidienne.%n%nIl vous faut ensuite des Torchberries (trouvées sous terre) et de la poudre de Pierre lumineuse.
 
 # Quest: Magic Map
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAELw.name=Magic Map
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAELw.desc=For the magic map you need the magic map focus and a paper stack, made from a stack of paper.%n%nIt will fill in the area near you, and reveal boss locations. You need to kill these to get access to the rest of the Twilight Forest. Start with the Naga.%n%nYou can see what to do next in the TF achievement tab. There's also quests for the boss kills on the kill all the things tab. You can only get one map every 24 hours, so be careful with it.%n%n§4Only use the map in the Twilight Forest, using the map in any other dimension will lag the server!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAELw.desc=Pour la Magic Map, il vous faut le Magic Map Focus et une pile de papier, fabriquée à partir d'une pile complète de papier.%n%nElle se remplit autour de vous et révèle l'emplacement des boss. Vous devez les tuer pour accéder au reste de la Twilight Forest. Commencez par la Naga.%n%nVous pouvez voir quoi faire ensuite dans l'onglet des succès de la TF. Il y a aussi des quêtes pour les boss dans l'onglet Tuez-les tous. Vous ne pouvez obtenir qu'une carte toutes les 24 heures, alors faites-y attention.%n%n§4N'utilisez la carte que dans la Twilight Forest : l'utiliser dans n'importe quelle autre dimension fera laguer le serveur !
 
 # Quest: Scribing Tool
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAESA.name=Scribing Tool
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAESA.desc=To unlock research you need a scribing tool and paper. To do the research, you need a scribing tool and the research note you made in the research table, so you should probably make two tools.%n%nNote: Thaumcraft Research Tweaks has reworked the research table GUI. Aspects are now combined with drag & drop between aspects in the GUI. You can also right-click while dragging the aspect instead of dropping; the same works with the hexes. All the new features are described in your Thaumonomicon, make sure to check out the 'Research', 'Research Expertise', 'Research Mastery' and 'Research Duplication' pages.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAESA.name=Scribing Tools
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAESA.desc=Pour débloquer une recherche, il vous faut des Scribing Tools et du papier. Pour effectuer la recherche, il vous faut des Scribing Tools et la note de recherche que vous avez créée sur la Research Table ; vous devriez donc sans doute en fabriquer deux.%n%nNote : Thaumcraft Research Tweaks a remanié l'interface de la Research Table. Les aspects se combinent désormais par glisser-déposer entre les aspects de l'interface. Vous pouvez aussi faire un clic droit pendant que vous faites glisser l'aspect au lieu de le déposer ; cela fonctionne aussi avec les hexagones. Toutes les nouvelles fonctionnalités sont décrites dans votre Thaumonomicon, consultez bien les pages 'Research', 'Research Expertise', 'Research Mastery' et 'Research Duplication'.
 
 # Quest: Enchanting Table 1.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAETA.name=Enchanting Table 1.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAETA.desc=Finally, with your new wand with 50 stored vis you're able to build your own enchantment table. The recipe can be found on the GTNH Tab in the Thaumonomicon.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAETA.name=Table d'enchantement 1.0
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAETA.desc=Enfin, avec votre nouvelle baguette qui stocke 50 vis, vous pouvez construire votre propre table d'enchantement. La recette se trouve dans l'onglet GTNH du Thaumonomicon.
 
 # Quest: Division Sigil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAETQ.name=Division Sigil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAETQ.desc=Find a sigil in a chest? Get one from the Wither? You've heard about a ritual to activate it.%n%nYou need an enchantment table, 8 redstone dust, a weapon, and an animal you want to sacrifice. Catching and holding it with a Golden Lasso would be the easiest way. Check in LV for the Golden Lasso quest if you haven't completed it yet.%n%nPlace your enchantment table on a grass field and surround it with redstone dust. At midnight, place the animal on or near the table and kill it. You can check with the sigil if it's time yet by right-clicking it on the enchantment table. Of course you also need to have your sigil on you.%n%nBeware! Your actions will have consequences.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAETQ.desc=Vous avez trouvé un sigil dans un coffre ? Vous en avez obtenu un du Wither ? Vous avez entendu parler d'un rituel pour l'activer.%n%nIl vous faut une table d'enchantement, 8 poudres de redstone, une arme et un animal que vous voulez sacrifier. Le capturer et le transporter avec un Golden Lasso serait le plus simple. Consultez la quête du Golden Lasso en LV si vous ne l'avez pas encore terminée.%n%nPlacez votre table d'enchantement sur une étendue d'herbe et entourez-la de poudre de redstone. À minuit, placez l'animal sur la table ou à côté, puis tuez-le. Vous pouvez vérifier avec le sigil s'il est l'heure en faisant un clic droit avec lui sur la table d'enchantement. Bien sûr, vous devez aussi avoir votre sigil sur vous.%n%nAttention ! Vos actes auront des conséquences.
 
 # Quest: Cursed Earth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAETw.name=Cursed Earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAETw.desc=You can kill the powered-up monsters that spawn on the cursed earth, or just sleep and despawn them. Use a shovel with the silk touch enchantment to dig up the cursed earth blocks. You can use these blocks to make a mob spawner, or place one under a vanilla spawner to let it run even when you're not around.%n%nWhen setting up a mob spawner in the Nether using Cursed Earth, poor design can cause huge TPS issues.%n%nMake sure the Cursed Earth is not attached to anything from the Nether. For example, you can place it on top of marble, but the marble cannot touch anything in the nether (netherrack, brick, etc.), and must be floating in the air. Also, limit the Cursed Earth to 1 chunk max, with 2 block buffer to the chunk edge, including a wall.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAETw.desc=Vous pouvez tuer les monstres renforcés qui apparaissent sur la Cursed Earth, ou simplement dormir pour les faire disparaître. Utilisez une pelle enchantée Toucher de soie pour récupérer les blocs de Cursed Earth. Vous pouvez utiliser ces blocs pour créer un générateur de monstres, ou en placer un sous un générateur vanilla pour qu'il fonctionne même quand vous n'êtes pas là.%n%nLorsque vous installez un générateur de monstres dans le Nether avec de la Cursed Earth, une mauvaise conception peut causer d'énormes problèmes de TPS.%n%nAssurez-vous que la Cursed Earth ne touche rien qui provienne du Nether. Par exemple, vous pouvez la poser sur du marbre, mais ce marbre ne doit toucher aucun bloc du Nether (netherrack, briques, etc.) et doit flotter dans les airs. Limitez aussi la Cursed Earth à 1 chunk maximum, avec une marge de 2 blocs par rapport au bord du chunk, mur compris.
 
 # Quest: Silky Jewel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUA.name=Silky Jewel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUA.desc=Silky jewels add silk touch to your tinkers tool, making them useful for collecting GT ores intact. You can also use them for other purposes, like obtaining cursed earth or grass blocks if needed.%n%nThe recipe can be found on the GTNH page after researching the enchantment table.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUA.desc=Les Silky Jewels ajoutent Toucher de soie à vos outils Tinkers, ce qui les rend utiles pour récolter les minerais GT intacts. Vous pouvez aussi les utiliser à d'autres fins, comme récupérer de la Cursed Earth ou des blocs d'herbe si besoin.%n%nLa recette se trouve sur la page GTNH après avoir recherché la table d'enchantement.
 
 # Quest: Blub Blub Blub.....
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUg.name=Blub Blub Blub.....
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUg.desc=The brewing stand is really important for brewing the various potions like night vision, healing, haste and jump. Toxic potions or splash potions can be created too. You'll also need it to make a brewery.%n%nWith your basic wand you can finally create one. The recipes can be found on the GTNH page in the Thaumonomicon.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUg.name=Blub blub blub.....
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEUg.desc=L'alambic est très important pour préparer les différentes potions comme la vision nocturne, le soin, la célérité et le saut. On peut aussi créer des potions toxiques ou des potions jetables. Il vous en faudra aussi un pour fabriquer une brasserie.%n%nAvec votre baguette de base, vous pouvez enfin en fabriquer un. Les recettes se trouvent sur la page GTNH du Thaumonomicon.
 
 # Quest: Ironwood
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhg.name=Ironwood
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhg.desc=Ironwood is much harder and durable than rubber. Ideal for a soft mallet. Collect some liveroot underground from some roots, macerate it and mix the powder with iron and gold to create a new magical material.%n%nYou can make some unique armor with this material.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhg.desc=L'Ironwood est bien plus dur et durable que le caoutchouc. Idéal pour un maillet souple. Récoltez des Liveroots sous terre sur certaines racines, broyez-les et mélangez la poudre avec du fer et de l'or pour créer un nouveau matériau magique.%n%nVous pouvez fabriquer une armure unique avec ce matériau.
 
 # Quest: Steeleaf
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhw.name=Feuilleacier
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhw.desc=If you locate a labyrinth you may find steeleaf in chests inside. This is the best material for a soft mallet for now, however a unique armor out of steeleaf can be made too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEhw.desc=Si vous trouvez un labyrinthe, vous pourriez trouver du Feuilleacier dans les coffres qui s'y trouvent. C'est le meilleur matériau pour un maillet souple pour l'instant, mais vous pouvez aussi fabriquer une armure unique en Feuilleacier.
 
 # Quest: Thaumium Cooking
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEmQ.name=Thaumium Cooking
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEmQ.desc=Now it's time to 'cook' your first thaumium ingots. After first researching it, you need iron ingots and praecantatio essentia to make it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEmQ.name=Cuisiner du Thaumium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEmQ.desc=Il est temps de « cuisiner » vos premiers lingots de Thaumium. Après l'avoir recherché, il vous faut des lingots de fer et de l'essentia praecantatio pour le fabriquer.
 
 # Quest: Primal Shrooms
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBg.name=Primal Shrooms
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBg.desc=Primal shrooms allow you to refill wands easier before you can move nodes to your base.%n%nGo and find some Vishrooms in a magical forest biome. Try using a Nature's Compass. Or buy some using coins if no biome is close to your location.%n%n1 pumpkin and 4 tiny piles of stone dust are the perfect combo to make these.%n%nWhenever they're fully grown, you can break them to get some vis orbs to drop, just like enemies do. You do need to be holding the wand to collect it though. For these to grow, they will need a certain light level.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBg.name=Champignons primaires
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBg.desc=Les champignons primaires permettent de recharger plus facilement vos baguettes avant que vous puissiez déplacer des nœuds jusqu'à votre base.%n%nAllez trouver des Vishrooms dans un biome de forêt magique. Essayez d'utiliser un Nature's Compass. Ou achetez-en avec des pièces si aucun biome de ce type n'est proche de vous.%n%n1 citrouille et 4 petits tas de poudre de pierre sont la combinaison parfaite pour les fabriquer.%n%nUne fois qu'ils ont fini de pousser, vous pouvez les casser pour faire tomber des orbes de vis, comme le font les ennemis. Il faut toutefois tenir la baguette en main pour les récupérer. Pour pousser, ils ont besoin d'un certain niveau de luminosité.
 
 # Quest: Stuck in the Twilight Forest?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFWA.name=Stuck in the Twilight Forest?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFWA.desc=If you're in the Twilight Forest and your portal gets broken, you're kinda stuck. Every 24h you're able to exchange some materials to get a new portal crystal to escape.%n%n§3Also consider making an extra yourself and sticking it in a chest on the TF side, just in case.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFWA.name=Coincé dans la Twilight Forest ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFWA.desc=Si vous êtes dans la Twilight Forest et que votre portail est détruit, vous êtes un peu coincé. Toutes les 24 h, vous pouvez échanger quelques matériaux contre un nouveau cristal de portail pour vous échapper.%n%n§3Pensez aussi à en fabriquer un de rechange vous-même et à le ranger dans un coffre côté TF, au cas où.
 
 # Quest: Where'd I Put That Amber?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFWQ.name=Where'd I Put That Amber?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFWQ.desc=Every Thaumcraft Infused Stone vein has a bit of amber ore in it. I'm sure you have a bunch by now.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFWQ.name=Où ai-je mis cet ambre ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFWQ.desc=Chaque filon de pierres infusées de Thaumcraft contient un peu de minerai d'ambre. Je suis sûr que vous en avez déjà tout un tas.
 
 # Quest: Just Tell Me What to Scan Already!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFtQ.name=Just Tell Me What to Scan Already!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFtQ.desc=Don't want to guess at what has what aspect? Just want to get to work? Then scan this stuff. The first set should be scanned in order. If any of them don't work, try scanning something else first (especially the third set).%n%nWatering Can%nTorch%nCoal%nGrass Block%nTrapdoor%nChest%nGlass Block%nBleached Bone Block%nChicken%nSoul Sand%nPaper%nRotten Flesh%nWheat%nFlint%nObsidian%n%nAsh Cloud%nAny Dye%nWool%nSpider Eye%nSnowball%nMilk Bucket%nVanilla Hoe%nVanilla Pickaxe%nArrow%nVanilla Armor%nQuicksilver%nFence Gate%nIron Nugget%nGold%nZombie Brain%nEnder Pearl%nSlimeball%nTainted Anything. Try overfilling your cauldron to create flux goo to make the slimes (not in your base)%nEthereal Essence (any Aspect) from wisps%n%nObzinite Ingot%nPlatinum Metallic Powder%nFine Copper Wire%nMagnetite Dust%nThorium Dust%nA Pig%nNetherrack%nGold Armor%nBed%nLead (not the metal)%nGhast Tear%nClock%nCrystal Matrix Ingot%n%nThe last 5 aspects might only be obtainable by combining aspects or by creating a node that has them. You can combine:%n%nCognito + Ordo%nCognito + Vitium%nVacuos + Motus%nLux + Primordium%nHumanus + Iter%n%nNote that the above list is for aspects, you may need to scan things like the Nether Portal to unlock certain researches.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFtQ.name=Dites-moi juste quoi scanner !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFtQ.desc=Vous ne voulez pas deviner quel objet contient quel aspect ? Vous voulez juste vous mettre au travail ? Alors scannez ces choses. La première série doit être scannée dans l'ordre. Si l'un d'eux ne fonctionne pas, essayez d'abord de scanner autre chose (surtout pour la troisième série).%n%nWatering Can%nTorche%nCharbon%nBloc d'herbe%nTrappe%nCoffre%nBloc de verre%nBleached Bone Block%nPoulet%nSable des Âmes%nPapier%nChair putréfiée%nBlé%nSilex%nObsidienne%n%nAsh Cloud%nN'importe quelle teinture%nLaine%nŒil d'araignée%nBoule de neige%nSeau de lait%nHoue vanilla%nPioche vanilla%nFlèche%nArmure vanilla%nQuicksilver%nPortillon%nPépite de fer%nOr%nZombie Brain%nPerle de l'Ender%nBoule de slime%nN'importe quoi de corrompu (Tainted). Essayez de faire déborder votre chaudron pour créer du Flux Goo et faire apparaître les slimes (pas dans votre base)%nEthereal Essence (n'importe quel aspect), obtenue sur les feux follets (wisps)%n%nObzinite Ingot%nPoudre Métallique Platine%nFil fin de Cuivre%nPoudre de Magnétite%nPoudre de Thorium%nUn cochon%nNetherrack%nArmure en or%nLit%nLaisse (pas le métal)%nLarme de Ghast%nHorloge%nCrystal Matrix Ingot%n%nLes 5 derniers aspects ne peuvent peut-être s'obtenir qu'en combinant des aspects ou en créant un nœud qui les contient. Vous pouvez combiner :%n%nCognito + Ordo%nCognito + Vitium%nVacuos + Motus%nLux + Primordium%nHumanus + Iter%n%nNotez que la liste ci-dessus concerne les aspects : vous devrez peut-être scanner des choses comme le portail du Nether pour débloquer certaines recherches.
 
 # Quest: Warp Warnings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.name=Warp Warnings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.desc=Thaumcraft offers considerable power from its devices and tools. But power comes with a price.... That price is represented by Warp: A corruption of the character's mind and soul, inflicting progressively more dire effects upon them.%n%nWhile the effects of warp can range from annoying to deadly, accumulating enough of it can also grant you access to greater power... at the cost of increasing madness, and attention from dark powers. At least, others may call it madness... but is it truly insanity, when the voices in your head grant useful knowledge?%n%nWarp Theory adds a bunch of new Warp Effects to the Player. Be very careful because you don't want to spawn a Wither in your base.%n%n[note]If you're still early on in your thaumcraft journey, Warp shouldn't be something that scares you away from progressing further. You'll only stumble upon dangerous warp effects once you've done a lot of research. If you still wanna play it safe, make sure to avoid research that's labeled with "§5Forbidden Knowledge§r" [/note]%n%n5 warp: Message%n10 warp: Fake Explosion%n15 warp: Coin, Pumpkin%n20 warp: Lay Eggs, Spawn Phantoms%n25 warp: Fake Creeper, Fake Rain%n30 warp: GregTech Fake Sounds, Spawn Bats%n35 warp: Blood, Fake Enderman%n40 warp: Spawn Friendly Creeper%n45 warp: Jump Boost, Nausea%n50 warp: Insomnia, Vis Drain, Strange Noise%n55 warp: Thunderstorm%n60 warp: Spawn Fire Bats%n65 warp: Blindness, Poison%n70 warp: Livestock Rain%n75 warp: Spawn Doppelganger%n80 warp: Spawn Endermen, Wither Potion%n85 warp: Wind%n90 warp: Ender Pearl%n95 warp: Blaze Fireball%n100 warp: Litmus Paper, Junk, Call from the Deep%n110 warp: Obsidian%n120 warp: Lightning%n125 warp: Inventory Swap%n130 warp: Random Teleport%n140 warp: Acceleration%n150 warp: Fake Wither, Inventory Scramble%n160 warp: Countdown Bomb%n170 warp: Mushrooms%n175 warp: Snow%n180 warp: Decay%n190 warp: Swamp%n200 warp: Spawn Wither
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.name=Avertissements sur le Warp
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8g.desc=Thaumcraft offre une puissance considérable grâce à ses appareils et à ses outils. Mais la puissance a un prix.... Ce prix est représenté par le Warp : une corruption de l'esprit et de l'âme du personnage, qui lui inflige des effets de plus en plus terribles.%n%nSi les effets du Warp vont du simplement agaçant au mortel, en accumuler suffisamment peut aussi vous donner accès à une plus grande puissance... au prix d'une folie croissante et de l'attention de puissances obscures. Du moins, d'autres pourraient appeler ça de la folie... mais est-ce vraiment de la démence, quand les voix dans votre tête vous livrent un savoir utile ?%n%nWarp Theory ajoute tout un tas de nouveaux effets de Warp au joueur. Soyez très prudent, car vous ne voulez pas faire apparaître un Wither dans votre base.%n%n[note]Si vous n'en êtes qu'au début de votre parcours dans Thaumcraft, le Warp ne devrait pas vous dissuader de progresser. Vous ne tomberez sur des effets de Warp dangereux qu'après avoir fait beaucoup de recherches. Si vous voulez tout de même jouer la sécurité, évitez les recherches marquées « §5Forbidden Knowledge§r » [/note]%n%n5 de Warp : message%n10 de Warp : fausse explosion%n15 de Warp : pièce, citrouille%n20 de Warp : ponte d'œufs, apparition de fantômes%n25 de Warp : faux Creeper, fausse pluie%n30 de Warp : faux sons GregTech, apparition de chauves-souris%n35 de Warp : sang, faux Enderman%n40 de Warp : apparition d'un Creeper amical%n45 de Warp : saut amélioré, nausée%n50 de Warp : insomnie, drain de vis, bruit étrange%n55 de Warp : orage%n60 de Warp : apparition de chauves-souris de feu%n65 de Warp : cécité, poison%n70 de Warp : pluie de bétail%n75 de Warp : apparition d'un doppelgänger%n80 de Warp : apparition d'Endermen, potion de Wither%n85 de Warp : vent%n90 de Warp : Perle de l'Ender%n95 de Warp : boule de feu de Blaze%n100 de Warp : papier de tournesol, déchets, appel des profondeurs%n110 de Warp : obsidienne%n120 de Warp : foudre%n125 de Warp : échange d'inventaire%n130 de Warp : téléportation aléatoire%n140 de Warp : accélération%n150 de Warp : faux Wither, mélange de l'inventaire%n160 de Warp : bombe à retardement%n170 de Warp : champignons%n175 de Warp : neige%n180 de Warp : pourrissement%n190 de Warp : marécage%n200 de Warp : apparition d'un Wither
 
 # Quest: The Night's Not Dark Anymore
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHQ.name=The Night's Not Dark Anymore
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHQ.desc=Hardcore darkness is a pain, but now the night will be bright. Or at least, your perception will be that it is, mobs can still spawn! Be careful, the mobs aren't any weaker.%n%nIf you want, you can make a longer-lasting potion out of the Potion of Night Vision. Also, you should probably make them in batches of 3 so you don't waste materials.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHQ.name=La nuit n'est plus noire
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHQ.desc=L'obscurité du mode hardcore est pénible, mais désormais la nuit sera lumineuse. Ou du moins, c'est ce que vous percevrez : les monstres peuvent toujours apparaître ! Faites attention, ils ne sont pas plus faibles pour autant.%n%nSi vous le souhaitez, vous pouvez fabriquer une version plus longue à partir de la Potion de vision nocturne. Et vous devriez sans doute les préparer par lots de 3 pour ne pas gaspiller de matériaux.
 
 # Quest: Source of Nickel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTQ.name=§5§lSource of Nickel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTQ.desc=Your Electric Blast Furnace needs Nickel. Now that you've reached the Twilight Forest, it's time to get some. The Nickel Vein that contains it is located at Y 10-40. In MV, you'll need tons of Nickel for Cupronickel, so stock up.%n%nYou can get some Cobalt out of Cobaltite through the side processes such as washing or thermal centrifuging. To electrolyze it, you'll need an MV electrolyzer though. Or you can EBF it after your EBF is done. Remember that the Sulfur Dioxide you get is based on your muffler tier. This is probably easier than searching in the Nether for Cobalt.%n%n§3You can also find small quantities of Pentlandite ore in the Overworld if you care.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTQ.name=§5§lSource de Nickel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTQ.desc=Votre Electric Blast Furnace a besoin de Nickel. Maintenant que vous avez atteint la Twilight Forest, il est temps de vous en procurer. Le filon de Nickel qui en contient se trouve entre Y 10 et 40. En MV, il vous faudra des tonnes de Nickel pour le Cupronickel, alors faites des réserves.%n%nVous pouvez obtenir du Cobalt à partir de la Cobaltite grâce aux traitements annexes comme le lavage ou la centrifugation thermique. Pour l'électrolyser, il vous faudra toutefois un Electrolyzer MV. Ou vous pouvez la passer dans l'EBF une fois celui-ci terminé. N'oubliez pas que le Dioxyde de Soufre obtenu dépend du tier de votre Muffler. C'est sans doute plus simple que de chercher du Cobalt dans le Nether.%n%n§3Vous pouvez aussi trouver de petites quantités de minerai de Pentlandite dans l'Overworld, si ça vous intéresse.
 
 # Quest: So Thirsty 
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-g.name=So Thirsty 
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-g.desc=Just listening to this tank gulp water makes me thirsty. If placed next to a water source block, it is a decent water source. It also supports several upgrades to speed and capacity. Try out this glyph near your cows, and get a tank full of milk for all your cheese and butter needs.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-g.name=Tellement soif 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH-g.desc=Rien qu'à entendre ce réservoir avaler de l'eau, j'ai soif. Placé à côté d'une source d'eau, c'est une source d'eau correcte. Il accepte aussi plusieurs améliorations de vitesse et de capacité. Essayez ce glyphe près de vos vaches, et obtenez un réservoir rempli de lait pour tous vos besoins en fromage et en beurre.
 
 # Quest: Ardite and Cobalt Mining
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLQ.name=Ardite and Cobalt Mining
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLQ.desc=Ironwood is a much harder and durable material than you imagined at first. Making Tools and Armor gives them unique features. With a pickaxe, you can mine ores up to Cobalt level, meaning you can harvest Ardite and Cobalt without an EBF.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLQ.name=Miner l'Ardite et le Cobalt
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLQ.desc=L'Ironwood est un matériau bien plus dur et durable que vous ne l'imaginiez au départ. Les outils et armures qu'on en fabrique ont des propriétés uniques. Avec une pioche, vous pouvez miner les minerais jusqu'au niveau Cobalt, ce qui signifie que vous pouvez récolter l'Ardite et le Cobalt sans EBF.
 
 # Quest: Low on Sticks?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLg.name=Low on Sticks?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLg.desc=If you stay in the Twilight Forest for more than a few minutes you'll find Canopy Trees. This big tree generates a lot of logs for your Coke Ovens and some roots when planted which give sticks. Be careful that no building or chest right beside or above the tree otherwise the tree replaces it. You might find a use for this, to sinfully get above a ceiling you really shouldn't.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLg.name=À court de bâtons ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLg.desc=Si vous restez plus de quelques minutes dans la Twilight Forest, vous trouverez des Canopy Trees. Ce grand arbre fournit beaucoup de bûches pour vos Coke Ovens, et, une fois planté, quelques racines qui donnent des bâtons. Veillez à ce qu'aucun bâtiment ni coffre ne se trouve juste à côté ou au-dessus de l'arbre, sinon l'arbre le remplacera. Vous pourriez d'ailleurs vous en servir pour passer, de façon peu scrupuleuse, au-dessus d'un plafond que vous ne devriez vraiment pas franchir.
 
 # Quest: A Better Fluid Pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_g.name=A Better Fluid Pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_g.desc=Now that you have lead you can convert your bronze pipes to potin pipes with higher capacities.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_g.name=Un meilleur tuyau à fluides
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_g.desc=Maintenant que vous avez du plomb, vous pouvez convertir vos tuyaux en Bronze en tuyaux en Potin, de plus grande capacité.
 
 # Quest: 3 Plus 4, Carry the 2...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHeA.name=3 Plus 4, Carry the 2...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHeA.desc=When doing infusions, it's always good to know how close you are in stability. The Arcane Abacus will tell you at a quick glance how stable your infusion altar is, and any asymmetries present. %n%nFor now, you can have one in exchange for a few types of common infusion stabilization blocks- but if you need to replace it, it will cost you some circuits!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHeA.name=3 plus 4, je retiens 2...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHeA.desc=Lorsque vous faites des infusions, il est toujours bon de savoir où vous en êtes niveau stabilité. L'Arcane Abacus vous indique d'un simple coup d'œil la stabilité de votre autel d'infusion et les éventuelles asymétries. %n%nPour l'instant, vous pouvez en obtenir un en échange de quelques types de blocs de stabilisation d'infusion courants - mais si vous devez le remplacer, il vous en coûtera des circuits !
 
 # Quest: What Are You, a Seamstress?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHyw.name=What Are You, a Seamstress?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHyw.desc=Enchanted Fabric is the key material to fancy robes and wizard's clothing.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHyw.name=Vous êtes couturière, ou quoi ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHyw.desc=L'Enchanted Fabric est le matériau clé des robes élégantes et des tenues de sorcier.
 
 # Quest: K-Mart Special
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzA.name=K-Mart Special
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzA.desc=Every point of vis is critical, so make yourself some magical robes to help conserve how much you use. Later you can make even better robes. They don't offer much in protection, so remember to change before going to hunt!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzA.name=Promo spéciale K-Mart
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzA.desc=Chaque point de vis compte, alors fabriquez-vous des robes magiques pour économiser ce que vous consommez. Plus tard, vous pourrez fabriquer des robes encore meilleures. Elles n'offrent pas beaucoup de protection, alors pensez à vous changer avant d'aller chasser !
 
 # Quest: Boots Are Made For Walking
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzQ.name=Boots Are Made For Walking
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzQ.desc=And swimming. These boots of the traveller will make you a blur as you go around the world. You'll need to research infusion before you can make these.%n%n§3There are also Electric versions with greater discounts in the Getting Around... tab.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzQ.name=Ces bottes sont faites pour marcher
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzQ.desc=Et nager. Ces Boots of the Traveller feront de vous une silhouette floue lorsque vous parcourez le monde. Vous devrez rechercher l'infusion avant de pouvoir les fabriquer.%n%n§3Il en existe aussi des versions électriques avec de meilleures réductions dans l'onglet Se déplacer...
 
 # Quest: I Can See Everything
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzg.name=I Can See Everything
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzg.desc=With your new wand, you can make Goggles of Revealing. You can now see nodes clearly, more so than with the thaumometer, but all the time! Additionally, the goggles give you a 5 percent vis discount.%n%nSimple lens upgrades will grant you various seeing abilities as well.%n%nLater you can make more advanced goggles and even integrate the goggles into advanced armors.%n%nWith TC Node Tracker, it makes remembering nodes trivial. The default key is I. You can select from the list of nodes you have scanned, and an in-world arrow will show you the way. You can also sort the list.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzg.name=Je vois absolument tout
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHzg.desc=Avec votre nouvelle baguette, vous pouvez fabriquer des Goggles of Revealing. Vous voyez désormais clairement les nœuds, mieux qu'avec le Thaumomètre, et en permanence ! De plus, les lunettes vous donnent une réduction de vis de 5 pour cent.%n%nDe simples améliorations de lentilles vous accorderont aussi diverses capacités de vision.%n%nPlus tard, vous pourrez fabriquer des lunettes plus avancées et même les intégrer dans des armures avancées.%n%nAvec TC Node Tracker, retenir l'emplacement des nœuds devient trivial. La touche par défaut est I. Vous pouvez choisir dans la liste des nœuds que vous avez scannés, et une flèche dans le monde vous montrera le chemin. Vous pouvez aussi trier la liste.
 
 # Quest: Infinite Bats! Wait, What??
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI0w.name=Infinite Bats! Wait, What??
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI0w.desc=Tired of the constant chirping from the thousands of bats drawn to your world-bending activities? Use this handy device to attract them to a central location where they can be...disposed. The Corporeal Attractor can be configured to attract or repel mobs, and the redstone strength applied divided by two determines the range.%n%nYou can use Soul Molds to filter the mobs the Attractor draws in or pushes away. This gives you some idea for automating...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI0w.name=Des chauves-souris à l'infini ! Attendez, quoi ??
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI0w.desc=Marre des couinements incessants des milliers de chauves-souris attirées par vos activités qui déforment le monde ? Utilisez cet appareil bien pratique pour les attirer vers un point central où elles pourront être... éliminées. Le Corporeal Attractor peut être configuré pour attirer ou repousser les créatures, et la puissance du signal de redstone appliqué, divisée par deux, détermine la portée.%n%nVous pouvez utiliser des Soul Molds pour filtrer les créatures que l'Attractor attire ou repousse. Voilà qui vous donne des idées d'automatisation...
 
 # Quest: Greedy Chest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAg.name=Greedy Chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAg.desc=The Greedy Chest from Automagy looks to have some interesting uses. It also gates a pretty important device for a magician...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIAg.desc=Le Greedy Chest d'Automagy semble avoir des usages intéressants. Il donne aussi accès à un appareil plutôt important pour un magicien...
 
 # Quest: Knightmetal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAICw.name=Knightmetal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAICw.desc=Knightmetal ingots are loot taken from Goblin Knight Strongholds. They can be made into Diamond-tier armor. You can take Armor Shards dropped by helmet crabs and turn them into Knightmetal ingots.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAICw.desc=Les lingots de Knightmetal sont un butin récupéré dans les forteresses des Goblin Knights. On peut en faire une armure de niveau diamant. Vous pouvez aussi récupérer les Armor Shards lâchés par les Helmet Crabs et les transformer en lingots de Knightmetal.
 
 # Quest: Clothes Make the Magical Man or Woman
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEQ.name=Clothes Make the Magical Man or Woman
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEQ.desc=The Witching Gadgets Spinning Wheel will unlock a few materials and items. Hopefully without that creep Rumpelstiltskin! Make sure you get the WG Spinning Wheel and not the Witchery version.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEQ.name=L'habit fait le mage
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEQ.desc=Le Spinning Wheel de Witching Gadgets débloque quelques matériaux et objets. Espérons-le sans ce sale type de Tracassin ! Veillez à bien fabriquer le Spinning Wheel de WG et non la version de Witchery.
 
 # Quest: Everything Fuzzy? Try Some Lenses
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEw.name=Everything Fuzzy? Try Some Lenses
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEw.desc=Now that you have Goggles of Revealing, Thaumic Horizons offers various lenses with handy uses. This one will grant night vision. Try out some of the others.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEw.name=Tout est flou ? Essayez des lentilles
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEw.desc=Maintenant que vous avez des Goggles of Revealing, Thaumic Horizons propose diverses lentilles aux usages bien pratiques. Celle-ci vous donne la vision nocturne. Essayez aussi les autres.
 
 # Quest: BRRRRAAAAAAAIIIIIIINNNNNNNSSSSS
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIYg.name=BRRRRAAAAAAAIIIIIIINNNNNNNSSSSS
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIYg.desc=Automagy is a little subtle about what the "smort" mage needs to do next. Make some crystalline brains and scan them to unlock the next stage. You'll want to use the zombie brains you've been collecting from dangerous Furious zombies spawned by Eerie nodes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIYg.name=CEEEERVEAAAAAAAUUUUUUUUX
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIYg.desc=Automagy reste assez discret sur ce que le mage « malin » doit faire ensuite. Fabriquez des Crystalline Brains et scannez-les pour débloquer l'étape suivante. Vous voudrez utiliser les Zombie Brains que vous avez récoltés sur les dangereux Furious Zombies qui apparaissent près des nœuds Eerie.
 
 # Quest: Gimme gimme gimme
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIYw.name=Gimme gimme gimme
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIYw.desc=The Avarice Pearl is the next object Automagy requires you to interact with in order to unlock the next section. Make an Avarice Pearl, throw some stuff on the ground, and throw Avarice Pearls at them by right-clicking quickly over and over to get a Shattered (ha ha) Pearl to unlock a few more research items.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIYw.name=Donne-moi, donne-moi, donne-moi
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIYw.desc=L'Avarice Pearl est le prochain objet avec lequel Automagy vous demande d'interagir pour débloquer la section suivante. Fabriquez une Avarice Pearl, jetez quelques objets au sol, et lancez-leur des Avarice Pearls en faisant clic droit rapidement, encore et encore, jusqu'à obtenir une Shattered Avarice Pearl (la perle a craqué, ha ha) qui débloque quelques recherches supplémentaires.
 
 # Quest: It's Called the Thaumatorium, OK?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALRg.name=It's Called the Thaumatorium, OK?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALRg.desc=This device will allow automating the crucible. Check the research to the far right of the crucible for details.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALRg.name=Ça s'appelle le Thaumatorium, OK ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALRg.desc=Cet appareil permet d'automatiser le Crucible. Consultez la recherche située tout à droite du Crucible pour plus de détails.
 
 # Quest: Growing Auram
-betterquesting.quest.BiGj2-sBQ62nf0YtAKpGMw.name=Growing Auram
-betterquesting.quest.BiGj2-sBQ62nf0YtAKpGMw.desc=One Essentia you might have a hard time gathering is Auram. Maybe you've gotten some from Ethereal Essence, which is dropped by the flying balls of light that rarely show up in the Nether, or some from Nodes. But that is hardly a good supply. The Aurelia plant can resolve this.%n%nWhen a full moon is visible overhead, Aurelia flowers will open up their petals presumably to feed off of the light. Significant for you is that they will occasionally shed these petals, which can be collected off the ground as a dense source of Auram Essentia.%n%nYou should make sure the ground near the flower is level and clear, so you'll be able to collect the petals later. The flower itself is simply planted on grass, not farmland, so no need to have a water source nearby either.%n%n[note]Gaia Wart is also a growable source of Auram Essentia. It has a quest in the Green Revolution quest tab.[/note]
+betterquesting.quest.BiGj2-sBQ62nf0YtAKpGMw.name=Cultiver de l'Auram
+betterquesting.quest.BiGj2-sBQ62nf0YtAKpGMw.desc=L'Auram fait partie des essentias que vous aurez peut-être du mal à récolter. Vous en avez peut-être obtenu un peu grâce à l'Ethereal Essence, lâchée par les boules de lumière volantes qui apparaissent rarement dans le Nether, ou grâce aux nœuds. Mais ce n'est guère une bonne source. La plante Aurelia peut résoudre ce problème.%n%nLorsqu'une pleine lune est visible dans le ciel, les fleurs d'Aurelia ouvrent leurs pétales, sans doute pour se nourrir de sa lumière. Ce qui compte pour vous, c'est qu'elles perdent de temps en temps ces pétales, que l'on peut ramasser au sol et qui constituent une source concentrée d'essentia Auram.%n%nAssurez-vous que le sol autour de la fleur est plat et dégagé, afin de pouvoir ramasser les pétales plus tard. La fleur se plante simplement sur de l'herbe, pas sur de la terre labourée, donc inutile d'avoir une source d'eau à proximité.%n%n[note]La Gaia Wart est aussi une source cultivable d'essentia Auram. Elle a une quête dans l'onglet La révolution verte.[/note]
 
 # Quest: Thauminite Helmet
 betterquesting.quest.CAqER5QVQg2Hq9lLZ9zDzg.name=Thauminite Helmet
-betterquesting.quest.CAqER5QVQg2Hq9lLZ9zDzg.desc=If you improve your Thaumium to Thauminite, you can make this very stylish helmet! Also comes with a very useful 5%% vis discount while equipped.%n%nMaybe this new material is useful for wands too?
+betterquesting.quest.CAqER5QVQg2Hq9lLZ9zDzg.desc=Si vous améliorez votre Thaumium en Thauminite, vous pourrez fabriquer ce casque très stylé ! Il vous offre en plus une réduction de vis bien utile de 5%% lorsqu'il est porté.%n%nPeut-être que ce nouveau matériau servirait aussi pour les baguettes ?
 
 # Quest: The Burden of Knowledge
-betterquesting.quest.EL2z-VAzS9eVmQFpNnwimg.name=The Burden of Knowledge
-betterquesting.quest.EL2z-VAzS9eVmQFpNnwimg.desc=Have you made too many mistakes and researched yourself into a corner by getting too much warp with no way to get rid of it? Do you wish you could just start everything over? The [warn]Potion of Blissful Oblivion[/warn] is the solution you are looking for.%n%nAt the cost of your knowledge of [warn]all research, all discovered aspects, all knowledge points in the Research Table, and everything scanned with a Thaumometer[/warn], all of your warp will be removed. It won't do anything about warp from armor, so you might still get minor warp events if you're wearing any warpy armor. Be absolutely certain you know what you are doing before you drink this.%n%nKeep in mind that there are better alternatives for dealing with warp (which you can see in the Adept Thaumaturgy tab). This is just the cheapest one.%n%n[note]It's also a rather decent source of Strontio.[/note]
+betterquesting.quest.EL2z-VAzS9eVmQFpNnwimg.name=Le fardeau du savoir
+betterquesting.quest.EL2z-VAzS9eVmQFpNnwimg.desc=Vous avez commis trop d'erreurs et vous vous êtes enfermé dans une impasse à force de recherches, avec trop de Warp et aucun moyen de vous en débarrasser ? Vous aimeriez pouvoir tout recommencer ? La [warn]Potion of Blissful Oblivion[/warn] est la solution qu'il vous faut.%n%nAu prix de toute votre connaissance de [warn]toutes les recherches, tous les aspects découverts, tous les points de connaissance de la Research Table, et de tout ce que vous avez scanné avec un Thaumomètre[/warn], tout votre Warp sera supprimé. Elle n'a aucun effet sur le Warp provenant de l'armure : vous pourriez donc encore subir des événements de Warp mineurs si vous portez une armure qui en donne. Soyez absolument certain de savoir ce que vous faites avant de la boire.%n%nGardez à l'esprit qu'il existe de meilleures solutions pour gérer le Warp (que vous pouvez voir dans l'onglet Thaumaturgie adepte). Celle-ci est simplement la moins chère.%n%n[note]C'est aussi une assez bonne source de Strontio.[/note]
 
 # Quest: Comparing at a Distance
-betterquesting.quest.HF-prjNuRP-RUOYzn170cQ.name=Comparing at a Distance
-betterquesting.quest.HF-prjNuRP-RUOYzn170cQ.desc=Comparators are wonderfully useful devices, but their need to be directly next to whatever they are comparing is quite limiting. If you could do so remotely that would free you from one major constraint.%n%nRemote Comparators allow you to do just that. Sneak-right-click with a crystalline eye to bind the block you want to watch, and place the eye in a remote comparator to start monitoring the block remotely.%n%nGiven the extra distance, though the range of the remote comparator is quite limited, you should expect the §otiniest§r amount of signal lag compared to a direct comparator. You're doubtful that is ever going to be a limiting factor, though.
+betterquesting.quest.HF-prjNuRP-RUOYzn170cQ.name=Comparer à distance
+betterquesting.quest.HF-prjNuRP-RUOYzn170cQ.desc=Les comparateurs sont des appareils merveilleusement utiles, mais le fait qu'ils doivent être directement à côté de ce qu'ils comparent est assez contraignant. Si vous pouviez le faire à distance, cela vous libérerait d'une contrainte majeure.%n%nLes Remote Comparators permettent justement cela. Faites un clic droit accroupi avec un Crystalline Eye pour lier le bloc que vous voulez surveiller, puis placez l'œil dans un Remote Comparator pour commencer à surveiller ce bloc à distance.%n%nVu la distance supplémentaire, et même si la portée du Remote Comparator est assez limitée, attendez-vous à un §otout petit§r décalage du signal par rapport à un comparateur direct. Vous doutez toutefois que ce soit un jour un facteur limitant.
 
 # Quest: Taint Warnings
-betterquesting.quest.JyVKlIbSSiaXjYfQ2FFLhQ.name=Taint Warnings
-betterquesting.quest.JyVKlIbSSiaXjYfQ2FFLhQ.desc=Now that you have started using Vis in the form of Essentia, a warning about Taint.%n%nVis in the state of Essentia is unstable if not stored properly. Left alone too long, or emptied out of the Crucible, Essentia will break down. But not into Vis. Rather, it will turn into Flux.%n%nFlux manifests as a liquid or a gas, but is, itself, only a nuisance. Thaumaturges exposed to the stuff can end up getting Flux Flue, a condition which makes it harder to channel Vis, but it is only temporary.%n%nLarger concentrations of Flux will solidify into Thaumic Slimes, bizarre creatures that try to merge with each other to grow larger. They can be dangerous, but are no less susceptible to crossbow bolts than most things.%n%nHowever, if too much flux is allowed to linger for too long, it will corrupt the land and solidify into tendrils. This is a manifestation of the blight called Taint. Fibrous Tendrils (as well as condensed blocks thereof) spread the Tainted Lands, feeding on the magic it twists. Nodes are especially vulnerable, becoming Tainted themselves if exposed to this twisted magic.%n%nDestroying the tendrils stops the spread, but unless §oall§r are destroyed this is only temporary. A more effective solution is to destroy the Tainted Land itself, as outside this specific biome tendrils quickly starve and die off.%n%nIf you are §oexceedingly§r careless with your Crucible you can, in fact, create Tainted Lands. So you would be wise to try wasting as little Essentia as possible, and clean up any you do waste.
+betterquesting.quest.JyVKlIbSSiaXjYfQ2FFLhQ.name=Avertissements sur le Taint
+betterquesting.quest.JyVKlIbSSiaXjYfQ2FFLhQ.desc=Maintenant que vous avez commencé à utiliser la vis sous forme d'essentia, un avertissement au sujet du Taint.%n%nLa vis à l'état d'essentia est instable si elle n'est pas stockée correctement. Laissée trop longtemps à l'abandon, ou vidée du Crucible, l'essentia se décompose. Mais pas en vis. Elle se transforme plutôt en Flux.%n%nLe Flux se manifeste sous forme de liquide ou de gaz, mais n'est, en soi, qu'une nuisance. Les thaumaturges qui y sont exposés peuvent attraper la Flux Flu, un état qui rend plus difficile la canalisation de la vis, mais qui n'est que temporaire.%n%nDe plus grandes concentrations de Flux se solidifient en Thaumic Slimes, des créatures bizarres qui tentent de fusionner entre elles pour grossir. Elles peuvent être dangereuses, mais ne résistent pas mieux aux carreaux d'arbalète que la plupart des choses.%n%nCependant, si trop de Flux persiste trop longtemps, il corrompt la terre et se solidifie en vrilles. C'est une manifestation du fléau appelé Taint. Les Fibrous Taint (ainsi que leurs blocs condensés) propagent les Tainted Lands, se nourrissant de la magie qu'ils corrompent. Les nœuds y sont particulièrement vulnérables et deviennent eux-mêmes corrompus (Tainted) s'ils sont exposés à cette magie dénaturée.%n%nDétruire les vrilles arrête la propagation, mais à moins de §otoutes§r les détruire, ce n'est que temporaire. Une solution plus efficace consiste à détruire les Tainted Lands eux-mêmes, car hors de ce biome précis, les vrilles meurent rapidement de faim.%n%nSi vous êtes §oextrêmement§r négligent avec votre Crucible, vous pouvez en effet créer des Tainted Lands. Vous seriez donc avisé d'essayer de gaspiller le moins d'essentia possible, et de nettoyer celle que vous gaspillez.
 
 # Quest: Growing Glowstone the Magical Way
-betterquesting.quest.LUwrS4RnQGilkbdPQ_DrBg.name=Growing Glowstone the Magical Way
-betterquesting.quest.LUwrS4RnQGilkbdPQ_DrBg.desc=There are many plants that can provide you with Glowstone Dust. But the best one might just be Glieonia. This magical plant, once matured, can be harvested for two Glowstone Dust directly.
+betterquesting.quest.LUwrS4RnQGilkbdPQ_DrBg.name=Cultiver de la Pierre lumineuse de façon magique
+betterquesting.quest.LUwrS4RnQGilkbdPQ_DrBg.desc=De nombreuses plantes peuvent vous fournir de la poudre de Pierre lumineuse. Mais la meilleure pourrait bien être la Glieonia. Une fois arrivée à maturité, cette plante magique se récolte directement pour deux poudres de Pierre lumineuse.
 
 # Quest: Timewood Tree
-betterquesting.quest.LjblTeS1RdGLz6IeIq5oWw.name=Timewood Tree
-betterquesting.quest.LjblTeS1RdGLz6IeIq5oWw.desc=The Timewood Clock is a special block that can be obtained in The Twilight Forest. It can be used to accelerate vanilla crops in a 16 block radius, making farms significantly faster and more efficient.%n%nTo get one, you must explore inside the massive Twilight Forest trees and search the loot chests hidden within them. There is a small chance to find a Tree of Time sapling. The clock generates hidden inside the tree after it grows.%n[warn]%nAfter growing the tree, you will need a Silk Touch tool to obtain the Timewood Clock itself.[/warn]%n[note]%nIf you break it without Silk Touch, it will instead drop several vanilla gold clocks.%n[/note]
+betterquesting.quest.LjblTeS1RdGLz6IeIq5oWw.name=Arbre du temps
+betterquesting.quest.LjblTeS1RdGLz6IeIq5oWw.desc=La Timewood Clock est un bloc spécial que l'on peut obtenir dans la Twilight Forest. Elle peut accélérer les cultures vanilla dans un rayon de 16 blocs, rendant les fermes nettement plus rapides et efficaces.%n%nPour en obtenir une, vous devez explorer l'intérieur des immenses arbres de la Twilight Forest et fouiller les coffres de butin qui y sont cachés. Il y a une petite chance d'y trouver une pousse de Tree of Time. L'horloge apparaît cachée à l'intérieur de l'arbre une fois qu'il a poussé.%n[warn]%nAprès avoir fait pousser l'arbre, il vous faudra un outil Toucher de soie pour récupérer la Timewood Clock elle-même.[/warn]%n[note]%nSi vous la cassez sans Toucher de soie, elle donnera à la place plusieurs horloges en or vanilla.%n[/note]
 
 # Quest: Shadow Metal
-betterquesting.quest.NO4JlNzcR_-1gaQi-kb3JA.name=Shadow Metal
-betterquesting.quest.NO4JlNzcR_-1gaQi-kb3JA.desc=Shadow Metal is an extremely useful metal in the early game. It can be easily made via the crucible and refined once you unlock the vacuum freezer. %n%nIt's high durability makes it a fantastic candidate for handheld tools, prospector scanners, turbines, and even wand caps later down the line.%n%nStart off by making 5 ores, and doubling that using a macerator.%n%n[note]Hint: You can find the research early on in the Maleficia section of the Thaumonomicon[/note]
+betterquesting.quest.NO4JlNzcR_-1gaQi-kb3JA.name=Métal de l'Ombre
+betterquesting.quest.NO4JlNzcR_-1gaQi-kb3JA.desc=Le Métal de l'Ombre est un métal extrêmement utile en début de partie. On peut facilement le fabriquer avec le Crucible et l'affiner une fois le Vacuum Freezer débloqué. %n%nSa grande durabilité en fait un excellent candidat pour les outils à main, les scanners de prospection, les turbines, et même les embouts de baguette plus tard.%n%nCommencez par fabriquer 5 minerais, puis doublez-les à l'aide d'un Macerator.%n%n[note]Indice : vous trouverez la recherche tôt dans la section Maleficia du Thaumonomicon[/note]
 
 # Quest: Scanning Made Easy
-betterquesting.quest.PKOdH3D6SsG3LQN6-pFF_A.name=Scanning Made Easy
-betterquesting.quest.PKOdH3D6SsG3LQN6-pFF_A.desc=We get it; The early-game of Thaumcraft requires a lot of research and you don't want to throw every one of your 1000 items on the ground and scan them for aspects. That's why we added 2 cool QoL features which makes this tedious task very quick and easy.%n%n1. You don't actually have to throw the item on the ground. You can scan it directly from your inventory! Simply hover your Thaumometer over the item you want to scan, and after a short duration it will be scanned.%n%n2. You've probably accumulated dozens of double chests full of junk that you don't want to sift through and scan, so there's a second feature now: Scanning entire chests! Simply shift right-click while hovering over a chest with your thaumometer and it'll scan EVERY item inside of the chest. Though before you can do so you have to learn a bit more about deconstruction in the Thaumonomicon.%n%n[note]Hint: To unlock the research to scan entire chests, go to your Thaumonomicon, open "Basic Information" (the first tab), and complete this research path: Research -> Research Expertise -> Deconstruction Table -> Container Scanning.[/note]
+betterquesting.quest.PKOdH3D6SsG3LQN6-pFF_A.name=Le scan en toute simplicité
+betterquesting.quest.PKOdH3D6SsG3LQN6-pFF_A.desc=On comprend : le début de Thaumcraft demande beaucoup de recherches, et vous n'avez pas envie de jeter chacun de vos 1000 objets au sol pour scanner leurs aspects. C'est pourquoi nous avons ajouté 2 fonctionnalités de confort bien pratiques qui rendent cette tâche fastidieuse très rapide et facile.%n%n1. Vous n'avez pas besoin de jeter l'objet au sol. Vous pouvez le scanner directement depuis votre inventaire ! Survolez simplement avec votre Thaumomètre l'objet que vous voulez scanner, et au bout d'un court instant il sera scanné.%n%n2. Vous avez sans doute accumulé des dizaines de grands coffres remplis de bric-à-brac que vous n'avez pas envie de trier et de scanner, d'où une seconde fonctionnalité : scanner des coffres entiers ! Faites simplement Maj + clic droit en survolant un coffre avec votre Thaumomètre, et il scannera TOUS les objets du coffre. Mais avant de pouvoir le faire, vous devez en apprendre un peu plus sur la déconstruction dans le Thaumonomicon.%n%n[note]Indice : pour débloquer la recherche permettant de scanner des coffres entiers, ouvrez votre Thaumonomicon, allez dans « Basic Information » (le premier onglet) et complétez ce chemin de recherche : Research -> Research Expertise -> Deconstruction table -> Container Scanning.[/note]
 
 # Quest: More Health
-betterquesting.quest.TjJv9pSOSaW1kwzoTZ9qRw.name=More Health
-betterquesting.quest.TjJv9pSOSaW1kwzoTZ9qRw.desc=No matter how much of a crack shot you become it doesn't help when your twitchy fingers shoot your crossbow before your eyes can notice the tell-tale red lines on one particular type of spider's body. Usually incredible amounts of pain follow...%n%nWith your new wand you are able to craft Red Heart Canisters. A total of ten of them can be put in their own dedicated inventory slot, increasing your maximum health by one heart per.%n%nIt might not be enough, but if it ends up making the difference between standing upright and standing horizontally in a box, you'll be thankful you made these things.
+betterquesting.quest.TjJv9pSOSaW1kwzoTZ9qRw.name=Plus de santé
+betterquesting.quest.TjJv9pSOSaW1kwzoTZ9qRw.desc=Peu importe à quel point vous devenez un tireur d'élite, cela ne sert à rien quand vos doigts nerveux déclenchent votre arbalète avant que vos yeux aient remarqué les lignes rouges révélatrices sur le corps d'un certain type d'araignée. En général, une douleur incroyable s'ensuit...%n%nAvec votre nouvelle baguette, vous pouvez fabriquer des Red Heart Canisters. Vous pouvez en placer dix au total dans leur propre emplacement d'inventaire dédié, chacun augmentant votre santé maximale d'un cœur.%n%nCe ne sera peut-être pas suffisant, mais si cela fait la différence entre rester debout et finir allongé dans une boîte, vous serez content de les avoir fabriqués.
 
 # Quest: A Pechuliar Merchant
-betterquesting.quest.TvVeFhtYQCSmlekVCdADaQ.name=A Pechuliar Merchant
-betterquesting.quest.TvVeFhtYQCSmlekVCdADaQ.desc=During your travels, you've heard about a forest filled to the brim with magic. In that forest, there is a rumor about an interesting little fellow who can trade magical artifacts, including infused shards! Supposedly, they scour the world for gems and gold, but are cold to wanderers who have no valuables to their name.%n%nYou wonder if you can find this merchant and obtain their wares. If only there was a tool that could help find this... §5§o"Magical Forest"§r.%n%n[note]Note: This quest accepts meeting any type of Pech, not just Pech Foragers.[/note]
+betterquesting.quest.TvVeFhtYQCSmlekVCdADaQ.name=Un marchand pech-ulier
+betterquesting.quest.TvVeFhtYQCSmlekVCdADaQ.desc=Au cours de vos voyages, vous avez entendu parler d'une forêt débordant de magie. Dans cette forêt, la rumeur parle d'un drôle de petit bonhomme qui échange des artefacts magiques, y compris des éclats infusés ! Il paraît qu'ils parcourent le monde à la recherche de gemmes et d'or, mais qu'ils sont froids avec les vagabonds qui n'ont rien de valeur à leur nom.%n%nVous vous demandez si vous pourriez trouver ce marchand et obtenir sa marchandise. Si seulement il existait un outil pour vous aider à trouver cette... §5§o« forêt magique »§r.%n%n[note]Note : cette quête accepte la rencontre avec n'importe quel type de Pech, pas seulement les Pech Foragers.[/note]
 
 # Quest: Need More Sugar?
-betterquesting.quest.UAWjHTM_SAW95_Cji-9PiA.name=Need More Sugar?
-betterquesting.quest.UAWjHTM_SAW95_Cji-9PiA.desc=With Briar starting to consume you might also want to increase your sugar production.%n%nSweeds are planted on grass, not farmland, and will spread to propagate themselves. Once fully matured they can be harvested for sugar as well as sugar cane.
+betterquesting.quest.UAWjHTM_SAW95_Cji-9PiA.name=Besoin de plus de sucre ?
+betterquesting.quest.UAWjHTM_SAW95_Cji-9PiA.desc=Maintenant que le Briar commence à consommer du sucre, vous voudrez peut-être augmenter votre production de sucre.%n%nLes Sweeds se plantent sur de l'herbe, pas sur de la terre labourée, et se propagent d'elles-mêmes. Une fois arrivées à maturité, elles se récoltent pour obtenir du sucre ainsi que de la canne à sucre.
 
 # Quest: Thaumic Dendrology
-betterquesting.quest.VJvOr8S8R3SMamYdt0yyFw.name=Thaumic Dendrology
-betterquesting.quest.VJvOr8S8R3SMamYdt0yyFw.desc=Thaumcraft saplings can be quite useful early on, now that you have access to infusion you can create them. Each type has a special trait:%n%n§6§lGolden Oak§r - Drops Golden Apples as opposed to regular Apples.%n%n§c§lNether§r - Creates a miniature nether biome upon placement that can spawn mobs- be careful! Placing the leaves from this tree on top of a block will cause that block to turn into its nether counterpart.%n%n§d§lEnder§r - Creates a miniature end biome upon placement that can also spawn mobs. Placing the leaves from this tree on top of a block will cause that block to turn into its end counterpart. (§3A great source of Endstone§r)%n%n§b§lPeaceful§r - Gathers passive creatures underneath its leaves. The types of animals attracted depends on the biome its planted in.
+betterquesting.quest.VJvOr8S8R3SMamYdt0yyFw.name=Dendrologie thaumique
+betterquesting.quest.VJvOr8S8R3SMamYdt0yyFw.desc=Les pousses de Thaumcraft peuvent être très utiles en début de partie, et maintenant que vous avez accès à l'infusion, vous pouvez les créer. Chaque type a une particularité :%n%n§6§lGolden Oak§r - Donne des pommes dorées au lieu de pommes normales.%n%n§c§lNether§r - Crée à sa pose un biome du Nether miniature où des monstres peuvent apparaître - attention ! Placer les feuilles de cet arbre sur un bloc transforme ce bloc en son équivalent du Nether.%n%n§d§lEnder§r - Crée à sa pose un biome de l'End miniature où des monstres peuvent aussi apparaître. Placer les feuilles de cet arbre sur un bloc transforme ce bloc en son équivalent de l'End. (§3Une excellente source de Pierre de l'End§r)%n%n§b§lPeaceful§r - Rassemble des créatures passives sous ses feuilles. Les types d'animaux attirés dépendent du biome dans lequel il est planté.
 
 # Quest: Keeping Out the Riff-Raff
-betterquesting.quest._N4B3gVMTZOoUdf9--7aPQ.name=Keeping Out the Riff-Raff
-betterquesting.quest._N4B3gVMTZOoUdf9--7aPQ.desc=You're starting to get tired of having to build everything like some kind of fortress just to make sure no unwanted guests come in. Sure, that's just the nature of living in a world where infinite hoards of restless undead haunt every other dark corner, but is having a secure entryway that isn't conveniently door-shaped too much to ask?%n%nNot anymore. Paving Stone of Warding, assuming nothing sits on top of it, will project a two block tall invisible force-field above itself that block non-player mobs from passing through, at least the common riff-raff. As a bonus spiders cannot climb the force-field, so no need for overhangs to keep them out too.%n%nThat said, since the force-field cannot tell an arrow fired by you from one fired §oat you§r, mundane objects will still pass through regardless. And the force-field does as much to block line of sight as the term §oinvisible§r would suggest.%n%nOf course, you're not concerned about that part. Being able to shoot things with your crossbow while they can't reach you is very much in §oyour§r favor, all told.
+betterquesting.quest._N4B3gVMTZOoUdf9--7aPQ.name=Pas de racaille chez moi
+betterquesting.quest._N4B3gVMTZOoUdf9--7aPQ.desc=Vous commencez à en avoir assez de devoir tout construire comme une forteresse pour être sûr qu'aucun invité indésirable n'entre. Certes, c'est la nature même d'un monde où des hordes infinies de morts-vivants agités hantent un recoin sombre sur deux, mais est-ce trop demander qu'une entrée sécurisée qui n'ait pas commodément la forme d'une porte ?%n%nPlus maintenant. La Paving Stone of Warding, tant que rien n'est posé dessus, projette au-dessus d'elle un champ de force invisible haut de deux blocs qui empêche les créatures non joueuses de passer, du moins la racaille ordinaire. En prime, les araignées ne peuvent pas escalader le champ de force, donc pas besoin de surplombs pour les tenir à l'écart non plus.%n%nCela dit, comme le champ de force ne sait pas distinguer une flèche tirée par vous d'une flèche tirée §osur vous§r, les objets ordinaires passent quand même au travers. Et le champ de force bloque la ligne de vue à peu près autant que le terme §oinvisible§r le laisse supposer.%n%nBien sûr, cette partie-là ne vous inquiète pas. Pouvoir tirer sur des choses avec votre arbalète alors qu'elles ne peuvent pas vous atteindre est, tout bien considéré, très à §ovotre§r avantage.
 
 # Quest: Pushing Back the Taint
-betterquesting.quest.aWvML-AaSIyjyNj5ElS4VQ.name=Pushing Back the Taint
-betterquesting.quest.aWvML-AaSIyjyNj5ElS4VQ.desc=So how do you actually destroy tainted land?%n%nThese Ethereal Blooms will remove Tainted Lands within a small area around themselves, which in turn kills off any Fibrous Tendrils. They cannot cleanse Tainted Nodes, nor will they necessarily return tainted biomes back to what they were before, but they will provide a barrier.%n%nThe Shimmerleaf they are made from have a recipe in an LV Assembling Machine if you're having a hard time finding them around Silverwood trees. There is also a CropsNH version of them.
+betterquesting.quest.aWvML-AaSIyjyNj5ElS4VQ.name=Repousser le Taint
+betterquesting.quest.aWvML-AaSIyjyNj5ElS4VQ.desc=Alors, comment détruire réellement les terres corrompues ?%n%nCes Ethereal Blooms éliminent les Tainted Lands dans une petite zone autour d'elles, ce qui tue au passage tout Fibrous Taint. Elles ne peuvent pas purifier les nœuds corrompus, et ne rendent pas forcément aux biomes corrompus leur état d'origine, mais elles forment une barrière.%n%nLes Shimmerleafs dont elles sont faites ont une recette dans un Assembling Machine LV si vous avez du mal à en trouver autour des arbres Silverwood. Il en existe aussi une version CropsNH.
 
 # Quest: Adding More Functions
-betterquesting.quest.ad_fPxg-ThqyyuppTrG1gQ.name=Adding More Functions
-betterquesting.quest.ad_fPxg-ThqyyuppTrG1gQ.desc=One such improvement is the Advanced Redcrystal.%n%nIt allows you to set a threshold with your wand to define how strong a signal needs to be in order to pass through. This can come in handy when checking fill level of tanks or power storage.%n%n[note]One caveat for redstone experts: The Advanced Redcrystal checks the signal strength in the block it is in, not in the previous block like a comparator would.[/note]
+betterquesting.quest.ad_fPxg-ThqyyuppTrG1gQ.name=Ajouter des fonctions
+betterquesting.quest.ad_fPxg-ThqyyuppTrG1gQ.desc=L'une de ces améliorations est l'Advanced Redcrystal.%n%nIl vous permet de définir avec votre baguette un seuil indiquant la puissance que doit avoir un signal pour passer. Cela peut être pratique pour vérifier le niveau de remplissage de réservoirs ou de stockages d'énergie.%n%n[note]Une subtilité pour les experts en redstone : l'Advanced Redcrystal vérifie la puissance du signal dans le bloc où il se trouve, et non dans le bloc précédent comme le ferait un comparateur.[/note]
 
 # Quest: Understanding Wand Progression
-betterquesting.quest.bfrxXr1iSpGQS8iV95nJeA.name=Understanding Wand Progression
-betterquesting.quest.bfrxXr1iSpGQS8iV95nJeA.desc=More advanced Thaumcraft recipes require larger and larger amounts of vis that your initial wands can't handle. You need to progress bit by bit to increase your capabilities. The progression is two-fold:%n%nFirst, you need to craft more advanced wands, the Greatwood Wand is next. And secondly, you need to improve your crafting discounts. They reduce the vis cost of crafts and thus also let you craft higher vis recipes.%n%nIn your progression you will need to rely on both aspects. Better wands and higher discounts. However, as you progress, there are many different ways on how to proceed. Some ways focus more on discounts, others more on wands. Therefore, the questbook can only give you some general advice.%n%nFor example, when making a new wand type, it is always cheapest to first make it with iron caps and then try to improve it afterwards. One way you can improve your wand is by swapping the cores & caps for higher tiers as you unlock them §3(see "Substitution" research)§r. However, if you are able to obtain enough discounts you can directly make the wand with gold caps or better, skipping the iron capped wand altogether.%n%nBut before all these options really open up, let us work on that Greatwood Wand!
+betterquesting.quest.bfrxXr1iSpGQS8iV95nJeA.name=Comprendre la progression des baguettes
+betterquesting.quest.bfrxXr1iSpGQS8iV95nJeA.desc=Les recettes Thaumcraft plus avancées demandent des quantités de vis de plus en plus grandes, que vos premières baguettes ne peuvent pas gérer. Vous devez progresser petit à petit pour accroître vos capacités. La progression se fait sur deux plans :%n%nD'abord, vous devez fabriquer des baguettes plus avancées : la baguette en Greatwood est la prochaine. Ensuite, vous devez améliorer vos réductions de fabrication. Elles diminuent le coût en vis des fabrications et vous permettent donc aussi de réaliser des recettes demandant plus de vis.%n%nAu cours de votre progression, vous devrez vous appuyer sur ces deux aspects : de meilleures baguettes et de plus grandes réductions. Cependant, à mesure que vous avancez, il existe de nombreuses façons de procéder. Certaines misent davantage sur les réductions, d'autres davantage sur les baguettes. Le livre de quêtes ne peut donc vous donner que des conseils généraux.%n%nPar exemple, quand vous fabriquez un nouveau type de baguette, il est toujours moins cher de la fabriquer d'abord avec des embouts en fer, puis d'essayer de l'améliorer ensuite. L'une des façons d'améliorer votre baguette est de remplacer le cœur et les embouts par des tiers supérieurs à mesure que vous les débloquez §3(voir la recherche « Substitution »)§r. Toutefois, si vous parvenez à obtenir assez de réductions, vous pouvez directement fabriquer la baguette avec des embouts en or ou mieux, en sautant complètement la baguette à embouts en fer.%n%nMais avant que toutes ces options s'offrent vraiment à vous, occupons-nous de cette baguette en Greatwood !
 
 # Quest: Essentia Storage
-betterquesting.quest.cbv93MoJQESfsccTQMCwUA.name=Essentia Storage
-betterquesting.quest.cbv93MoJQESfsccTQMCwUA.desc=At long last, you have all the tools to smelt items into Essentia, keep it stable, and store it for later use.%n%nThe last step was creating Warded Jars, relatively simple creations that keep Essentia in a quasi-liquid state, which makes it easier to keep Essentia from turning into Flux. Unlike phials, which must hold 8 Essentia exactly to keep it stable, Warded Jars can store anywhere from 1 to 64 Essentia.%n%nThese Warded Jars are safe to pick up and carry around, which you suspect will not be the case for most objects storing much more Essentia than these jars do. Right-click them with a label to filter that jar to a specific type of Essentia. Use a preset label if the jar is still empty.%n%nSneak-right-click with an empty hand to remove a label from a jar, or void the Essentia it contains if it doesn't have a label. Voiding Essentia from jars will not generate Flux, because... magic, I guess. It's very convenient, so just politely don't question it too much.
+betterquesting.quest.cbv93MoJQESfsccTQMCwUA.name=Stockage d'essentia
+betterquesting.quest.cbv93MoJQESfsccTQMCwUA.desc=Enfin, vous avez tous les outils pour fondre des objets en essentia, la garder stable et la stocker pour plus tard.%n%nLa dernière étape consistait à créer des Warded Jars, des créations relativement simples qui maintiennent l'essentia dans un état quasi liquide, ce qui permet plus facilement d'éviter qu'elle se transforme en Flux. Contrairement aux fioles, qui doivent contenir exactement 8 essentias pour la garder stable, les Warded Jars peuvent en stocker de 1 à 64.%n%nCes Warded Jars peuvent être ramassées et transportées sans danger, ce qui, vous vous en doutez, ne sera pas le cas de la plupart des objets stockant beaucoup plus d'essentia que ces jarres. Faites un clic droit dessus avec une étiquette pour réserver la jarre à un type d'essentia précis. Utilisez une étiquette préréglée si la jarre est encore vide.%n%nFaites un clic droit accroupi main vide pour retirer l'étiquette d'une jarre, ou pour vider l'essentia qu'elle contient si elle n'a pas d'étiquette. Vider l'essentia des jarres ne génère pas de Flux, parce que... la magie, j'imagine. C'est très pratique, alors ne posez pas trop de questions, par politesse.
 
 # Quest: Growing your own Knowledge!
-betterquesting.quest.eWOxG-reT9ewlW0CNXgQNQ.name=Growing your own Knowledge!
-betterquesting.quest.eWOxG-reT9ewlW0CNXgQNQ.desc=Ever thought to yourself "man, why does everything have to use primal aspects so much?" Well now you won't have to worry about that anymore!%n%nMeet the Rosa Mysteria. When the sprout planted on a Crystal Block, it will use that block's essence to grow into an Aspect Shard of the same type! These shards can then be thrown into your Cauldron or Alchemical Furnace, or used as Knowledge Fragments to gain Research Points. Even Mixed Crystals can be used as a catalyst!%n%n[warn]Warning: Planting Rosa Mysteria on Tainted Crystal Blocks will lead to unf§ko§rrs§ke§re§kn   §rco§kn§rs§ke§rq§kue§rnc§ke§r§ks.§r[/warn]
+betterquesting.quest.eWOxG-reT9ewlW0CNXgQNQ.name=Faites pousser votre propre savoir !
+betterquesting.quest.eWOxG-reT9ewlW0CNXgQNQ.desc=Vous êtes-vous déjà dit : « Mais pourquoi faut-il que tout utilise autant d'aspects primaires ? » Eh bien, vous n'aurez plus à vous en soucier !%n%nVoici la Rosa Mysteria. Quand la pousse est plantée sur un bloc de cristal, elle utilise l'essence de ce bloc pour devenir un éclat d'aspect du même type ! Ces éclats peuvent ensuite être jetés dans votre chaudron ou votre Alchemical Furnace, ou servir de Knowledge Fragments pour gagner des points de recherche. Même les cristaux mixtes peuvent servir de catalyseur !%n%n[warn]Attention : planter une Rosa Mysteria sur des blocs de cristal corrompus aura des cons§ké§rqu§ken§rc§kes   §rim§kp§rr§ké§rv§ku§res§k §r§k!.§r[/warn]
 
 # Quest: Solid, Directional Redstone
-betterquesting.quest.fmeCtrL-SNGqaLb208VSiQ.name=Solid, Directional Redstone
-betterquesting.quest.fmeCtrL-SNGqaLb208VSiQ.desc=Redstone Dust is a wonderful substance, but it has several limitations that only true Minecrafters can handle.%n%nLuckily, with a bit of magic the dust crystallizes and becomes much easier to handle.%n%nRedcrystal can be placed directly against a wall or ceiling, and also allows you to use a wand to toggle whether a given side sends/receives any redstone signals. This allows for nice and compact builds in places regular redstone couldn't even exist in the first place.%n%nMaybe it is possible to improve these redcrystals further to allow them to manipulate or process the signal they're receiving in some way...
+betterquesting.quest.fmeCtrL-SNGqaLb208VSiQ.name=De la redstone solide et directionnelle
+betterquesting.quest.fmeCtrL-SNGqaLb208VSiQ.desc=La poudre de redstone est une substance merveilleuse, mais elle a plusieurs limites que seuls les vrais Minecraftiens savent gérer.%n%nHeureusement, avec un peu de magie, la poudre se cristallise et devient bien plus facile à manier.%n%nLe Redcrystal peut être posé directement contre un mur ou un plafond, et vous permet aussi d'utiliser une baguette pour choisir si une face donnée envoie ou reçoit des signaux de redstone. Cela permet des constructions bien compactes, à des endroits où la redstone normale ne pourrait même pas exister.%n%nIl est peut-être possible d'améliorer encore ces Redcrystals pour leur permettre de manipuler ou de traiter d'une manière ou d'une autre le signal qu'ils reçoivent...
 
 # Quest: Alleviating Warp
-betterquesting.quest.gVqhKJAoTfudKA5xUWMzMg.name=Alleviating Warp
-betterquesting.quest.gVqhKJAoTfudKA5xUWMzMg.desc=When you get poisoned or withered a bit of milk solves the problem. Why not create something akin to milk, but for Warp effects?%n%nBriar gives a bit of an answer to that. These two block tall plants, which require good light to grow, will produce Briar Seed Bags when harvested. Those can be combined with sugar and a suitable container in an Arcane Workbench to create Rosehip Syrup.%n%nRosehip Syrup stacks up to 16 and can be used the same as milk, also removing some (though not all) Warp effects as well as Flux Flue and Flux Phage.%n%nThe plant has a strange life cycle where the seed pods will first appear as yellow dots, turn pink as they start to mature, then §odisappear§r, only to return fully matured. Still, if it works, it works.
+betterquesting.quest.gVqhKJAoTfudKA5xUWMzMg.name=Soulager le Warp
+betterquesting.quest.gVqhKJAoTfudKA5xUWMzMg.desc=Quand vous êtes empoisonné ou atteint par le Wither, un peu de lait règle le problème. Pourquoi ne pas créer quelque chose d'équivalent au lait, mais pour les effets de Warp ?%n%nLe Briar apporte un début de réponse. Ces plantes hautes de deux blocs, qui ont besoin d'une bonne luminosité pour pousser, produisent des Briar Seed Bags une fois récoltées. On peut les combiner avec du sucre et un récipient adapté dans un Établi arcanique pour créer du Rosehip Syrup.%n%nLe Rosehip Syrup s'empile par 16 et s'utilise comme le lait, en supprimant aussi certains effets de Warp (mais pas tous) ainsi que Flux Flu et Flux Phage.%n%nLa plante a un cycle de vie étrange : les gousses apparaissent d'abord sous forme de points jaunes, deviennent roses en mûrissant, puis §odisparaissent§r, avant de revenir à pleine maturité. Enfin, si ça marche, ça marche.
 
 # Quest: Counting Items
-betterquesting.quest.jvbdUzcgTfGX820wUPhxCQ.name=Counting Items
-betterquesting.quest.jvbdUzcgTfGX820wUPhxCQ.desc=The Remote Comparator makes it significantly easier to get comparator signals out of whatever block you want, but looking at your storage chests you can't help but see no reason to bother. So what if they're nearly full? You want to know what they're nearly full §oof§r.%n%nTally Boxes can be pointed at a container - either directly or, using a Remote Comparator, remotely - and given a Runic Whitelist that specifies conditions where you want a Tally Box to send a redstone signal. Quantity, metadata and NBT matching are options, as is using a basic name filter.%n%nNote that the redstone side is always opposite the reading side, and Remote Comparators must be placed on top of Tally Boxes to work together, meaning redstone is always output on the down face in that case.%n%n[note]Runic Whitelists don't let you use NEI ghost items to set their filters, unfortunately.[/note]
+betterquesting.quest.jvbdUzcgTfGX820wUPhxCQ.name=Compter les objets
+betterquesting.quest.jvbdUzcgTfGX820wUPhxCQ.desc=Le Remote Comparator facilite grandement l'obtention de signaux de comparateur depuis n'importe quel bloc, mais en regardant vos coffres de stockage, vous ne voyez vraiment pas l'intérêt. Et alors, s'ils sont presque pleins ? Ce que vous voulez savoir, c'est presque pleins §ode quoi§r.%n%nLes Tally Boxes peuvent être orientées vers un conteneur - soit directement, soit à distance à l'aide d'un Remote Comparator - et recevoir une Runic Whitelist qui précise les conditions dans lesquelles la Tally Box doit envoyer un signal de redstone. La quantité, les métadonnées et la correspondance NBT sont disponibles comme options, tout comme un simple filtre par nom.%n%nNotez que la face de redstone est toujours à l'opposé de la face de lecture, et que les Remote Comparators doivent être placés au-dessus des Tally Boxes pour fonctionner ensemble, ce qui signifie que la redstone sort alors toujours par la face du dessous.%n%n[note]Malheureusement, les Runic Whitelists ne permettent pas d'utiliser les objets fantômes de NEI pour définir leurs filtres.[/note]
 
 # Quest: Magical Plants
-betterquesting.quest.oNdPEYVuQc2t0oqunOovUg.name=Magical Plants
-betterquesting.quest.oNdPEYVuQc2t0oqunOovUg.desc=Now that you've made a crucible you can create a bunch of unique Thaumcraft plants. Some of these are incredibly useful so you'll want to take a close look.%n%nThe research for most of these can be found under Thaumic Bases, starting with "Thaumic Nature".%n%n[note]Aside from these, there are more plant types unlocked in the future as you continue to progress.[/note]
+betterquesting.quest.oNdPEYVuQc2t0oqunOovUg.name=Plantes magiques
+betterquesting.quest.oNdPEYVuQc2t0oqunOovUg.desc=Maintenant que vous avez fabriqué un Crucible, vous pouvez créer tout un tas de plantes Thaumcraft uniques. Certaines sont incroyablement utiles, vous voudrez donc les examiner de près.%n%nLes recherches de la plupart d'entre elles se trouvent dans Thaumic Bases, en commençant par « Thaumic Nature ».%n%n[note]En dehors de celles-ci, d'autres types de plantes se débloqueront plus tard au fil de votre progression.[/note]
 
 # Quest: Tube Madness
-betterquesting.quest.xoH_knd-RV-22QEfLUtuDA.name=Tube Madness
-betterquesting.quest.xoH_knd-RV-22QEfLUtuDA.desc=So you want to move essentia from your Alchemical furnace to your warded Jars without getting it all gunked up with different essentia types?%n%nWell you came to the right place, with the use of buffered tubes and your handy wand you can move your essentia in tubes to fill all your jars without having to manually break and replace one jar at a time.%n%nTo create a simple setup place the buffered tubes in a main line from your Arcane Alembic with tubes coming out of the main buffered tube line. These standard tubes will then go directly into a warded jar. To get the essentia to flow correctly into the buffered tubes, shift-right-click the output side of the buffered tube with your wand until it is red. This will change the band to a red band which will limit the suction of the Essentia.%n%nThe Essentia will be forced from the buffered tube to a normal tube then into your Warded jars. Chain your buffered tubes as needed until all your Warded Jars will fit.%n§4%nNote: This system will get gunked up with essentia if any of your Warded Jars are full!%n%n§rIf you would like more information please check out the guide 'A Thaumaturge Guide to Laying Pipe' by xlstadal for more in-depth Thaumcraft 4 Tube knowledge.%n%n§9§n[url]https://docs.google.com/document/d/1fMvJ5HbeOdy4UgBMe47cggis02idxWoMDgK81SgowEo[/url]§r
+betterquesting.quest.xoH_knd-RV-22QEfLUtuDA.name=La folie des tubes
+betterquesting.quest.xoH_knd-RV-22QEfLUtuDA.desc=Alors, vous voulez déplacer l'essentia de votre Alchemical Furnace vers vos Warded Jars sans que tout soit encrassé par différents types d'essentia ?%n%nVous êtes au bon endroit : grâce aux Essentia Buffers et à votre fidèle baguette, vous pouvez faire circuler votre essentia dans des tubes pour remplir toutes vos jarres sans avoir à casser et replacer manuellement une jarre à la fois.%n%nPour une installation simple, placez les Essentia Buffers en une ligne principale partant de votre Arcane Alembic, avec des tubes qui partent de cette ligne principale de buffers. Ces tubes standards iront ensuite directement dans une Warded Jar. Pour que l'essentia s'écoule correctement dans les buffers, faites Maj + clic droit avec votre baguette sur la face de sortie du buffer jusqu'à ce qu'elle soit rouge. La bande deviendra alors rouge, ce qui limitera l'aspiration de l'essentia.%n%nL'essentia sera alors poussée du buffer vers un tube normal, puis dans vos Warded Jars. Enchaînez vos buffers autant que nécessaire pour desservir toutes vos Warded Jars.%n§4%nNote : ce système s'encrassera d'essentia si l'une de vos Warded Jars est pleine !%n%n§rSi vous voulez plus d'informations, consultez le guide 'A Thaumaturge Guide to Laying Pipe' de xlstadal pour des connaissances plus approfondies sur les tubes de Thaumcraft 4.%n%n§9§n[url]https://docs.google.com/document/d/1fMvJ5HbeOdy4UgBMe47cggis02idxWoMDgK81SgowEo[/url]§r
 
 # Quest: Infinite Durability
-betterquesting.quest.yT18iStZRzKem7FYnZoRzw.name=Infinite Durability
-betterquesting.quest.yT18iStZRzKem7FYnZoRzw.desc=Pipe some liquid Instrumentum into this bad boy and you can repair anything with Vanilla durability!%n%n§3[note]Doesn't work on Blood Magic potions, TiC tools, GT tools and tools with charge. Every point of Instrumentum equals eight points of durability.[/note]
+betterquesting.quest.yT18iStZRzKem7FYnZoRzw.name=Durabilité infinie
+betterquesting.quest.yT18iStZRzKem7FYnZoRzw.desc=Envoyez par tuyau de l'Instrumentum liquide dans cette petite merveille et vous pourrez réparer n'importe quoi doté d'une durabilité vanilla !%n%n§3[note]Ne fonctionne pas sur les potions de Blood Magic, les outils TiC, les outils GT ni les outils à charge. Chaque point d'Instrumentum équivaut à huit points de durabilité.[/note]
 
 
 ## Quest Line: Adept Thaumaturgy
