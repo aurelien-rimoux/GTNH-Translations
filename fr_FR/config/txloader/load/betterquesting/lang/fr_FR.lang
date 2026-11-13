@@ -13795,340 +13795,340 @@ betterquesting.quest.s4B77B7FSamWlvHY8hfqqA.desc=The Mark of the Falling Tower i
 
 
 ## Quest Line: Kill All the Things
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAJQ.name=Kill All the Things
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAJQ.desc=This world is full of nasty things. Time to kill some and improve your reputation.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAJQ.name=Tuez-les tous
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAJQ.desc=Ce monde est rempli de saletés. Il est temps d'en tuer quelques-unes et d'améliorer votre réputation.
 
 # Quest: Time To Kill (Crimson Knight)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=Time To Kill (Crimson Knight)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=I can feel it. Yess. Yeeeess. We will gain more power nigh. Nigh! Yes. My precious. The voices gave me a hint, there is a dimension filled with unbelievable sources of magic energy. I must go there. I must! The crimson people know the secret. I will rip them aparrrt... They will tell me!%n%n§3NOTE: The Knights are spawned by the Clerics, but the Clerics DO NOT RESPAWN after killed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=Il est temps de tuer (Crimson Knight)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=Je le sens. Ouiii. Ouiiiiii. Nous allons bientôt gagner plus de pouvoir. Bientôt ! Oui. Mon précieux. Les voix m'ont soufflé un indice : il existe une dimension remplie de sources incroyables d'énergie magique. Je dois y aller. Il le faut ! Les gens écarlates connaissent le secret. Je vais les mettre en pièèèces... Ils me le diront !%n%n§3REMARQUE : les Knights sont invoqués par les Clerics, mais les Clerics NE RÉAPPARAISSENT PAS une fois tués.
 
 # Quest: Kill Baba Yaga
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.name=Kill Baba Yaga
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.desc=Baba Yaga is a witch (or one of a trio of sisters of the same name), who appears as a deformed and/or ferocious-looking elderly woman. She flies around in a mortar and wields a pestle. She dwells deep in the forest, in a hut usually described as standing on chicken legs, with a fence decorated with human skulls. Baba Yaga may help or hinder those that encounter or seek her out.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.name=Tuer Baba Yaga
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.desc=Baba Yaga est une sorcière (ou l'une des trois sœurs du même nom) qui apparaît sous les traits d'une vieille femme difforme et/ou à l'air féroce. Elle vole dans un mortier et brandit un pilon. Elle vit au plus profond de la forêt, dans une cabane généralement décrite comme dressée sur des pattes de poulet, entourée d'une clôture décorée de crânes humains. Baba Yaga peut aider ou entraver ceux qui la croisent ou la recherchent.
 
 # Quest: Kill Horned Huntsman
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.name=Kill Horned Huntsman
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.desc=A Horned Huntsman is a member of the Wild Hunt, a powerful entity created by the Horned God. If one is encountered, either prepare for a hard fight, or flee.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.name=Tuer le Horned Huntsman
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.desc=Le Horned Huntsman est un membre de la Chasse sauvage, une puissante entité créée par le Dieu cornu. Si vous en croisez un, préparez-vous à un combat difficile, ou fuyez.
 
 # Quest: Kill Ender Dragon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkA.name=Kill Ender Dragon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkA.desc=The dragon must die. Long enough has she destroyed those precious endstone blocks!%n%n[note]PS: Hold shift and whack it with a vanilla sword.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkA.name=Tuer l'Ender Dragon
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkA.desc=Le dragon doit mourir. Il a détruit ces précieux blocs de pierre de l'End depuis bien trop longtemps !%n%n[note]PS : maintenez Maj et frappez-le avec une épée vanilla.[/note]
 
 # Quest: Kill Shade of Leonard
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=Kill Shade of Leonard
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=Leonard is the demonic being who is rumored to have taught a cadre of German witches their trade, and often presided over their sabbats. A skilled coven with the witches cauldron can summon a Shade of the Demon according to the method described in the Witches' Brews book.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=Tuer le Shade of Leonard
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=Leonard est l'être démoniaque qui aurait, dit-on, enseigné leur art à un groupe de sorcières allemandes, et qui présidait souvent leurs sabbats. Un coven expérimenté disposant du chaudron de sorcière peut invoquer une ombre de ce démon selon la méthode décrite dans le livre Witches' Brews.
 
 # Quest: Kill Lord of Tormentum
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=Kill Lord of Tormentum
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=A Lord of Torment is a mighty demonic being that is able to create prisons to torment its victims. Those foolish enough to summon one of these creatures must prepare for an arduous fight.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=Tuer le Lord of Torment
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=Un Lord of Torment est un puissant être démoniaque capable de créer des prisons pour tourmenter ses victimes. Ceux qui sont assez fous pour invoquer l'une de ces créatures doivent se préparer à un combat acharné.
 
 # Quest: Kill Mog and Gulg
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=Kill Mog and Gulg
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=Mog and Gulg are the god-like beings that hobgoblins worship. They may send their avatars to pay witches a visit who exploit their worship (with a statue of hobgoblin patron). Rumor has it that using a nether star may make them take immediate notice.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=Tuer Mog et Gulg
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=Mog et Gulg sont les êtres quasi divins que vénèrent les Hobgoblins. Ils peuvent envoyer leurs avatars rendre visite aux sorcières qui exploitent ce culte (avec une statue du patron des Hobgoblins). La rumeur dit qu'utiliser une Nether Star attirerait immédiatement leur attention.
 
 # Quest: Kill Demon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=Kill Demon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=Demons are powerful, evil beings who dwell in the infernal dimensions. To date, none have been seen roaming the Nether, where their minions: ghasts, blazes, and their ilk seem to dominate. To meet a demon without a way to protect oneself is almost certain death. They are known to hit like a proverbial truck, and require a significant amount of damage to kill. Some demons have even been seen shooting fireballs! They are, of course, also immune to fire.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=Tuer un Demon
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=Les Demons sont des êtres puissants et maléfiques qui habitent les dimensions infernales. À ce jour, aucun n'a été vu errant dans le Nether, où leurs sbires (ghasts, blazes et consorts) semblent dominer. Affronter un Demon sans moyen de se protéger, c'est la mort quasi assurée. Ils frappent comme un camion lancé à pleine vitesse et il faut leur infliger énormément de dégâts pour les tuer. On en a même vu lancer des boules de feu ! Et ils sont, bien sûr, immunisés contre le feu.
 
 # Quest: The Power of Infinity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=The Power of Infinity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=You've mastered everything possible. And now it's time to give your equipment the final boost. The infinity egg is just the right addition to your altar. It's quite expensive, but well worth the cost.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=La puissance de l'infini
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=Vous avez maîtrisé tout ce qui était possible. Il est maintenant temps de donner à votre équipement le coup de pouce final. L'Infinity Egg est l'ajout idéal pour votre autel. Il coûte assez cher, mais il en vaut largement la peine.
 
 # Quest: Time to Kill (Witch)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACGQ.name=Time to Kill (Witch)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACGQ.desc=Witches bring stitches because they are always infernal and very dangerous. Be careful since they throw potions at you.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACGQ.name=Il est temps de tuer (Sorcière)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACGQ.desc=Les sorcières, c'est toujours infernal et très dangereux. Faites attention, elles vous lancent des potions.
 
 # Quest: Time to Kill (Wither Skeleton)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.name=Time to Kill (Wither Skeleton)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.desc=Gimme yo §oSkuuuuull!!!§r <-- The thought of every non-noob player upon seeing one.%n%nBTW, in case you didn't know, you can summon the Wither by placing 4 soul sand blocks in a T shape, with 3 wither skulls on top. Don't do so in your base.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.name=Il est temps de tuer (Squelette Wither)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.desc=Donne-moi ton §oCrââââââne !!!§r <-- La pensée de tout joueur non débutant qui en croise un.%n%nAu passage, si vous ne le saviez pas, vous pouvez invoquer le Wither en plaçant 4 blocs de sable des âmes en forme de T, surmontés de 3 crânes de Wither. Ne le faites pas dans votre base.
 
 # Quest: Slay the Eyes!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACXQ.name=Slay the Eyes!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACXQ.desc=Find and kill Ender-Eyes, that guard the Towers.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACXQ.name=Abattez les yeux !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACXQ.desc=Trouvez et tuez les Ender Eyes qui gardent les tours.
 
 # Quest: Ender Guardians
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACXg.name=Ender Guardians
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACXg.desc=Well if you've decided to grind then do it... Kill some of the guardians.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACXg.desc=Bon, si vous avez décidé de farmer, alors allez-y... Tuez quelques-uns de ces gardiens.
 
 # Quest: Slay the Dragon. (Again)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACXw.name=Slay the Dragon. (Again)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACXw.desc=If you're bored, you could resurrect the dragon. Or, you can find a chaos dragon, if you dare. Anyway, kill one of those, and you'll be well rewarded.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACXw.name=Terrassez le dragon. (Encore)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACXw.desc=Si vous vous ennuyez, vous pouvez ressusciter le dragon. Ou bien trouver un Chaos Guardian, si vous l'osez. Quoi qu'il en soit, tuez l'un des deux et vous serez bien récompensé.
 
 # Quest: Time to Kill (Ghast)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2Q.name=Time to Kill (Ghast)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2Q.desc=They shoot you with explosive fireballs but they are weak when you hit them or knock the fireballs back with a weapon. Better upgrade your armor with fire and blast protection.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2Q.name=Il est temps de tuer (Ghast)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2Q.desc=Ils vous tirent dessus avec des boules de feu explosives, mais ils sont fragiles quand vous les frappez ou que vous leur renvoyez leurs boules de feu avec une arme. Mieux vaut améliorer votre armure avec Protection contre le feu et Protection contre les explosions.
 
 # Quest: Don't Look it in the Eyes!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADhA.name=Don't Look it in the Eyes!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADhA.desc=Bad things may happen if this creature is allowed to stay alive. The ores in its cave being valuable have nothing to do with why you need to kill it. Seriously.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADhA.name=Ne le regardez pas dans les yeux !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADhA.desc=Il pourrait se passer de vilaines choses si on laisse cette créature en vie. Le fait que les minerais de sa caverne aient de la valeur n'a rien à voir avec la raison pour laquelle vous devez la tuer. Sérieusement.
 
 # Quest: I Don't Even...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADhQ.name=I Don't Even...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADhQ.desc=OK so there is this maze. And there are... minotaurs. But what in the world is a minoshroom?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADhQ.name=Je ne sais même pas...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADhQ.desc=Bon, alors il y a ce labyrinthe. Et il y a des... minotaures. Mais qu'est-ce que c'est que ce truc, un Minoshroom ?
 
 # Quest: A Big Ugly Snake
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.name=A Big Ugly Snake
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.desc=Required for your first wand, and in general, an ugly creature.%n%n[note]To progress in TF, you need to follow the achievements. They can be finicky, so make sure to check if you got the achievement each time. If not, try to drop and pickup everything that dropped from the bosses.[/note]%n%n[note]If you have problems completing the quest, you can also use the Spawn Eggs from the Vending Machine to try again.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.name=Un gros serpent moche
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.desc=Nécessaire pour votre première baguette, et de manière générale, une créature bien moche.%n%n[note]Pour progresser dans la TF, vous devez suivre les succès. Ils peuvent être capricieux, alors vérifiez à chaque fois que vous avez bien obtenu le succès. Sinon, essayez de jeter puis de ramasser tout ce que les boss ont laissé tomber.[/note]%n%n[note]Si vous avez du mal à accomplir la quête, vous pouvez aussi utiliser les œufs d'apparition de la Vending Machine pour réessayer.[/note]
 
 # Quest: Adventure Time!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.name=Adventure Time!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.desc=Stop him before he makes his wish at Prismos'!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.name=C'est l'heure de l'aventure !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.desc=Arrêtez-le avant qu'il ne fasse son vœu chez Prismo !
 
 # Quest: Who Ya Gonna Call?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiA.name=Who Ya Gonna Call?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiA.desc=Phantom Busters! Or wait... Ah whatever. They drop good armor by the way.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiA.name=Qui allez-vous appeler ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiA.desc=S.O.S. Phantoms ! Ou attendez... Ah, peu importe. Au passage, ils lâchent une bonne armure.
 
 # Quest: The Big Fluffy Crybaby
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.name=The Big Fluffy Crybaby
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=It flies, it makes funny sounds, and... IT'S SO FLUFFY! Well, kill it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.name=Le gros pleurnichard tout duveteux
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=Ça vole, ça fait des bruits rigolos, et... C'EST TELLEMENT DUVETEUX ! Bon, tuez-le.
 
 # Quest: Let Her Go
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=Let Her Go
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=It seems the cold doesn't bother her. Committed crimes: None. But... you know... you have to progress somehow...%n%n[note]PS: Keep going.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=Libérée, délivrée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=On dirait que le froid ne la dérange pas. Crimes commis : aucun. Mais... vous savez... il faut bien progresser d'une manière ou d'une autre...%n%n[note]PS : Continuez.[/note]
 
 # Quest: Yeti. Alpha, Yeti.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=Yeti. Alpha, Yeti.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=Wanted: Alpha Yeti, Dead.%nCommitted crimes: Violently throwing ice at people, for no reason.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=Recherché : Alpha Yeti, mort.%nCrimes commis : lancer violemment de la glace sur les gens, sans raison.
 
 # Quest: Secret: A Nice....
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.name=Secret: A Nice....
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=Hey, you! I want that lamp. I have something for you in return. You don't need it anyways, do you?%n%n[note]If you want the TF achievement, get that first.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.name=Secret : Une jolie....
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=Hé, vous ! Je veux cette lampe. J'ai quelque chose pour vous en échange. Vous n'en avez pas besoin de toute façon, si ?%n%n[note]Si vous voulez le succès de la TF, obtenez-le d'abord.[/note]
 
 # Quest: Time to Kill (Creeper)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=Time to Kill (Creeper)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=Who hasn't experienced this...? You're just minding your own business, mining a few diamonds, and suddenly, you wake up in your bed, all your items gone.%n%nTime to strike back!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=Il est temps de tuer (Creeper)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=Qui n'a jamais vécu ça... ? Vous êtes tranquillement en train de miner quelques diamants, et soudain, vous vous réveillez dans votre lit, sans plus aucun objet.%n%nL'heure de la revanche a sonné !
 
 # Quest: Time to Kill (Pigman)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=Time to Kill (Pigman)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc="Zombie Pigman"? What the hell is going on with you zombies?! Maybe you should encase your animals better at night...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=Il est temps de tuer (Cochon zombie)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=« Cochon zombie » ? Mais qu'est-ce qui vous prend, les zombies ?! Vous devriez peut-être mieux enfermer vos animaux la nuit...
 
 # Quest: Time to Kill (Spiders)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjw.name=Time to Kill (Spiders)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjw.desc=Eeeek! Wall climbing monsters, gross! Slay them. Quickly! Watch out for the witch spiders, they can give as good as they get.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjw.name=Il est temps de tuer (Araignées)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjw.desc=Beurk ! Des monstres qui grimpent aux murs, dégoûtant ! Abattez-les. Vite ! Méfiez-vous des Witch Spiders, elles savent rendre coup pour coup.
 
 # Quest: Time to Kill (Skeleton)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=Time to Kill (Skeleton)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen.%n%nHint: Arrows are an excellent source of telum.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=Il est temps de tuer (Squelette)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=Les flèches, c'est sympa, quand c'est vous qui les tirez. Si l'une d'elles vous touche, eh bien, il arrive de vilaines choses.%n%nAstuce : les flèches sont une excellente source de Telum.
 
 # Quest: Time to Kill (Blaze)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkQ.name=Time to Kill (Blaze)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkQ.desc=You should be careful with this task. Fire protection is highly recommended.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkQ.name=Il est temps de tuer (Blaze)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkQ.desc=Soyez prudent avec cette tâche. Une protection contre le feu est vivement recommandée.
 
 # Quest: Time to Kill (Zombie)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkg.name=Time to Kill (Zombie)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkg.desc=Nobody knows who they are, or where they came from. They're just annoying at night, and too stupid to make a crafting table.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkg.name=Il est temps de tuer (Zombie)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkg.desc=Personne ne sait qui ils sont ni d'où ils viennent. Ils sont juste agaçants la nuit, et trop bêtes pour fabriquer un établi.
 
 # Quest: Time to Kill (Enderman)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkw.name=Time to Kill (Enderman)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkw.desc=Uh, fancy teleport pearls. You need them. All of them. Now!%n%n[note]PS: Top is regular enderman, bottom is special mob's version. Complete one set. Blame SM for their method of creating new endermen types for this. HEE ones like angry don't count.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkw.name=Il est temps de tuer (Enderman)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkw.desc=Oh, de jolies perles de téléportation. Il vous les faut. Toutes. Maintenant !%n%n[note]PS : en haut, l'Enderman normal ; en bas, la version de Special Mobs. Complétez une seule des deux séries. Reprochez à SM sa méthode de création de nouveaux types d'Endermen pour ça. Ceux de HEE, comme l'Angry Enderman, ne comptent pas.[/note]
 
 # Quest: Time to Kill (Wither)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlA.name=Time to Kill (Wither)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlA.desc=After collecting a couple of those wither skeleton heads, you feel like you could use some more action. So why not kill a wither? You'll need a ton of nether stars anyway...%n%nKill it twice for something nice.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlA.name=Il est temps de tuer (Wither)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlA.desc=Après avoir collecté quelques têtes de Squelette Wither, vous avez envie d'un peu plus d'action. Alors pourquoi ne pas tuer un Wither ? De toute façon, il vous faudra une tonne de Nether Stars...%n%nTuez-le deux fois pour une jolie surprise.
 
 # Quest: Secret: The Trade For Life
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlQ.name=Secret: The Trade For Life
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlQ.desc=You have been busy my friend. I have something for you. Give me your hearts, and I will magically enhance them so you can actually use them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlQ.name=Secret : L'échange pour la vie
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlQ.desc=Vous n'avez pas chômé, mon ami. J'ai quelque chose pour vous. Donnez-moi vos cœurs, et je les améliorerai par magie pour que vous puissiez vraiment vous en servir.
 
 # Quest: Skeleton: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlg.name=Skeleton: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlg.desc=In order to advance to a higher tier and reach Mars, Deimos and Phobos, you need to make yourself a better rocket. There are rumors that an Evolved Skeleton hiding out on the Moon has the schematics of such a device.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlg.name=Squelette : version évoluée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlg.desc=Pour passer au tier supérieur et atteindre Mars, Deimos et Phobos, vous devez vous fabriquer une meilleure fusée. La rumeur dit qu'un Evolved Skeleton caché sur la Lune possède les schémas d'un tel engin.
 
 # Quest: Creeper: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.name=Creeper: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.desc=Not that regular creepers are nasty enough, no. There is an evolved creeper boss! He is your key (Well he HAS a key...) to reach the next tier of planets (Asteroid Belt, Ceres, Io, Europa, Ganymede, Callisto).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.name=Creeper : version évoluée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADlw.desc=Comme si les creepers normaux n'étaient pas assez méchants... Non. Il existe un boss Evolved Creeper ! C'est votre clé (enfin, il A une clé...) pour atteindre le tier suivant de planètes (ceinture d'astéroïdes, Cérès, Io, Europe, Ganymède, Callisto).
 
 # Quest: Blaze: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADmA.name=Blaze: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADmA.desc=In order to proceed to Tier 4 Planets, the blaze boss needs to be killed. Find him in one of the dungeons on Ceres.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADmA.name=Blaze : version évoluée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADmA.desc=Pour accéder aux planètes de tier 4, il faut tuer le boss Blaze. Vous le trouverez dans l'un des donjons de Cérès.
 
 # Quest: Ghast: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADmQ.name=Ghast: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADmQ.desc=Fluffy, fluffier, ghasts! And also big crybabies. This one hides in a dungeon on IO, and holds the key for Tier 5 planets.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADmQ.name=Ghast : version évoluée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADmQ.desc=Duveteux, plus duveteux, les ghasts ! Et aussi de gros pleurnichards. Celui-ci se cache dans un donjon sur Io et détient la clé des planètes de tier 5.
 
 # Quest: Crystal Boss: Ayyy... Wait, What?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADmg.name=Crystal Boss: Ayyy... Wait, What?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADmg.desc=Seriously, a crystal boss? Anyway, it's your key to Tier 6 planets, and he lurks around on Enceladus.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADmg.name=Boss de cristal : Ayyy... Attendez, quoi ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADmg.desc=Sérieusement, un boss de cristal ? Bref, c'est votre clé pour les planètes de tier 6, et il rôde sur Encelade.
 
 # Quest: Slime: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADmw.name=Slime: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADmw.desc=Totally looks like a thaumic slime to me. Don't you think so? Find this dude on Proteus.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADmw.name=Slime : version évoluée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADmw.desc=On dirait franchement un Thaumic Slime. Vous ne trouvez pas ? Trouvez ce gaillard sur Protée.
 
 # Quest: Wolf: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADnA.name=Wolf: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADnA.desc=The final frontier... A... wolf that is not even an Iron Maiden fan?... What did you expect, a super boss? Heh. No. The budget was too tight...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADnA.name=Loup : version évoluée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADnA.desc=L'ultime frontière... Un... loup qui n'est même pas fan d'Iron Maiden ?... Vous vous attendiez à quoi, un super boss ? Héhé. Non. Le budget était trop serré...
 
 # Quest: Killing: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADnQ.name=Killing: Evolved
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADnQ.desc=I guess you're good at killing things, huh? And if you got this far, maybe making things too?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADnQ.name=Massacre : version évoluée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADnQ.desc=J'imagine que vous êtes doué pour tuer des choses, hein ? Et si vous êtes arrivé jusqu'ici, peut-être aussi pour en fabriquer ?
 
 # Quest: Time to Kill (Bat)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGQ.name=Time to Kill (Bat)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGQ.desc=...Did you expect a raid boss of some kind? If you count the number of bats you'll encounter and kill, then probably yes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGQ.name=Il est temps de tuer (Chauve-souris)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGQ.desc=...Vous vous attendiez à une sorte de boss de raid ? Si l'on compte le nombre de chauves-souris que vous croiserez et tuerez, alors oui, sans doute.
 
 # Quest: Time to Kill (Dire Wolf)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGg.name=Time to Kill (Dire Wolf)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGg.desc=This kind of wolf does not take kindly to you marching close to them or offering them bones! Neutral at first, but extremely hostile upon approaching close to them and dangerous. They'll rip the bones right off ya! Found within snowy forest biomes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGg.name=Il est temps de tuer (Loup Garou)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGg.desc=Ce genre de loup n'apprécie pas du tout que vous vous approchiez de lui ou que vous lui offriez des os ! Neutre au début, il devient extrêmement hostile et dangereux dès qu'on s'en approche de trop près. Il vous arrachera les os ! On le trouve dans les biomes de forêt enneigée.
 
 # Quest: Time to Kill (Hellhound)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGw.name=Time to Kill (Hellhound)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGw.desc=Aggressive and can apply fire, although not a fast enemy either. Recommendation, avoid melee combat and offerings of bones.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGw.name=Il est temps de tuer (Hellhound)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIGw.desc=Agressif et capable d'enflammer, mais pas très rapide non plus. Conseil : évitez le corps à corps et les offrandes d'os.
 
 # Quest: Time to Kill (Magma Cube)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHA.name=Time to Kill (Magma Cube)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHA.desc=Now a Hell version of your slime! Always appears with Infernal status.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHA.name=Il est temps de tuer (Cube de magma)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHA.desc=Voici la version infernale de votre slime ! Il apparaît toujours avec le statut Infernal.
 
 # Quest: Time to Kill (Slime)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHQ.name=Time to Kill (Slime)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHQ.desc=Sticky and bouncy! Now in many variations. Say hello to my little friend, Lemon Slice!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHQ.name=Il est temps de tuer (Slime)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHQ.desc=Collant et rebondissant ! Désormais en de nombreuses variantes. Dites bonjour à mon petit ami, Lemon Slice !
 
 # Quest: Time to Kill (Silverfish)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHg.name=Time to Kill (Silverfish)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHg.desc=Be wary, they like to disguise and clone themselves in stone-related blocks! (Applies to Vanilla blocks only) Can be found within dungeons and hills. Can also be found in Drowning Creeper spawned cobblestone blocks.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHg.name=Il est temps de tuer (Poisson d'argent)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHg.desc=Méfiez-vous, ils aiment se déguiser et se cloner dans les blocs à base de pierre ! (Ne s'applique qu'aux blocs vanilla.) On les trouve dans les donjons et les collines. On peut aussi les trouver dans les blocs de pierre taillée générés par les Drowning Creepers.
 
 # Quest: Hey is That a Friendly Bumblebee?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHw.name=Hey is That a Friendly Bumblebee?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHw.desc=Aieee, no it's not, it's a nether wasp, kill it kill it kill it!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHw.name=Hé, ce serait pas un gentil bourdon ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIHw.desc=Aaaah, non, pas du tout, c'est une guêpe du Nether, tuez-la, tuez-la, tuez-la !
 
 # Quest: Hail to the King
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIPw.name=Hail to the King
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIPw.desc=If you get lucky, you might find a King Slime in your travels. Kill it and I'll give you a really nice replacement head for one of your tools.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIPw.name=Longue vie au roi
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIPw.desc=Avec un peu de chance, vous croiserez peut-être un King Slime au cours de vos voyages. Tuez-le et je vous donnerai une très belle tête de remplacement pour l'un de vos outils.
 
 # Quest: Time to Kill (Fire Golem)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-A.name=Time to Kill (Fire Golem)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-A.desc=Oh you fell out of the world, I'm sorry. Try again.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-A.name=Il est temps de tuer (Fire Golem)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-A.desc=Oh, vous êtes tombé hors du monde, désolé. Réessayez.
 
 # Quest: Time to kill (Haunted Miners)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-Q.name=Time to kill (Haunted Miners)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-Q.desc=Haunted miners are the flying fire devils. They shoot you into the abyss with their bazookas.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-Q.name=Il est temps de tuer (Haunted Miners)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-Q.desc=Les Haunted Miners sont des diables de feu volants. Ils vous expédient dans l'abîme avec leurs bazookas.
 
 # Quest: Time to Kill (Louse)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-g.name=Time to Kill (Louse)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-g.desc=Bugs everywhere! These damned bastards! Better run away quickly.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-g.name=Il est temps de tuer (Louse)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-g.desc=Des bestioles partout ! Ces satanées saletés ! Mieux vaut vite prendre la fuite.
 
 # Quest: Time to Kill (Scorching Lens)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9w.name=Time to Kill (Scorching Lens)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9w.desc=They live on a fiery island in the end and spit at you with fireballs. Better run for your life.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9w.name=Il est temps de tuer (Scorching Lens)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9w.desc=Elles vivent sur une île de feu dans l'End et vous crachent des boules de feu. Mieux vaut courir pour sauver votre peau.
 
 # Quest: Time to Kill (Sheep)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiA.name=Time to Kill (Sheep)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiA.desc=Oh no, not the poor sheep! Fluffy and red, I'm so sad.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiA.name=Il est temps de tuer (Mouton)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiA.desc=Oh non, pas ce pauvre mouton ! Tout doux et tout rouge, je suis si triste.
 
 # Quest: Time to Kill (Cow)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiQ.name=Time to Kill (Cow)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiQ.desc=I think I need a new leather coat. Let's slaughter a few cows.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiQ.name=Il est temps de tuer (Vache)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiQ.desc=Je crois qu'il me faut un nouveau manteau en cuir. Allons abattre quelques vaches.
 
 # Quest: Time to Kill (Pig)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJig.name=Time to Kill (Pig)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJig.desc=Mmm... turn on the grill. We need more meat.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJig.name=Il est temps de tuer (Cochon)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJig.desc=Mmm... allumez le barbecue. Il nous faut plus de viande.
 
 # Quest: Time to Kill (Chicken)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiw.name=Time to Kill (Chicken)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiw.desc=Screaming doesn't help. You're going in the soup.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiw.name=Il est temps de tuer (Poulet)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJiw.desc=Crier ne sert à rien. Tu finis dans la soupe.
 
 # Quest: Time to Kill (Squid)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjQ.name=Time to Kill (Squid)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjQ.desc=Delicious squid. We're making Tom Yum seafood.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjQ.name=Il est temps de tuer (Poulpe)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjQ.desc=Délicieux poulpe. On va faire une soupe Tom Yum aux fruits de mer.
 
 # Quest: Time to Kill (Bighorn Sheep)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALEA.name=Time to Kill (Bighorn Sheep)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALEA.desc=Oh no, not the poor bighorn sheep! Fluffy and red, I'm so sad in the Twilight Forest.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALEA.name=Il est temps de tuer (Bighorn Sheep)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALEA.desc=Oh non, pas ce pauvre Bighorn Sheep ! Tout doux et tout rouge, je suis si triste dans la Twilight Forest.
 
 # Quest: Time to Kill (Wild Deer)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALEQ.name=Time to Kill (Wild Deer)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALEQ.desc=Christmas is canceled this year. So sad.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALEQ.name=Il est temps de tuer (Wild Deer)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALEQ.desc=Noël est annulé cette année. Si triste.
 
 # Quest: Time to Kill (Wild Boar)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALEg.name=Time to Kill (Wild Boar)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALEg.desc=Delicious roasted wild boar. Mmm... very tasty.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALEg.name=Il est temps de tuer (Wild Boar)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALEg.desc=Délicieux sanglier rôti. Mmm... vraiment savoureux.
 
 # Quest: Time to Kill (Forest Bunny)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALEw.name=Time to Kill (Forest Bunny)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALEw.desc=Oh, how cute this little rabbit is. Pow! .... oh it's dead?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALEw.name=Il est temps de tuer (Forest Bunny)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALEw.desc=Oh, qu'il est mignon, ce petit lapin. Paf ! .... oh, il est mort ?
 
 # Quest: Time to Kill (Raven)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALFA.name=Time to Kill (Raven)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALFA.desc=Abracadabra... Give me your black feathers.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALFA.name=Il est temps de tuer (Forest Raven)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALFA.desc=Abracadabra... Donne-moi tes plumes noires.
 
 # Quest: Time to Kill (Penguin)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALFQ.name=Time to Kill (Penguin)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALFQ.desc=Be careful not to slip on the ice and land on a penguin.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALFQ.name=Il est temps de tuer (Penguin)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALFQ.desc=Attention à ne pas glisser sur la glace et atterrir sur un pingouin.
 
 # Quest: Time to Kill (Squirrel)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALFg.name=Time to Kill (Squirrel)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALFg.desc=Mmm... yummy squirrel on a stick!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALFg.name=Il est temps de tuer (Forest Squirrel)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALFg.desc=Mmm... un délicieux écureuil en brochette !
 
 # Quest: Time to Kill (Tiny Birds)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALFw.name=Time to Kill (Tiny Birds)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALFw.desc=Tweet, tweet, tweeeeeet!.... silence.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALFw.name=Il est temps de tuer (Tiny Birds)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALFw.desc=Cui-cui, cui-cui, cuiiiiii !.... silence.
 
 # Quest: Time to Kill (Skeleton Druid)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALGA.name=Time to Kill (Skeleton Druid)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALGA.desc=The druid skeleton is always infernal so watch out. It can be found in little huts all over the Twilight Forest.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALGA.name=Il est temps de tuer (Skeleton Druid)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALGA.desc=Le Skeleton Druid est toujours Infernal, alors faites attention. On le trouve dans de petites cabanes un peu partout dans la Twilight Forest.
 
 # Quest: Time to Kill (Kobold)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALGQ.name=Time to Kill (Kobold)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALGQ.desc=Kobolds can often be found in Hollow Hills. They will spawn almost anywhere that is dark within the Twilight Forest dimension and tend to spawn in large groups.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALGQ.name=Il est temps de tuer (Kobold)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALGQ.desc=On trouve souvent des Kobolds dans les Hollow Hills. Ils apparaissent presque partout où il fait sombre dans la dimension de la Twilight Forest, et ont tendance à apparaître en grands groupes.
 
 # Quest: Time to Kill (Redcap)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALGg.name=Time to Kill (Redcap)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALGg.desc=The Redcap is a goblin carries an Iron Pickaxe, wears Iron Boots, and constantly giggles to itself. They are found lurking in Hollow Hills, as well as occasionally appearing in the Goblin Knight Stronghold.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALGg.name=Il est temps de tuer (Redcap)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALGg.desc=Le Redcap est un gobelin qui porte une pioche en fer et des bottes en fer, et qui ricane sans arrêt tout seul. On les trouve tapis dans les Hollow Hills, et ils apparaissent parfois dans le Goblin Knight Stronghold.
 
 # Quest: Time to Kill (Fire Beetle)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALGw.name=Time to Kill (Fire Beetle)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALGw.desc=The Fire Beetle is found in Hollow Hills and Labyrinths. Fire Beetles will shoot a breath of fire at nearby players, dealing 2 damage every half second the player is exposed to the fire.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALGw.name=Il est temps de tuer (Fire Beetle)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALGw.desc=Le Fire Beetle se trouve dans les Hollow Hills et les labyrinthes. Les Fire Beetles crachent un souffle de feu sur les joueurs proches, infligeant 2 points de dégâts toutes les demi-secondes passées dans le feu.
 
 # Quest: Time to Kill (Slime Beetle)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALHA.name=Time to Kill (Slime Beetle)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALHA.desc=The Slime Beetle can be found in Hollow Hills, and Labyrinths. Slime Beetles fire slimy projectiles at players that deal about 8 points of damage on attack. They have incredible accuracy, and move extremely quickly when the player attempts to approach one.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALHA.name=Il est temps de tuer (Slime Beetle)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALHA.desc=Le Slime Beetle se trouve dans les Hollow Hills et les labyrinthes. Les Slime Beetles tirent sur les joueurs des projectiles gluants qui infligent environ 8 points de dégâts. Ils sont d'une précision redoutable et se déplacent extrêmement vite quand le joueur tente de s'approcher.
 
 # Quest: Time to Kill (Swarm Spider)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALHQ.name=Time to Kill (Swarm Spider)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALHQ.desc=The Swarm Spider can be found in large groups inside various landmarks, such as Hollow Hills, Leaf Dungeons and Hedge Mazes. Swarm Spiders can sometimes spawn with Skeletons riding them. They have 3 health points, making them weak to almost any attack. Swarm Spiders will attempt to attack but due to their low attack, they barely inflict damage on anything.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALHQ.name=Il est temps de tuer (Swarm Spider)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALHQ.desc=La Swarm Spider se trouve en grands groupes dans divers lieux remarquables, comme les Hollow Hills, les donjons de feuilles et les labyrinthes de haies. Les Swarm Spiders apparaissent parfois avec des squelettes sur le dos. Elles n'ont que 3 points de vie, ce qui les rend vulnérables à presque toutes les attaques. Les Swarm Spiders essaieront d'attaquer, mais leur attaque est si faible qu'elles n'infligent quasiment aucun dégât.
 
 # Quest: Time to Kill (Pinch Beetle)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALHg.name=Time to Kill (Pinch Beetle)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALHg.desc=Pinch Beetles have 20 hearts worth of health and can hit for 4 hearts of damage when grabbed. They can be found in the largest Hollow Hills, Labyrinths, and in Dark Towers. Pinch Beetles charge at you and grab your body. When in this situation you want to quickly attack and kill them. They are very fast and can be extremely dangerous when near lava, a cliff, or other enemies. Pinch beetles can suffocate you if the ceiling is too low.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALHg.name=Il est temps de tuer (Pinch Beetle)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALHg.desc=Les Pinch Beetles ont 20 cœurs de vie et peuvent infliger 4 cœurs de dégâts quand ils vous saisissent. On les trouve dans les plus grandes Hollow Hills, dans les labyrinthes et dans les Dark Towers. Les Pinch Beetles foncent sur vous et vous agrippent. Dans cette situation, attaquez-les et tuez-les rapidement. Ils sont très rapides et peuvent être extrêmement dangereux près de la lave, d'une falaise ou d'autres ennemis. Les Pinch Beetles peuvent vous étouffer si le plafond est trop bas.
 
 # Quest: Time to Kill (Wraith)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALHw.name=Time to Kill (Wraith)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALHw.desc=The Twilight Wraith is a floating spirit and are not initially aggressive towards the player but will become angry when approached. When spotted by a Wraith it can be difficult to lose it, as they are relentless in chasing the player and its ability to phase through blocks. They are found in large Hollow Hills.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALHw.name=Il est temps de tuer (Twilight Wraith)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALHw.desc=Le Twilight Wraith est un esprit flottant qui n'est pas agressif au départ, mais qui s'énerve si on l'approche. Une fois repéré par un Wraith, il est difficile de le semer, car il poursuit le joueur sans relâche et peut traverser les blocs. On le trouve dans les grandes Hollow Hills.
 
 # Quest: Time to Kill (Lava Monster)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALIw.name=Time to Kill (Lava Monster)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALIw.desc=They are everywhere where there is lava and they shoot at you with fireballs.%nFrom the air with a bow and arrow or crossbow they're easy targets.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALIw.name=Il est temps de tuer (Lava Monster)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALIw.desc=Ils sont partout où il y a de la lave et vous tirent dessus avec des boules de feu.%nDepuis les airs, avec un arc et des flèches ou une arbalète, ce sont des cibles faciles.
 
 # Quest: Time to Kill (Wisp)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALJA.name=Time to Kill (Wisp)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALJA.desc=They appear everywhere in the Nether, and there are wisp spawners as well. Since they are very fast and small, it gets difficult in long-range combat.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALJA.name=Il est temps de tuer (Wisp)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALJA.desc=Ils apparaissent partout dans le Nether, et il existe aussi des spawners de Wisps. Comme ils sont très rapides et petits, le combat à distance devient difficile.
 
 # Quest: Time to Kill (Nitro Creeper)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALJQ.name=Time to Kill (Nitro Creeper)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALJQ.desc=They are highly explosive and make holes much larger than regular creepers.%n%nThey also cause a lot more damage. So be careful!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALJQ.name=Il est temps de tuer (Nitro Creeper)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALJQ.desc=Ils sont hautement explosifs et font des trous bien plus grands que les creepers normaux.%n%nIls infligent aussi beaucoup plus de dégâts. Alors soyez prudent !
 
 # Quest: Time to Kill (Imp)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALJg.name=Time to Kill (Imp)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALJg.desc=Imps are little orange creatures who run through the whole nether. They are peaceful and they won't attack you either.%n%nKill a few to get their leather and build fireproof armor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALJg.name=Il est temps de tuer (Imp)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALJg.desc=Les Imps sont de petites créatures orange qui courent dans tout le Nether. Ils sont pacifiques et ne vous attaqueront pas non plus.%n%nTuez-en quelques-uns pour récupérer leur cuir et fabriquer une armure résistante au feu.
 
 # Quest: Time to Kill (Shulker)
-betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.name=Time to Kill (Shulker)
-betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.desc=The Shulker can spawn in the Lich or Ghast Queen Tower in the Twilight Forest. You can also optionally obtain it's spawn egg either with the crafting recipe or through the Vending Machine.
+betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.name=Il est temps de tuer (Shulker)
+betterquesting.quest.PpBmbfhnSGqI7R_Mm_vJGw.desc=Le Shulker peut apparaître dans la tour de la Lich ou de la Ghast Queen dans la Twilight Forest. Vous pouvez aussi, si vous le souhaitez, obtenir son œuf d'apparition par la recette de fabrication ou via la Vending Machine.
 
 # Quest: Time to Kill (Rabbit)
-betterquesting.quest.UfPfIUITQrG1E1G33eQ__g.name=Time to Kill (Rabbit)
-betterquesting.quest.UfPfIUITQrG1E1G33eQ__g.desc=It's a shame to kill something so adorable... oh well, do it anyway.
+betterquesting.quest.UfPfIUITQrG1E1G33eQ__g.name=Il est temps de tuer (Rabbit)
+betterquesting.quest.UfPfIUITQrG1E1G33eQ__g.desc=C'est dommage de tuer quelque chose d'aussi adorable... tant pis, faites-le quand même.
 
 # Quest: Time to Kill (Husk)
-betterquesting.quest.Wz1LEV9eQomLVXDpK18ysQ.name=Time to Kill (Husk)
-betterquesting.quest.Wz1LEV9eQomLVXDpK18ysQ.desc=A Husk is a variant of Zombie that spawns in deserts! They attack like Zombies, except they inflict hunger and refuse to burn in the sunlight.
+betterquesting.quest.Wz1LEV9eQomLVXDpK18ysQ.name=Il est temps de tuer (Husk)
+betterquesting.quest.Wz1LEV9eQomLVXDpK18ysQ.desc=Le Husk est une variante du zombie qui apparaît dans les déserts ! Il attaque comme un zombie, sauf qu'il inflige la faim et refuse de brûler au soleil.
 
 # Quest: Time to Kill (Fox)
-betterquesting.quest.aZbgSe36TnSB3O4ZwkSlJw.name=Time to Kill (Fox)
-betterquesting.quest.aZbgSe36TnSB3O4ZwkSlJw.desc=The Fox can be found in colder biomes. Make sure you're properly equipped, they're quite quick!
+betterquesting.quest.aZbgSe36TnSB3O4ZwkSlJw.name=Il est temps de tuer (Fox)
+betterquesting.quest.aZbgSe36TnSB3O4ZwkSlJw.desc=Le Fox se trouve dans les biomes froids. Assurez-vous d'être bien équipé, ils sont plutôt rapides !
 
 # Quest: Time to Kill (Stray)
-betterquesting.quest.z6Xaal6yTVi4fqEFCChoGg.name=Time to Kill (Stray)
-betterquesting.quest.z6Xaal6yTVi4fqEFCChoGg.desc=The Stray is a variety of Skeleton you will find in colder biomes. Watch out for their arrows; they can have a slowness effect!
+betterquesting.quest.z6Xaal6yTVi4fqEFCChoGg.name=Il est temps de tuer (Stray)
+betterquesting.quest.z6Xaal6yTVi4fqEFCChoGg.desc=Le Stray est une variante du squelette que vous trouverez dans les biomes froids. Méfiez-vous de leurs flèches : elles peuvent infliger un effet de lenteur !
 
 
 ### Quests in multiple quest lines ###
@@ -14917,257 +14917,257 @@ betterquesting.quest.ziczkJstQ7C0LgmnzTUTeA.desc=You didn't think we were going 
 ### Quests in no quest lines ###
 
 # Quest: Trigger: Nano Boots of the Traveller Skip
-betterquesting.quest.5RrDJZBfTligyX8_wR-EDA.name=Trigger: Nano Boots of the Traveller Skip
+betterquesting.quest.5RrDJZBfTligyX8_wR-EDA.name=Déclencheur : saut Nanosuit Boots of the Traveller
 betterquesting.quest.5RrDJZBfTligyX8_wR-EDA.desc=
 
 # Quest: Trigger: Nightvision Goggle Skip
-betterquesting.quest.5bnuPY-USBW37JbkO5VzOw.name=Trigger: Nightvision Goggle Skip
-betterquesting.quest.5bnuPY-USBW37JbkO5VzOw.desc=Skip is here for those who get the goggles in a lootbag
+betterquesting.quest.5bnuPY-USBW37JbkO5VzOw.name=Déclencheur : saut Nightvision Goggles
+betterquesting.quest.5bnuPY-USBW37JbkO5VzOw.desc=Ce saut existe pour ceux qui obtiennent les lunettes dans un sac de butin
 
 # Quest: Trigger: Hafnium Skip
-betterquesting.quest.5pXaevjTR-atLo3tdEZMEw.name=Trigger: Hafnium Skip
-betterquesting.quest.5pXaevjTR-atLo3tdEZMEw.desc=No Description
+betterquesting.quest.5pXaevjTR-atLo3tdEZMEw.name=Déclencheur : saut Hafnium
+betterquesting.quest.5pXaevjTR-atLo3tdEZMEw.desc=Aucune description
 
 # Quest: Trigger: Rocket Shuttle Skip
-betterquesting.quest.87VYEeyaTWGSnRhRwAhrLw.name=Trigger: Rocket Shuttle Skip
-betterquesting.quest.87VYEeyaTWGSnRhRwAhrLw.desc=No Description
+betterquesting.quest.87VYEeyaTWGSnRhRwAhrLw.name=Déclencheur : saut Shuttle Rocket
+betterquesting.quest.87VYEeyaTWGSnRhRwAhrLw.desc=Aucune description
 
 # Quest: Trigger: Naquadria Skip
-betterquesting.quest.8EErMy6nSaORxRLGLEKZMQ.name=Trigger: Naquadria Skip
-betterquesting.quest.8EErMy6nSaORxRLGLEKZMQ.desc=No Description
+betterquesting.quest.8EErMy6nSaORxRLGLEKZMQ.name=Déclencheur : saut Naquadria
+betterquesting.quest.8EErMy6nSaORxRLGLEKZMQ.desc=Aucune description
 
 # Quest: Trigger: Samarium Skip
-betterquesting.quest.8_u1r5cyR92lkZZTVvPRag.name=Trigger: Samarium Skip
-betterquesting.quest.8_u1r5cyR92lkZZTVvPRag.desc=No Description
+betterquesting.quest.8_u1r5cyR92lkZZTVvPRag.name=Déclencheur : saut Samarium
+betterquesting.quest.8_u1r5cyR92lkZZTVvPRag.desc=Aucune description
 
 # Quest: Trigger: LoC
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=Trigger: LoC
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=Triggered by having a "Lamp of Cinders" in your inventory.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=Déclencheur : LoC
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=Déclenché en ayant une « Lamp of Cinders » dans votre inventaire.
 
 # Quest: Trigger: Singularity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=Trigger: Singularity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=Triggered by making a singularity.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=Déclencheur : singularité
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=Déclenché en fabriquant une singularité.
 
 # Quest: Trigger: Shard of Creation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=Trigger: Shard of Creation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=Triggered by making a "Shard of Creation".
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=Déclencheur : Shard of Creation
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=Déclenché en fabriquant un « Shard of Creation ».
 
 # Quest: Trigger: Life and Soul Shard
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.name=Trigger: Life and Soul Shard
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.desc=Triggered by making a "Life Shard" and a "Soul Shard".
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.name=Déclencheur : Life Shard et Soul Shard
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.desc=Déclenché en fabriquant un « Life Shard » et un « Soul Shard ».
 
 # Quest: Trigger: Unknown Crystal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.name=Trigger: Unknown Crystal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=Triggered by finding a "Mysterious Crystal".
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.name=Déclencheur : cristal inconnu
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=Déclenché en trouvant un « Mysterious Crystal ».
 
 # Quest: Trigger: Life
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByA.name=Trigger: Life
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByA.desc=Triggers the Life Canister Quest after a Wither death.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByA.name=Déclencheur : vie
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByA.desc=Déclenche la quête du Life Canister après une mort face au Wither.
 
 # Quest: Trigger: Mjolnir
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVA.name=Trigger: Mjolnir
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVA.desc=Find a Mjolnir
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVA.name=Déclencheur : Mjolnir
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVA.desc=Trouver un Mjolnir
 
 # Quest: Trigger: Ballthingy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVQ.name=Trigger: Ballthingy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVQ.desc=Find? or make an LS
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVQ.name=Déclencheur : truc en boule
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFVQ.desc=Trouver ? ou fabriquer un LS
 
 # Quest: Bees Template
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbw.name=Bees Template
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbw.desc=Get the princess bee and reward bag in NEI first.%nCopy this quest.%nPress Icon and set the icon to the bee.%nChange the name, description, and rewards.%n%nPress Task, and select the stone, and replace it with the princess.%nBefore closing, select the ... next to the bee name and press Raw NBT%nGo into Tag, Genome, Chromosomes. The first one is the name and must stay.%nGo inside there and delete the first entry, keep both of the species so players%nmust have purebreeds.%nDelete the rest of the chromosomes.%nDelete the rest of the entries for Genome.%n%nPress Requirements. Remove the Infinity unlock requirement and select the required bee quests. Use the common bees quest if nothing applies.%n%nChange Show:Hidden to Show:Normal.%n%nTo reduce waste in the questbook file ideally you should also go into the advanced options, then press ... for the icon, and remove unnecessary NBT there as well. Just leave the species as above.%n%n§3You can change the visibility of requirements by pressing the eye symbol in the requirements menu.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbw.name=Modèle de quête d'abeille
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbw.desc=Prenez d'abord la princesse et le sac de récompense dans NEI.%nCopiez cette quête.%nCliquez sur Icon et choisissez l'abeille comme icône.%nModifiez le nom, la description et les récompenses.%n%nCliquez sur Task, sélectionnez la pierre et remplacez-la par la princesse.%nAvant de fermer, cliquez sur le ... à côté du nom de l'abeille puis sur Raw NBT.%nAllez dans Tag, Genome, Chromosomes. Le premier est le nom et doit rester.%nEntrez dedans et supprimez la première entrée ; gardez les deux espèces pour que les joueurs%naient besoin d'abeilles de race pure.%nSupprimez le reste des chromosomes.%nSupprimez le reste des entrées de Genome.%n%nCliquez sur Requirements. Retirez le prérequis de déblocage Infinity et sélectionnez les quêtes d'abeilles requises. Utilisez la quête des abeilles communes si rien ne convient.%n%nPassez Show:Hidden à Show:Normal.%n%nPour limiter le superflu dans le fichier du livre de quêtes, l'idéal est aussi d'aller dans les options avancées, de cliquer sur ... pour l'icône et d'y supprimer également les NBT inutiles. Ne gardez que les espèces, comme ci-dessus.%n%n§3Vous pouvez changer la visibilité des prérequis en cliquant sur le symbole en forme d'œil dans le menu des prérequis.
 
 # Quest: Trigger: Silicone Rubber Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2A.name=Trigger: Silicone Rubber Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2A.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2A.name=Déclencheur : saut Gomme de Silicone
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2A.desc=Aucune description
 
 # Quest: Trigger: PTFE Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2Q.name=Trigger: PTFE Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2Q.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2Q.name=Déclencheur : saut PTFE
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2Q.desc=Aucune description
 
 # Quest: Trigger: Polystyrene Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2g.name=Trigger: Polystyrene Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2g.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2g.name=Déclencheur : saut Polystyrène
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2g.desc=Aucune description
 
 # Quest: Trigger: Epoxid Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2w.name=Trigger: Epoxid Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2w.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2w.name=Déclencheur : saut Époxy
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL2w.desc=Aucune description
 
 # Quest: Trigger: Naqline Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3A.name=Trigger: Naqline Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3A.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3A.name=Déclencheur : saut ligne du Naquadah
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAL3A.desc=Aucune description
 
 # Quest: Trigger: Loot Game
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALOw.name=Trigger: Loot Game
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALOw.desc=Find a loot game room
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALOw.name=Déclencheur : Loot Games
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALOw.desc=Trouver une salle Loot Games
 
 # Quest: Trigger: Flippers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALVA.name=Trigger: Flippers
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALVA.name=Déclencheur : Palmes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALVA.desc=
 
 # Quest: Trigger: Titanium Moon Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALVQ.name=Trigger: Titanium Moon Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALVQ.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALVQ.name=Déclencheur : saut Titane (Lune)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALVQ.desc=Aucune description
 
 # Quest: Trigger: Platline Platinum Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALVg.name=Trigger: Platline Platinum Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALVg.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALVg.name=Déclencheur : saut Platine (ligne du platine)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALVg.desc=Aucune description
 
 # Quest: Trigger: PBI Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALVw.name=Trigger: PBI Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALVw.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALVw.name=Déclencheur : saut PBI
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALVw.desc=Aucune description
 
 # Quest: Trigger: Platline Palladium Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALWA.name=Trigger: Platline Palladium Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALWA.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALWA.name=Déclencheur : saut Palladium (ligne du platine)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALWA.desc=Aucune description
 
 # Quest: Trigger: Platline Rhodium Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALWQ.name=Trigger: Platline Rhodium Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALWQ.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALWQ.name=Déclencheur : saut Rhodium (ligne du platine)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALWQ.desc=Aucune description
 
 # Quest: Trigger: Platline Ruthenium Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALWg.name=Trigger: Platline Ruthenium Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALWg.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALWg.name=Déclencheur : saut Ruthénium (ligne du platine)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALWg.desc=Aucune description
 
 # Quest: Trigger: Platline Iridium Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALWw.name=Trigger: Platline Iridium Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALWw.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALWw.name=Déclencheur : saut Iridium (ligne du platine)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALWw.desc=Aucune description
 
 # Quest: Trigger: Platline Osmium Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALXA.name=Trigger: Platline Osmium Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALXA.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALXA.name=Déclencheur : saut Osmium (ligne du platine)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALXA.desc=Aucune description
 
 # Quest: Trigger: Tungstensteel Mars Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALXQ.name=Trigger: Tungstensteel Mars Skip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALXQ.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALXQ.name=Déclencheur : saut Acier au Tungstène (Mars)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALXQ.desc=Aucune description
 
 # Quest: Trigger: Obtain Sunnarium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMBg.name=Trigger: Obtain Sunnarium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMBg.desc=No Description
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMBg.name=Déclencheur : obtenir du Sunnarium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMBg.desc=Aucune description
 
 # Quest: Tool: Never complete
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrw.name=Tool: Never complete
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrw.desc=This quest should never be complete which is useful to hide templates and other things.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrw.name=Outil : jamais terminée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrw.desc=Cette quête ne doit jamais être terminée, ce qui est utile pour cacher les modèles et d'autres choses.
 
 # Quest: Trigger: NaK Skip
-betterquesting.quest.Bv3i0a9kRGWScgrhhV9tOg.name=Trigger: NaK Skip
-betterquesting.quest.Bv3i0a9kRGWScgrhhV9tOg.desc=No Description
+betterquesting.quest.Bv3i0a9kRGWScgrhhV9tOg.name=Déclencheur : saut NaK
+betterquesting.quest.Bv3i0a9kRGWScgrhhV9tOg.desc=Aucune description
 
 # Quest: Trigger: Dense Hydrazine Skip
-betterquesting.quest.CSYjTrFrQwi2XzCFUOAIjg.name=Trigger: Dense Hydrazine Skip
-betterquesting.quest.CSYjTrFrQwi2XzCFUOAIjg.desc=No Description
+betterquesting.quest.CSYjTrFrQwi2XzCFUOAIjg.name=Déclencheur : saut Dense Hydrazine
+betterquesting.quest.CSYjTrFrQwi2XzCFUOAIjg.desc=Aucune description
 
 # Quest: Trigger: Zirconium Skip
-betterquesting.quest.DHHWGPJ2RAKJuWh6T58_cA.name=Trigger: Zirconium Skip
-betterquesting.quest.DHHWGPJ2RAKJuWh6T58_cA.desc=No Description
+betterquesting.quest.DHHWGPJ2RAKJuWh6T58_cA.name=Déclencheur : saut Zirconium
+betterquesting.quest.DHHWGPJ2RAKJuWh6T58_cA.desc=Aucune description
 
 # Quest: Trigger: Netherite Skip
-betterquesting.quest.GvUC3hv2RsO-3FofYAyd7A.name=Trigger: Netherite Skip
-betterquesting.quest.GvUC3hv2RsO-3FofYAyd7A.desc=No Description
+betterquesting.quest.GvUC3hv2RsO-3FofYAyd7A.name=Déclencheur : saut Netherite
+betterquesting.quest.GvUC3hv2RsO-3FofYAyd7A.desc=Aucune description
 
 # Quest: Trigger: Cerium Skip
-betterquesting.quest.KcPyyBL4Rre8QMDg3T4kqA.name=Trigger: Cerium Skip
-betterquesting.quest.KcPyyBL4Rre8QMDg3T4kqA.desc=No Description
+betterquesting.quest.KcPyyBL4Rre8QMDg3T4kqA.name=Déclencheur : saut Cérium
+betterquesting.quest.KcPyyBL4Rre8QMDg3T4kqA.desc=Aucune description
 
 # Quest: Trigger: Enriched Naquadah Skip
-betterquesting.quest.ML49smX4QgWaltUeO9c3bA.name=Trigger: Enriched Naquadah Skip
-betterquesting.quest.ML49smX4QgWaltUeO9c3bA.desc=No Description
+betterquesting.quest.ML49smX4QgWaltUeO9c3bA.name=Déclencheur : saut Naquadah enrichi
+betterquesting.quest.ML49smX4QgWaltUeO9c3bA.desc=Aucune description
 
 # Quest: Trigger: Graphene Skip
-betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.name=Trigger: Graphene Skip
-betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.desc=No Description
+betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.name=Déclencheur : saut Graphène
+betterquesting.quest.MdXhDkN_TECH5kMp4OM2Gg.desc=Aucune description
 
 # Quest: Trigger: Early Scribing Tools
-betterquesting.quest.S8Z31Xp-RrSdc2A6rOvUzg.name=Trigger: Early Scribing Tools
-betterquesting.quest.S8Z31Xp-RrSdc2A6rOvUzg.desc=No Description
+betterquesting.quest.S8Z31Xp-RrSdc2A6rOvUzg.name=Déclencheur : premiers Scribing Tools
+betterquesting.quest.S8Z31Xp-RrSdc2A6rOvUzg.desc=Aucune description
 
 # Quest: Trigger: Rocket Tier 3 Skip
-betterquesting.quest.SjBDdQ9oT8qQAK5K64z7Jw.name=Trigger: Rocket Tier 3 Skip
-betterquesting.quest.SjBDdQ9oT8qQAK5K64z7Jw.desc=No Description
+betterquesting.quest.SjBDdQ9oT8qQAK5K64z7Jw.name=Déclencheur : saut fusée tier 3
+betterquesting.quest.SjBDdQ9oT8qQAK5K64z7Jw.desc=Aucune description
 
 # Quest: Trigger: Electric Boots of the Traveller Skip
-betterquesting.quest.SsBfuluoR5m5D-dEuoKgsg.name=Trigger: Electric Boots of the Traveller Skip
+betterquesting.quest.SsBfuluoR5m5D-dEuoKgsg.name=Déclencheur : saut Electric Boots of the Traveller
 betterquesting.quest.SsBfuluoR5m5D-dEuoKgsg.desc=
 
 # Quest: Trigger: Boots of the Traveller Skip
-betterquesting.quest.TakFzrg7Rfew3UivxIIzvw.name=Trigger: Boots of the Traveller Skip
+betterquesting.quest.TakFzrg7Rfew3UivxIIzvw.name=Déclencheur : saut Boots of the Traveller
 betterquesting.quest.TakFzrg7Rfew3UivxIIzvw.desc=
 
 # Quest: Trigger: Rocket Tier 4 Skip
-betterquesting.quest.ThhwoFJASzGjsSjyGqCROQ.name=Trigger: Rocket Tier 4 Skip
-betterquesting.quest.ThhwoFJASzGjsSjyGqCROQ.desc=No Description
+betterquesting.quest.ThhwoFJASzGjsSjyGqCROQ.name=Déclencheur : saut fusée tier 4
+betterquesting.quest.ThhwoFJASzGjsSjyGqCROQ.desc=Aucune description
 
 # Quest: Trigger: Rocket Tier 1 Skip
-betterquesting.quest.VoVbERmlQRGNglekP68u-Q.name=Trigger: Rocket Tier 1 Skip
-betterquesting.quest.VoVbERmlQRGNglekP68u-Q.desc=No Description
+betterquesting.quest.VoVbERmlQRGNglekP68u-Q.name=Déclencheur : saut fusée tier 1
+betterquesting.quest.VoVbERmlQRGNglekP68u-Q.desc=Aucune description
 
 # Quest: Trigger: Air-Filter
-betterquesting.quest.aB29SdZcQ3KcyLSPGsZPiw.name=§6§lTrigger: Air-Filter
-betterquesting.quest.aB29SdZcQ3KcyLSPGsZPiw.desc=No Description
+betterquesting.quest.aB29SdZcQ3KcyLSPGsZPiw.name=§6§lDéclencheur : Air Filter
+betterquesting.quest.aB29SdZcQ3KcyLSPGsZPiw.desc=Aucune description
 
 # Quest: Trigger: Rocket Tier 5 Skip
-betterquesting.quest.aPHM7QnaQEmVjOJwYbMp8Q.name=Trigger: Rocket Tier 5 Skip
-betterquesting.quest.aPHM7QnaQEmVjOJwYbMp8Q.desc=No Description
+betterquesting.quest.aPHM7QnaQEmVjOJwYbMp8Q.name=Déclencheur : saut fusée tier 5
+betterquesting.quest.aPHM7QnaQEmVjOJwYbMp8Q.desc=Aucune description
 
 # Quest: Trigger: Styrene-Butadiene Rubber Skip
-betterquesting.quest.cQkx83QYT4m3mwovgZIKvA.name=Trigger: Styrene-Butadiene Rubber Skip
-betterquesting.quest.cQkx83QYT4m3mwovgZIKvA.desc=No Description
+betterquesting.quest.cQkx83QYT4m3mwovgZIKvA.name=Déclencheur : saut Gomme de Styrène-Butadiène
+betterquesting.quest.cQkx83QYT4m3mwovgZIKvA.desc=Aucune description
 
 # Quest: Trigger: Rocket Tier 2 Skip
-betterquesting.quest.duath_FBQVqyzgYn4PicxA.name=Trigger: Rocket Tier 2 Skip
-betterquesting.quest.duath_FBQVqyzgYn4PicxA.desc=No Description
+betterquesting.quest.duath_FBQVqyzgYn4PicxA.name=Déclencheur : saut fusée tier 2
+betterquesting.quest.duath_FBQVqyzgYn4PicxA.desc=Aucune description
 
 # Quest: Trigger: SMD Inductor Skip
-betterquesting.quest.f9GkFpTbRruEZReIz7sGuA.name=Trigger: SMD Inductor Skip
-betterquesting.quest.f9GkFpTbRruEZReIz7sGuA.desc=No Description
+betterquesting.quest.f9GkFpTbRruEZReIz7sGuA.name=Déclencheur : saut SMD Inductor
+betterquesting.quest.f9GkFpTbRruEZReIz7sGuA.desc=Aucune description
 
 # Quest: Trigger: Polyphenylene Sulfide Skip
-betterquesting.quest.gg1I91tdRK2us5ETzB2VjA.name=Trigger: Polyphenylene Sulfide Skip
-betterquesting.quest.gg1I91tdRK2us5ETzB2VjA.desc=No Description
+betterquesting.quest.gg1I91tdRK2us5ETzB2VjA.name=Déclencheur : saut Sulfure de Polyphénylène
+betterquesting.quest.gg1I91tdRK2us5ETzB2VjA.desc=Aucune description
 
 # Quest: Trigger: Rocket Tier 7 Skip
-betterquesting.quest.jAZpo1cHR56fqHckKP14lw.name=Trigger: Rocket Tier 7 Skip
-betterquesting.quest.jAZpo1cHR56fqHckKP14lw.desc=No Description
+betterquesting.quest.jAZpo1cHR56fqHckKP14lw.name=Déclencheur : saut fusée tier 7
+betterquesting.quest.jAZpo1cHR56fqHckKP14lw.desc=Aucune description
 
 # Quest: Trigger: Profane Wand
-betterquesting.quest.kPOfft_mTjqocCR6z9GhVw.name=Trigger: Profane Wand
-betterquesting.quest.kPOfft_mTjqocCR6z9GhVw.desc=No Description
+betterquesting.quest.kPOfft_mTjqocCR6z9GhVw.name=Déclencheur : Profane Wand
+betterquesting.quest.kPOfft_mTjqocCR6z9GhVw.desc=Aucune description
 
 # Quest: Trigger: Epoxy Board Skip
-betterquesting.quest.kZ6QmUGzTCitYMg_BdiVeQ.name=Trigger: Epoxy Board Skip
-betterquesting.quest.kZ6QmUGzTCitYMg_BdiVeQ.desc=No Description
+betterquesting.quest.kZ6QmUGzTCitYMg_BdiVeQ.name=Déclencheur : saut Epoxy Board
+betterquesting.quest.kZ6QmUGzTCitYMg_BdiVeQ.desc=Aucune description
 
 # Quest: Trigger: Nether Skip
-betterquesting.quest.qFco17HGS0SxmpVn-uWJZQ.name=Trigger: Nether Skip
-betterquesting.quest.qFco17HGS0SxmpVn-uWJZQ.desc=No Description
+betterquesting.quest.qFco17HGS0SxmpVn-uWJZQ.name=Déclencheur : saut Nether
+betterquesting.quest.qFco17HGS0SxmpVn-uWJZQ.desc=Aucune description
 
 # Quest: Trigger: H8N4C2O4 (Green) Rocket Fuel Skip
-betterquesting.quest.rTYfjovjSEazD4lgxmmkEA.name=Trigger: H8N4C2O4 (Green) Rocket Fuel Skip
-betterquesting.quest.rTYfjovjSEazD4lgxmmkEA.desc=No Description
+betterquesting.quest.rTYfjovjSEazD4lgxmmkEA.name=Déclencheur : saut H8N4C2O4 Rocket Fuel (vert)
+betterquesting.quest.rTYfjovjSEazD4lgxmmkEA.desc=Aucune description
 
 # Quest: Trigger: LV Extruder Skip
-betterquesting.quest.sIP_FoxIRaeE08GesBwYcQ.name=Trigger: LV Extruder Skip
-betterquesting.quest.sIP_FoxIRaeE08GesBwYcQ.desc=No Description
+betterquesting.quest.sIP_FoxIRaeE08GesBwYcQ.name=Déclencheur : saut Extruder LV
+betterquesting.quest.sIP_FoxIRaeE08GesBwYcQ.desc=Aucune description
 
 # Quest: Trigger: Prismarine Line Skip
-betterquesting.quest.v-EF1CLsQt-AlNOHrXUP6w.name=Trigger: Prismarine Line Skip
-betterquesting.quest.v-EF1CLsQt-AlNOHrXUP6w.desc=No Description
+betterquesting.quest.v-EF1CLsQt-AlNOHrXUP6w.name=Déclencheur : saut ligne de la Prismarine
+betterquesting.quest.v-EF1CLsQt-AlNOHrXUP6w.desc=Aucune description
 
 # Quest: Trigger: CN3H7O3 (Purple) Rocket Fuel Skip
-betterquesting.quest.vP1W1MPQTOa4kzbCpQJzOQ.name=Trigger: CN3H7O3 (Purple) Rocket Fuel Skip
-betterquesting.quest.vP1W1MPQTOa4kzbCpQJzOQ.desc=No Description
+betterquesting.quest.vP1W1MPQTOa4kzbCpQJzOQ.name=Déclencheur : saut CN3H7O3 Rocket Fuel (violet)
+betterquesting.quest.vP1W1MPQTOa4kzbCpQJzOQ.desc=Aucune description
 
 # Quest: Trigger: Oblivion Frame
-betterquesting.quest.xV1gLYpLSoaTs-Fg-3jmdw.name=Trigger: Oblivion Frame
-betterquesting.quest.xV1gLYpLSoaTs-Fg-3jmdw.desc=No Description
+betterquesting.quest.xV1gLYpLSoaTs-Fg-3jmdw.name=Déclencheur : Oblivion Frame
+betterquesting.quest.xV1gLYpLSoaTs-Fg-3jmdw.desc=Aucune description
 
 # Quest: Trigger: Rocket Tier 6 Skip
-betterquesting.quest.xcpJ6bs3R-i9KuADhiHOXw.name=Trigger: Rocket Tier 6 Skip
-betterquesting.quest.xcpJ6bs3R-i9KuADhiHOXw.desc=No Description
+betterquesting.quest.xcpJ6bs3R-i9KuADhiHOXw.name=Déclencheur : saut fusée tier 6
+betterquesting.quest.xcpJ6bs3R-i9KuADhiHOXw.desc=Aucune description
 
 # Quest: Trigger: Stonelily Tutorial Skip
-betterquesting.quest.xirTmg1QQo6Ix9Z2Ezl4EQ.name=Trigger: Stonelily Tutorial Skip
+betterquesting.quest.xirTmg1QQo6Ix9Z2Ezl4EQ.name=Déclencheur : saut tutoriel Stone Lily
 betterquesting.quest.xirTmg1QQo6Ix9Z2Ezl4EQ.desc=
 
 # Quest: Trigger: Rocket Tier 8 Skip
-betterquesting.quest.zDoZ8PcTSFWF8Jh5diM0_Q.name=Trigger: Rocket Tier 8 Skip
-betterquesting.quest.zDoZ8PcTSFWF8Jh5diM0_Q.desc=No Description
+betterquesting.quest.zDoZ8PcTSFWF8Jh5diM0_Q.name=Déclencheur : saut fusée tier 8
+betterquesting.quest.zDoZ8PcTSFWF8Jh5diM0_Q.desc=Aucune description
