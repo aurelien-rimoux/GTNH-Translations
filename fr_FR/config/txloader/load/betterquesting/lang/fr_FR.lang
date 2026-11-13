@@ -10041,723 +10041,723 @@ betterquesting.quest.y2mOWnXvRe2xWrdvVS297w.desc=Un tampon de 64 par emplacement
 
 ## Quest Line: Applied Energistics
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIw.name=Applied Energistics
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIw.desc=AE2 focuses on creating a compact, easily accessible, considerably extendible storage system called an ME Network. You can use it to autocraft items as well, and if you want to finish the pack, you will.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIw.desc=AE2 vise à créer un système de stockage compact, facilement accessible et largement extensible, appelé réseau ME. Vous pouvez aussi l'utiliser pour fabriquer des objets automatiquement, et si vous voulez finir le pack, vous le ferez.
 
 # Quest: 1024k Essentia Component
 betterquesting.quest.-IWmYEgKSGi0M7rtP59zaw.name=1024k Essentia Component
-betterquesting.quest.-IWmYEgKSGi0M7rtP59zaw.desc=Same as 1k.
+betterquesting.quest.-IWmYEgKSGi0M7rtP59zaw.desc=Comme pour le 1k.
 
 # Quest: AE Tier 2 Fluid Storage
-betterquesting.quest.0J3hYoBeTpe_OnXMU9zRDA.name=AE Tier 2 Fluid Storage
-betterquesting.quest.0J3hYoBeTpe_OnXMU9zRDA.desc=This Processor allows you to craft 256k, 1024k, 4096 and 16384k Fluid Storage Components.%n%nThese Components need to be paired with Advanced Fluid Storage Housings to turn them into Fluid Storage Cells.
+betterquesting.quest.0J3hYoBeTpe_OnXMU9zRDA.name=Stockage de fluide AE, tier 2
+betterquesting.quest.0J3hYoBeTpe_OnXMU9zRDA.desc=Ce processeur vous permet de fabriquer les composants de stockage de fluide 256k, 1024k, 4096k et 16384k.%n%nCes composants doivent être associés à des Boîtiers ME Avancé stockage Fluides pour devenir des cellules de stockage de fluide.
 
 # Quest: Quantum Entangled Singularities
 betterquesting.quest.0qhnm9tYQfmKHzWPUlb8iw.name=Quantum Entangled Singularities
-betterquesting.quest.0qhnm9tYQfmKHzWPUlb8iw.desc=To make an entangled pair for usage in the quantum ring, put the Singularity and Enderpearl Dust on the ground, then use an explosion (Tiny TNT works well) to create two Quantum Entangled Singularities.%n%n[note]QESs are each a unique pair and will only work with one another.[/note]
+betterquesting.quest.0qhnm9tYQfmKHzWPUlb8iw.desc=Pour créer une paire intriquée à utiliser dans l'anneau quantique, posez la Singularity et de la poudre de Perle de l'Ender au sol, puis provoquez une explosion (une Petite TNT fait très bien l'affaire) pour créer deux Quantum Entangled Singularities.%n%n[note]Chaque paire de QES est unique : elles ne fonctionnent qu'entre elles.[/note]
 
 # Quest: Cribs
 betterquesting.quest.4pCol8RvR3G0pS2zVqpY1Q.name=Cribs
-betterquesting.quest.4pCol8RvR3G0pS2zVqpY1Q.desc=As your researches for Applied Greg continued, you found a way to combine ME interface's pattern processing ability with input buses, §lcrafting input buses§r! Now, you can directly place patterns into input bus. However, input buses lacked sufficient item space and computational power to process items coming from your ME network. Thus, you added additional storage and circuits.%n%nYou can even place non-consumable items like lenses, molds inside!! However, consumable items won't do anything.%n%nBut, still you lack enough technology to process fluids, they are just not good for electronics.%n%nCrafting input bus is fully isolated from other buses/hatches, so you may have to change your patterns.%n%n[warn]Crafting input proxy[/warn] will let you wallshare multiblocks without actually wallsharing them. §lUIV-Tier§r%n%n[warn]Crafting input buffer[/warn] will be §9§owaterproof§r. §lUEV-Tier§r
+betterquesting.quest.4pCol8RvR3G0pS2zVqpY1Q.desc=En poursuivant vos recherches sur Applied Greg, vous avez trouvé un moyen de combiner la capacité de traitement de patterns de l'ME Interface avec les input buses : les §lcrafting input buses§r ! Vous pouvez désormais placer des patterns directement dans un input bus. Cependant, les input buses manquaient d'espace pour les objets et de puissance de calcul pour traiter les objets venant de votre réseau ME. Vous avez donc ajouté du stockage et des circuits supplémentaires.%n%nVous pouvez même y placer des objets non consommables, comme des lentilles ou des moules !! En revanche, les objets consommables n'y feront rien.%n%nMais votre technologie ne suffit toujours pas pour traiter les fluides : ils ne font tout simplement pas bon ménage avec l'électronique.%n%nLe Crafting Input Bus est totalement isolé des autres bus/hatches, vous devrez donc peut-être modifier vos patterns.%n%nLe [warn]Crafting Input Proxy[/warn] vous permettra de partager des murs entre multiblocs sans vraiment les partager. §lTier UIV§r%n%nLe [warn]Crafting Input Buffer[/warn] sera §9§oétanche§r. §lTier UEV§r
 
 # Quest: Need More Information?
-betterquesting.quest.5ObFHI5BQ5Oxv0yca7morA.name=Need More Information?
-betterquesting.quest.5ObFHI5BQ5Oxv0yca7morA.desc=A brand-new tool for you, amigo.%n%nThis little buddy not only has a larger card slot than the normal one, but also can show more information about your network storage.%n%nClicking the component icon can switch between ITEM, FLUID, and ESSENTIA details.%n%n[warn]NOTE:%n|  unit  |      range   |%n|    B   |    0~2^10   |%n|   KB   | 2^10~2^20 |%n|   MB   | 2^20~2^30 |%n|   GB   | 2^30~2^40 |%n|   TB   | 2^40~2^50 |%n|   PB   | 2^50~2^60 |%n|   EB   | 2^60~2^70 |%n|   ZB   | 2^70~2^80 |%n|   YB   | 2^80~2^90 |%n|   BB   | over 2^90  |[/warn]
+betterquesting.quest.5ObFHI5BQ5Oxv0yca7morA.name=Besoin de plus d'informations ?
+betterquesting.quest.5ObFHI5BQ5Oxv0yca7morA.desc=Un tout nouvel outil pour vous, amigo.%n%nCe petit copain a non seulement un emplacement de carte plus grand que le modèle normal, mais il peut aussi afficher plus d'informations sur le stockage de votre réseau.%n%nCliquer sur l'icône du composant permet de basculer entre les détails ITEM, FLUID et ESSENTIA.%n%n[warn]NOTE :%n|  unité  |      plage   |%n|    B   |    0~2^10   |%n|   KB   | 2^10~2^20 |%n|   MB   | 2^20~2^30 |%n|   GB   | 2^30~2^40 |%n|   TB   | 2^40~2^50 |%n|   PB   | 2^50~2^60 |%n|   EB   | 2^60~2^70 |%n|   ZB   | 2^70~2^80 |%n|   YB   | 2^80~2^90 |%n|   BB   | plus de 2^90  |[/warn]
 
 # Quest: 16384k Fluid Component
-betterquesting.quest.5PUj-2T3QZOIq4a33qGXlA.name=16384k Fluid Component
-betterquesting.quest.5PUj-2T3QZOIq4a33qGXlA.desc=Final one (so far)
+betterquesting.quest.5PUj-2T3QZOIq4a33qGXlA.name=Composant ME 16384k de stockage fluide
+betterquesting.quest.5PUj-2T3QZOIq4a33qGXlA.desc=Le dernier (pour l'instant).
 
 # Quest: Pattern Repeater
 betterquesting.quest.8BZy7FpuSjuSYn9iA5E0RQ.name=Pattern Repeater
-betterquesting.quest.8BZy7FpuSjuSYn9iA5E0RQ.desc=The Pattern Repeater is a niche but useful tool. It allows recipes to be visible across networks.%n%nWhen two networks are linked via a repeater, you could have a pattern that lives on network A and be able to see it in network B. In practice, you could request the item from network B (using items from network B), then those items would be transferred to the pattern destination on network A, and the resulting item would end up on network B when completed.%n%nIn order to set this up, simply make a pair of Pattern Repeaters (attached to separate networks) face into one another. You can then use a wrench to toggle each to the desired mode: either Provider or Accessor. You will need one of each.%n%nThe "§5Accessor§r" side is where the original pattern should sit. It will "send" the pattern to the other network. §3(Network A in the example above)§r%n%nThe "§5Provider§r" side is where the pattern is provided to. It "receives" the incoming pattern from the other network. §3(Network B in the example above)§r
+betterquesting.quest.8BZy7FpuSjuSYn9iA5E0RQ.desc=Le Pattern Repeater est un outil de niche, mais utile. Il permet de rendre des recettes visibles d'un réseau à l'autre.%n%nQuand deux réseaux sont reliés par un repeater, un pattern situé sur le réseau A peut être visible depuis le réseau B. En pratique, vous pouvez demander l'objet depuis le réseau B (avec les objets du réseau B) ; ces objets sont alors transférés vers la destination du pattern sur le réseau A, et l'objet obtenu arrive sur le réseau B une fois terminé.%n%nPour mettre cela en place, il suffit de placer deux Pattern Repeaters (reliés à des réseaux distincts) face à face. Utilisez ensuite une clé pour mettre chacun dans le mode voulu : Provider ou Accessor. Il vous en faut un de chaque.%n%nLe côté « §5Accessor§r » est celui où se trouve le pattern d'origine. Il « envoie » le pattern vers l'autre réseau. §3(Le réseau A dans l'exemple ci-dessus)§r%n%nLe côté « §5Provider§r » est celui qui reçoit le pattern. Il « reçoit » le pattern venant de l'autre réseau. §3(Le réseau B dans l'exemple ci-dessus)§r
 
 # Quest: Knowing your Throughput! 
-betterquesting.quest.8RZ1YKxCQACS3_7rdoHMMA.name=Knowing your Throughput! 
-betterquesting.quest.8RZ1YKxCQACS3_7rdoHMMA.desc=[quest]ME Throughput Monitor[/quest]%n%nThe ME Throughput Monitor will show the speed of items entering your network.%n%nClicking with an item will add it to the monitor.%n%nUse a §aWrench§r to lock the monitor%n%nWhen the monitor is locked, use §cShift+Right Click§r to change the measured time frame. %n%nModes: %n%n§6Per Tick%nPer Second%nPer Minute%nPer Hour
+betterquesting.quest.8RZ1YKxCQACS3_7rdoHMMA.name=Connaître votre débit ! 
+betterquesting.quest.8RZ1YKxCQACS3_7rdoHMMA.desc=[quest]ME Throughput Monitor[/quest]%n%nL'ME Throughput Monitor affiche la vitesse à laquelle les objets entrent dans votre réseau.%n%nCliquez dessus avec un objet pour l'ajouter au moniteur.%n%nUtilisez une §aclé§r pour verrouiller le moniteur.%n%nUne fois le moniteur verrouillé, faites §cMaj + clic droit§r pour changer la période mesurée. %n%nModes : %n%n§6Par tick%nPar seconde%nPar minute%nPar heure
 
 # Quest: It's Storage Time!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.name=It's Storage Time!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.desc=To make an AE system, you'll need all 4 patterns, collect them all! If you hit EV without getting all of them, you can also make them yourself.%n%n[note]BTW, you need a ton of Titanium to do AE2, so if you can't make it, you won't get much of anywhere.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.name=C'est l'heure du stockage !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.desc=Pour monter un système AE, il vous faudra les 4 presses : collectionnez-les toutes ! Si vous atteignez l'EV sans les avoir toutes, vous pourrez aussi les fabriquer vous-même.%n%n[note]D'ailleurs, il vous faudra une tonne de Titane pour AE2 : si vous ne pouvez pas en produire, vous n'irez pas bien loin.[/note]
 
 # Quest: Gotta Find Them All
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.name=Gotta Find Them All
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.desc=There are a lot of meteors on the surface, but there are more underground. In order to find those, you'll want a compass. The compass will only tell you the chunk has an asteroid in it, with your ore finder wand you can get a better idea where in the chunk the meteor is hiding.%n%nFor more details on AE2, check out [url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url].
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.name=Attrapez-les tous
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.desc=Il y a beaucoup de météorites en surface, mais il y en a encore plus sous terre. Pour les trouver, il vous faudra une boussole. La boussole vous indique seulement que le chunk contient une météorite ; avec votre baguette de recherche de minerai, vous aurez une meilleure idée de l'endroit où elle se cache dans le chunk.%n%nPour plus de détails sur AE2, consultez [url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url].
 
 # Quest: 16k Item Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.name=16k Item Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.desc=Middle tier storage cell, which can contain 16,384 bytes of storage. 16,384 bytes of storage can hold 2,032 stacks of a single item, or 1,040 stacks, while holding 63 different items. The 16k storage cell uses 128 bytes of data to store a single type.%n%nWhen placed inside a drive or chest will consume 1.5 AE/t.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.desc=Cellule de stockage de tier intermédiaire, d'une capacité de 16 384 octets. 16 384 octets permettent de stocker 2 032 stacks d'un seul objet, ou 1 040 stacks répartis sur 63 objets différents. La cellule 16k utilise 128 octets de données pour stocker un seul type.%n%nPlacée dans un lecteur ou un coffre, elle consomme 1,5 AE/t.
 
 # Quest: Fluix Crystals
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtQ.name=Fluix Crystals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtQ.desc=Not "flux"! Even if the color is the same. You need to add redstone and nether quartz to a charged certus crystal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtQ.desc=Pas « flux » ! Même si la couleur est la même. Il faut ajouter de la redstone et du quartz du Nether à un cristal de certus chargé.
 
 # Quest: Applied Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.name=Applied Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.desc=Crafting can be a pain. So why not automate it? These can hold a single pattern each. However, if you place an ME interface against it, you can use it to craft any of the patterns in it. You can use multiple with the same MA, and given how expensive they are now, that might be a good idea. These do NOT require a channel, but do require network access.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.name=Fabrication appliquée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.desc=Fabriquer à la main peut être pénible. Alors pourquoi ne pas l'automatiser ? Ces blocs ne peuvent contenir qu'un seul pattern chacun. En revanche, si vous placez une ME Interface contre l'un d'eux, vous pourrez l'utiliser pour fabriquer n'importe quel pattern de l'interface. Vous pouvez en utiliser plusieurs avec le même MA, et vu leur prix actuel, c'est peut-être une bonne idée. Ils ne demandent PAS de canal, mais doivent avoir accès au réseau.
 
 # Quest: Getting Your First Processors
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.name=Getting Your First Processors
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.desc=There are 3 different ways to make AE2 processors. First, there's the AE2 Inscribers, which are slow, hold one of each item at a time, require inputs (and output) from specific directions, but can be sped up with cards. Second, there's the Advanced Inscribers, which are similar, but allow stacking, and do not require specific directions. Lastly, there's GT Assemblers (and later the multiblock) which can be very fast, but require a fluid input, and consume more power. Get 8 of each one for now.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.name=Vos premiers processeurs
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.desc=Il existe 3 façons de fabriquer les processeurs AE2. D'abord, les Inscribers d'AE2 : lents, ils ne contiennent qu'un exemplaire de chaque objet à la fois, exigent que les entrées (et la sortie) se fassent par des côtés précis, mais peuvent être accélérés avec des cartes. Ensuite, les Advanced Inscribers, similaires, mais qui acceptent des stacks et n'imposent pas de côtés. Enfin, les Assemblers GT (et plus tard le multibloc), qui peuvent être très rapides, mais demandent un fluide en entrée et consomment plus d'énergie. Fabriquez-en 8 de chaque pour l'instant.
 
 # Quest: Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.name=Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.desc=To have access to your applied energistics network from your entire base, you'll need cables. A lot of them. For now, the basic ones will do, but eventually, you'll end up using dense cables and p2p channels. Glass and Covered cables are functionally identical, just different in looks. Each can carry 8 channels. Quartz fibers don't carry channels but can carry energy. This is useful for providing power from your main network to independent subnetworks.%n%nYou can also color your cables - cables with different colors will not connect, so those can be used to expand network capacity by running parallel cables. Only fluix colored cables connect to all other colors. Later it will probably be more efficient to use P2P channels to jam a bunch of channels into 1.%n%nAnchors are like covers, keeping things from connecting when you don't want them to.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.name=Câbles
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.desc=Pour accéder à votre réseau Applied Energistics depuis toute votre base, il vous faudra des câbles. Beaucoup de câbles. Pour l'instant, les basiques suffiront, mais vous finirez par utiliser des câbles denses et des canaux P2P. Les câbles en verre et les câbles couverts sont fonctionnellement identiques, seule l'apparence change. Chacun peut transporter 8 canaux. Les Quartz Fibers ne transportent pas de canaux mais peuvent transporter de l'énergie. C'est pratique pour alimenter des sous-réseaux indépendants depuis votre réseau principal.%n%nVous pouvez aussi colorer vos câbles : des câbles de couleurs différentes ne se connectent pas entre eux, ce qui permet d'augmenter la capacité du réseau avec des câbles parallèles. Seuls les câbles de couleur fluix se connectent à toutes les autres couleurs. Plus tard, il sera sans doute plus efficace d'utiliser des canaux P2P pour faire passer un tas de canaux dans un seul.%n%nLes Cable Anchors fonctionnent comme des covers : ils empêchent les connexions quand vous n'en voulez pas.
 
 # Quest: Basic Terminals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.name=Basic Terminals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.desc=The ME Terminal is an interface which gives you access to an ME network's networked storage. It has the ability to sort and search, as well as filter by using a view cell. If inserting and taking fluid from the terminal, be sure to hold the control key when you click with a fluid storage container.%n%nThe ME Crafting Terminal is the upgraded version of the ME terminal which has an integrated crafting grid with access to an ME network's networked storage.%n%nThe ME Interface Terminal gives remote access to all interface pattern slots on your network separated by which type of machine they are on. It will show the type of machine in the terminal, however you can name the ME interface in the inscriber or an anvil to alter the name displayed in the ME interface terminal. If you use Ender Chests to send stuff elsewhere to be processed a lot, this may help with reducing confusion. You can also search for a specific device.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.name=Terminaux de base
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.desc=L'ME Terminal est une interface qui vous donne accès au stockage en réseau d'un réseau ME. Il permet de trier et de rechercher, ainsi que de filtrer avec une View Cell. Pour insérer ou retirer du fluide depuis le terminal, maintenez la touche Ctrl en cliquant avec un contenant de fluide.%n%nL'ME Crafting Terminal est la version améliorée de l'ME Terminal : il intègre une grille de fabrication avec accès au stockage du réseau ME.%n%nL'ME Interface Terminal donne un accès à distance à tous les emplacements de patterns des interfaces de votre réseau, classés selon le type de machine sur lequel elles se trouvent. Il affiche le type de machine dans le terminal, mais vous pouvez renommer l'ME Interface dans l'Inscriber ou une enclume pour changer le nom affiché dans l'ME Interface Terminal. Si vous utilisez souvent des Ender Chests pour envoyer des choses à traiter ailleurs, cela peut éviter bien des confusions. Vous pouvez aussi rechercher un appareil précis.
 
 # Quest: Bundled AE Channels
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyw.name=Bundled AE Channels
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyw.desc=P2P tunnels. You'll probably want a bunch of them! They act as teleport points from one place to another for the contained information.%n%nThey can pack up to 32 channels into 1 channel and transport those to the destination P2P bus. Each P2P tunnel requires 1 free channel. P2P connections cannot be nested, but one transport cable can carry multiple P2P connections. For a normal fluix cable, that's 4 P2P connections, and 16 for dense.%n%nYou can use separate cables to connect input P2Ps to the controller and to transport from the controller to around your base, allowing for 32 output P2Ps on one dense cable. Alternatively you can use an entirely separate controller as a transport network.%n%nGenerally, you'll want to have the first point be one side of an ME Controller block (remember you can add more!), and the other where some of your machines are.%n%nA nice online guide can be found at [url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url] under P2P tunnels.%n%nIf you want to use one of the P2P tunnels for something §oother§r than ME channels, use an applicable item on the center of the face of the tunnel, (for example, a GT cable for GT EU, redstone for RS signal, an RF conduit for RF, a torch for light, a bucket for fluid, a chest for items, or an OC cable for OC) and it will convert to that type, even if you pick it up. Use a fluix cable to change it back.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyw.name=Canaux AE groupés
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyw.desc=Les tunnels P2P. Vous en voudrez sans doute un paquet ! Ils servent de points de téléportation d'un endroit à un autre pour l'information qu'ils transportent.%n%nIls peuvent regrouper jusqu'à 32 canaux en 1 seul et les transporter jusqu'au bus P2P de destination. Chaque tunnel P2P nécessite 1 canal libre. Les connexions P2P ne peuvent pas être imbriquées, mais un même câble de transport peut porter plusieurs connexions P2P : 4 pour un câble fluix normal, et 16 pour un câble dense.%n%nVous pouvez utiliser des câbles séparés pour relier les P2P d'entrée au contrôleur et pour transporter depuis le contrôleur vers le reste de votre base, ce qui permet d'avoir 32 P2P de sortie sur un seul câble dense. Vous pouvez aussi utiliser un contrôleur entièrement séparé comme réseau de transport.%n%nEn général, vous placerez le premier point sur une face d'un bloc Contrôleur ME (n'oubliez pas que vous pouvez en ajouter d'autres !), et l'autre là où se trouvent certaines de vos machines.%n%nUn bon guide en ligne se trouve sur [url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url], à la rubrique P2P tunnels.%n%nSi vous voulez utiliser un tunnel P2P pour §oautre chose§r que des canaux ME, utilisez un objet adapté sur le centre de la face du tunnel (par exemple un câble GT pour les EU GT, de la redstone pour un signal RS, un conduit RF pour les RF, une torche pour la lumière, un seau pour les fluides, un coffre pour les objets ou un câble OC pour OC) : il se convertira dans ce type, même si vous le ramassez. Utilisez un câble fluix pour revenir au type d'origine.
 
 # Quest: Quantum Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.name=Quantum Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.desc=Now you §ocould§r connect Quantum Chests to your ME System with Storage Buses, and maybe you are already doing that. But why not use all your new technology to make a Quantum Storage Cell?%n%nIt only takes a single item type, but you can store more than a billion items! That surely must be enough, right? RIGHT?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.name=Stockage quantique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.desc=Vous §opourriez§r relier des Quantum Chests à votre système ME avec des bus de stockage, et c'est peut-être déjà ce que vous faites. Mais pourquoi ne pas utiliser toute votre nouvelle technologie pour fabriquer une Quantum Storage Cell ?%n%nElle n'accepte qu'un seul type d'objet, mais peut en stocker plus d'un milliard ! Ça devrait suffire, non ? NON ?
 
 # Quest: A Digital Singularity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.name=A Digital Singularity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.desc=What? You filled up the Quantum storage cell? I hope it was with something better than Cobblestone. Anyway, you'd better make something EVEN bigger then.%n%nHmm, adding even more storage capacity to a single cell would result in something so dense with information that it would just collapse into a singularity. So why not be smart about it? Just use an already existing singularity! Build a sturdy casing around it and add some connecting components, and you should be good. Better use an eternal singularity, though, to make sure things remain stable.%n%n[note]The Digital Singularity can store more than 4 quintillion items. If you manage to fill one up, please contact the dev team so that they can ban you for cheating... eh, I mean, congratulate you on your achievement, of course![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.name=Une Digital Singularity
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.desc=Quoi ? Vous avez rempli la Quantum Storage Cell ? J'espère que c'était avec autre chose que de la Cobblestone. Bref, vous feriez mieux de fabriquer quelque chose d'ENCORE plus grand.%n%nHmm, ajouter encore plus de capacité à une seule cellule donnerait quelque chose de si dense en information que ça s'effondrerait en singularité. Alors soyons malins : utilisons une singularité qui existe déjà ! Construisez un boîtier solide autour, ajoutez quelques composants de connexion, et le tour est joué. Utilisez plutôt une Eternal Singularity, pour être sûr que tout reste stable.%n%n[note]La Digital Singularity peut stocker plus de 4 trillions d'objets. Si vous arrivez à en remplir une, merci de contacter l'équipe de développement pour qu'elle puisse vous bannir pour triche... euh, je veux dire, vous féliciter pour cet exploit, bien sûr ![/note]
 
 # Quest: Insurgence
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=Insurgence
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=Is your infusion very slow? And, alas, to resolve that you need a world accelerator. That probably causes a lot of lag.%n%nWell no longer! Try out the new Infusion Intercepter. Placing it directly below the central pedestal of your existing infusion altar and supplying essentia to the bottom side of this block via Essentia Provider allows for instant essentia consumption from the network, drastically speeding up your infusions.%n%n[note]You may still want to keep the world accelerator for the item phase of the infusion process.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=Votre infusion est très lente ? Et hélas, pour y remédier il vous faut un world accelerator, qui cause sans doute beaucoup de lag.%n%nC'est fini ! Essayez le nouvel Infusion Intercepter. Placez-le juste sous le piédestal central de votre autel d'infusion existant et fournissez de l'essentia par la face inférieure du bloc via un Essentia Provider : l'essentia sera consommée instantanément depuis le réseau, ce qui accélère considérablement vos infusions.%n%n[note]Vous voudrez peut-être garder le world accelerator pour la phase des objets de l'infusion.[/note]
 
 # Quest: Item Void Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.name=Item Void Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.desc=[warn]Caution! Use with utmost care! This cell does exactly what it says. It deletes everything you put on there. So better make sure you have precise control over what can actually go there.[/warn]%n%n[note]Will only void items, not fluids[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.name=Void Cell pour objets
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.desc=[warn]Attention ! À utiliser avec la plus grande prudence ! Cette cellule fait exactement ce qu'elle annonce : elle supprime tout ce que vous y mettez. Assurez-vous donc de contrôler précisément ce qui peut y aller.[/warn]%n%n[note]Ne détruit que les objets, pas les fluides.[/note]
 
 # Quest: Co-Processing x16
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABiA.name=Co-Processing x16
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABiA.desc=For an even more compact crafting CPU.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABiA.name=Co-traitement x16
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABiA.desc=Pour un CPU de fabrication encore plus compact.
 
 # Quest: Co-Processing x4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABiQ.name=Co-Processing x4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABiQ.desc=Your crafting CPU is massive and still can't keep up? Don't worry, we have a custom solution for that!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABiQ.name=Co-traitement x4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABiQ.desc=Votre CPU de fabrication est énorme et n'arrive toujours pas à suivre ? Pas d'inquiétude, nous avons une solution sur mesure !
 
 # Quest: 16k Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE5Q.name=16k Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE5Q.desc=Second largest vanilla storage component, used to make 16k ME storage cells, or can be upgraded to make 64k ME storage components. Can be recovered from a crafted 16k ME storage cell by fully emptying the storage cell, and shift-clicking it in your hand.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE5Q.desc=Deuxième plus grand composant de stockage vanilla, utilisé pour fabriquer des cellules de stockage ME 16k, ou améliorable en composant de stockage ME 64k. Il peut être récupéré d'une cellule de stockage ME 16k fabriquée en la vidant complètement puis en faisant Maj + clic droit avec elle en main.
 
 # Quest: 16k Crafting Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE5g.name=16k Crafting Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE5g.desc=Component of the crafting CPU which provides 16,384 bytes of storage for crafting.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE5g.desc=Composant du CPU de fabrication qui fournit 16 384 octets de stockage pour la fabrication.
 
 # Quest: 64k Item Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE5w.name=64k Item Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE5w.desc=Highest tier storage cell, which can contain 65,536 bytes of storage. 65,536 bytes of storage can hold 8,128 stacks of a single item, or 4,160 stacks, while holding 63 different items. The 64k storage cell uses 512 bytes of data to store a single type.%n%nWhen placed inside a drive or chest will consume 2.0 ae/t.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE5w.desc=Cellule de stockage du plus haut tier, d'une capacité de 65 536 octets. 65 536 octets permettent de stocker 8 128 stacks d'un seul objet, ou 4 160 stacks répartis sur 63 objets différents. La cellule 64k utilise 512 octets de données pour stocker un seul type.%n%nPlacée dans un lecteur ou un coffre, elle consomme 2,0 AE/t.
 
 # Quest: 64k Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6A.name=64k Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6A.desc=Largest vanilla storage component, used to make 64k ME storage cells. Can be recovered from a crafted 64k ME storage cell by fully emptying the storage cell, and shift-clicking it in your hand.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6A.desc=Plus grand composant de stockage vanilla, utilisé pour fabriquer des cellules de stockage ME 64k. Il peut être récupéré d'une cellule de stockage ME 64k fabriquée en la vidant complètement puis en faisant Maj + clic droit avec elle en main.
 
 # Quest: 64k Crafting Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6Q.name=64k Crafting Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6Q.desc=Component of the crafting CPU which provides 65,536 bytes of storage for crafting.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6Q.desc=Composant du CPU de fabrication qui fournit 65 536 octets de stockage pour la fabrication.
 
 # Quest: Filling Tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6w.name=Filling Tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6w.desc=Export bus for fluids only.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6w.name=Remplir les réservoirs
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE6w.desc=Bus d'export réservé aux fluides.
 
 # Quest: Crafting Monitor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE7A.name=Crafting Monitor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE7A.desc=Component of the crafting CPU which displays the top level job and its current progress so you can monitor at a glance how your crafting jobs are progressing.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE7A.name=Moniteur de fabrication
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE7A.desc=Composant du CPU de fabrication qui affiche la tâche principale et sa progression, pour que vous puissiez suivre d'un coup d'œil l'avancement de vos fabrications.
 
 # Quest: Imma Chargin' My...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCg.name=Imma Chargin' My...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCg.desc=Charged certus quartz is one of the basic components for a lot of AE recipes. Just mix some certus quartz and redstone dust to get charged certus quartz dust.%n%nUse the autoclave to make crystals. Or if you have lots of sodium, you can use the chemical reactor recipe. You can also make the charger to go directly from crystal to charged crystal, but it's not very fast. The charger can connect directly to a GT cable or a fluix cable from the bottom.%n%n[note]Note that some recipes only have a chance of producing a charged crystal, which is true of many of these.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCg.name=J'vais charger mon...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCg.desc=Le Charged Certus Quartz est l'un des composants de base de nombreuses recettes AE. Mélangez simplement de la poudre de Certus Quartz et de la poudre de redstone pour obtenir de la poudre de Charged Certus Quartz.%n%nUtilisez l'autoclave pour obtenir des cristaux. Ou, si vous avez beaucoup de Sodium, vous pouvez utiliser la recette du Chemical Reactor. Vous pouvez aussi fabriquer le Chargeur pour passer directement d'un cristal à un cristal chargé, mais ce n'est pas très rapide. Le Chargeur peut se connecter directement par le dessous à un câble GT ou à un câble fluix.%n%n[note]Notez que certaines recettes n'ont qu'une chance de produire un cristal chargé, ce qui est le cas de beaucoup d'entre elles.[/note]
 
 # Quest: Keeping Your Network Happy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCw.name=Keeping Your Network Happy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCw.desc=Helps with fluctuating power. Energy cells store up to 2,000,000 AE. They do not accept power directly but are used to buffer some power in an already existing ME network. Energy Cells do not use a channel.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCw.name=Un réseau heureux
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCw.desc=Aide à lisser les variations d'énergie. Les Cellules d'énergie stockent jusqu'à 2 000 000 AE. Elles n'acceptent pas l'énergie directement, mais servent de tampon d'énergie dans un réseau ME existant. Les Cellules d'énergie n'utilisent pas de canal.
 
 # Quest: Storing Your ME Data
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDA.name=Storing Your ME Data
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDA.desc=A block designed to do one thing, store storage cells. This block holds 10 storage cells so you can tightly pack your storage into a very small space. ME drives show their contents and the storage cell status on the front of the drive face.%n%nRed - Indicates the storage cell is full.%nOrange - Indicates the storage cell cannot hold any more types, but it can store more items.%nGreen - Indicates the cell can hold more types, or more items.%nBlack - Indicates there is no channel, or power is offline.%n%nIt's important to note, that without an ME Network this block does nothing. It's only useful when combined with a way to input, and output items, and requires 2 AE/t power to function, and additional power for each storage cell stored inside it.%n%nAbout Priority: Many devices in AE2 have a priority setting, this determines what gets items first. This is useful in some situations, but not so much in others. Higher number = higher priority.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDA.name=Stocker vos données ME
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDA.desc=Un bloc conçu pour une seule chose : stocker des cellules de stockage. Ce bloc contient 10 cellules de stockage, pour que vous puissiez concentrer votre stockage dans un tout petit espace. Les Lecteurs ME affichent leur contenu et l'état des cellules sur leur face avant.%n%nRouge - La cellule de stockage est pleine.%nOrange - La cellule ne peut plus accueillir de nouveaux types, mais peut encore stocker des objets.%nVert - La cellule peut accueillir plus de types ou plus d'objets.%nNoir - Pas de canal, ou l'alimentation est coupée.%n%nÀ noter : sans réseau ME, ce bloc ne fait rien. Il n'est utile qu'avec un moyen d'insérer et d'extraire des objets, et il lui faut 2 AE/t pour fonctionner, plus de l'énergie supplémentaire pour chaque cellule stockée à l'intérieur.%n%nÀ propos de la priorité : de nombreux appareils d'AE2 ont un réglage de priorité, qui détermine qui reçoit les objets en premier. C'est utile dans certaines situations, beaucoup moins dans d'autres. Nombre plus élevé = priorité plus élevée.
 
 # Quest: Speeding Up Growth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDg.name=Speeding Up Growth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDg.desc=Used to accelerate the process of purifying crystals, which allows you to create pure certus quartz crystal, pure nether quartz crystal and pure fluix crystal. Must be powered by an ME Network via the sides with the +, and consumes a steady 8 ae/t while plugged in. Crystal Seeds must be in an adjacent water block to be affected - the seeds will shimmer more rapidly when in the presence of a powered crystal growth accelerator. These do not use a channel.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDg.name=Accélérer la croissance
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDg.desc=Sert à accélérer la purification des cristaux, qui permet de créer des Pure Certus Quartz Crystals, des Pure Nether Quartz Crystals et des Pure Fluix Crystals. Il doit être alimenté par un réseau ME via les côtés marqués d'un +, et consomme 8 AE/t en continu quand il est branché. Les graines de cristal doivent se trouver dans un bloc d'eau adjacent pour être affectées : elles scintillent plus rapidement à proximité d'un Accélérateur de croissance cristalline alimenté. Ils n'utilisent pas de canal.
 
 # Quest: Perfecting Crystal Growth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDw.name=Perfecting Crystal Growth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDw.desc=The §5§lCrystal Growth Chamber§r is used for fast crystal growth, and it is possible to increase its speed by installing acceleration cards in an upgrade slot. It works more like a normal device, with the crystals growing in its internal inventory. Unlike the more primitive versions, it doesn't use power when not in use. It also doesn't use a channel.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDw.name=Perfectionner la croissance des cristaux
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFDw.desc=La §5§lCrystal Growth Chamber§r sert à faire pousser rapidement des cristaux, et vous pouvez augmenter sa vitesse en installant des Acceleration Cards dans un emplacement d'amélioration. Elle fonctionne plutôt comme un appareil normal : les cristaux poussent dans son inventaire interne. Contrairement aux versions plus primitives, elle ne consomme pas d'énergie quand elle ne sert pas. Elle n'utilise pas non plus de canal.
 
 # Quest: Purifying the Impure
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.name=Purifying the Impure
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.desc=The purified versions of Nether, Certus and Fluix crystals can be grown from seeds made in the assembler from crystal dust and sand.%n%nYou may need the Pure Nether Quartz later, but for now let's create some Pure Fluix Crystal and Pure Certus Quartz Crystal.%n%nThey can be grown in-world for free by dropping them in water, or at a much faster rate in a GT Autoclave.%n%n[note]Distilled water reduces the recipe time in the Autoclave by half.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.name=Purifier l'impur
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEA.desc=Les versions purifiées des cristaux de Nether Quartz, de Certus et de Fluix peuvent pousser à partir de graines fabriquées dans l'Assembler avec de la poudre de cristal et du sable.%n%nVous aurez peut-être besoin du Pure Nether Quartz plus tard, mais pour l'instant, créons des Pure Fluix Crystals et des Pure Certus Quartz Crystals.%n%nIls peuvent pousser gratuitement dans le monde en les jetant dans l'eau, ou bien plus vite dans un Autoclave GT.%n%n[note]L'eau distillée réduit de moitié la durée de la recette dans l'Autoclave.[/note]
 
 # Quest: Wireless Setup
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.name=Setup sans-fil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.desc=Allows you to configure which users, and what permissions the users have with the ME System. By existing it enforces permissions on the usage of the system.%n%nThe security system does not prevent destructive tampering, removing cables / machines or breaking of drives. If you need to protect your system from physical vandalism you will need another form of physical security. This block provides network level security.%n%nThe player who places the ME security terminal has full control over the network and cannot exclude themselves any rights. By adding a blank biometric card you define a default behavior for every player who has no biometric card registered.%n%nIn addition to security on the software layer, you can link up your wireless terminal with the network and access it wirelessly.%n%nIf you have one on your main network, your subnets may also need one to have access to your main network, but this is not always the case depending on how you set it up.%n%nThe ME Wireless Access Point wireless access via a wireless terminal. Range and power usage is determined based on the number of wireless boosters installed into the ME wireless access point. A network can have any number of ME wireless access points with any number of wireless boosters in each one, allowing you to optimize power usage and range by altering your setup.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEg.desc=Vous permet de configurer quels utilisateurs ont accès au système ME, et avec quelles permissions. Sa simple présence impose ces permissions pour l'utilisation du système.%n%nLe système de sécurité n'empêche pas le sabotage destructif : retrait de câbles / machines ou destruction de lecteurs. Si vous devez protéger votre système contre le vandalisme physique, il vous faudra une autre forme de sécurité physique. Ce bloc assure une sécurité au niveau du réseau.%n%nLe joueur qui pose le Terminal de sécurité ME a le contrôle total du réseau et ne peut pas se retirer de droits. En ajoutant une Biometric Card vierge, vous définissez le comportement par défaut pour tout joueur sans Biometric Card enregistrée.%n%nEn plus de la sécurité au niveau logiciel, vous pouvez lier votre Terminal sans-fil au réseau pour y accéder sans fil.%n%nSi vous en avez un sur votre réseau principal, vos sous-réseaux en auront peut-être aussi besoin d'un pour accéder à votre réseau principal, mais ce n'est pas toujours le cas, selon votre installation.%n%nL'ME Wireless Access Point permet l'accès sans fil via un Terminal sans-fil. La portée et la consommation d'énergie dépendent du nombre de Boosters sans-fil installés dans l'ME Wireless Access Point. Un réseau peut avoir autant d'ME Wireless Access Points que vous voulez, avec autant de boosters dans chacun, ce qui vous permet d'optimiser consommation et portée en modifiant votre installation.
 
 # Quest: Dense Boys
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEw.name=Dense Boys
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEw.desc=Giving your network even more stability. Dense energy cells store AE energy up to 16 million units. They do not accept power directly but are used to buffer power in an already existing ME Network.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEw.name=Bien denses
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFEw.desc=Pour donner encore plus de stabilité à votre réseau. Les Grandes cellules d'énergie stockent jusqu'à 16 millions d'unités d'énergie AE. Elles n'acceptent pas l'énergie directement, mais servent de tampon d'énergie dans un réseau ME existant.
 
 # Quest: Wireless Applied Energistics Terminal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFA.name=Wireless Applied Energistics Terminal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFA.desc=After you link up the wireless terminal in the ME security terminal, it grants portable access to the ME network. Put it into a charger to recharge it.%n%nHolds 1.6m AE in its battery and drains 1 AE/t for each block you are away from the nearest ME wireless access point.%n%nCharge your Wireless Terminals (and the successors) with an EIO Wireless Charger if you don't want to wait a century for them to charge.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFA.name=Terminal sans-fil Applied Energistics
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFA.desc=Une fois le Terminal sans-fil lié dans le Terminal de sécurité ME, il vous donne un accès portable au réseau ME. Placez-le dans un Chargeur pour le recharger.%n%nSa batterie contient 1,6m AE et se vide de 1 AE/t par bloc qui vous sépare de l'ME Wireless Access Point le plus proche.%n%nRechargez vos Terminaux sans-fil (et leurs successeurs) avec un Wireless Charger EIO si vous ne voulez pas attendre un siècle qu'ils se rechargent.
 
 # Quest: Annihilation and Formation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFQ.name=Annihilation and Formation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFQ.desc=Formation Core - a component which can convert energy back into matter.%nAnnihilation Core - a component which can convert matter into energy.%nGates all network I/O.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFQ.name=Annihilation et formation
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFQ.desc=Formation Core : un composant qui peut reconvertir l'énergie en matière.%nAnnihilation Core : un composant qui peut convertir la matière en énergie.%nLa porte d'entrée de toutes les E/S du réseau.
 
 # Quest: Interfacing with Machines
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFg.name=Interfacing with Machines
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFg.desc=The ME Interface is the only component which can be used as a part, or as a Block. Crafting an ME interface in either form by itself produces the other form. The thin form is useful if you want to provide several different interfaces in a single block of physical space, but each will need its own channel. The block form lets multiple other blocks connect to a single ME interface, using only one channel for the interface. The ME Interface acts as an in between when working with pipes, tubes, networks, or machines from other mods.%n%n[note]If you're using a resource pack and the interface's GUI doesn't show up properly, you'll need to delete the assets\appliedenergistics2\textures\guis\interface.png file in your resourcepack zip file.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFg.name=Interface avec les machines
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFg.desc=L'ME Interface est le seul composant qui peut être utilisé sous forme de part ou de bloc. Fabriquer une ME Interface seule, sous l'une ou l'autre forme, donne l'autre forme. La forme fine est pratique si vous voulez plusieurs interfaces différentes dans un seul bloc d'espace physique, mais chacune aura besoin de son propre canal. La forme bloc permet à plusieurs autres blocs de se connecter à une seule ME Interface, qui n'utilise alors qu'un seul canal. L'ME Interface sert d'intermédiaire avec les tuyaux, les tubes, les réseaux ou les machines d'autres mods.%n%n[note]Si vous utilisez un pack de ressources et que l'interface graphique de l'interface ne s'affiche pas correctement, supprimez le fichier assets\appliedenergistics2\textures\guis\interface.png de l'archive zip de votre pack de ressources.[/note]
 
 # Quest: Interfacing with Inventories
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFw.name=Interfacing with Inventories
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFw.desc=The ME Storage Bus, when attached to another inventory block in the world lets you access that inventory via networked functions. This allows you to use chests, barrels, or other types of item storage in your networks.%n%nThe storage via the ME Storage Bus is bidirectional, it can both insert, or extract items from the inventory block it is attached to as long as the ME storage bus has its required channel.%n%nThe UI allows you to control which items are selected as storable items, this selection has no effect on what items can be extracted once they are in the storage.%n%nThe storage bus will function with nearly any inventory block, including ME Interfaces, EFR barrels, JABBA Barrels, Storage Drawers, etc. They can also be used to route items passively into Buildcraft pipes.%n%nIf you place a storage bus on an ME Interface the storage bus will be able to interact with the full contents of the target network, unless that interface is configured to store items inside itself, in which case it will see those stored items.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFw.name=Interface avec les inventaires
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFFw.desc=Le Bus de Stockage ME, fixé sur un autre bloc d'inventaire, vous permet d'accéder à cet inventaire via les fonctions du réseau. Vous pouvez ainsi utiliser des coffres, des tonneaux ou d'autres types de stockage d'objets dans vos réseaux.%n%nLe stockage via le Bus de Stockage ME est bidirectionnel : il peut insérer des objets dans le bloc d'inventaire auquel il est fixé ou en extraire, tant qu'il dispose du canal nécessaire.%n%nL'interface vous permet de choisir quels objets peuvent être stockés ; cette sélection n'a aucun effet sur les objets qui peuvent être extraits une fois dans le stockage.%n%nLe bus de stockage fonctionne avec presque tous les blocs d'inventaire, y compris les ME Interfaces, les tonneaux EFR, les JABBA Barrels, les Storage Drawers, etc. Il peut aussi servir à envoyer passivement des objets dans des tuyaux Buildcraft.%n%nSi vous placez un bus de stockage sur une ME Interface, il pourra interagir avec tout le contenu du réseau cible, sauf si l'interface est configurée pour stocker des objets en elle-même, auquel cas il verra ces objets stockés.
 
 # Quest: Interfacing with Tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGA.name=Interfacing with Tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGA.desc=Storage bus for fluids only.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGA.name=Interface avec les réservoirs
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGA.desc=Bus de stockage réservé aux fluides.
 
 # Quest: For Fluid Recipes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGQ.name=For Fluid Recipes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGQ.desc=Placing your fluid crafting patterns in a Dual Interface. That will allow AE2 to push the fluids and items both. Note. Fluids are being sent first, then items.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGQ.name=Pour les recettes à fluides
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGQ.desc=Placez vos patterns de fabrication avec fluides dans une Interface ME double. Cela permettra à AE2 d'envoyer à la fois les fluides et les objets. Remarque : les fluides sont envoyés en premier, puis les objets.
 
 # Quest: Extracting Items From the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGg.name=Extracting Items From the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGg.desc=The ME export bus extracts items from the ME network's networked storage and places them into the inventory it faces. You must configure which items it will insert, leaving the configuration blank will result in nothing. The ME export bus will try to export any of the items on its list skipping over those it cannot fit into the destination. This is the functional opposite of the ME import bus.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGg.name=Extraire des objets du réseau
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFGg.desc=Le Bus d'export ME extrait des objets du stockage du réseau ME et les place dans l'inventaire vers lequel il est tourné. Vous devez configurer les objets qu'il doit insérer : sans configuration, il ne fera rien. Le Bus d'export ME essaiera d'exporter chacun des objets de sa liste, en sautant ceux qui ne rentrent pas dans la destination. C'est l'inverse fonctionnel du Bus d'import ME.
 
 # Quest: Inserting Items Into the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHA.name=Inserting Items Into the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHA.desc=Pulls items from the inventory it is pointed at and places them into the ME network's networked storage. You can specify which items it will pull out via the UI, else it tries to pull out any item in the adjacent inventory. The ME import bus will attempt to import any possible options, even if 1 or more of the configured items cannot be stored. This is the functional opposite of the ME export bus.%n%nWhen your machines are very fast, it's better to have them output directly into an ME interface instead, since that works instantly.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHA.name=Insérer des objets dans le réseau
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHA.desc=Aspire les objets de l'inventaire vers lequel il est tourné et les place dans le stockage du réseau ME. Vous pouvez préciser dans l'interface quels objets il doit extraire ; sinon, il essaie d'extraire n'importe quel objet de l'inventaire adjacent. Le Bus d'import ME essaiera d'importer tout ce qu'il peut, même si un ou plusieurs des objets configurés ne peuvent pas être stockés. C'est l'inverse fonctionnel du Bus d'export ME.%n%nQuand vos machines sont très rapides, mieux vaut les faire sortir directement dans une ME Interface, car cela fonctionne instantanément.
 
 # Quest: Emptying Tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHQ.name=Emptying Tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHQ.desc=Import Bus for Fluids only.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHQ.name=Vider les réservoirs
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHQ.desc=Bus d'import réservé aux fluides.
 
 # Quest: Something to Put Your Components in
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHg.name=Something to Put Your Components in
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHg.desc=An empty storage container, you can insert the vanilla AE2 storage cell parts into it to create a usable storage cell.%n%nYou can also craft it with the storage components when making them to skip combining them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHg.name=De quoi ranger vos composants
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHg.desc=Un contenant de stockage vide : vous pouvez y insérer les composants de cellule de stockage vanilla d'AE2 pour créer une cellule de stockage utilisable.%n%nVous pouvez aussi le fabriquer en même temps que les composants de stockage pour éviter l'étape d'assemblage.
 
 # Quest: AE Tier 1 Item Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHw.name=AE Tier 1 Item Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHw.desc=The main processor for 1K and 4K cells.%n%nStoring items directly in AE cells is very performant and usually the best option.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHw.name=Stockage d'objets AE, tier 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFHw.desc=Le processeur principal des cellules 1K et 4K.%n%nStocker les objets directement dans des cellules AE est très performant, et c'est généralement la meilleure option.
 
 # Quest: Automating Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIA.name=Automating Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIA.desc=Is a component of the crafting CPU multiblock. This particular block provides the CPU with no additional features, but can be used as a "filler" block and as a crafting ingredient for the crafting storage, monitor and co-processing units.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIA.name=Automatiser la fabrication
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIA.desc=C'est un composant du multibloc CPU de fabrication. Ce bloc n'apporte aucune fonction supplémentaire au CPU, mais il peut servir de bloc de « remplissage » et d'ingrédient pour fabriquer les blocs de stockage de fabrication, le moniteur et les unités de co-traitement.
 
 # Quest: 1k Item Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIQ.name=1k Item Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIQ.desc=Lowest tier storage cell, which can contain 1,024 bytes of storage. 1,024 bytes of storage can hold 127 stacks of a single item, or 65 stacks, while holding 63 different items. The 1k storage cell uses 8 bytes of data to store a single type.%n%nWhen placed inside a drive or chest will consume 0.5 AE/t. It must be in an ME drive or ME chest to be usable.%n%nYou can remove the 1k ME storage component by fully emptying the storage cell, and sneak-clicking it in your hand.%n%nYou can format it in the cell workbench.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIQ.desc=Cellule de stockage du plus bas tier, d'une capacité de 1 024 octets. 1 024 octets permettent de stocker 127 stacks d'un seul objet, ou 65 stacks répartis sur 63 objets différents. La cellule 1k utilise 8 octets de données pour stocker un seul type.%n%nPlacée dans un lecteur ou un coffre, elle consomme 0,5 AE/t. Elle doit se trouver dans un Lecteur ME ou un Coffre ME pour être utilisable.%n%nVous pouvez récupérer le composant de stockage ME 1k en vidant complètement la cellule, puis en faisant accroupi + clic avec elle en main.%n%nVous pouvez la formater dans la Cell Workbench.
 
 # Quest: 1k Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIg.name=1k Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIg.desc=Smallest storage component, used to make 1k ME storage cells, or can be upgraded to make 4k ME storage components. Can be recovered from a crafted 1k ME storage cell by fully emptying the storage cell, and shift-clicking it in your hand.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIg.desc=Le plus petit composant de stockage, utilisé pour fabriquer des cellules de stockage ME 1k, ou améliorable en composant de stockage ME 4k. Il peut être récupéré d'une cellule de stockage ME 1k fabriquée en la vidant complètement puis en faisant Maj + clic droit avec elle en main.
 
 # Quest: 1k Crafting Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIw.name=1k Crafting Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIw.desc=Component of the crafting CPU which provides 1024 bytes of storage for crafting. The Crafting Storage blocks are the only necessary part. Each crafting CPU multiblock allows for a separate crafting job (this is different from sub-tasks of the same job). The more items in the recipe and sub-recipes, the more crafting storage you'll need. Having one big and a couple small might be a good idea, but remember it will try to use the best one available first when you order a craft. They are also used when a crafting card requests a craft, so you'll need several separate ones if you intend to use those a lot. A crafting CPU multiblock uses only one channel, regardless of its size. It must be square to form.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFIw.desc=Composant du CPU de fabrication qui fournit 1024 octets de stockage pour la fabrication. Les blocs Crafting Storage sont la seule partie obligatoire. Chaque multibloc CPU de fabrication permet une tâche de fabrication distincte (à ne pas confondre avec les sous-tâches d'une même tâche). Plus la recette et ses sous-recettes comportent d'objets, plus il vous faudra de stockage de fabrication. Avoir un gros CPU et quelques petits peut être une bonne idée, mais n'oubliez pas qu'il essaiera d'abord d'utiliser le meilleur disponible quand vous lancez une fabrication. Les CPU servent aussi quand une Crafting Card demande une fabrication : il vous en faudra donc plusieurs si vous comptez beaucoup utiliser ces cartes. Un multibloc CPU de fabrication n'utilise qu'un seul canal, quelle que soit sa taille. Il doit être rectangulaire (pavé plein) pour se former.
 
 # Quest: 4k Item Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJA.name=4k Item Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJA.desc=Second tier storage cell, which can contain 4,096 bytes of storage. 4,096 bytes of storage can hold 508 stacks of a single item, or 260 stacks, while holding 63 different items. The 4k storage cell uses 32 bytes of data to store a single type.%n%nWhen placed inside a drive or chest will consume 1.0 ae/t.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJA.desc=Cellule de stockage de deuxième tier, d'une capacité de 4 096 octets. 4 096 octets permettent de stocker 508 stacks d'un seul objet, ou 260 stacks répartis sur 63 objets différents. La cellule 4k utilise 32 octets de données pour stocker un seul type.%n%nPlacée dans un lecteur ou un coffre, elle consomme 1,0 AE/t.
 
 # Quest: 4k Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJQ.name=4k Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJQ.desc=Second smallest storage component, used to make 4k ME storage cells, or can be upgraded to make 16k ME storage components. Can be recovered from a crafted 4k ME storage cell by fully emptying the storage cell, and shift-clicking it in your hand.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJQ.desc=Deuxième plus petit composant de stockage, utilisé pour fabriquer des cellules de stockage ME 4k, ou améliorable en composant de stockage ME 16k. Il peut être récupéré d'une cellule de stockage ME 4k fabriquée en la vidant complètement puis en faisant Maj + clic droit avec elle en main.
 
 # Quest: 4k Crafting Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJg.name=4k Crafting Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJg.desc=Component of the crafting CPU which provides 4,096 bytes of storage for crafting.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJg.desc=Composant du CPU de fabrication qui fournit 4 096 octets de stockage pour la fabrication.
 
 # Quest: AE Tier 2 Item Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJw.name=AE Tier 2 Item Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJw.desc=The main processor for 16k and 64k cells.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJw.name=Stockage d'objets AE, tier 2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFJw.desc=Le processeur principal des cellules 16k et 64k.
 
 # Quest: Co-Processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLg.name=Co-Processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLg.desc=Component of the crafting CPU which provides additional item delivery from the CPU to the ME Interface for crafting.%n%nThis can be used to make more machines active in parallel for the job, and thus increase overall crafting speed. %n%nEvery Co-Processor adds one AE2 operation per tick. AE2 uses operations to push items to interfaces, this speeds up the rate at which it can push into your machines. As a side benefit, AE2 will split a task between multiple interfaces with the same pattern (or simulated pattern like with P2P Interface). This means if you have two interfaces with the same pattern for the same item AE2 with no co-processors will only push to one of those interfaces until it is full (so, if the craft is small it may not split it at all) whereas with a co-processor it will round robin between the two by splitting its operations per tick.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLg.name=Co-traitement
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLg.desc=Composant du CPU de fabrication qui augmente la livraison d'objets du CPU vers les ME Interfaces pendant la fabrication.%n%nCela permet de faire travailler plus de machines en parallèle sur la tâche, et donc d'accélérer la fabrication globale. %n%nChaque co-processeur ajoute une opération AE2 par tick. AE2 utilise ces opérations pour envoyer des objets aux interfaces : cela augmente donc le débit vers vos machines. Autre avantage, AE2 répartira une tâche entre plusieurs interfaces ayant le même pattern (ou un pattern simulé, comme avec un P2P Interface). Autrement dit, si vous avez deux interfaces avec le même pattern pour le même objet, AE2 sans co-processeur n'enverra qu'à l'une d'elles jusqu'à ce qu'elle soit pleine (si la fabrication est petite, il ne la répartira peut-être pas du tout), alors qu'avec un co-processeur, il alternera entre les deux en répartissant ses opérations par tick.
 
 # Quest: Recipe Patterns
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLw.name=Recipe Patterns
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLw.desc=Save patterns onto these to do autocrafting. They go into molecular assemblers and ME interfaces.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLw.name=Patterns de recettes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLw.desc=Enregistrez des patterns dessus pour faire de l'autocrafting. Ils se placent dans les Molecular Assemblers et les ME Interfaces.
 
 # Quest: Pattern Terminal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMA.name=Pattern Terminal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMA.desc=A specialized version of the ME crafting terminal designed to encode blank patterns into encoded patterns.%n%nLets you browse the contents of your network like other terminals, but also contains an area for designing patterns. There are two modes for pattern encoding. Crafting patterns, and processing patterns. Processing patterns are designed for use with machines that do not use standard crafting recipes - such as furnaces, or other machines. To select between modes, click the button to the right of the interface: when it shows a standard crafting table, it will create crafting patterns, and when it shows a furnace, it will create processing patterns.%n%nFor crafting patterns ("Crafts..."), you specify the input crafting materials on a standard 3x3 crafting grid, and the output materials are determined automatically.%n%nFor processing patterns ("Creates..."), you specify the input materials and output materials, including quantity, by placing stacks of items in the interface. If a processing operation is not guaranteed to succeed (such as secondary products from some machines), it will not work correctly as a processing pattern.%n%nWhen designing crafting patterns you can click the output to extract a crafted item as long as you have the materials required to craft the item.%n%n[warn]Be cautious about accidentally enabling oredict substitution, it's rarely used and you will keep it disabled 99%% of the time.[/warn]%n%n[note]Works exactly the same with items, fluids, and essentia.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMA.desc=Une version spécialisée de l'ME Crafting Terminal, conçue pour encoder des Blank Patterns en Encoded Patterns.%n%nIl vous permet de parcourir le contenu de votre réseau comme les autres terminaux, mais comporte aussi une zone de conception de patterns. Il existe deux modes d'encodage : les patterns de fabrication et les patterns de traitement. Les patterns de traitement sont destinés aux machines qui n'utilisent pas les recettes de fabrication standard, comme les fourneaux ou d'autres machines. Pour choisir le mode, cliquez sur le bouton à droite de l'interface : quand il affiche un établi, il crée des patterns de fabrication, et quand il affiche un fourneau, il crée des patterns de traitement.%n%nPour les patterns de fabrication (« Crafts... »), vous indiquez les ingrédients sur une grille de fabrication 3x3 standard, et le résultat est déterminé automatiquement.%n%nPour les patterns de traitement (« Creates... »), vous indiquez les ingrédients et les résultats, quantités comprises, en plaçant des stacks d'objets dans l'interface. Si une opération de traitement n'est pas garantie (comme les produits secondaires de certaines machines), elle ne fonctionnera pas correctement en pattern de traitement.%n%nEn concevant un pattern de fabrication, vous pouvez cliquer sur le résultat pour récupérer l'objet fabriqué, tant que vous avez les ingrédients nécessaires.%n%n[warn]Attention à ne pas activer par accident la substitution oredict : elle sert rarement et vous la laisserez désactivée 99%% du temps.[/warn]%n%n[note]Fonctionne exactement de la même façon avec les objets, les fluides et l'essentia.[/note]
 
 # Quest: ME in Your Cleanroom
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMQ.name=ME in Your Cleanroom
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMQ.desc=Wireless Connectors are a close range Quantum Network Bridge alternative.%n%nConnections are point-to-point - you can't connect more than 2 blocks together. Each block will use 10 + distance * ln(distance^2 + 3) AE/t. Does not work across dimensions. Power needs to be provided on only one side. Up to 32 channels can be transferred through the connection. Can connect directly to dense cables. The Wireless Connector itself does not use any channels.%n%nThe Wireless Kit can be used to link the connectors together. There are three modes: Simple, Advanced, and Super. In Simple Mode, you §osimply§r right-click your source and target, and they will link. In Advanced Mode, you can do this in queue/binding groups instead of individually. In Super Mode, you can manage the connections through a menu that opens after you right-click.%n%n[note]Also, these are more TPS friendly than large chains of dense cables![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMQ.name=De l'ME dans votre salle blanche
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMQ.desc=Les Wireless Connectors sont une alternative à courte portée au Quantum Network Bridge.%n%nLes connexions sont point à point : vous ne pouvez pas relier plus de 2 blocs ensemble. Chaque bloc consomme 10 + distance * ln(distance^2 + 3) AE/t. Ne fonctionne pas entre dimensions. L'énergie ne doit être fournie que d'un seul côté. Jusqu'à 32 canaux peuvent passer par la connexion. Peut se connecter directement aux câbles denses. Le Wireless Connector lui-même n'utilise aucun canal.%n%nLe Wireless Kit sert à relier les connecteurs entre eux. Il a trois modes : Simple, Advanced et Super. En mode Simple, il vous suffit §otout simplement§r de faire un clic droit sur la source puis sur la cible pour les relier. En mode Advanced, vous pouvez le faire par files/groupes de liaison plutôt qu'un par un. En mode Super, vous gérez les connexions via un menu qui s'ouvre après un clic droit.%n%n[note]En plus, ils ménagent bien mieux les TPS que de longues chaînes de câbles denses ![/note]
 
 # Quest: Ore Dictionary Output
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMg.name=Ore Dictionary Output
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMg.desc=The ME ore dictionary export card will attempt to push the configured item/fluid [From the same ore dictionary] from the ME network into a machine or other input inventory. To configure an item/liquid, type in the item's name [e.g. if you want to export all ores put "ore*"]. The rate of export is very fast.%n%n[note]PS: Use crushed* & !crushedPurified* & !crushedCentrifuged* to get any crushed ore, but not ore that has been washed, then crushed (to get purified) or run through the thermal centrifuge.[/note]%n%nThe card can be used in more devices, and causes less lag, but works in a similar way. Put it inside a bus and set the filter using the T looking button that appears. The standalone bus is no longer craftable.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMg.name=Sortie par Ore Dictionary
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMg.desc=La carte d'export ME par ore dictionary essaiera d'envoyer l'objet/fluide configuré [du même ore dictionary] depuis le réseau ME vers une machine ou un autre inventaire d'entrée. Pour configurer un objet/liquide, tapez le nom de l'objet [par exemple, pour exporter tous les minerais, mettez « ore* »]. L'export est très rapide.%n%n[note]PS : Utilisez crushed* & !crushedPurified* & !crushedCentrifuged* pour obtenir n'importe quel minerai broyé, mais pas ceux qui ont été lavés puis broyés (pour obtenir le purifié) ou passés dans la Thermal Centrifuge.[/note]%n%nLa carte peut s'utiliser dans plus d'appareils et cause moins de lag, mais fonctionne de façon similaire. Placez-la dans un bus et réglez le filtre avec le bouton en forme de T qui apparaît. Le bus autonome n'est plus fabricable.
 
 # Quest: To Link P2P Buses
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMw.name=To Link P2P Buses
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMw.desc=A small item that can be used to store, copy, and paste settings. Shift-right-click on a configurable object to save the settings onto the memory card, then right-click on any other block of the same type to paste the settings. Shift-right-click on a non-configurable object (or the air) to clear. They are also used to link the input P2P tunnel to the corresponding output P2P tunnels. They can also link Vis Relays to compatible devices.%n%nIf you're doing more advanced operations in a large network of P2Ps, it's recommended you use the advanced memory card. It has a helpful UI that allows you to visualize and set names, inputs, and outputs of P2P tunnels. %n%n[note]Remember P2Ps can only have 1 input! The only exception being fluid P2Ps whose input can function as an output and whose outputs can function as an input.[/note]%n%n[warn]Make sure there aren't any card in your network tool when you craft the Advanced Memory Card, they will be deleted![/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMw.name=Pour relier les bus P2P
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFMw.desc=Un petit objet qui sert à enregistrer, copier et coller des réglages. Faites Maj + clic droit sur un objet configurable pour enregistrer ses réglages sur la Memory Card, puis clic droit sur n'importe quel autre bloc du même type pour coller les réglages. Faites Maj + clic droit sur un objet non configurable (ou dans le vide) pour l'effacer. Elle sert aussi à relier le tunnel P2P d'entrée aux tunnels P2P de sortie correspondants, ainsi qu'à relier des Vis Relays aux appareils compatibles.%n%nSi vous faites des opérations plus poussées dans un grand réseau de P2P, il est recommandé d'utiliser l'Advanced Memory Card. Elle dispose d'une interface pratique qui permet de visualiser et de définir les noms, les entrées et les sorties des tunnels P2P. %n%n[note]N'oubliez pas qu'un P2P ne peut avoir qu'une seule entrée ! La seule exception est le P2P de fluide, dont l'entrée peut servir de sortie et dont les sorties peuvent servir d'entrée.[/note]%n%n[warn]Vérifiez qu'il n'y a aucune carte dans votre Network Tool quand vous fabriquez l'Advanced Memory Card : elles seraient supprimées ![/warn]
 
 # Quest: Smart cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRw.name=Smart cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRw.desc=Smart cables are better than glass or covered cables because you can visually see many channels are in use.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRw.name=Câbles intelligents
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRw.desc=Les câbles intelligents sont meilleurs que les câbles en verre ou couverts, car ils permettent de voir combien de canaux sont utilisés.
 
 # Quest: Dense cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAISA.name=Dense cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAISA.desc=Dense cables are going to be your network backbones. They can transfer 32 channels and display the number of channels in use. Buses and flat interfaces cannot be placed directly on them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAISA.name=Câbles denses
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAISA.desc=Les câbles denses seront l'épine dorsale de votre réseau. Ils peuvent transporter 32 canaux et affichent le nombre de canaux utilisés. Les bus et les interfaces plates ne peuvent pas être posés directement dessus.
 
 # Quest: Energy Acceptor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWA.name=Energy Acceptor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWA.desc=The Energy Acceptor is an alternative place to inject energy into your AE2 network. You can form a "dumb" network with just an EA, but for real capability, you'll want a Controller.%n%n[note]If you're making a subnet, just transfer power over with a Quartz Fiber.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWA.name=Accepteur d'énergie
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWA.desc=L'Accepteur d'énergie est un autre point d'injection d'énergie dans votre réseau AE2. Vous pouvez former un réseau « idiot » avec un simple accepteur, mais pour de vraies capacités, il vous faudra un Contrôleur.%n%n[note]Si vous créez un sous-réseau, transférez simplement l'énergie avec une Quartz Fiber.[/note]
 
 # Quest: ME Controller
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWQ.name=ME Controller
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWQ.desc=The heart of your ME network. You can inject energy into here as well to power your network, but you probably want to save all available spaces for networking. Without this, you're limited to 8 channels.%n%nThis is a multiblock, and can be expanded up to 7x7x7, and can have 2 adjacent blocks in at most 1 axis, or it will be disabled. Whatever that means, just try it out, OK? You can only have one per network.%n%nAbout channels:%nGenerally, every device uses a channel unless specified otherwise. If you don't have enough, that device will not function. If you can't determine what's causing your network problems, try looking at the lines on the smart and dense cables, or use a network visualizer.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWQ.name=Contrôleur ME
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWQ.desc=Le cœur de votre réseau ME. Vous pouvez aussi y injecter de l'énergie pour alimenter votre réseau, mais vous préférerez sans doute garder toutes les faces libres pour les connexions. Sans lui, vous êtes limité à 8 canaux.%n%nC'est un multibloc qui peut s'étendre jusqu'à 7x7x7, et qui peut avoir 2 blocs adjacents sur un seul axe au maximum, sinon il sera désactivé. Peu importe ce que ça veut dire, essayez, d'accord ? Vous ne pouvez en avoir qu'un par réseau.%n%nÀ propos des canaux :%nEn général, chaque appareil utilise un canal, sauf indication contraire. S'il n'y en a pas assez, l'appareil ne fonctionnera pas. Si vous n'arrivez pas à trouver l'origine des problèmes de votre réseau, regardez les lignes sur les câbles intelligents et denses, ou utilisez un outil de visualisation réseau.
 
 # Quest: Diffusion and Coalescence
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0A.name=Diffusion and Coalescence
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0A.desc=The Diffusion and Coalescence cores are basic components needed to make the Thaumic Energistics devices. They're made out of the Formation and Annihilation ones.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0A.name=Diffusion et coalescence
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0A.desc=Les Diffusion Cores et Coalescence Cores sont des composants de base nécessaires pour fabriquer les appareils de Thaumic Energistics. Ils sont fabriqués à partir des Formation Cores et Annihilation Cores.
 
 # Quest: Exporting Essentia From the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0Q.name=Exporting Essentia From the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0Q.desc=Does exactly what it says. But you probably won't need it much, if at all.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0Q.name=Exporter l'essentia du réseau
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0Q.desc=Fait exactement ce qu'il annonce. Mais vous n'en aurez sans doute pas beaucoup besoin, voire pas du tout.
 
 # Quest: Pulling Essentia Into the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0g.name=Pulling Essentia Into the Network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0g.desc=Attach to either Alembics or the output of the Advanced Alchemical Furnace. If that doesn't work, have them pipe to a jar and import from there. You can finally get rid of your shifty-eyed golems.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0g.name=Aspirer l'essentia dans le réseau
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0g.desc=Fixez-le sur des Alembics ou sur la sortie de l'Advanced Alchemical Furnace. Si ça ne fonctionne pas, faites passer l'essentia par tuyau jusqu'à une jarre et importez-la depuis là. Vous pouvez enfin vous débarrasser de vos golems au regard fuyant.
 
 # Quest: Centi-vis in your network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0w.name=Centi-vis in your network
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0w.desc=You can use this device to either transfer the contents (CV) of a Vis Relay to another vis relay, an Arcane Assembler, or an Arcane Crafting Terminal. Either way, place the relay on the device (and send some CV to it), and use the memory card to link to the second device. If you send it to another Vis Relay Interface, you'll obviously need another Vis Relay on the other side.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0w.name=Du centi-vis dans votre réseau
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ0w.desc=Vous pouvez utiliser cet appareil pour transférer le contenu (CV) d'un Vis Relay vers un autre Vis Relay, un Arcane Assembler ou un Arcane Crafting Terminal. Dans tous les cas, placez le relais sur l'appareil (et envoyez-lui des CV), puis utilisez la Memory Card pour le lier au second appareil. Si vous l'envoyez vers une autre Vis Relay Interface, il vous faudra évidemment un autre Vis Relay de l'autre côté.
 
 # Quest: Storing Essentia in Jars? Why, again?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1A.name=Storing Essentia in Jars? Why, again?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1A.desc=So apparently you can attach this to a void/oblivion jar and have it void overflow if you set the priority low. Neat, huh?%n%nWhat? Store essentia in jars? Seriously? I guess you could, if you really wanted to, or if there were new, larger jars...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1A.name=Stocker l'essentia dans des jarres ? Pourquoi, déjà ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1A.desc=Apparemment, vous pouvez fixer ceci sur une void jar/oblivion jar et lui faire détruire le trop-plein si vous réglez une priorité basse. Pas mal, hein ?%n%nQuoi ? Stocker de l'essentia dans des jarres ? Sérieusement ? Vous pourriez, j'imagine, si vous y teniez vraiment, ou s'il existait de nouvelles jarres plus grandes...
 
 # Quest: Magic Terminals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.name=Magic Terminals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.desc=The Arcane Crafting Terminal is the terminal version on the Arcane Workbench. It can hold a set of vis discount gear in its inventory in addition to a wand. You can also link a vis relay through the network to it to recharge the wand.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.name=Terminaux magiques
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1Q.desc=L'Arcane Crafting Terminal est la version terminal de l'Arcane Workbench. Il peut contenir un équipement de réduction de vis dans son inventaire, en plus d'une baguette. Vous pouvez aussi lui relier un Vis Relay via le réseau pour recharger la baguette.
 
 # Quest: Illuminated Panels
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1w.name=Illuminated Panels
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1w.desc=All terminals are made from these. You'll probably want several.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ1w.desc=Tous les terminaux sont fabriqués à partir de ceux-ci. Vous en voudrez sans doute plusieurs.
 
 # Quest: Easier AL Automation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.name=Easier AL Automation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.desc=Unlike regular Pattern Terminals, the Processing Pattern Terminal doesn't have a crafting mode. Instead, you have a lot more slots for input and output, and the ability to swap them. Great for your Assembly Line patterns.%n%n[note]If you need to rename an item for use in a specific pattern, you can use Ctrl + Middle-Click to set the name of the item straight from the terminal. Very handy for some Forming Press & Assembly Line recipes![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.name=Automatisation de l'AL simplifiée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2A.desc=Contrairement aux Pattern Terminals classiques, le Processing Pattern Terminal n'a pas de mode fabrication. En revanche, il a beaucoup plus d'emplacements d'entrée et de sortie, et la possibilité de les intervertir. Idéal pour les patterns de votre Assembly Line.%n%n[note]Si vous devez renommer un objet pour un pattern précis, vous pouvez utiliser Ctrl + clic molette pour définir le nom de l'objet directement depuis le terminal. Très pratique pour certaines recettes de Forming Press et d'Assembly Line ![/note]
 
 # Quest: Visualizing How Much Your Stuff
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2g.name=Visualizing How Much Your Stuff
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2g.desc=The ME Storage Monitor allows you to visualize how much of an item or fluid you have. For example you can tell if you're running low on circuits and should make more, or how a long crafting process is proceeding. There are a couple of ways to use them.%n%nRight-click with item or control-right-click with fluid container: Will display the current level of that item or fluid if not locked.%nRight-click with empty hand: Will reset the display if not locked.%nRight-click with AE2 wrench or network tool: Will toggle the lock.%n%nThe ME Conversion Monitor is the upgraded version of the ME Storage Monitor. It adds the ability to directly withdraw from or store items and fluids in the ME Network. It has the normal interactions, plus more.%n%nShift-right-clicking with item or fluid container: Attempts to insert the item stack into the network. This works even if it's not the displayed item!%nShift-double-right-clicking: Attempts to insert all item and fluid stacks of the type displayed into the network.%nRight-clicking (while locked): Attempts to pull out a stack of the item displayed or fill held cell.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2g.name=Visualiser la quantité de vos trucs
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2g.desc=L'ME Storage Monitor vous permet de visualiser la quantité d'un objet ou d'un fluide dont vous disposez. Vous pouvez par exemple voir si vous êtes à court de circuits et devez en refaire, ou suivre l'avancement d'une longue fabrication. Il y a plusieurs façons de l'utiliser.%n%nClic droit avec un objet ou Ctrl + clic droit avec un contenant de fluide : affiche le niveau actuel de cet objet ou fluide, s'il n'est pas verrouillé.%nClic droit main vide : réinitialise l'affichage, s'il n'est pas verrouillé.%nClic droit avec une clé AE2 ou un Network Tool : verrouille/déverrouille.%n%nL'ME Conversion Monitor est la version améliorée de l'ME Storage Monitor. Il permet en plus de retirer ou de stocker directement des objets et des fluides dans le réseau ME. Il a les interactions normales, et d'autres encore.%n%nMaj + clic droit avec un objet ou un contenant de fluide : essaie d'insérer la pile d'objets dans le réseau. Cela fonctionne même si ce n'est pas l'objet affiché !%nMaj + double clic droit : essaie d'insérer dans le réseau toutes les piles d'objets et de fluides du type affiché.%nClic droit (verrouillé) : essaie de retirer une pile de l'objet affiché ou de remplir la cellule tenue en main.
 
 # Quest: Redstone Based on Storage Level
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.name=Redstone Based on Storage Level
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.desc=This device will turn on (or off) a redstone signal based on how much of an item, fluid, or energy you specify you have in your network. The 'Level Type' will toggle between Item / Fluid mode and Energy mode.%n%nTo add an item, left-click your desired item into the blank space between the 1000 numbers to add, click again while holding nothing to remove. %n%nTo add a fluid, left-control-click a cell containing your desired fluid into the blank space, removable in the same fashion.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.name=Redstone selon le niveau de stockage
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ2w.desc=Cet appareil active (ou désactive) un signal redstone selon la quantité d'un objet, d'un fluide ou d'énergie que vous avez dans votre réseau. Le « Level Type » bascule entre le mode Objet / Fluide et le mode Énergie.%n%nPour ajouter un objet, faites un clic gauche avec l'objet voulu dans la case vide entre les nombres 1000 ; cliquez à nouveau main vide pour le retirer. %n%nPour ajouter un fluide, faites Ctrl gauche + clic avec une cellule contenant le fluide voulu dans la case vide ; il se retire de la même façon.
 
 # Quest: Beam Me Up, Scotty
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4Q.name=Beam Me Up, Scotty
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4Q.desc=If you want to teleport stuff around using these, you'll need a drive in the SIOP, and at least 6 pylons hooked up. The pylons need to indicate the X, Y and Z dimensions, with you needing 1 more than you would think. If the efficiency goes below 100%%, the AE cost will balloon enormously, so add more pylons to counteract that. After using a redstone signal to activate the SIOP, the blocks will be moved to the spatial IO dim, and the drive will move to the output, so you can send it somewhere else. This is very important to do properly if you want to use it as a teleporter. Otherwise, you can get stuck there. Your network will need to be able to hold all the power needed to teleport at once, so you'll need at least one energy cell. You can only have one Pylon setup per controller, so consider putting them on a subnetwork.%n%nUsing 2 in the X and Z dimensions and 3 in the Y will give you a 1x2x1 teleporter to teleport yourself. You'll want a SIOP port on each side for sending and for receiving. But you'll still need to design a redstone contraption to activate them properly!%n%nRead this if you want to know more about spatial IO in general, and larger setups: [url]https://old.reddit.com/r/feedthebeast/comments/3c2b2r/a_treatise_on_nocheat_smp_ae2_spatial_io/[/url]%nAlso see this if you want to see a fancy teleporter: [url]https://old.reddit.com/r/feedthebeast/comments/2mhrf8/ae2_spatial_transporters/[/url]%n%n[warn]Spatial cells, once used, will only work in the XYZ dimensions first used, with no way to format or recraft. Test in creative first![/warn]%n%n[warn]Expect your world to lag for a second after using, blame AE.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4Q.name=Téléportez-moi, Scotty
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4Q.desc=Si vous voulez téléporter des choses avec ceci, il vous faudra une cellule dans le SIOP et au moins 6 pylônes raccordés. Les pylônes doivent indiquer les dimensions X, Y et Z, et il vous en faut 1 de plus que ce que vous pensez. Si l'efficacité descend sous 100%%, le coût en AE explose, alors ajoutez des pylônes pour compenser. Une fois le SIOP activé par un signal redstone, les blocs sont déplacés dans la dimension Spatial IO et la cellule passe dans la sortie, pour que vous puissiez l'envoyer ailleurs. C'est très important de bien faire les choses si vous voulez l'utiliser comme téléporteur, sinon vous pourriez rester coincé là-bas. Votre réseau doit pouvoir contenir toute l'énergie nécessaire à la téléportation d'un coup : il vous faudra donc au moins une Cellule d'énergie. Vous ne pouvez avoir qu'une installation de pylônes par contrôleur, alors pensez à les mettre sur un sous-réseau.%n%nAvec 2 en X et en Z et 3 en Y, vous obtenez un téléporteur 1x2x1 pour vous téléporter vous-même. Il vous faudra un SIOP de chaque côté, pour l'envoi et pour la réception. Mais vous devrez quand même concevoir un montage redstone pour les activer correctement !%n%nLisez ceci si vous voulez en savoir plus sur le Spatial IO en général et sur les grandes installations : [url]https://old.reddit.com/r/feedthebeast/comments/3c2b2r/a_treatise_on_nocheat_smp_ae2_spatial_io/[/url]%nEt jetez un œil à ceci si vous voulez voir un téléporteur stylé : [url]https://old.reddit.com/r/feedthebeast/comments/2mhrf8/ae2_spatial_transporters/[/url]%n%n[warn]Une fois utilisées, les Spatial Storage Cells ne fonctionnent plus qu'avec les dimensions XYZ de leur première utilisation, sans aucun moyen de les formater ou de les refabriquer. Testez d'abord en créatif ![/warn]%n%n[warn]Attendez-vous à ce que votre monde lag une seconde après utilisation : c'est la faute d'AE.[/warn]
 
 # Quest: Spring Cleaning
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4g.name=Spring Cleaning
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4g.desc=So, when you first started AE, maybe you dumped a bunch of your items into 1k drives, but now you want to clean them up, or empty them to reuse them in making higher tier ones. The ME IO Port will allow you to fill or empty your drives by connecting to the rest of the network.%n%nYou can use the Cell Workbench to format your drives, so they'll only contain the stuff you want. Remember, more item types mean less space overall. You can set them to lapis for example, then put them in the ME IO Port with the transfer direction to the drive to fill it with only that item. Don't put in an unformatted drive while using storage drawers to store tons of stuff! If you want to move your stuff around, put in new drives, then empty old ones, or disconnect your storage drawers temporarily.%n%nYou can use the Workbench to format fluid and essentia drives too.%n%nCell Workbenches do not connect to the network, so they don't need a channel.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4g.name=Grand ménage de printemps
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ4g.desc=Quand vous avez débuté avec AE, vous avez peut-être déversé un tas d'objets dans des cellules 1k, et maintenant vous voulez faire le ménage, ou les vider pour les réutiliser dans des cellules de tier supérieur. L'ME IO Port vous permet de remplir ou de vider vos cellules en se connectant au reste du réseau.%n%nVous pouvez utiliser la Cell Workbench pour formater vos cellules, pour qu'elles ne contiennent que ce que vous voulez. N'oubliez pas : plus de types d'objets, c'est moins de place au total. Vous pouvez par exemple les régler sur le lapis, puis les mettre dans l'ME IO Port avec le transfert dirigé vers la cellule pour la remplir uniquement de cet objet. Ne mettez pas de cellule non formatée si vous utilisez des Storage Drawers pour stocker des tonnes de choses ! Si vous voulez déplacer vos affaires, mettez de nouvelles cellules, puis videz les anciennes, ou déconnectez temporairement vos Storage Drawers.%n%nVous pouvez aussi utiliser la Workbench pour formater les cellules de fluide et d'essentia.%n%nLes Cell Workbenches ne se connectent pas au réseau : elles n'ont donc pas besoin de canal.
 
 # Quest: Alpha and Omega
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5A.name=Alpha and Omega
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5A.desc=The ME Annihilation Plane destroys blocks as if you had mined them, and places them into the network. The Identity version acts as if silk touch was used.%n%nThe ME Formation Plane does the opposite, it places blocks into the world. You'll need to tell it what to place/drop though. This can work in both block and item mode.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5A.name=L'alpha et l'oméga
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5A.desc=L'ME Annihilation Plane détruit les blocs comme si vous les aviez minés et les place dans le réseau. La version Identity agit comme si Toucher de soie était utilisé.%n%nL'ME Formation Plane fait l'inverse : elle place des blocs dans le monde. Il faut toutefois lui indiquer quoi poser/lâcher. Elle fonctionne en mode bloc comme en mode objet.
 
 # Quest: Moar Patterns!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5g.name=Moar Patterns!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5g.desc=You may have noticed that the ME Interface's GUI is different than before. That is because with this card you can have more patterns, adding 9 more per card up to a total of 36. HOWEVER, it also uses 4 times the energy for every item when crafting, and this is multiplicative for each new card. If doing large crafts, make sure you have some dense energy cells ready.%n%nSo basically: (sum of amounts of items in the pattern) * config multiplier (which is 10 for GTNH). With cards, it's also multiplied by 4^(number of upgrades)%n%nE.g: (wood log -> planks) in the interface w/o upgrades would draw: 1*10 AE units, which is 5 EU (remember 1 EU = 2 AE)%n(9 charcoal -> charcoal block) compressor recipe in the interface with 3 upgrades will draw 9*10*4^3*0.5 = 2070 EU, but only 45EU without any cards%n%nThey're kind of expensive, so consider holding off if you can't afford the material or EU costs. If you remove it, all the extra patterns will pop out, so be careful of that when moving your stuff.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5g.name=Encore plus de patterns !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5g.desc=Vous avez peut-être remarqué que l'interface graphique de l'ME Interface a changé. C'est parce qu'avec cette carte vous pouvez avoir plus de patterns : 9 de plus par carte, jusqu'à 36 au total. CEPENDANT, elle consomme aussi 4 fois plus d'énergie par objet lors de la fabrication, et c'est multiplicatif pour chaque carte ajoutée. Si vous faites de grosses fabrications, ayez des Grandes cellules d'énergie prêtes.%n%nEn gros : (somme des quantités d'objets du pattern) * multiplicateur de config (10 dans GTNH). Avec des cartes, c'est aussi multiplié par 4^(nombre d'améliorations).%n%nPar exemple : (bûche -> planches) dans une interface sans amélioration consommerait 1*10 unités AE, soit 5 EU (rappel : 1 EU = 2 AE)%nLa recette de Compressor (9 charbons de bois -> bloc de charbon de bois) dans une interface avec 3 améliorations consommera 9*10*4^3*0,5 = 2070 EU, mais seulement 45EU sans carte.%n%nElles sont assez chères, alors attendez un peu si vous ne pouvez pas vous permettre le coût en matériaux ou en EU. Si vous la retirez, tous les patterns supplémentaires sortiront de l'interface : faites-y attention quand vous déplacez vos affaires.
 
 # Quest: Singular Singularities Signify Something
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5w.name=Singular Singularities Signify Something
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5w.desc=Quest names are hard sometimes, ok? To make a Singularity (for the Quantum Network Bridge), you'll need to dump 512,000 items into the Matter Condenser set to Singularity Mode, while using a 64k component or higher.%n%nThese singularities have a few purposes. Primarily they are used in creating quantum entangled singularities for the quantum ring, but they can also be used to create void cells and a couple other useful items.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5w.name=Ces singulières singularités sont sûrement significatives
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ5w.desc=Trouver des noms de quête, c'est parfois dur, d'accord ? Pour fabriquer une Singularity (pour le Quantum Network Bridge), vous devrez déverser 512 000 objets dans le Condenseur de matière réglé en mode Singularity, avec un composant 64k ou supérieur.%n%nCes singularités ont plusieurs usages. Elles servent surtout à créer des Quantum Entangled Singularities pour l'anneau quantique, mais aussi à fabriquer des Void Cells et quelques autres objets utiles.
 
 # Quest: Quantum Bridging Your Outposts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6A.name=Quantum Bridging Your Outposts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6A.desc=A Quantum Network Bridge allows you to connect faraway places to your main AE network, even in other dimensions. So you can shove that pollution producing Mega EBF in the Void where it belongs, but still use it from the safety of your main base. To create this, you'll need a Quantum Link Chamber surrounded by Quantum Rings. Then put a Quantum Entangled Singularity in the link chamber, and connect to one of the 4 Quantum Rings around it with a fluix cable. They cost around 1000EU/t for each ring.%n%nYou can power the other side from the first, but you need to jumpstart it first, so bring an energy cell when setting it up. Remember that it's part of the same network, so you can only have one controller, and you're still limited by the channels of the cable you connected with, so you may wish to use the P2P Tunnel to bring more across.%n%nIf you use several, you may wish to rename the QESs.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6A.name=Un pont quantique vers vos avant-postes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6A.desc=Un Quantum Network Bridge vous permet de relier des endroits éloignés à votre réseau AE principal, même dans d'autres dimensions. Vous pouvez ainsi envoyer ce Mega EBF polluant dans le Void, là où est sa place, tout en l'utilisant depuis la sécurité de votre base principale. Pour le construire, il vous faut une ME Quantum Link Chamber entourée d'Anneaux quantiques ME. Placez ensuite une Quantum Entangled Singularity dans la chambre de liaison, et connectez un câble fluix à l'un des 4 anneaux quantiques qui l'entourent. Ils coûtent environ 1000EU/t par anneau.%n%nVous pouvez alimenter l'autre côté depuis le premier, mais il faut d'abord l'amorcer : apportez une Cellule d'énergie quand vous l'installez. N'oubliez pas qu'il fait partie du même réseau : vous ne pouvez donc avoir qu'un seul contrôleur, et vous êtes toujours limité par les canaux du câble de connexion. Vous voudrez peut-être utiliser des tunnels P2P pour en faire passer davantage.%n%nSi vous en utilisez plusieurs, pensez à renommer les QES.
 
 # Quest: Tools of the Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6Q.name=Tools of the Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6Q.desc=The Network Tool is AE2's main utility tool.%n%nRight-click on a network to see the power usage, and what makes up the network.%nRight-click on air to interact with its inventory to store cards or turn facades transparent.%nShift-right-click to remove fixtures (import bus, interface, etc.) that don't take up a full block without removing the cable, or remove any AE block immediately the same way.%n%nThe Network Visualizer does exactly what it says, it allows you to visualize the channels of your network. First, right-click a network to select it. At first you'll see everything, but you can change the modes by holding shift and scrolling the mouse wheel up or down to see different things. Remember that if you have a subnetwork, like one that P2P tunnels go through for example, those nodes won't show up since it's a different network, but the P2P tunnels entrances and exits will. This goes through solid objects, so you can look at your whole base.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6Q.name=Les outils du métier
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6Q.desc=Le Network Tool est l'outil principal d'AE2.%n%nClic droit sur un réseau pour voir sa consommation d'énergie et ce qui le compose.%nClic droit dans le vide pour accéder à son inventaire, où ranger des cartes ou rendre les façades transparentes.%nMaj + clic droit pour retirer les éléments (bus d'import, interface, etc.) qui n'occupent pas un bloc entier sans retirer le câble, ou pour retirer immédiatement n'importe quel bloc AE de la même façon.%n%nLe Network Visualization Tool fait exactement ce qu'il annonce : il vous permet de visualiser les canaux de votre réseau. Faites d'abord un clic droit sur un réseau pour le sélectionner. Au départ, vous verrez tout, mais vous pouvez changer de mode en maintenant Maj et en tournant la molette pour voir différentes choses. N'oubliez pas que si vous avez un sous-réseau, par exemple un réseau traversé par des tunnels P2P, ses nœuds n'apparaîtront pas puisque c'est un autre réseau, mais les entrées et sorties des tunnels P2P, si. L'affichage traverse les objets solides : vous pouvez donc observer toute votre base.
 
 # Quest: Portable Digital Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6g.name=Portable Digital Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6g.desc=They're exactly what they sound like.%n%nThe first is for items and acts like a terminal. It can hold 4,032 of a single item.%n%nThe second is for liquids, and also acts like a terminal. It can hold 128 buckets of a single liquid.%n%nIt costs AE to put things in, take them out, or have the interface open. Use the Wireless Charger from EIO if you don't want it to take forever.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6g.name=Stockage numérique portable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6g.desc=Ils font exactement ce que leur nom indique.%n%nLe premier est pour les objets et fonctionne comme un terminal. Il peut contenir 4 032 exemplaires d'un seul objet.%n%nLe second est pour les liquides, et fonctionne aussi comme un terminal. Il peut contenir 128 seaux d'un seul liquide.%n%nY mettre des choses, en retirer ou garder l'interface ouverte coûte des AE. Utilisez le Wireless Charger d'EIO si vous ne voulez pas que la recharge prenne une éternité.
 
 # Quest: Deck of Cards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6w.name=Deck of Cards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6w.desc=These cards add additional functionality to certain devices or fixtures. They specify what devices they work on in the tooltip.%n%n§6Redstone Card: §r%n%nThe Redstone Card adds redstone interactivity to the devices it can be used on, with the following options: %n%n§cAlways active%nActive with redstone signal%nActive without redstone signal%nActivate once per pulse§r%n%n§6Capacity Card: §r%n%nThe Capacity Card adds more slots for items that use them. %n%nIf you add this to an Export Bus, an icon is added to select item priority.%n%n§6Crafting Card: §r%n%nThe Crafting Card allows you to automatically request autocrafting of items.%n%n§9In an ME Interface: §r%n%nIf you put in items to be stocked, if there aren't enough, it'll craft them until it reaches the selected amount. %n%nThese crafts are being stocked for recipes that the ME Interface has.%n%n[note]If you want them to be seen by the network, you'll need to put a storage bus on the ME Interface.[/note]%n%n§9In an ME Level Emitter: §r%n%n§aFirst Mode: §rIt'll emit a redstone signal while the specific item is being crafted.%n%n§aSecond Mode: §rIt will emit a redstone signal once a crafting job for the item has been requested, [warn]but it won't send the items to be crafted.[/warn] %n%nThis is useful if you're using a dummy pattern, and are using the level emitter to tell something else to happen. %n%nYou still need to get the item(s) requested back into the system so it doesn't tie up a crafting CPU though.%n%n§9In an ME Export Bus: §r%n%nIt'll attempt to send whatever item(s) are selected in the export bus' GUI.%n%n§aFirst Mode: §rIt'll send available items first, then create crafting jobs for the rest. %n%n§aSecond Mode: §rIt will only send crafted items.%n%n§6Acceleration Card: §r%n%nThe Acceleration Card makes the device/fixture work faster. %n%n[note]You'll probably want a lot of these.[/note]%n%n§6Inverter Card: §r%n%nThe Inverter Card allows you to invert the item filter of certain fixtures.%n%n§6Fuzzy Card: §r%n%nThe Fuzzy Card allows you to apply fuzzy logic to filtering to allow items with different NBT or damage data to be counted as the same. This is different from metadata. %n%nIf you just want it to be fuzzy for NBT, set to §9Match Any.§r %n%nIf it is set to §c99%%§r, it will work on anything that is damaged. You can use the Inverter Card to reverse this.%n%nWhen used in an ME Interface, each fuzzy card (up to 3) will control 3 slots of the interface, from right to left. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6w.name=Jeu de cartes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ6w.desc=Ces cartes ajoutent des fonctions supplémentaires à certains appareils ou éléments. Leur infobulle indique sur quels appareils elles fonctionnent.%n%n§6Redstone Card : §r%n%nLa Redstone Card ajoute une interaction redstone aux appareils compatibles, avec les options suivantes : %n%n§cToujours actif%nActif avec un signal redstone%nActif sans signal redstone%nActivation une fois par impulsion§r%n%n§6Capacity Card : §r%n%nLa Capacity Card ajoute des emplacements aux objets qui en utilisent. %n%nSi vous l'ajoutez à un bus d'export, une icône apparaît pour choisir la priorité des objets.%n%n§6Crafting Card : §r%n%nLa Crafting Card vous permet de demander automatiquement l'autocrafting d'objets.%n%n§9Dans une ME Interface : §r%n%nSi vous y mettez des objets à stocker et qu'il n'y en a pas assez, elle les fabriquera jusqu'à atteindre la quantité choisie. %n%nCes fabrications sont stockées pour les recettes que contient l'ME Interface.%n%n[note]Si vous voulez qu'ils soient visibles par le réseau, il vous faudra placer un bus de stockage sur l'ME Interface.[/note]%n%n§9Dans un ME Level Emitter : §r%n%n§aPremier mode : §rIl émet un signal redstone pendant que l'objet précis est en cours de fabrication.%n%n§aSecond mode : §rIl émet un signal redstone dès qu'une tâche de fabrication est demandée pour l'objet, [warn]mais il n'enverra pas les objets à fabriquer.[/warn] %n%nC'est utile si vous utilisez un pattern factice et que l'émetteur de niveau sert à déclencher autre chose. %n%nIl faut tout de même que les objets demandés reviennent dans le système, pour ne pas bloquer un CPU de fabrication.%n%n§9Dans un Bus d'export ME : §r%n%nIl essaiera d'envoyer les objets sélectionnés dans l'interface du bus d'export.%n%n§aPremier mode : §rIl envoie d'abord les objets disponibles, puis crée des tâches de fabrication pour le reste. %n%n§aSecond mode : §rIl n'envoie que les objets fabriqués.%n%n§6Acceleration Card : §r%n%nL'Acceleration Card fait fonctionner l'appareil/élément plus vite. %n%n[note]Vous en voudrez sans doute beaucoup.[/note]%n%n§6Inverter Card : §r%n%nL'Inverter Card vous permet d'inverser le filtre d'objets de certains éléments.%n%n§6Fuzzy Card : §r%n%nLa Fuzzy Card applique une logique floue au filtrage, pour que des objets ayant des NBT ou des valeurs de dégâts différents soient comptés comme identiques. Ce n'est pas la même chose que les métadonnées. %n%nSi vous voulez seulement ignorer les NBT, réglez-la sur §9Match Any.§r %n%nSi elle est réglée sur §c99%%§r, elle fonctionnera sur tout ce qui est endommagé. Vous pouvez utiliser l'Inverter Card pour inverser cela.%n%nDans une ME Interface, chaque Fuzzy Card (jusqu'à 3) contrôle 3 emplacements de l'interface, de droite à gauche. 
 
 # Quest: Fluids of the Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7A.name=Fluids of the Trade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7A.desc=The ME Fluid Auto Filler will add crafting recipes for any fluid in your network that has a bucket version. When crafting a water bucket for example, it will send a bucket to it, and the filled water bucket back.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7A.name=Les fluides du métier
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7A.desc=Le Remplisseur ME auto Fluides ajoute des recettes de fabrication pour chaque fluide de votre réseau qui existe en version seau. Quand vous fabriquez un seau d'eau, par exemple, le réseau lui envoie un seau et récupère le seau d'eau rempli.
 
 # Quest: Wireless 2.0
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7g.name=Sans-fil 2.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7g.desc=This is the good wireless terminal. It allows you to combine 4 different types of terminals into one ultimate terminal for usage on the go; Crafting, Patterning, Interface, & Level.%n%nIf you make this combined version, it even allows you to program large processing patterns without needing LuV parts to make the Processing Pattern Terminal first.%n%n[note]Recommended to set a keybind for this so you can keep it in your Baubles rather than in your hotbar.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ7g.desc=Voici le bon terminal sans fil. Il vous permet de combiner 4 types de terminaux en un terminal ultime à emporter partout : Crafting, Pattern, Interface et Level.%n%nSi vous fabriquez cette version combinée, elle vous permet même de programmer de grands patterns de traitement sans avoir besoin des pièces LuV pour fabriquer d'abord le Processing Pattern Terminal.%n%n[note]Il est recommandé de lui attribuer un raccourci clavier, pour pouvoir le garder dans vos Baubles plutôt que dans votre barre d'action.[/note]
 
 # Quest: Cut the Power!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8A.name=Cut the Power!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8A.desc=The ME Toggle Bus allows you to cut off access through a cable if it doesn't receive a redstone signal. The inverted version is, well, inverted. It must be placed between the cables, like a Quartz Fiber.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8A.name=Coupez le courant !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8A.desc=L'ME Toggle Bus vous permet de couper l'accès à travers un câble s'il ne reçoit pas de signal redstone. La version inversée est, eh bien, inversée. Il doit être placé entre les câbles, comme une Quartz Fiber.
 
 # Quest: Providing Essentia on Demand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8Q.name=Providing Essentia on Demand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8Q.desc=The Essentia and Infusion Providers both do basically the same thing, send essentia to a device that requests it for crafting.%n%nThe Essentia Provider needs to be next to the device, it's mostly for the Thaumatorium. Since it's effectively a magic ME Interface, you can also use it instead of an Essentia Import Bus next to your Alembics or the Advanced Alchemical Furnace.%n%nThe Infusion Provider is for devices that draw essentia through the air, like the Runic Matrix (infusion) or Overchanting Table. It doesn't need to be next to the device.%n%nThey both obviously need the essentia they request to be accessible by the network to work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8Q.name=Fournir l'essentia à la demande
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8Q.desc=L'Essentia Provider et l'Infusion Provider font en gros la même chose : envoyer de l'essentia à un appareil qui en demande pour une fabrication.%n%nL'Essentia Provider doit être à côté de l'appareil ; il sert surtout pour le Thaumatorium. Comme c'est en fait une ME Interface magique, vous pouvez aussi l'utiliser à la place d'un Essentia Import Bus à côté de vos Alembics ou de l'Advanced Alchemical Furnace.%n%nL'Infusion Provider sert aux appareils qui aspirent l'essentia à travers l'air, comme la Runic Matrix (infusion) ou l'Overchanting Table. Il n'a pas besoin d'être à côté de l'appareil.%n%nÉvidemment, pour fonctionner, ils ont tous deux besoin que l'essentia demandée soit accessible par le réseau.
 
 # Quest: Ordering Essentia
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8g.name=Ordering Essentia
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8g.desc=The Distillation Pattern Encoder allows you to automatically melt down items in your alchemical furnace to provide essentia.%nFirst, place something that is already scanned in the device, along with a blank pattern. You can create the pattern by clicking the button, or click the different aspects to select one that is not the highest. This will create a pattern of item -> essentia. Then use an ME Interface pointing at a furnace with the pattern in it. You can now craft that type of essentia the same way you would a normal craft, but through the Essentia Terminal.%n%n[warn]There isn't a way to have the system craft essentia on demand for a craft, unfortunately.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8g.name=Commander de l'essentia
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8g.desc=Le Distillation Pattern Encoder vous permet de faire fondre automatiquement des objets dans votre fourneau alchimique pour produire de l'essentia.%nPlacez d'abord dans l'appareil quelque chose de déjà scanné, avec un Blank Pattern. Vous pouvez créer le pattern en cliquant sur le bouton, ou cliquer sur les différents aspects pour en choisir un autre que le plus élevé. Cela crée un pattern objet -> essentia. Utilisez ensuite une ME Interface tournée vers un fourneau, avec le pattern dedans. Vous pouvez maintenant fabriquer ce type d'essentia comme une fabrication normale, mais depuis l'Essentia Terminal.%n%n[warn]Malheureusement, il n'existe aucun moyen de faire fabriquer de l'essentia à la demande par le système pour une fabrication.[/warn]
 
 # Quest: Autocrafting Magic Stuff
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8w.name=Autocrafting Magic Stuff
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8w.desc=The Arcane Assembler works like a combination of the Molecular Assembler and the Arcane Workbench, allowing you to autocraft anything crafted in the latter. You need to link a vis relay through the network to supply vis to it, and a Knowledge Core with recipes on it for it to work. Additionally, you can add vis discount gear into the interface to take advantage of the discount. The base discount starts at 20%%. Each Acceleration Card reduces the time taken by 20%% and increases power usage by 50%%. For every point of warp on the discount gear, the power costs increase by 15%%.%n%nThe Knowledge Core holds up to 21 patterns for use in the Arcane Assembler, but you need a new assembler for every Knowledge Core if you want to autocraft more than that.%n%nTo encode the patterns, you need a Knowledge Inscriber. It works exactly as you would expect. It doesn't connect to the network, so it doesn't need a channel. If you want to erase a pattern, select it and the save icon should become erase instead.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8w.name=Autocrafting de trucs magiques
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ8w.desc=L'Arcane Assembler fonctionne comme une combinaison du Molecular Assembler et de l'Arcane Workbench : il vous permet de fabriquer automatiquement tout ce qui se fabrique dans ce dernier. Vous devez lui relier un Vis Relay via le réseau pour lui fournir du vis, et il lui faut un Knowledge Core contenant des recettes pour fonctionner. Vous pouvez en plus placer un équipement de réduction de vis dans l'interface pour profiter de la réduction. La réduction de base est de 20%%. Chaque Acceleration Card réduit la durée de 20%% et augmente la consommation d'énergie de 50%%. Chaque point de warp sur l'équipement de réduction augmente le coût en énergie de 15%%.%n%nLe Knowledge Core contient jusqu'à 21 patterns pour l'Arcane Assembler, mais il vous faut un nouvel assembleur pour chaque Knowledge Core si vous voulez fabriquer automatiquement davantage.%n%nPour encoder les patterns, il vous faut un Knowledge Inscriber. Il fonctionne exactement comme on s'y attend. Il ne se connecte pas au réseau : il n'a donc pas besoin de canal. Pour effacer un pattern, sélectionnez-le : l'icône d'enregistrement devient alors une icône d'effacement.
 
 # Quest: Miscellaneous AE Items
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9A.name=Miscellaneous AE Items
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9A.desc=There are several AE items that aren't particularly useful, but probably deserve mention, so here they are:%n%n§lCertus Tanks§r: They hold 32B and are portable and easy to make.%n%n§lView Cell§r: Format in a Cell Workbench to filter what you see in a terminal (when they're installed in it)%n%n§lCertus/Nether Quartz Cutting Knive§rs: Right-click to open interface and choose a name. The press can be used in the Inscriber to name stuff without using an anvil. You can also rename p2p tunnels and interfaces in world with the knife.%n%n§lME Block Container§r: Holds only one type of item, but the amount of a 64k drive. Can place the item in world, or replace in a 1x1 or 3x3 area. Blocks replaced will be dumped in world. This will be horizontal or vertical depending on which side of a block you select. Shift-right-click air to change mode, right-click a block to activate mode.%n%n§lCharged Quartz Fixture§r: Emits light at the same level as a torch, but fancier.%n%n§lLight Detecting Fixture§r: Emits redstone signal based on light. Since it only starts at 7, it's not as useful as the Light Sensor.%n%n§lME Upgrade (Tier 1/2/3)§r: If you're an OC person, there are 3 upgrades you can make to add access to your network from robots and drones.%nT1: 0.5 access point range%nT2: Normal access point range%nT3: Unlimited range, any dim%n%n§lEntropy Manipulator§r: Changes grass/dirt/dried dirt into each other, or starts fires. Or melts ice. Useless.%n%n§lMatter Cannon§r: Shoots Matter Balls made in the Matter Condenser. Put it in an ME Chest or Drive and put items in a Terminal to fill. Decent I guess? But it destroys blocks every time you use it, so... Well, I guess you could use it with Paint Balls?%n%n§lColor Applicator§r: Use dye items or Paint Balls (more efficient) to dye stuff. You can dye cables, or anything Forge-compatible, like wool or glass. Place items inside like the Matter Cannon. You can cycle through the colors by holding shift and right-clicking, or scrolling the mouse wheel. If you use snow balls, you can remove paint instead. You can also use it in a dispenser.%n%n§6§lWalrus§r: It's a walrus, what were you expecting?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9A.name=Objets AE divers
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9A.desc=Plusieurs objets AE ne sont pas particulièrement utiles, mais méritent sans doute d'être mentionnés. Les voici :%n%n§lRéservoirs Quartz Certus§r : ils contiennent 32B, sont portables et faciles à fabriquer.%n%n§lView Cell§r : à formater dans une Cell Workbench pour filtrer ce que vous voyez dans un terminal (quand elles y sont installées).%n%n§lCertus/Nether Quartz Cutting Knife§r : clic droit pour ouvrir l'interface et choisir un nom. La presse obtenue peut servir dans l'Inscriber pour nommer des choses sans enclume. Vous pouvez aussi renommer les tunnels P2P et les interfaces directement dans le monde avec le couteau.%n%n§lME Block Container§r : ne contient qu'un seul type d'objet, mais en quantité équivalente à une cellule 64k. Peut poser l'objet dans le monde, ou remplacer les blocs dans une zone de 1x1 ou 3x3. Les blocs remplacés sont lâchés dans le monde. La zone est horizontale ou verticale selon la face du bloc visée. Maj + clic droit dans le vide pour changer de mode, clic droit sur un bloc pour activer le mode.%n%n§lCharged Quartz Fixture§r : émet autant de lumière qu'une torche, mais avec plus de classe.%n%n§lLight Detecting Fixture§r : émet un signal redstone selon la lumière. Comme il ne commence qu'à 7, il est moins utile que le Light Sensor.%n%n§lME Upgrade (Tier 1/2/3)§r : si vous êtes adepte d'OC, il existe 3 améliorations qui donnent accès à votre réseau depuis les robots et les drones.%nT1 : 0,5 fois la portée d'un point d'accès%nT2 : portée normale d'un point d'accès%nT3 : portée illimitée, dans toutes les dimensions%n%n§lEntropy Manipulator§r : transforme herbe/terre/terre sèche de l'une à l'autre, ou allume des feux. Ou fait fondre la glace. Inutile.%n%n§lMatter Cannon§r : tire des Matter Balls fabriquées dans le Condenseur de matière. Mettez-le dans un Coffre ME ou un Lecteur ME et placez des objets dans un terminal pour le remplir. Correct, j'imagine ? Mais il détruit des blocs à chaque utilisation, alors... Bon, vous pourriez toujours l'utiliser avec des Paint Balls ?%n%n§lColor Applicator§r : utilisez des colorants ou des Paint Balls (plus efficaces) pour teindre des choses. Vous pouvez teindre les câbles ou tout ce qui est compatible Forge, comme la laine ou le verre. Remplissez-le comme le Matter Cannon. Vous pouvez faire défiler les couleurs avec Maj + clic droit, ou avec la molette. Avec des boules de neige, vous pouvez au contraire retirer la peinture. Vous pouvez aussi l'utiliser dans un distributeur.%n%n§6§lWalrus§r : c'est un morse, vous vous attendiez à quoi ?
 
 # Quest: Magical Minions
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9Q.name=Magical Minions
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9Q.desc=You can use the Wireless Golem Backpack to connect your golem to the network if it's close enough to an access point. See the Thaumonomicon for details.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9Q.name=Serviteurs magiques
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ9Q.desc=Vous pouvez utiliser le Wireless Golem Backpack pour connecter votre golem au réseau s'il est assez proche d'un point d'accès. Consultez le Thaumonomicon pour plus de détails.
 
 # Quest: AE Tier 3 Item Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnw.name=AE Tier 3 Item Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnw.desc=The main processor for 256k and 1024k cells. You can make these in IV.%n%nThese Components need to be paired with Advanced Storage Housings to turn them into Storage Cells.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnw.name=Stockage d'objets AE, tier 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnw.desc=Le processeur principal des cellules 256k et 1024k. Vous pouvez les fabriquer en IV.%n%nCes composants doivent être associés à des ME Advanced Storage Housings pour devenir des cellules de stockage.
 
 # Quest: 256k Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJoA.name=256k Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJoA.desc=They work the same as the previous ones, but hold more once you make it into something.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJoA.desc=Ils fonctionnent comme les précédents, mais contiennent plus une fois transformés.
 
 # Quest: 1024k Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJoQ.name=1024k Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJoQ.desc=Same as 256k.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJoQ.desc=Comme pour le 256k.
 
 # Quest: 4096k Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJog.name=4096k Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJog.desc=Also same as 256k.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJog.desc=Toujours comme pour le 256k.
 
 # Quest: 16384k Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJow.name=16384k Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJow.desc=The final tier back in the old ExtraCells days. Now we added more!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJow.desc=Le dernier tier à l'époque d'ExtraCells. Maintenant, nous en avons ajouté d'autres !
 
 # Quest: 256k Item Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpA.name=256k Item Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpA.desc=They're bigger.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpA.desc=Elles sont plus grandes.
 
 # Quest: 1024k Item Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpQ.name=1024k Item Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpQ.desc=Again, they're just bigger.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpQ.desc=Encore une fois, elles sont juste plus grandes.
 
 # Quest: 4096k Item Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpg.name=4096k Item Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpg.desc=Are you expecting something? They just hold more.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpg.desc=Vous attendiez quelque chose ? Elles contiennent juste plus.
 
 # Quest: 16384k Item Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpw.name=16384k Item Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpw.desc=They may have a fancy texture, but the numbers are just higher. They hold about 133,169,152 of a single item, so about the same as a Quantum Chest I. If you want more storage, use Quantum Chests with storage buses.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJpw.desc=Elles ont peut-être une jolie texture, mais seuls les chiffres augmentent. Elles contiennent environ 133 169 152 exemplaires d'un seul objet, soit à peu près autant qu'un Quantum Chest I. Si vous voulez plus de stockage, utilisez des Quantum Chests avec des bus de stockage.
 
 # Quest: 256k Crafting Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqA.name=256k Crafting Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqA.desc=Component of the crafting CPU which provides 262,144 bytes of storage for crafting.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqA.desc=Composant du CPU de fabrication qui fournit 262 144 octets de stockage pour la fabrication.
 
 # Quest: 1024k Crafting Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqQ.name=1024k Crafting Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqQ.desc=Component of the crafting CPU which provides 1,048,576 bytes of storage for crafting.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqQ.desc=Composant du CPU de fabrication qui fournit 1 048 576 octets de stockage pour la fabrication.
 
 # Quest: 4096k Crafting Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqg.name=4096k Crafting Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqg.desc=Component of the crafting CPU which provides 4,194,304 bytes of storage for crafting.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqg.desc=Composant du CPU de fabrication qui fournit 4 194 304 octets de stockage pour la fabrication.
 
 # Quest: 16384k Crafting Storage
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqw.name=16384k Crafting Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqw.desc=Component of the crafting CPU which provides 16,777,216 bytes of storage for crafting.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJqw.desc=Composant du CPU de fabrication qui fournit 16 777 216 octets de stockage pour la fabrication.
 
 # Quest: AE Tier 4 Item Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrA.name=AE Tier 4 Item Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrA.desc=The main processor for 4096k and 16384k cells. You'll need to be in LuV for these.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrA.name=Stockage d'objets AE, tier 4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrA.desc=Le processeur principal des cellules 4096k et 16384k. Il vous faudra être en LuV pour celles-ci.
 
 # Quest: AE Tier 1 Fluid Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrQ.name=AE Tier 1 Fluid Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrQ.desc=The main Processor used for crafting 1K, 4K, 16K and 64K Fluid Storage Components. Additionally, it's used to craft Dual Interfaces, as well as some other useful tools from AE2FC, like the Level Maintainer.%n%nDon't want to get rid of the Super Tanks you have been using up to now? Use the Fluid Storage Bus instead of the Fluid Storage Cells from AE2FC then. Super Tanks double in capacity each tier, but the Cells quadruple. They're also less expensive for sure. But you decide which to use.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrQ.name=Stockage de fluide AE, tier 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrQ.desc=Le processeur principal utilisé pour fabriquer les composants de stockage de fluide 1K, 4K, 16K et 64K. Il sert aussi à fabriquer les Interfaces ME doubles, ainsi que d'autres outils utiles d'AE2FC, comme le Mainteneur Niveau ME.%n%nVous ne voulez pas vous séparer des Super Tanks que vous utilisez depuis le début ? Utilisez alors le Bus de stockage ME de fluide plutôt que les cellules de stockage de fluide d'AE2FC. Les Super Tanks doublent de capacité à chaque tier, mais les cellules la quadruplent. Elles sont aussi clairement moins chères. Mais c'est vous qui choisissez.
 
 # Quest: 1k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrg.name=1k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrg.desc=They work the same as the item one, but hold fluids.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrg.name=Composant ME 1k de stockage fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrg.desc=Ils fonctionnent comme ceux pour les objets, mais contiennent des fluides.
 
 # Quest: 4k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrw.name=4k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrw.desc=Same as 1k.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrw.name=Composant ME 4k de stockage fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJrw.desc=Comme pour le 1k.
 
 # Quest: 16k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsA.name=16k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsA.desc=Same as 1k.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsA.name=Composant ME 16k de stockage fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsA.desc=Comme pour le 1k.
 
 # Quest: 64k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsQ.name=64k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsQ.desc=Same as 1k.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsQ.name=Composant ME 64k de stockage fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsQ.desc=Comme pour le 1k.
 
 # Quest: 1k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsg.name=1k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsg.desc=Unlike the item version, these can only hold one type of fluid each. They can hold a little over 2 ML. There is also another variant that can hold five different fluids, but it requires tungstensteel. You'll be able to view your stored fluid in the terminal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsg.name=Cellule ME 1k de stockage de fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsg.desc=Contrairement à la version pour objets, elles ne peuvent contenir qu'un seul type de fluide chacune. Elles contiennent un peu plus de 2 ML. Il existe aussi une variante pouvant contenir cinq fluides différents, mais elle demande de l'Acier au Tungstène. Vous pourrez voir le fluide stocké dans le terminal.
 
 # Quest: 4k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsw.name=4k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsw.desc=These hold over 8 ML of a single fluid.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsw.name=Cellule ME 4k de stockage de fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJsw.desc=Elles contiennent plus de 8 ML d'un seul fluide.
 
 # Quest: 16k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtA.name=16k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtA.desc=These hold over 32 ML of a single fluid. Enough to match a Super Tank IV!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtA.name=Cellule ME 16k de stockage de fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtA.desc=Elles contiennent plus de 32 ML d'un seul fluide. De quoi égaler un Super Tank IV !
 
 # Quest: 64k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtQ.name=64k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtQ.desc=These hold over 128 ML of a single fluid.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtQ.name=Cellule ME 64k de stockage de fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtQ.desc=Elles contiennent plus de 128 ML d'un seul fluide.
 
 # Quest: Housing for Advanced Components
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtw.name=Housing for Advanced Components
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtw.desc=You need to use this for the higher-tiered Cells.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtw.name=Boîtier pour composants avancés
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJtw.desc=Il vous le faut pour les cellules de tier supérieur.
 
 # Quest: 256k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJuQ.name=256k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJuQ.desc=Same as 1k.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJuQ.name=Composant ME 256k de stockage fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJuQ.desc=Comme pour le 1k.
 
 # Quest: 1024k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJug.name=1024k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJug.desc=Same as 1k.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJug.name=Composant ME 1024k de stockage fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJug.desc=Comme pour le 1k.
 
 # Quest: 4096k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJuw.name=4096k Fluid Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJuw.desc=And another one.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJuw.name=Composant ME 4096k de stockage fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJuw.desc=Et encore un.
 
 # Quest: 256k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvA.name=256k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvA.desc=These hold 512 ML of a single fluid. They hold a bit more than a Quantum Tank III.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvA.name=Cellule ME 256k de stockage de fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvA.desc=Elles contiennent 512 ML d'un seul fluide, soit un peu plus qu'un Quantum Tank III.
 
 # Quest: 1024k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvQ.name=1024k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvQ.desc=These hold over 2 GL of a single fluid. A little more than a Quantum Tank V.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvQ.name=Cellule ME 1024k de stockage de fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvQ.desc=Elles contiennent plus de 2 GL d'un seul fluide, soit un peu plus qu'un Quantum Tank V.
 
 # Quest: 4096k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvg.name=4096k Fluid Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvg.desc=It holds over 8GL.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvg.name=Cellule ME 4096k de stockage de fluide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvg.desc=Elle contient plus de 8GL.
 
 # Quest: AE Essentia Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvw.name=AE Essentia Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvw.desc=The main processor for 1K, 4K, 16k, and 64k essentia cells.%n%nUse your AE network to store all that nasty essentia! Remember, you need to do the research first.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvw.name=Stockage d'essentia AE
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJvw.desc=Le processeur principal des cellules d'essentia 1K, 4K, 16k et 64k.%n%nUtilisez votre réseau AE pour stocker toute cette vilaine essentia ! N'oubliez pas qu'il faut d'abord faire la recherche.
 
 # Quest: Essentia Storage Housing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJwA.name=Essentia Storage Housing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJwA.desc=This is the essentia version, for storing essentia in your network.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJwA.desc=Voici la version essentia, pour stocker de l'essentia dans votre réseau.
 
 # Quest: 1k Essentia Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJwQ.name=1k Essentia Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJwQ.desc=They work the same as the item one, but hold essentia.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJwQ.desc=Ils fonctionnent comme ceux pour les objets, mais contiennent de l'essentia.
 
 # Quest: 4k Essentia Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJwg.name=4k Essentia Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJwg.desc=Same as 1k.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJwg.desc=Comme pour le 1k.
 
 # Quest: 16k Essentia Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJww.name=16k Essentia Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJww.desc=Same as 1k.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJww.desc=Comme pour le 1k.
 
 # Quest: 64k Essentia Component
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxA.name=64k Essentia Component
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxA.desc=Same as 1k.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxA.desc=Comme pour le 1k.
 
 # Quest: 1k Essentia Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxQ.name=1k Essentia Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxQ.desc=Unlike the item version, these can only hold 12 types of essentia each. This tier holds 2,048 units if you fill it with a single type of essentia. If you fill it with 12 different types of essentia, you can have about 168 units of each. If you want one for every type of essentia, you'll need 69 of them. You'll want to make the essentia terminal to see what you have. They consume the same amount of AE as the item ones.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxQ.desc=Contrairement à la version pour objets, elles ne peuvent contenir que 12 types d'essentia chacune. Ce tier contient 2 048 unités si vous le remplissez d'un seul type d'essentia. Avec 12 types différents, vous pouvez en avoir environ 168 unités de chaque. Si vous en voulez une pour chaque type d'essentia, il vous en faudra 69. Fabriquez l'Essentia Terminal pour voir ce que vous avez. Elles consomment autant d'AE que celles pour les objets.
 
 # Quest: 4k Essentia Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxg.name=4k Essentia Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxg.desc=These hold 8,192 units of essentia.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxg.desc=Elles contiennent 8 192 unités d'essentia.
 
 # Quest: 16k Essentia Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxw.name=16k Essentia Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxw.desc=These hold 32,768 units of essentia.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJxw.desc=Elles contiennent 32 768 unités d'essentia.
 
 # Quest: 64k Essentia Storage Cell
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyA.name=64k Essentia Storage Cell
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyA.desc=These hold 131,072 units of essentia.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyA.desc=Elles contiennent 131 072 unités d'essentia.
 
 # Quest: AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyQ.name=AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyQ.desc=The main processor for 2^3, 16^3, and 128^3 spatial storage cells.%n%nHave you ever wanted to pack up and move your entire base, but thought it was too much of a pain? Wish you could just teleport the whole thing? Well now you, uh, still can't, because GT blocks DO NOT PLAY WELL with being teleported by AE spatial stuff. Like, world corruption level bad. But you could make a teleporter I guess?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyQ.name=Stockage spatial AE
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyQ.desc=Le processeur principal des Spatial Storage Cells 2^3, 16^3 et 128^3.%n%nVous avez déjà eu envie de faire vos valises et de déménager toute votre base, mais trouvé que c'était trop pénible ? Rêvé de pouvoir tout téléporter d'un coup ? Eh bien maintenant, euh, vous ne pouvez toujours pas, parce que les blocs GT NE SUPPORTENT PAS DU TOUT d'être téléportés par les trucs spatiaux d'AE. Genre, au point de corrompre le monde. Mais vous pourriez toujours fabriquer un téléporteur, j'imagine ?
 
 # Quest: AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyg.name=AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyg.desc=The main part of 2^3 spatial cells.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyg.name=Stockage spatial AE
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyg.desc=La pièce principale des Spatial Storage Cells 2^3.
 
 # Quest: AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyw.name=AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyw.desc=The main part of 16^3 spatial cells.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyw.name=Stockage spatial AE
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJyw.desc=La pièce principale des Spatial Storage Cells 16^3.
 
 # Quest: AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzA.name=AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzA.desc=The main part of 128^3 spatial cells.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzA.name=Stockage spatial AE
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzA.desc=La pièce principale des Spatial Storage Cells 128^3.
 
 # Quest: AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzQ.name=AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzQ.desc=Contains up to a 2^3 area inside it. This is 8 blocks, so if you just want to teleport yourself, you don't need to make the later ones.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzQ.name=Stockage spatial AE
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzQ.desc=Peut contenir une zone allant jusqu'à 2^3. Cela fait 8 blocs : si vous voulez seulement vous téléporter vous-même, inutile de fabriquer les suivantes.
 
 # Quest: AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzg.name=AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzg.desc=Contains up to a 16^3 area inside it. This is 4096 blocks.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzg.name=Stockage spatial AE
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzg.desc=Peut contenir une zone allant jusqu'à 16^3. Cela fait 4096 blocs.
 
 # Quest: AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzw.name=AE Spatial Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzw.desc=Contains up to a 128^3 area inside it. This is 2,097,152 blocks. Teleport a village to the Moon to make them suffer!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzw.name=Stockage spatial AE
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJzw.desc=Peut contenir une zone allant jusqu'à 128^3. Cela fait 2 097 152 blocs. Téléportez un village sur la Lune pour le faire souffrir !
 
 # Quest: Short Guide - A Basic AE2 System
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKwQ.name=Short Guide - A Basic AE2 System
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKwQ.desc=So you've unlocked AE2, but don't know how to use it? Not to worry, that's what this questline is for. For a basic (and not completely useless) ME system, make the items on the right first. After you go through the quests to get them normally of course.%n%n[note]You could technically make one with an ME Chest, but there's no advantage over using a regular chest.[/note]%n%nConnect power to the Energy Acceptor, place the ME Drive next to it, place a Fluix Cable on top of the ME Drive connect the ME Terminal to the cable. Just put in the Storage cells, and you're done! Remember you need a Network Tool to see how much power it actually uses. Also, it lets you pick up stuff easier.%n%nTo save power, let's do a little extra work. Place the Pressure Plate two spaces in front of the ME Terminal, place redstone next to it and beside the Energy Acceptor. Remove the EA and place a Fluix Cable there, and then place the ME Toggle Bus between the Drive and where the Energy Acceptor will be. Then plunk that back down and re-power it. This will cause it to only connect (and thus use power) when you stand on the plate. This tiny network uses about 38 EU by itself, so you should understand that an ME system is not cheap either in materials or power.%n%nYou should make either 1k or 4k storage cells to put into your ME Drive.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKwQ.name=Petit guide - Un système AE2 basique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKwQ.desc=Vous avez débloqué AE2, mais vous ne savez pas vous en servir ? Pas d'inquiétude, ce chapitre est là pour ça. Pour un système ME basique (et pas complètement inutile), fabriquez d'abord les objets à droite. Après avoir fait les quêtes correspondantes normalement, bien sûr.%n%n[note]Techniquement, vous pourriez en faire un avec un Coffre ME, mais ça n'a aucun avantage sur un coffre normal.[/note]%n%nBranchez l'alimentation sur l'Accepteur d'énergie, placez le Lecteur ME à côté, posez un câble fluix sur le Lecteur ME et connectez l'ME Terminal au câble. Mettez les cellules de stockage, et c'est fini ! N'oubliez pas qu'il vous faut un Network Tool pour voir combien d'énergie il consomme réellement. Il vous permet aussi de ramasser les choses plus facilement.%n%nPour économiser de l'énergie, faisons un petit effort en plus. Placez la plaque de pression deux blocs devant l'ME Terminal, et posez de la redstone à côté et à côté de l'Accepteur d'énergie. Retirez l'accepteur, mettez un câble fluix à sa place, puis placez l'ME Toggle Bus entre le lecteur et l'emplacement de l'Accepteur d'énergie. Reposez ensuite l'accepteur et rebranchez-le. Ainsi, le réseau ne se connectera (et ne consommera d'énergie) que quand vous serez sur la plaque. Ce minuscule réseau consomme environ 38 EU à lui seul : vous comprendrez qu'un système ME n'est bon marché ni en matériaux ni en énergie.%n%nFabriquez des cellules de stockage 1k ou 4k à mettre dans votre Lecteur ME.
 
 # Quest: Short Guide - External Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKwg.name=Short Guide - External Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKwg.desc=Drawers are great, right? Well, let's connect your ME system to a bank of them. Set up some drawers nearby with a controller attached. Then place an ME Storage Bus against the controller and set the priority to +1. This will prioritize I/O to the drawer controller. Lock your drawers before they fill with random stuff. Now you have access to the whole thing! Great for the results of mining, and anything else you have thousands of, while keeping your ME system relatively empty.%n%nYou can also connect to chests and other things if you want. You can use an Ender Chest to send stuff into your network, which will then send it to the drawers, but you'll have stuff entering and exiting constantly, so it'll mess up your view in the Terminal. You can use filtered view cells, or process them before they go into your ME network (or in a different one) and/or send them to the DC directly via another EC. It depends on what you want to do and what it is.%n%n[warn]Using the drawer controller with large amounts of I/O will tank TPS! If you're on a server, do not use drawer cubes, or expect the possibility of it being deleted or you getting banned.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKwg.name=Petit guide - Stockage externe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKwg.desc=Les tiroirs, c'est génial, non ? Eh bien, connectons votre système ME à une rangée de tiroirs. Installez quelques tiroirs à proximité, reliés à un contrôleur. Placez ensuite un Bus de Stockage ME contre le contrôleur et réglez sa priorité sur +1. Les E/S iront en priorité vers le contrôleur de tiroirs. Verrouillez vos tiroirs avant qu'ils se remplissent de choses au hasard. Vous avez maintenant accès à tout l'ensemble ! Idéal pour les produits du minage et tout ce que vous possédez par milliers, tout en gardant votre système ME relativement vide.%n%nVous pouvez aussi vous connecter à des coffres et d'autres choses si vous voulez. Vous pouvez utiliser un Ender Chest pour envoyer des choses dans votre réseau, qui les enverra ensuite aux tiroirs, mais des objets entreront et sortiront en permanence, ce qui va encombrer l'affichage du terminal. Vous pouvez utiliser des View Cells filtrées, ou traiter les objets avant qu'ils n'entrent dans votre réseau ME (ou dans un autre), et/ou les envoyer directement au contrôleur de tiroirs via un autre Ender Chest. Tout dépend de ce que vous voulez faire et de ce dont il s'agit.%n%n[warn]Utiliser le contrôleur de tiroirs avec de grandes quantités d'E/S va faire chuter les TPS ! Si vous êtes sur un serveur, n'utilisez pas de cubes de tiroirs, ou attendez-vous à ce qu'ils soient supprimés ou à être banni.[/warn]
 
 # Quest: Short Guide - Autocrafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKww.name=Short Guide - Autocrafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKww.desc=This is the main purpose of AE2, so let's get to it. Plunk down the Crafting Storage and Molecular Assembler, connect the Pattern Terminal to a cable, and attach the ME Interface to the MA (make sure it has power from another side). You could run it without a ME Interface, but you can only do one recipe then. Place a Blank Pattern in the Pattern Terminal, and add the recipe for a Crafting Table, then click the arrow to save it to the pattern. Put this in the ME Interface and you can now request a craft of it. (if the items are in the network, otherwise it'll fail obviously)%n%nFor processing patterns (machines, anything not regular 3x3 crafting) click the button on the right. You'll need to specify all I/O for it yourself. You can use this on an ME Interface on a furnace (for example), combined with an ME Import Bus to collect the results. If it's a machine that auto-ejects (like multis) you can use a ME Interface to collect the results much faster (and with less lag).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKww.name=Petit guide - Autocrafting
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKww.desc=C'est la raison d'être principale d'AE2, alors allons-y. Posez le Crafting Storage et le Molecular Assembler, connectez le Pattern Terminal à un câble et fixez l'ME Interface sur le MA (vérifiez qu'elle est alimentée par un autre côté). Vous pourriez vous passer de l'ME Interface, mais vous ne pourriez alors faire qu'une seule recette. Placez un Blank Pattern dans le Pattern Terminal, ajoutez la recette d'un établi, puis cliquez sur la flèche pour l'enregistrer dans le pattern. Mettez-le dans l'ME Interface et vous pourrez désormais demander sa fabrication (si les objets sont dans le réseau ; sinon, évidemment, ça échouera).%n%nPour les patterns de traitement (machines, tout ce qui n'est pas une fabrication 3x3 normale), cliquez sur le bouton à droite. Vous devrez indiquer vous-même toutes les entrées/sorties. Vous pouvez l'utiliser dans une ME Interface placée sur un fourneau (par exemple), avec un Bus d'import ME pour récupérer les résultats. Si la machine éjecte automatiquement (comme les multiblocs), vous pouvez utiliser une ME Interface pour récupérer les résultats bien plus vite (et avec moins de lag).
 
 # Quest: Applied Greg?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.name=Applied Greg?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.desc=ME Buses are combination of technology and...other technology. Don't give me that look, it is, OK? With these, you can now directly I/O items between GregTech multiblock and ME network. They have §osignificantly§r less lag, so please start using them as soon as possible on servers.%n%nYou just pop off your GT bus + ME bus or ME interface combination, and replace both with the new bus and connect a ME cable directly to it. It uses 1 channel, same as the other options.%n%nThe output bus and hatch have limited output space. If you need more, you can upgrade them either by crafting them with storage components or putting a cell inside. A digital singularity cell will make the cache near infinite.%n%nNote that the output bus must eject each item from its cache §oin order§r. If it cannot eject the topmost item, it will be stuck and cannot eject any other items.%n%nIf voiding is turned off, the multiblock will not void when the ME Outputs are full.%n%n[note]For usage in some machines, i.e. the advanced assembly line, the configured item must be in the first slot in order for the multi to work.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.desc=Les bus ME sont une combinaison de technologie et... d'autre technologie. Ne me regardez pas comme ça, c'est vrai, d'accord ? Avec eux, vous pouvez désormais faire entrer et sortir des objets directement entre un multibloc GregTech et le réseau ME. Ils causent §onettement§r moins de lag, alors commencez à les utiliser dès que possible sur les serveurs.%n%nIl suffit de retirer votre combinaison bus GT + bus ME ou ME Interface, de remplacer les deux par le nouveau bus et d'y connecter directement un câble ME. Il utilise 1 canal, comme les autres options.%n%nL'output bus et l'output hatch ont un espace de sortie limité. S'il vous en faut plus, vous pouvez les améliorer en les fabriquant avec des composants de stockage ou en y insérant une cellule. Une cellule Digital Singularity rend le cache quasi infini.%n%nNotez que l'output bus doit éjecter les objets de son cache §odans l'ordre§r. S'il ne peut pas éjecter le premier objet, il reste bloqué et ne peut éjecter aucun autre objet.%n%nSi la destruction (voiding) est désactivée, le multibloc ne détruira rien quand les sorties ME seront pleines.%n%n[note]Pour certaines machines, comme l'Advanced Assembly Line, l'objet configuré doit être dans le premier emplacement pour que le multibloc fonctionne.[/note]
 
 # Quest: Starting Your AE2 Journey
-betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.name=Starting Your AE2 Journey
-betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.desc=§nApplied Energistics 2 is an integral part of GTNH gameplay. %n§r%nAE2 is the primary networking and logistics management mod in GTNH for Items, Fluids, and Crafting. You will use it starting from EV and onward for most automations you perform. Given the sheer density of this modpack there are a variety of unique tools and features added specifically to aid in your adventure. Most of these tools are covered in this quest tab.%n%nThere is a lot to learn, but don't feel overburdened! Your abilities will continue to grow the more time you spend with it. There are a wide variety of helpful resources to take advantage of in addition to this book when it comes to learning:%n%n§21. The Wiki: §r[url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url]%n%n- The Wiki has a lot of great starter information on what various systems do. They also have a lot of machine specific automation tutorials so be sure to check the Wiki if you're struggling or want a point of reference.%n%n§22. The Discord: §r[url]https://discord.gg/gtnh[/url]%n%n- The Discord is full of experienced AE2ers', check out #ae2-help to find plenty of people who will take time to help you figure something out.%n%n§23. Video Tutorials: §r[url]https://www.youtube.com/watch?v=LUYVmIAEC-I[/url]%n%n- There are a lot of great GTNH content creators who make high quality video tutorials for this. Here is a link to AE2 Fundamentals by IX. There's an advanced version as well.
+betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.name=Débuter votre aventure AE2
+betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.desc=§nApplied Energistics 2 est un élément essentiel du gameplay de GTNH. %n§r%nAE2 est le principal mod de réseau et de gestion logistique de GTNH pour les objets, les fluides et la fabrication. Vous l'utiliserez à partir de l'EV pour la plupart de vos automatisations. Vu la densité de ce modpack, de nombreux outils et fonctions uniques ont été ajoutés spécialement pour vous aider dans votre aventure. La plupart sont présentés dans cet onglet de quêtes.%n%nIl y a beaucoup à apprendre, mais ne vous laissez pas submerger ! Vos compétences progresseront à mesure que vous passerez du temps dessus. En plus de ce livre, de nombreuses ressources utiles sont à votre disposition pour apprendre :%n%n§21. Le wiki : §r[url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url]%n%n- Le wiki contient beaucoup de bonnes informations de base sur le rôle des différents systèmes. Il propose aussi de nombreux tutoriels d'automatisation par machine : consultez-le si vous êtes en difficulté ou si vous voulez un point de référence.%n%n§22. Le Discord : §r[url]https://discord.gg/gtnh[/url]%n%n- Le Discord est plein d'experts d'AE2 : passez sur #ae2-help pour trouver plein de gens prêts à prendre le temps de vous aider.%n%n§23. Tutoriels vidéo : §r[url]https://www.youtube.com/watch?v=LUYVmIAEC-I[/url]%n%n- De nombreux créateurs de contenu GTNH font d'excellents tutoriels vidéo sur le sujet. Voici un lien vers AE2 Fundamentals par IX. Il existe aussi une version avancée.
 
 # Quest: 4096k Essentia Storage Cell
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.name=4096k Essentia Storage Cell
-betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.desc=These hold 8,388,608 units of essentia.%n%nAnd can hold 48 types.
+betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.desc=Elles contiennent 8 388 608 unités d'essentia.%n%nEt peuvent contenir 48 types.
 
 # Quest: Get Your Priorities Straight
-betterquesting.quest.Hbq2zJcoQbWK20-2A-kI1Q.name=Get Your Priorities Straight
-betterquesting.quest.Hbq2zJcoQbWK20-2A-kI1Q.desc=You might find yourself setting up complicated systems involving many storage buses with differing priorities. To make it less tedious, grab a priority card!%n%nThis tool allows you to set many buses to the same priority with a single click... but better yet, it also features §nincrement and decrement modes!§r Every time you click on a bus, the priority will be set to one higher/lower than the previous bus you clicked, so setting up large arrays of descending priorities is a breeze.
+betterquesting.quest.Hbq2zJcoQbWK20-2A-kI1Q.name=Mettez de l'ordre dans vos priorités
+betterquesting.quest.Hbq2zJcoQbWK20-2A-kI1Q.desc=Vous vous retrouverez peut-être à monter des systèmes compliqués avec de nombreux bus de stockage de priorités différentes. Pour rendre ça moins fastidieux, prenez une Priority Card !%n%nCet outil vous permet de régler plusieurs bus sur la même priorité en un seul clic... mais mieux encore, il propose des §nmodes d'incrémentation et de décrémentation !§r À chaque clic sur un bus, la priorité est réglée à un cran au-dessus/en dessous du bus précédent, ce qui rend les grandes séries de priorités décroissantes très faciles à configurer.
 
 # Quest: 16384k Essentia Component
 betterquesting.quest.JejpWZ7ATZq-0uomP4c7UA.name=16384k Essentia Component
-betterquesting.quest.JejpWZ7ATZq-0uomP4c7UA.desc=Same as 1k.
+betterquesting.quest.JejpWZ7ATZq-0uomP4c7UA.desc=Comme pour le 1k.
 
 # Quest: Hyper Acceleration!
-betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.name=Hyper Acceleration!
-betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.desc=Hyper-Acceleration cards are a faster version of the basic acceleration cards. %n%n[note]Hyper-Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)%nME Fluid Import Bus (4)%nME Fluid Export Bus (4)%n%n§rIn an IO Port, the Hyper-Acceleration Card will transfer items at a rate of: %n%n§61x Cards: 4,096 items/tick%n2x Cards: 32,768 items/tick%n3x Cards: 262,144 items/tick%n%n§rIn ME Fluid Buses, the Hyper-Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 4,096,000 mb/tick%n2x Cards: 32,768,000 mb/tick%n3x Cards: 262,144,000 mb/tick
+betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.name=Hyper-accélération !
+betterquesting.quest.KM9gm3HCTa2OGPWlHHl4fw.desc=Les Hyper-Acceleration Cards sont une version plus rapide des Acceleration Cards de base. %n%n[note]Les Hyper-Acceleration Cards ne peuvent être placées que dans :[/note]%n%n§cME IO Port (3)%nBus ME d'import de Fluides (4)%nBus ME d'export de Fluides (4)%n%n§rDans un IO Port, l'Hyper-Acceleration Card transfère les objets au rythme de : %n%n§61 carte : 4 096 objets/tick%n2 cartes : 32 768 objets/tick%n3 cartes : 262 144 objets/tick%n%n§rDans les bus ME de fluides, l'Hyper-Acceleration Card transfère les fluides au rythme de :%n%n§61 carte : 4 096 000 mb/tick%n2 cartes : 32 768 000 mb/tick%n3 cartes : 262 144 000 mb/tick
 
 # Quest: Advanced Neutronium Tech
-betterquesting.quest.LsZndSrhSAGSi60QlbnDtg.name=Advanced Neutronium Tech
-betterquesting.quest.LsZndSrhSAGSi60QlbnDtg.desc=Now that you've unlocked the neutronium energy cell, you can combine it with other objects to make powerful upgrades to your AE capabilities.%n%nCombining with an ME controller gives you a controller with infinite energy.%n%nCombining with a cable anchor & quartz fiber gives you a replacement for the quartz fiber cable that has infinite energy.%n%nCombining with an advanced card will give you an energy card that will allow you to upgrade your wireless terminal to have infinite energy, wherever you go.%n%n[note]It is HIGHLY recommended you use these tools wherever possible on main-nets and sub-nets as they are huge TPS savers[/note]
+betterquesting.quest.LsZndSrhSAGSi60QlbnDtg.name=Technologie avancée en Neutronium
+betterquesting.quest.LsZndSrhSAGSi60QlbnDtg.desc=Maintenant que vous avez débloqué la cellule d'énergie en Neutronium, vous pouvez la combiner avec d'autres objets pour améliorer considérablement vos capacités AE.%n%nCombinée à un Contrôleur ME, elle donne un contrôleur à énergie infinie.%n%nCombinée à un Cable Anchor et une Quartz Fiber, elle donne un remplaçant au câble en Quartz Fiber, avec une énergie infinie.%n%nCombinée à une Advanced Card, elle donne une Carte d'énergie qui vous permet d'améliorer votre terminal sans fil pour qu'il ait une énergie infinie, où que vous alliez.%n%n[note]Il est FORTEMENT recommandé d'utiliser ces outils partout où c'est possible sur vos réseaux principaux et sous-réseaux, car ils font économiser énormément de TPS.[/note]
 
 # Quest: 16384k Fluid Storage Cell
-betterquesting.quest.MJoHkNK0Ta-zKyJAvV_DBg.name=16384k Fluid Storage Cell
-betterquesting.quest.MJoHkNK0Ta-zKyJAvV_DBg.desc=It holds over 32GL.
+betterquesting.quest.MJoHkNK0Ta-zKyJAvV_DBg.name=Cellule ME 16384k de stockage de fluide
+betterquesting.quest.MJoHkNK0Ta-zKyJAvV_DBg.desc=Elle contient plus de 32GL.
 
 # Quest: Super Stock Replenisher
 betterquesting.quest.MPYhN1gKQ3isYpgLbtfDJA.name=Super Stock Replenisher
-betterquesting.quest.MPYhN1gKQ3isYpgLbtfDJA.desc=The Super Stock Replenisher is an incredibly useful item, especially for those pesky loop automations!%n%nTo use, put a storage cell in the empty slot (item vs fluid & type amount do not matter) and you can set up to 63 items & 9 fluids to be stocked by the machine. The total quantity of both items and fluids are determined by the byte size of the storage cell.%n%nWhen an item / fluid is stocked, it will pull it from the ME network it is attached to and those items / fluids will become invisible to your network. You can then use a storage bus to make these items visible to a subnet. Items will not be able to re-enter the SSR once pulled out. The SSR will automatically replenish it's inventory from your AE network whenever the internal stock reaches less than 50%% of the configured value.%n%n[note]When an item or fluid is erased from the stocker or when the stocker is broken, everything will return to the network the stocker was attached too, so no need to panic about losing items.[/note]
+betterquesting.quest.MPYhN1gKQ3isYpgLbtfDJA.desc=Le Super Stock Replenisher est un objet incroyablement utile, surtout pour ces satanées automatisations en boucle !%n%nPour l'utiliser, mettez une cellule de stockage dans l'emplacement vide (objets ou fluides, et nombre de types, peu importe) : vous pouvez alors définir jusqu'à 63 objets et 9 fluides que la machine gardera en stock. La quantité totale d'objets et de fluides dépend de la taille en octets de la cellule de stockage.%n%nQuand un objet / fluide est mis en stock, il est prélevé dans le réseau ME auquel la machine est reliée, et ces objets / fluides deviennent invisibles pour votre réseau. Vous pouvez ensuite utiliser un bus de stockage pour les rendre visibles à un sous-réseau. Une fois sortis, les objets ne peuvent pas revenir dans le SSR. Le SSR réapprovisionne automatiquement son inventaire depuis votre réseau AE dès que le stock interne passe sous 50%% de la valeur configurée.%n%n[note]Quand un objet ou fluide est retiré du stockeur, ou quand le stockeur est cassé, tout retourne dans le réseau auquel il était relié : pas de panique, vous ne perdrez rien.[/note]
 
 # Quest: And Another Digital Singularity
-betterquesting.quest.O0tN--UDTlCbt5ufLodVqA.name=And Another Digital Singularity
-betterquesting.quest.O0tN--UDTlCbt5ufLodVqA.desc=Do you really need this?
+betterquesting.quest.O0tN--UDTlCbt5ufLodVqA.name=Et encore une Digital Singularity
+betterquesting.quest.O0tN--UDTlCbt5ufLodVqA.desc=Vous en avez vraiment besoin ?
 
 # Quest: Another Digital Singularity
-betterquesting.quest.QF-_KNlHSnObOPmrJptkwQ.name=Another Digital Singularity
-betterquesting.quest.QF-_KNlHSnObOPmrJptkwQ.desc=You've probably drained quite a few of them at this point.%n%n[note]Have you heard about YOTTanks?[/note]
+betterquesting.quest.QF-_KNlHSnObOPmrJptkwQ.name=Encore une Digital Singularity
+betterquesting.quest.QF-_KNlHSnObOPmrJptkwQ.desc=À ce stade, vous en avez sans doute déjà vidé pas mal.%n%n[note]Vous avez entendu parler des YOTTanks ?[/note]
 
 # Quest: 4096k Essentia Component
 betterquesting.quest.QHyLarPvSnCb30EbaBQdaw.name=4096k Essentia Component
-betterquesting.quest.QHyLarPvSnCb30EbaBQdaw.desc=Same as 1k.
+betterquesting.quest.QHyLarPvSnCb30EbaBQdaw.desc=Comme pour le 1k.
 
 # Quest: Yet Another Singularity?!?!
-betterquesting.quest.SDGKHP7fQx-c3gUBv4DwuQ.name=Yet Another Singularity?!?!
-betterquesting.quest.SDGKHP7fQx-c3gUBv4DwuQ.desc=Ever wanted to order 10 million billion billion chests and noticed that your crafting storage was just not big enough?%n%nWell, here is your solution, provided to you by the good folks over at GTNHCorp (Name Pending).%n%nThe §cSingularity Crafting Storage§r has a storage of 9,223,372,036,854,775,807 Bytes, which, if you can't read numbers, is a lot.%n%nEnjoy crafting one :) You'll need to kill some Chaos Guardians for it.
+betterquesting.quest.SDGKHP7fQx-c3gUBv4DwuQ.name=Encore une autre singularité ?!?!
+betterquesting.quest.SDGKHP7fQx-c3gUBv4DwuQ.desc=Vous avez déjà voulu commander 10 millions de milliards de milliards de coffres et constaté que votre stockage de fabrication n'était tout simplement pas assez grand ?%n%nEh bien, voici votre solution, offerte par les braves gens de GTNHCorp (nom en attente).%n%nLe §cSingularity Crafting Storage§r offre un stockage de 9 223 372 036 854 775 807 octets, ce qui, si vous ne savez pas lire les nombres, fait beaucoup.%n%nAmusez-vous bien à en fabriquer un :) Il vous faudra tuer quelques Chaos Guardians pour ça.
 
 # Quest: Cards for AE2 Nerds!
-betterquesting.quest.TP2PEGHQRnGKgKYFziEjrg.name=Cards for AE2 Nerds!
-betterquesting.quest.TP2PEGHQRnGKgKYFziEjrg.desc=[quest]Equal Distribution, Fake Crafting, Locking, and Advanced Blocking Cards![/quest]%n%n§6Equal Distribution Card:§r%n%nThe Equal Distribution Card will evenly divide a cell's capacity between types or partitions.%n%n§6Fake Crafting Card:§r %n%nThe Fake Crafting Card will tell your ME System to complete a craft without expecting the final resulting item. %n%nThis can be handy for creating fake patterns for entire multiblocks or setups by collecting the individual items needed in one craft.%n%nThe card can only be inserted into:%n%n§cME Dual Interface%nME Interface%nP2P Tunnel - ME Dual Interface§r %n%n§6Locking Card:§r %n%nThe Locking Card allows an interface to optionally block new crafts from being started for one of the following conditions:%n%n§cWhile Redstone is low%nWhile Redstone is high%nAfter a craft has been pushed, until a redstone pulse is received%nAfter a craft has been pushed, until the results have returned to the same interface§r%n%n§6Advanced Blocking Card:§r%n%nThe Advanced Blocking Card is able to ignore non-consumables in a subnet for more complicated automations. %n%nIn a standard subnet, where two interfaces are facing each other, the Advanced Blocking Card is to be §9placed on the §lsubnet interface.§f
+betterquesting.quest.TP2PEGHQRnGKgKYFziEjrg.name=Des cartes pour les geeks d'AE2 !
+betterquesting.quest.TP2PEGHQRnGKgKYFziEjrg.desc=[quest]Equal Distribution, Fake Crafting, Locking et Advanced Blocking Cards ![/quest]%n%n§6Equal Distribution Card :§r%n%nL'Equal Distribution Card répartit équitablement la capacité d'une cellule entre les types ou partitions.%n%n§6Fake Crafting Card :§r %n%nLa Fake Crafting Card indique à votre système ME de terminer une fabrication sans attendre l'objet final. %n%nC'est pratique pour créer des patterns factices pour des multiblocs ou des installations entières, en rassemblant en une seule fabrication les différents objets nécessaires.%n%nLa carte ne peut être insérée que dans :%n%n§cInterface ME double%nME Interface%nTunnel P2P - Interface ME double§r %n%n§6Locking Card :§r %n%nLa Locking Card permet à une interface d'empêcher, au choix, le lancement de nouvelles fabrications dans l'une des conditions suivantes :%n%n§cTant que la redstone est basse%nTant que la redstone est haute%nAprès l'envoi d'une fabrication, jusqu'à réception d'une impulsion redstone%nAprès l'envoi d'une fabrication, jusqu'au retour des résultats dans la même interface§r%n%n§6Advanced Blocking Card :§r%n%nL'Advanced Blocking Card peut ignorer les objets non consommables dans un sous-réseau, pour des automatisations plus complexes. %n%nDans un sous-réseau standard, où deux interfaces se font face, l'Advanced Blocking Card doit être §9placée sur l'§linterface du sous-réseau.§f
 
 # Quest: 256k Essentia Component
 betterquesting.quest.Wh0yn2MOQhS-X_8NiPiZJw.name=256k Essentia Component
-betterquesting.quest.Wh0yn2MOQhS-X_8NiPiZJw.desc=Same as 1k.
+betterquesting.quest.Wh0yn2MOQhS-X_8NiPiZJw.desc=Comme pour le 1k.
 
 # Quest: Vending Uplink Hatch
 betterquesting.quest._Hu6__h5TDazRXcEeZvyUg.name=Vending Uplink Hatch
-betterquesting.quest._Hu6__h5TDazRXcEeZvyUg.desc=Now that you've unlocked ME interfaces you can use this new technology to uplink with your Vending Machine!%n%nThe §5Vending Uplink Hatch§r can replace any of the pipe casing blocks and be connected directly to your AE network for automatically pulling required items.%n%n[note]Will work for both consumable and non-consumable items.[/note]%n[warn]Will not pull coins; those are manual entry only.[/warn]
+betterquesting.quest._Hu6__h5TDazRXcEeZvyUg.desc=Maintenant que vous avez débloqué les ME Interfaces, vous pouvez utiliser cette nouvelle technologie pour relier votre Vending Machine !%n%nL'§5ME Vending Uplink Hatch§r peut remplacer n'importe quel bloc de pipe casing et se connecter directement à votre réseau AE pour prélever automatiquement les objets nécessaires.%n%n[note]Fonctionne avec les objets consommables comme non consommables.[/note]%n[warn]Ne prélève pas les pièces : elles se mettent uniquement à la main.[/warn]
 
 # Quest: Ultimate Parallelization...
-betterquesting.quest._bEWg1FHSmKu9MNhlbDlwA.name=§6§lUltimate Parallelization...
-betterquesting.quest._bEWg1FHSmKu9MNhlbDlwA.desc=Allows for parallelization of a single interface, you don't have to copy patterns for multiple interfaces anymore.
+betterquesting.quest._bEWg1FHSmKu9MNhlbDlwA.name=§6§lParallélisation ultime...
+betterquesting.quest._bEWg1FHSmKu9MNhlbDlwA.desc=Permet de paralléliser une seule interface : plus besoin de copier les patterns sur plusieurs interfaces.
 
 # Quest: Housing for Advanced Fluid Components
-betterquesting.quest.auchuNiGTH6NWh_cz8XxcQ.name=Housing for Advanced Fluid Components
-betterquesting.quest.auchuNiGTH6NWh_cz8XxcQ.desc=You need to use this for the higher-tiered Fluid Cells.
+betterquesting.quest.auchuNiGTH6NWh_cz8XxcQ.name=Boîtier pour composants de fluide avancés
+betterquesting.quest.auchuNiGTH6NWh_cz8XxcQ.desc=Il vous le faut pour les cellules de fluide de tier supérieur.
 
 # Quest: Level Maintainer
-betterquesting.quest.dmUrFrCfSESWj1ybHqTGNg.name=Level Maintainer
-betterquesting.quest.dmUrFrCfSESWj1ybHqTGNg.desc=The ME Level Maintainer is another cool addition of AE2FC. Choose an item or fluid and an amount to maintain, and the Level Maintainer will attempt to call patterns to keep crafting the item until it reaches the threshold you configured. You can also configure the crafting batch size.
+betterquesting.quest.dmUrFrCfSESWj1ybHqTGNg.name=Mainteneur Niveau ME
+betterquesting.quest.dmUrFrCfSESWj1ybHqTGNg.desc=Le Mainteneur Niveau ME est un autre ajout bien pratique d'AE2FC. Choisissez un objet ou un fluide et une quantité à maintenir : le mainteneur essaiera d'appeler les patterns pour continuer à fabriquer l'objet jusqu'à atteindre le seuil configuré. Vous pouvez aussi régler la taille des lots de fabrication.
 
 # Quest: 16384k Essentia Storage Cell
 betterquesting.quest.iwN50p7pSyyCHDkM-O-D7w.name=16384k Essentia Storage Cell
-betterquesting.quest.iwN50p7pSyyCHDkM-O-D7w.desc=These hold 33,554,432 units of essentia.%n%nAnd can hold 60 types.
+betterquesting.quest.iwN50p7pSyyCHDkM-O-D7w.desc=Elles contiennent 33 554 432 unités d'essentia.%n%nEt peuvent contenir 60 types.
 
 # Quest: Going Superluminal
-betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.name=Going Superluminal
-betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.desc=The Superluminal Acceleration card is the fastest AE card that you can use to transfer items or fluids.%n%n[note]Superluminal Acceleration cards can only be placed in:[/note]%n%n§cME IO Port (3)§r%n%nIn an IO Port, the Superluminal Acceleration Card will transfer items at a rate of:%n%n§61x Cards: 33,554,432 items/tick%n2x Cards: 2,147,483,648 items/tick%n3x Cards: 137,438,953,472 items/tick%n%n§rIn an IO Port, the Superluminal Acceleration Card will transfer fluids at a rate of:%n%n§61x Cards: 33,554,432,000 mb/tick%n2x Cards: 2,147,483,648,000 mb/tick%n3x Cards: 137,438,953,472,000 mb/tick
+betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.name=Passer en supraluminique
+betterquesting.quest.kBjBqQR5Q-GWh4olyHmXXg.desc=La Superluminal Acceleration Card est la carte AE la plus rapide pour transférer des objets ou des fluides.%n%n[note]Les Superluminal Acceleration Cards ne peuvent être placées que dans :[/note]%n%n§cME IO Port (3)§r%n%nDans un IO Port, la Superluminal Acceleration Card transfère les objets au rythme de :%n%n§61 carte : 33 554 432 objets/tick%n2 cartes : 2 147 483 648 objets/tick%n3 cartes : 137 438 953 472 objets/tick%n%n§rDans un IO Port, la Superluminal Acceleration Card transfère les fluides au rythme de :%n%n§61 carte : 33 554 432 000 mb/tick%n2 cartes : 2 147 483 648 000 mb/tick%n3 cartes : 137 438 953 472 000 mb/tick
 
 # Quest: Fluid Void Cell
 betterquesting.quest.krGyRorETXqDuJdbU3K5tA.name=Fluid Void Cell
-betterquesting.quest.krGyRorETXqDuJdbU3K5tA.desc=[warn]Caution! Use with utmost care! This cell does exactly what it says. It deletes everything you put on there. So better make sure you have precise control over what can actually go there.[/warn]%n%n[note]Will only void fluids, not items[/note]
+betterquesting.quest.krGyRorETXqDuJdbU3K5tA.desc=[warn]Attention ! À utiliser avec la plus grande prudence ! Cette cellule fait exactement ce qu'elle annonce : elle supprime tout ce que vous y mettez. Assurez-vous donc de contrôler précisément ce qui peut y aller.[/warn]%n%n[note]Ne détruit que les fluides, pas les objets.[/note]
 
 # Quest: Block Container
 betterquesting.quest.lLjNj5KXT2WLn_r7E_Ctsw.name=Block Container
-betterquesting.quest.lLjNj5KXT2WLn_r7E_Ctsw.desc=Block Container Cells are a special variant of cell. They are unique because, despite using a 1k storage component, each one can hold up to 520k items rather than just 8.13k!%n%nOf course, all of that power comes with the limitation that they can only store one type of item, so they aren’t quite as flexible. They are great for bulk storage or for scenarios where you might want only one item per drive- Assembly Line automation for example.
+betterquesting.quest.lLjNj5KXT2WLn_r7E_Ctsw.desc=Les Block Container Cells sont une variante spéciale de cellule. Elles sont uniques car, bien qu'elles utilisent un composant de stockage 1k, chacune peut contenir jusqu'à 520k objets au lieu de seulement 8,13k !%n%nBien sûr, toute cette puissance a une limite : elles ne peuvent stocker qu'un seul type d'objet, et sont donc moins flexibles. Elles sont idéales pour le stockage en masse ou pour les cas où vous ne voulez qu'un seul objet par lecteur, comme l'automatisation de l'Assembly Line.
 
 # Quest: ...with Fluid Support!
-betterquesting.quest.mk3rQ7LUQjC96FsFvDedKA.name=§6§l...with Fluid Support!
-betterquesting.quest.mk3rQ7LUQjC96FsFvDedKA.desc=Now with fluid support!
+betterquesting.quest.mk3rQ7LUQjC96FsFvDedKA.name=§6§l...avec prise en charge des fluides !
+betterquesting.quest.mk3rQ7LUQjC96FsFvDedKA.desc=Maintenant avec prise en charge des fluides !
 
 # Quest: Optimizing Patterns in Late Game!
-betterquesting.quest.opVg0YQ3RCiBbG62PozSLQ.name=Optimizing Patterns in Late Game!
-betterquesting.quest.opVg0YQ3RCiBbG62PozSLQ.desc=You have probably already seen the button called §6Optimize Patterns§r when making an order in your AE system, now it's time to put it in the good use!%n%nTo unlock this feature, just add a Pattern Optimization Matrix block to your AE system (you only need one).%n%n§l# What does it do?%n§r%nThis feature allows you to multiply patterns that are needed in large amounts.%n%n1. After calculating a big order, just click §6Optimize Patterns§r and you will be welcomed by a new window.%n2. There you specify how much you wish for a singular pattern to be ordered (maximum amount of steps), we recommend putting it at 1000 or 100, [warn]remember that over-optimizing patterns could lead to longer waiting times[/warn]. At this point, you can also disable singular patterns from optimization by clicking on them, but there shouldn't be any unwanted patterns anyway if you already excluded them by toggling a button in unwanted interfaces.%n§%n%n3. Click §6Optimize§r and you are done! Try ordering again to see the changes in pattern steps%n%nAll changes are [warn]permanent and can't be reverted automatically[/warn] so make sure that you have excluded all unwanted interfaces (the §6Allow Pattern Optimization§r button is §7GRAY§r) like:%n- Single Assembly Line interfaces%n- Extreme Crafting interfaces%n- And any interface that doesn't have (almost)infinite buffer at the other side (inf. chest/storage cells)%nPatterns are only multiplied by powers of 2, so your AAL patterns should be safe.%n%n[note]If you are still confused about maximum order steps here's an example:%nOrdering an EOH calculates that it will need 1,000,008 UHV superconductors crafted (41667 steps, 24 UHV SC patterned), now you proceed to optimize patterns and specify that you wish it to do 1000 steps maximum, it will multiply your pattern 64 times to achieve that goal (41667 / 64 ~= 652 which is lower or equal to 1000). After clicking optimize, UHV SC pattern will now output 1536 UHV SC (24 before).[/note]
+betterquesting.quest.opVg0YQ3RCiBbG62PozSLQ.name=Optimiser les patterns en fin de partie !
+betterquesting.quest.opVg0YQ3RCiBbG62PozSLQ.desc=Vous avez sans doute déjà vu le bouton §6Optimize Patterns§r en passant une commande dans votre système AE : il est temps d'en faire bon usage !%n%nPour débloquer cette fonction, ajoutez simplement un bloc Pattern Optimization Matrix à votre système AE (un seul suffit).%n%n§l# À quoi ça sert ?%n§r%nCette fonction vous permet de multiplier les patterns nécessaires en grande quantité.%n%n1. Après le calcul d'une grosse commande, cliquez sur §6Optimize Patterns§r : une nouvelle fenêtre s'ouvre.%n2. Indiquez-y combien de fois au maximum un même pattern doit être commandé (nombre maximal d'étapes) ; nous recommandons 1000 ou 100. [warn]N'oubliez pas qu'une sur-optimisation des patterns peut allonger les temps d'attente[/warn]. À ce stade, vous pouvez aussi exclure certains patterns de l'optimisation en cliquant dessus, mais il ne devrait de toute façon pas y avoir de patterns indésirables si vous les avez déjà exclus via le bouton des interfaces concernées.%n§%n%n3. Cliquez sur §6Optimize§r et c'est fini ! Relancez la commande pour voir le changement du nombre d'étapes des patterns.%n%nToutes les modifications sont [warn]permanentes et ne peuvent pas être annulées automatiquement[/warn] : assurez-vous donc d'avoir exclu toutes les interfaces indésirables (le bouton §6Allow Pattern Optimization§r est §7GRIS§r), par exemple :%n- les interfaces d'Assembly Line simple%n- les interfaces d'Extreme Crafting%n- et toute interface qui n'a pas de tampon (quasi) infini de l'autre côté (coffre infini/cellules de stockage)%nLes patterns ne sont multipliés que par des puissances de 2 : vos patterns d'AAL ne devraient donc rien risquer.%n%n[note]Si le nombre maximal d'étapes vous laisse encore perplexe, voici un exemple :%ncommander un EOH nécessite de fabriquer 1 000 008 supraconducteurs UHV (41667 étapes, 24 SC UHV par pattern). Vous optimisez les patterns en indiquant 1000 étapes maximum : le pattern est multiplié par 64 pour atteindre cet objectif (41667 / 64 ~= 652, ce qui est inférieur ou égal à 1000). Après avoir cliqué sur Optimize, le pattern de SC UHV produit désormais 1536 SC UHV (contre 24 avant).[/note]
 
 # Quest: Oceans in a Bottle
-betterquesting.quest.pDcGv1OwTsueRoVXFZ6wHw.name=Oceans in a Bottle
-betterquesting.quest.pDcGv1OwTsueRoVXFZ6wHw.desc=After managing to create an artificial universe capable of storing near-infinite amounts of items, you applied this same technology to your Fluid Digital Singularity Cell to create this truly magnificent piece of tech. This allows you to store up to 63 different types of fluids without the universe collapsing in on itself.
+betterquesting.quest.pDcGv1OwTsueRoVXFZ6wHw.name=Des océans en bouteille
+betterquesting.quest.pDcGv1OwTsueRoVXFZ6wHw.desc=Après être parvenu à créer un univers artificiel capable de stocker des quantités quasi infinies d'objets, vous avez appliqué la même technologie à votre Cellule ME Singularité Digitale stockage Fluides pour créer ce véritable chef-d'œuvre technologique. Il vous permet de stocker jusqu'à 63 types de fluides différents sans que l'univers s'effondre sur lui-même.
 
 # Quest: Adv. Stocking Bus
 betterquesting.quest.qvZq59qRQ2C5Uzm7J7B4UA.name=Adv. Stocking Bus
-betterquesting.quest.qvZq59qRQ2C5Uzm7J7B4UA.desc=Stocking bus but better!%n%nThis one can pull first 16 types of items automatically from ME network, which can be useful for some automations. Minimum stack size and refresh time can be configured in the GUI.%n%n[note]Using this on your main network is probably not a very good idea.[/note]
+betterquesting.quest.qvZq59qRQ2C5Uzm7J7B4UA.desc=Un stocking bus, en mieux !%n%nCelui-ci peut prélever automatiquement les 16 premiers types d'objets du réseau ME, ce qui peut être utile pour certaines automatisations. La taille de pile minimale et le délai de rafraîchissement se règlent dans l'interface.%n%n[note]L'utiliser sur votre réseau principal n'est sans doute pas une très bonne idée.[/note]
 
 # Quest: 256k Essentia Storage Cell
 betterquesting.quest.s2TL3i06Tb2WvPvdt1utyg.name=256k Essentia Storage Cell
-betterquesting.quest.s2TL3i06Tb2WvPvdt1utyg.desc=These hold 524,288 units of essentia.%n%nAnd can hold 24 types.
+betterquesting.quest.s2TL3i06Tb2WvPvdt1utyg.desc=Elles contiennent 524 288 unités d'essentia.%n%nEt peuvent contenir 24 types.
 
 # Quest: Stocking Fluids
-betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.name=Stocking Fluids
-betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.desc=Works like stocking input bus but for fluids.%n%n[note]You need only one to complete the quest.[/note]
+betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.name=Mettre des fluides en stock
+betterquesting.quest.soyN9ODlQmmjrKEyKBNENA.desc=Fonctionne comme le stocking input bus, mais pour les fluides.%n%n[note]Un seul suffit pour terminer la quête.[/note]
 
 # Quest: Even More Basic Cards! 
-betterquesting.quest.suQSf7Z-QICknl3I1RfymA.name=Even More Basic Cards! 
-betterquesting.quest.suQSf7Z-QICknl3I1RfymA.desc=[quest]Overflow Void and Sticky Cards[/quest]%n%n§6Overflow Void Card:§r %n%nOverflow Void Cards will cause the ME Storage Cell to void excess inputs.%n%n§6Sticky Card:§r %n%nSticky Cards are useful if you want your ME System to only store a filtered item in one location across your entire network.%n%n[warn]Be careful where you use sticky cards, as they can cause your passive systems to jam.[/warn]
+betterquesting.quest.suQSf7Z-QICknl3I1RfymA.name=Encore plus de cartes de base ! 
+betterquesting.quest.suQSf7Z-QICknl3I1RfymA.desc=[quest]Overflow Void Cards et Sticky Cards[/quest]%n%n§6Overflow Void Card :§r %n%nLes Overflow Void Cards font détruire à la cellule de stockage ME les entrées en excès.%n%n§6Sticky Card :§r %n%nLes Sticky Cards sont utiles si vous voulez que votre système ME ne stocke un objet filtré qu'à un seul endroit de tout votre réseau.%n%n[warn]Faites attention à l'endroit où vous utilisez les Sticky Cards : elles peuvent bloquer vos systèmes passifs.[/warn]
 
 # Quest: Wireless HUBs
 betterquesting.quest.tM8pT_W3RCqZNDAovERxFg.name=Wireless HUBs
-betterquesting.quest.tM8pT_W3RCqZNDAovERxFg.desc=The Wireless Connector also has a HUB upgrade! These Wireless HUBs can be linked to many wireless connectors at once so you won't need to spam a chunk of 1:1 connectors into one spot. Keep in mind there is still a 32 channel limitation.%n%n[note]Great for placing on controller faces![/note]
+betterquesting.quest.tM8pT_W3RCqZNDAovERxFg.desc=Le Wireless Connector a aussi une amélioration HUB ! Ces Wireless Hubs peuvent être reliés à de nombreux Wireless Connectors à la fois : plus besoin d'entasser un chunk entier de connecteurs 1:1 au même endroit. Gardez à l'esprit que la limite de 32 canaux s'applique toujours.%n%n[note]Idéal sur les faces d'un contrôleur ![/note]
 
 # Quest: 1024k Essentia Storage Cell
 betterquesting.quest.tUJaqz9uSwajByFi4gNHzQ.name=1024k Essentia Storage Cell
-betterquesting.quest.tUJaqz9uSwajByFi4gNHzQ.desc=These hold 2,097,152 units of essentia.%n%nAnd can hold 36 types.
+betterquesting.quest.tUJaqz9uSwajByFi4gNHzQ.desc=Elles contiennent 2 097 152 unités d'essentia.%n%nEt peuvent contenir 36 types.
 
 # Quest: Essentia Quantum Storage
-betterquesting.quest.y9mYyyz4Qg6iGOYILdKA1A.name=Essentia Quantum Storage
-betterquesting.quest.y9mYyyz4Qg6iGOYILdKA1A.desc=Seems like you really want to swim in essentia?
+betterquesting.quest.y9mYyyz4Qg6iGOYILdKA1A.name=Stockage quantique d'essentia
+betterquesting.quest.y9mYyyz4Qg6iGOYILdKA1A.desc=On dirait que vous voulez vraiment nager dans l'essentia ?
 
 # Quest: Fluid Quantum Storage
-betterquesting.quest.ylmHogskS-Kdhs9gFrCYmA.name=Fluid Quantum Storage
-betterquesting.quest.ylmHogskS-Kdhs9gFrCYmA.desc=Are you draining an ocean?
+betterquesting.quest.ylmHogskS-Kdhs9gFrCYmA.name=Stockage quantique de fluide
+betterquesting.quest.ylmHogskS-Kdhs9gFrCYmA.desc=Vous êtes en train de vider un océan ?
 
 # Quest: Universe in a Bottle
-betterquesting.quest.zNBMiy1gQuC_GY0wtQ4cbA.name=Universe in a Bottle
-betterquesting.quest.zNBMiy1gQuC_GY0wtQ4cbA.desc=Those Digital Singularities, while offering a vast amount of space, felt constraining with their ability to store only one type of item... So you came up with something different this time. Having reached the peak of technology, you managed to create and contain an Artificial Universe within a Storage Cell. This allows you to store up to 63 different types of items without the universe collapsing in on itself.
+betterquesting.quest.zNBMiy1gQuC_GY0wtQ4cbA.name=Un univers en bouteille
+betterquesting.quest.zNBMiy1gQuC_GY0wtQ4cbA.desc=Ces Digital Singularities, malgré leur immense capacité, semblaient bien limitées avec un seul type d'objet... Alors cette fois, vous avez imaginé autre chose. Arrivé au sommet de la technologie, vous êtes parvenu à créer et à contenir un univers artificiel dans une cellule de stockage. Il vous permet de stocker jusqu'à 63 types d'objets différents sans que l'univers s'effondre sur lui-même.
 
 
 ## Quest Line: How to Be(e)
