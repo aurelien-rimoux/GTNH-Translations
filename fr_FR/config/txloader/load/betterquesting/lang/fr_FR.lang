@@ -1988,428 +1988,428 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.name=Tier 3 - HV
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.desc=Enfin une vraie puissance avec laquelle travailler. Ce tier consiste à vous rendre sur la Lune pour récolter des ressources plus rares, afin de construire des machines encore plus avancées.
 
 # Quest: SMD Inductors
-betterquesting.quest.3F2OXjxZT-eHWy8E4n1NCg.name=§5§lInducteurs CMS
-betterquesting.quest.3F2OXjxZT-eHWy8E4n1NCg.desc=Maintenant que vous avez du Néodymium, vous pouvez fabriquer le dernier des composants CMS : l'inducteur CMS. Il peut remplacer les petites bobines dans la fabrication de vos circuits.
+betterquesting.quest.3F2OXjxZT-eHWy8E4n1NCg.name=§5§lSMD Inductors
+betterquesting.quest.3F2OXjxZT-eHWy8E4n1NCg.desc=Maintenant que vous avez du Néodymium, vous pouvez fabriquer le dernier des composants SMD : le SMD Inductor. Il peut remplacer les Small Coils dans la fabrication de vos circuits.
 
 # Quest: Fluid Heater
-betterquesting.quest.55XTBx8LRN2Ol_42LS6Mwg.name=§5§lChauffe-fluide
-betterquesting.quest.55XTBx8LRN2Ol_42LS6Mwg.desc=Vous aurez besoin d'un chauffe-fluide pour certains procédés chimiques, pour réussir les meilleures frites, mais aussi dès maintenant pour produire le sodium liquide nécessaire au liquide de refroidissement NaK. Pour progresser, il vous faudra un chauffe-fluide MV ou HV. Fabriquez-en un.%n%nLe modèle HV pourra servir plus tard à mieux traiter la bauxite, une fois que vous serez allé sur la Lune.%n%n[note]Si vous avez plutôt utilisé du sulfate de sodium pour obtenir du sodium liquide, vous pouvez tenir en main 2 cellules de liquide de refroidissement NaK 60k pour passer cette quête.[/note]
+betterquesting.quest.55XTBx8LRN2Ol_42LS6Mwg.name=§5§lFluid Heater
+betterquesting.quest.55XTBx8LRN2Ol_42LS6Mwg.desc=Vous aurez besoin d'un Fluid Heater pour certains procédés chimiques, pour réussir les meilleures frites, mais aussi dès maintenant pour produire le Sodium liquide nécessaire au NaK Coolant. Pour progresser, il vous faudra un Fluid Heater MV ou HV. Fabriquez-en un.%n%nLe modèle HV pourra servir plus tard à mieux traiter la Bauxite, une fois que vous serez allé sur la Lune.%n%n[note]Si vous avez plutôt utilisé du Sulfate de Sodium pour obtenir du Sodium liquide, vous pouvez tenir en main 2 60k NaK Coolant Cells pour passer cette quête.[/note]
 
 # Quest: Personal Dimension
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.name=§5§lDimension personnelle
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.desc=Marre des monstres dans votre base ? Envie de construire quelque part... d'autre ? Peut-être dans une dimension personnelle ? Alors c'est votre chance. Mais choisissez bien : vous ne pouvez prendre qu'une seule option.%n%nLorsque vous activez le portail pour la première fois, vous pouvez configurer le monde à votre convenance : ce peut être un monde vide, ou n'importe quel monde superplat, tant qu'il n'est composé que de blocs comme l'herbe, la roche, la pierre, la bedrock, etc.%nAttention ! Une fois le monde configuré, vous ne pourrez modifier que les paramètres esthétiques, comme la couleur du ciel, en faisant Maj + clic droit sur le portail.%nModifier les paramètres de génération du monde après sa création n'est possible que si un administrateur du serveur vous le débloque via la commande /pspace allow-worldgen-change DIMID.%n%n[note]PS : The Last Millenium est aussi une dimension vide que vous pourriez utiliser.[/note]%n%n§2Si vous avez l'habitude des dimensions jardin/vide buguées d'UtilityWorlds, il s'agit désormais d'un nouveau mod qui devrait résoudre la plupart des problèmes connus auparavant avec Blood Magic, etc.
 
 # Quest: Vibrant Crystals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjQ.name=§5§lCristaux vibrants
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjQ.desc=Les banques de condensateurs vibrantes ont besoin de ce cristal magique. Il permet aussi d'améliorer les armures et les outils.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjQ.name=§5§lVibrant Crystals
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjQ.desc=Les Vibrant Capacitor Banks ont besoin de ce cristal magique. Il permet aussi d'améliorer les armures et les outils.
 
 # Quest: Automated Crafting
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkA.name=§5§lFabrication automatisée
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkA.desc=Vous savez, encore une autre solution de fabrication automatisée...%n%nLa grille de gauche définit la recette. La case centrale de gauche affiche le résultat. La grille d'objets de droite est l'endroit où vous placez les ressources. Les produits fabriqués apparaîtront dans la case centrale de droite.
 
 # Quest: Torture Device
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkg.name=§5§lTorture Device
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkg.desc=When the subjects don't want to cooperate.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkg.name=§5§lInstrument de torture
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkg.desc=Quand les sujets refusent de coopérer.
 
 # Quest: Automated Mob Farming
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=§5§lAutomated Mob Farming
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=Of course... zombies love that... disgusting liquid (nutrient distillation). While using a small amount per hit, he will attack everything that is within his range with a weapon you give him. That also includes players, so be careful. Rumors are there might be a weapon that will never break when used in this "machine"...%n%n[note]BTW you need to be at > 75%% to run it.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=§5§lFerme à monstres automatisée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=Évidemment... les zombies adorent ça... ce liquide répugnant (la Nutrient Distillation). En consommant une petite quantité à chaque coup, il attaquera tout ce qui se trouve à sa portée avec l'arme que vous lui donnez. Cela inclut aussi les joueurs, alors faites attention. La rumeur dit qu'il existerait une arme qui ne se brise jamais lorsqu'elle est utilisée dans cette « machine »...%n%n[note]Au passage, il doit être rempli à plus de 75%% pour fonctionner.[/note]
 
 # Quest: Tier 3 (HV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAoA.name=§5§lTier 3 (HV)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAoA.desc=Your first hull, as usual...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAoA.desc=Votre première carcasse, comme d'habitude...
 
 # Quest: Dimensional Goal: Moon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.name=§5§lDimensional Goal: Moon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.desc=HV is about getting to the moon so you can get Titanium, used to make EV and AE2 machines. It's a long and involved task though, so head on over to the Space Race tab for more info.%n%n[note]You need IV circuits and the HV assembler to start the tab though.[/note]%n%n§6If you're doing the no-rocket run, hold a stack of Titanium Ingots to proceed. Same thing for Tungstensteel when you get to EV.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.name=§5§lObjectif dimensionnel : la Lune
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.desc=Le HV consiste à aller sur la Lune pour obtenir du Titane, utilisé pour fabriquer les machines EV et AE2. C'est cependant une tâche longue et complexe, alors rendez-vous dans l'onglet Space Race pour plus d'informations.%n%n[note]Il vous faut toutefois des circuits IV et l'Assembler HV pour commencer cet onglet.[/note]%n%n§6Si vous faites une partie sans fusée, tenez en main une pile de lingots de Titane pour continuer. Même chose pour l'Acier au Tungstène quand vous arriverez en EV.
 
 # Quest: I See Everything
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.name=§5§lI See Everything
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.desc=The inventory panel is an alternative to a PR or LP storage system. Just like PR, you have to connect every chest/barrel with an item conduit.%n%nIn addition to that, you also have to install a "Remote Awareness" upgrade into every conduit side you want the panel to see, and provide the panel with Nutrient Distillation which you make in The Vat.%n%nWell, they're all obsolete once you get AE2 though.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.name=§5§lJe vois tout
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.desc=L'Inventory Panel est une alternative aux systèmes de stockage PR ou LP. Comme avec PR, vous devez relier chaque coffre/tonneau avec un Item Conduit.%n%nEn plus de cela, vous devez installer une Remote Awareness Upgrade sur chaque face de conduit que le panneau doit voir, et l'alimenter en Nutrient Distillation, que vous produisez dans The Vat.%n%nCela dit, tout ceci devient obsolète dès que vous avez AE2.
 
 # Quest: Soul Eater
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=§5§lSoul Eater
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=Wouldn't it be great to actually make use of the intelligence or abilities a certain creature has? For example: enderman teleportation or brain capacity of a zombie for simple logic? (He doesn't use it anyway...) With this machine, you're able to bind a captured soul to an item, which can then be used in machines to improve their functionality, or create them to begin with.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=§5§lMangeur d'âmes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=Ne serait-ce pas génial de pouvoir exploiter l'intelligence ou les capacités d'une créature ? Par exemple : la téléportation de l'enderman, ou la capacité cérébrale d'un zombie pour de la logique simple ? (De toute façon, il ne s'en sert pas...) Avec cette machine, vous pouvez lier une âme capturée à un objet, qui pourra ensuite servir dans des machines pour améliorer leur fonctionnement, ou tout simplement pour les fabriquer.
 
 # Quest: Experience Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.name=§5§lExperience Storage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.desc=Dying is painful, isn't it? As almost all of your precious experience is lost. But fear not, there's a solution! By using an experience obelisk, you're now able to store all your collected experience in a safe location. Other than the other way of doing it that you could already do.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.name=§5§lStockage d'expérience
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.desc=Mourir est douloureux, n'est-ce pas ? Surtout quand presque toute votre précieuse expérience est perdue. Mais n'ayez crainte, il existe une solution ! Grâce à l'Experience Obelisk, vous pouvez désormais stocker toute l'expérience accumulée en lieu sûr. En plus de l'autre méthode que vous pouviez déjà utiliser.
 
 # Quest: The Creation of Life
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqQ.name=§5§lThe Creation of Life
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqQ.desc=By utilizing large amounts of energy, you're able to reactivate those broken spawners you may have found in the past. If you haven't, you should get one of them now.%n%nIf the broken spawner isn't of the type of mob you want to spawn, you'll need to do some extra work. Capture one in a soul vial, then use that and the broken spawner in the soul binder to change the type. This takes forever, and also levels.%n%nCombine a BS with your Powered Spawner in an anvil to set the type for it to spawn. Then you just gotta power it up!%n%nIf you set it to capture mode, you can make souls of a specific mob without any danger.%n%n[note]Please try to use as few as possible on servers, mobs are laggy. Use crops if possible.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqQ.name=§5§lLa création de la vie
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqQ.desc=En utilisant de grandes quantités d'énergie, vous pouvez réactiver les Broken Spawners que vous avez peut-être trouvés par le passé. Si ce n'est pas le cas, c'est le moment d'en trouver un.%n%nSi le Broken Spawner n'est pas du type de monstre que vous voulez faire apparaître, il va falloir travailler un peu plus. Capturez-en un dans une Soul Vial, puis utilisez-la avec le Broken Spawner dans le Soul Binder pour en changer le type. Cela prend une éternité, et des niveaux d'expérience.%n%nCombinez un Broken Spawner avec votre Powered Spawner dans une enclume pour définir le type de monstre qu'il fera apparaître. Ensuite, il ne reste plus qu'à l'alimenter !%n%nEn mode capture, vous pouvez obtenir des âmes d'un monstre précis sans aucun danger.%n%n[note]Sur les serveurs, essayez d'en utiliser le moins possible, les monstres causent du lag. Utilisez des cultures si possible.[/note]
 
 # Quest: Specific Enchantments
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.name=§5§lSpecific Enchantments
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.desc=Enchanting books is, just as it is for items, random. And that's annoying if you need a specific enchantment on your tool or armor. Now there's a way to actually select enchantments. For a price, obviously.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.name=§5§lEnchantements ciblés
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.desc=Enchanter des livres est, tout comme pour les objets, aléatoire. Et c'est agaçant quand vous avez besoin d'un enchantement précis sur votre outil ou votre armure. Il existe désormais un moyen de choisir réellement ses enchantements. Moyennant finance, évidemment.
 
 # Quest: NITRO! (Cetane-Boosted Diesel)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=§5§lNITRO! (Cetane-Boosted Diesel)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=1,000,000 EU per cell, way more dense than before. Yes, yes, this is very good! Make some cetane-boosted diesel fuel and power your Combustion Engine with it.%n%n[note]BTW HOG is a different path, so you'll need to completely redo your setup if you want that in EV.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=§5§lNITRO ! (Diesel boosté de Cétanes)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=1 000 000 EU par cellule, bien plus dense qu'avant. Oui, oui, c'est très bien ! Produisez du Diesel boosté de Cétanes et alimentez-en votre Combustion Engine.%n%n[note]Au passage, le HOG est une voie différente : vous devrez donc refaire entièrement votre installation si vous le voulez en EV.[/note]
 
 # Quest: Integrated Processor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-A.name=§5§lIntegrated Processor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-A.desc=This is the start of the first 4-circuit circuit line. This one doesn't really have a consistent naming scheme unlike the later ones, but it still works the same way, aside from the fact that you get your first EV §oand§r IV circuits from it, all the rest only have 1 new tier of circuit. Because of this you'll need to make 2 new CAs to finish it.%n%nThe first one is the Integrated Processor, the final type of MV circuits. You also don't need to craft any other circuits to make it, so it's the cheapest. This repeats each circuit tier.%n%n[note]This and all circuits past it need a cleanroom.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-A.desc=Voici le début de la première gamme de circuits à 4 circuits. Contrairement aux suivantes, celle-ci n'a pas vraiment de nommage cohérent, mais elle fonctionne de la même façon, à ceci près qu'elle vous donne vos premiers circuits EV §oet§r IV, alors que toutes les autres n'apportent qu'un seul nouveau tier de circuit. Vous aurez donc besoin de fabriquer 2 nouveaux CA pour la terminer.%n%nLe premier est l'Integrated Processor, le dernier type de circuit MV. Vous n'avez besoin de fabriquer aucun autre circuit pour l'obtenir, c'est donc le moins cher. Ce schéma se répète à chaque tier de circuit.%n%n[note]Ce circuit et tous les suivants nécessitent une salle blanche.[/note]
 
 # Quest: Processor Assembly
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-Q.name=§5§lProcessor Assembly
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-Q.desc=This is the second step to making EV and IV circuits.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-Q.desc=Voici la deuxième étape pour fabriquer des circuits EV et IV.
 
 # Quest: Central Processing Unit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-g.name=§5§lCentral Processing Unit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-g.desc=Les processeurs intégrés ont besoin de microprocesseurs (CPU). Vous pouvez les obtenir en découpant une galette de CPU.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-g.desc=Les Integrated Processors ont besoin de Central Processing Units (CPU). Vous pouvez les obtenir en découpant un CPU Wafer.
 
 # Quest: Small Coil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-w.name=§5§lSmall Coil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-w.desc=The Processor Assembly circuit needs some small coils. You can make these a couple different ways.%n%n[note]If you somehow got SMD Inductors already, you may hold 64 in your hand to skip this quest.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD-w.desc=Le circuit Processor Assembly a besoin de Small Coils. Vous pouvez les fabriquer de plusieurs façons.%n%n[note]Si, par un moyen quelconque, vous avez déjà des SMD Inductors, vous pouvez en tenir 64 en main pour passer cette quête.[/note]
 
 # Quest: Upgraded RF Batteries
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2w.name=§5§lUpgraded RF Batteries
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2w.desc=Capacitor Banks are upgraded RF batteries which can store the RF power you generate.%n%nBTW, you can also use capacitors to upgrade your EnderIO machines. They'll use more power, but also work faster.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2w.name=§5§lBatteries RF améliorées
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD2w.desc=Les Capacitor Banks sont des batteries RF améliorées qui peuvent stocker l'énergie RF que vous produisez.%n%nAu passage, vous pouvez aussi utiliser des condensateurs (Capacitors) pour améliorer vos machines EnderIO. Elles consommeront plus d'énergie, mais travailleront plus vite.
 
 # Quest: Bigger, Better, Chargier?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3A.name=§5§lBigger, Better, Chargier?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3A.desc=The Vibrant Capacitor Bank is the largest non-creative RF Battery from EIO. It can store 25 million RF in a single block.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3A.name=§5§lPlus grand, plus fort, plus chargé ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3A.desc=La Vibrant Capacitor Bank est la plus grande batterie RF non créative d'EIO. Elle peut stocker 25 millions de RF dans un seul bloc.
 
 # Quest: Vibrant Alloy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3Q.name=§5§lVibrant Alloy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3Q.desc=Vibrant alloy is a high tier EnderIO alloy made out of ender eye, energetic alloy and chrome dust.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3Q.desc=Le Vibrant Alloy est un alliage EnderIO de haut tier, fabriqué à partir d'Oeil de l'Ender, d'Energetic Alloy et de poudre de Chrome.
 
 # Quest: Energetic Alloy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3g.name=§5§lEnergetic Alloy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3g.desc=Energetic alloy is a new alloy from EnderIO made out of gold, conductive iron and black steel dust. Double-layer capacitors need it, as does the HV energy hatch.%n%n[note]The direct mixer recipe has 7 ingredients, so you need an EV mixer or a multiblock to use it. You have to use the other one for now.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3g.desc=L'Energetic Alloy est un nouvel alliage d'EnderIO fabriqué à partir de poudres d'Or, de Conductive Iron et d'Acier noir. Les Double-Layer Capacitors en ont besoin, tout comme l'Energy Hatch HV.%n%n[note]La recette directe au Mixer comporte 7 ingrédients : il vous faut donc un Mixer EV ou un multibloc pour l'utiliser. Pour l'instant, vous devez passer par l'autre recette.[/note]
 
 # Quest: RF Solar Panel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6A.name=§5§lRF Solar Panel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6A.desc=It's possible to power RF machines with a solar panel. It outputs 10 RF/t. Perfect for low use RF machines.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6A.name=§5§lPanneau solaire RF
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6A.desc=Il est possible d'alimenter des machines RF avec un panneau solaire. Il produit 10 RF/t. Parfait pour les machines RF peu gourmandes.
 
 # Quest: RF Solar Panel Tier 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6Q.name=§5§lRF Solar Panel Tier 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6Q.desc=The upgraded RF solar panel is much better. It outputs 40 RF/t.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6Q.name=§5§lPanneau solaire RF tier 2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD6Q.desc=Le panneau solaire RF amélioré est bien meilleur. Il produit 40 RF/t.
 
 # Quest: Find Bauxite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8w.name=§5§lFind Bauxite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8w.desc=The Bauxite vein contains two ores that get you Titanium, Bauxite and Ilmenite. Bauxite also contains Aluminium, as does (obviously) the Aluminium ore. You want tons of Titanium, so collect a bunch.%n%nWhen you're mining you'll surely pick up some Meteoric Iron from small ores, enough to make your rocket. But if it's not enough, or you want more, you can also mine the meteors that fall out of the sky.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8w.name=§5§lTrouver de la Bauxite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD8w.desc=Le filon de Bauxite contient deux minerais qui donnent du Titane : la Bauxite et l'Ilménite. La Bauxite contient aussi de l'Aluminium, tout comme (évidemment) le minerai d'Aluminium. Vous voudrez des tonnes de Titane, alors récoltez-en beaucoup.%n%nEn minant, vous ramasserez sûrement un peu de Fer Météorique dans les petits minerais, assez pour fabriquer votre fusée. Mais si ça ne suffit pas, ou si vous en voulez plus, vous pouvez aussi miner les météores qui tombent du ciel.
 
 # Quest: Rutile
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9A.name=§5§lRutile
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9A.desc=You've gotten some Rutile as a byproduct by now, right? Or EBF'd some Ilmenite?%n%nRutile, Chlorine and Carbon makes Titaniumtetrachloride, and some CO. You can recycle this for Carbon if you want to. Best use a Large Chemical Reactor in that case to get the full recipe.%n%nCombining TiCl4 with Magnesium in an HV EBF will give you a Hot Titanium ingot, and Magnesiumchloride. You can recycle this as well to get all the Magnesium and Chlorine back using some Sodium.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9A.desc=Vous avez déjà obtenu du Rutile comme sous-produit, n'est-ce pas ? Ou passé de l'Ilménite dans l'EBF ?%n%nRutile, Chlore et Carbone donnent du Tétrachlorure de Titane, ainsi que du CO. Vous pouvez le recycler pour récupérer le Carbone si vous le souhaitez. Dans ce cas, utilisez plutôt un Large Chemical Reactor pour obtenir la recette complète.%n%nCombiner du TiCl4 avec du Magnésium dans un EBF HV vous donnera un lingot chaud de Titane, et du Chlorure de Magnésium. Vous pouvez aussi recycler ce dernier pour récupérer tout le Magnésium et le Chlore à l'aide d'un peu de Sodium.
 
 # Quest: SMD Diodes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.name=§5§lSMD Diodes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.desc=With Platinum in hand, you consider making some SMD diodes. Eventually, in EV, they will be required. But for now it is up to you if you have enough Gallium and Platinum to use them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9Q.desc=Avec du Platine en main, vous envisagez de fabriquer des SMD Diodes. Elles deviendront obligatoires en EV. Mais pour l'instant, c'est à vous de voir si vous avez assez de Gallium et de Platine pour les utiliser.
 
 # Quest: Workstations, Your First EV Circuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.name=§5§lWorkstations, Your First EV Circuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.desc=Your first EV circuit is the Workstation.%n%nYou can make Blue Alloy with Silver and Electrotine in an Alloy Smelter. If you don't have Electrotine, you can make it from Redstone and Electrum in a Mixer. Have fun!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.name=§5§lWorkstations, votre premier circuit EV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD9g.desc=Votre premier circuit EV est la Workstation.%n%nVous pouvez produire de l'Alliage bleu avec de l'Argent et de l'Electrotine dans un Alloy Smelter. Si vous n'avez pas d'Electrotine, vous pouvez en produire à partir de Redstone et d'Électrum dans un Mixer. Amusez-vous bien !
 
 # Quest: Playing With Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.name=§5§lPlaying With Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.desc=This machine will help you turn dust into crystals which you will need for high tier recipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.name=§5§lJouer avec la poussière
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.desc=Cette machine vous aidera à transformer des poudres en cristaux, dont vous aurez besoin pour les recettes de haut tier.
 
 # Quest: Avengers, Assemble! 3
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADAg.name=§9§lAvengers, rassemblement ! 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAg.desc=You know what this does. :D
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAg.desc=Vous savez ce que ça fait. :D
 
 # Quest: Precision is Required
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.name=§5§lPrecision is Required
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.desc=You'll use this a lot to make high tier circuits, and for other recipes.%n%n[note]You'll soon find that everything you use the PLE on needs a cleanroom, so make sure you start on that.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.name=§5§lLa précision est de rigueur
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.desc=Vous l'utiliserez beaucoup pour fabriquer des circuits de haut tier, ainsi que pour d'autres recettes.%n%n[note]Vous découvrirez vite que tout ce que vous faites passer dans le PLE nécessite une salle blanche, alors commencez-en une dès maintenant.[/note]
 
 # Quest: Mixing at HV Level
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=§5§lMixing at HV Level
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=Mixing better alloys needs a better Mixer.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=§5§lMélanger en HV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=Mélanger de meilleurs alliages nécessite un meilleur Mixer.
 
 # Quest: Tetranitromethane
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.name=§5§lTetranitromethane
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.desc=Bio diesel and diesel can be boosted using tetranitromethane. Ethenone and nitric acid are required to make tetranitromethane in a chemical reactor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.name=§5§lTétranitrométhane
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.desc=Le Bio Diesel et le Diesel peuvent être boostés avec du Tétranitrométhane. Il faut de l'Éthénone et de l'Acide Nitrique pour produire du Tétranitrométhane dans un Chemical Reactor.
 
 # Quest: Nitric Acid
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.name=§5§lNitric Acid
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.desc=Nitric acid can be made out of water, oxygen and nitrogen dioxide.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.name=§5§lAcide Nitrique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.desc=L'Acide Nitrique peut être produit à partir d'Eau, d'Oxygène et de Dioxyde d'Azote.
 
 # Quest: Nitrogen Dioxide
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.name=§5§lNitrogen Dioxide
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.desc=To make nitrogen dioxide you need to combine oxygen gas and nitric oxide in a chemical reactor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.name=§5§lDioxyde d'Azote
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.desc=Pour produire du Dioxyde d'Azote, combinez de l'Oxygène et de l'Oxyde Nitrique dans un Chemical Reactor.
 
 # Quest: Ammonia
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVg.name=§5§lAmmonia
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVg.desc=Nitrogen and hydrogen... Ammonia.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVg.name=§5§lAmmoniac
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVg.desc=Azote et Hydrogène... Ammoniac.
 
 # Quest: Nitric Oxide
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.name=§5§lNitric Oxide
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.desc=To make nitric oxide you need to combine oxygen and ammonia in a chemical reactor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.name=§5§lOxyde Nitrique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.desc=Pour produire de l'Oxyde Nitrique, combinez de l'Oxygène et de l'Ammoniac dans un Chemical Reactor.
 
 # Quest: Titanium, Finally
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.name=§5§lTitanium, Finally
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.desc=You just need to cool down those ingots in your Vacuum Freezer and you'll get your first Titanium.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.name=§5§lDu Titane, enfin
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.desc=Il vous suffit de refroidir ces lingots dans votre Vacuum Freezer pour obtenir votre premier Titane.
 
 # Quest: Auto Mining HV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADpA.name=§5§lAuto Mining HV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADpA.desc=The HV miner is faster, has longer range, and has more fortune than the previous two. If you want a better one, look in the multiblock tab. It's recommend to take one with you to the Moon to gather meteoric iron.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADpA.name=§5§lMinage automatique HV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADpA.desc=Le Miner HV est plus rapide, a une plus grande portée et plus de Fortune que les deux précédents. Si vous en voulez un meilleur, regardez dans l'onglet des multiblocs. Il est recommandé d'en emporter un sur la Lune pour récolter du Fer Météorique.
 
 # Quest: Performing Chemical Experiments at HV Level
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADrw.name=§5§lPerforming Chemical Experiments at HV Level
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADrw.desc=There are a number of chemical recipes that are unlocked with an §5HV Chemical Reactor§r; you will finally be able to make Ender Eyes, Ammonia, Gelled Toluene, and plenty of other useful components. %n%nAlternatively, if you're up for it, you can head over to the Mass Processing tab and build yourself a §5Large Chemical Reactor§r (LCR) instead! In addition to having a more efficient overclock, the LCR can input multiple liquids so you won't need to mess with those pesky cells any longer. %n%n[note]If you choose to go the LCR route, be sure to take a look at the PTFE questline just ahead of this one, starting with "Teflon Don".[/note]%n%n[note]P.S. You can skip any of the following rubber/plastic questlines by holding 128 of the respective sheets in your hand![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADrw.name=§5§lExpériences chimiques en HV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADrw.desc=Un certain nombre de recettes chimiques sont débloquées avec un §5Chemical Reactor HV§r : vous pourrez enfin produire des Yeux de l'Ender, de l'Ammoniac, du Toluène gélifié et bien d'autres composants utiles. %n%nSinon, si le cœur vous en dit, vous pouvez vous rendre dans l'onglet Mass Processing et construire à la place un §5Large Chemical Reactor§r (LCR) ! En plus d'un overclock plus efficace, le LCR accepte plusieurs liquides en entrée, vous n'aurez donc plus à vous embêter avec ces fichues cellules. %n%n[note]Si vous choisissez la voie du LCR, jetez un œil au chapitre PTFE juste après celui-ci, en commençant par « Teflon Don ».[/note]%n%n[note]P.S. Vous pouvez passer n'importe lequel des chapitres caoutchouc/plastique suivants en tenant en main 128 des feuilles correspondantes ![/note]
 
 # Quest: You're Gonna Hate This 5 and 6 in HV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0A.name=§5§lYou're Gonna Hate This 5 and 6 in HV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0A.desc=Some machines need Emitters and Sensors, like the Scanner or the Circuit Assembler.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0A.name=§5§lVous allez détester ça 5 et 6 en HV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0A.desc=Certaines machines, comme le Scanner ou le Circuit Assembler, ont besoin d'Emitters et de Sensors.
 
 # Quest: Ender Eyes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0Q.name=§5§lEnder Eyes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0Q.desc=Ender eyes are available at HV in the chemical reactor. Combine some ender pearls with blaze powder.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0Q.name=§5§lYeux de l'Ender
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0Q.desc=Les Yeux de l'Ender sont disponibles en HV dans le Chemical Reactor. Combinez des Perles de l'Ender avec de la poudre de Blaze.
 
 # Quest: LV Microprocessor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0w.name=§5§lLV Microprocessor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0w.desc=The Microprocessor is the highest tier version of the LV circuit, getting you 2 per recipe.%n%nIn addition to what's listed, you'll need 2 Resistors, Transistors, and Capacitors, SMD or non-SMD.%n%nThis advanced circuit type needs a cleanroom.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0w.name=§5§lMicroprocessor LV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE0w.desc=Le Microprocessor est la version de plus haut tier du circuit LV, et vous en donne 2 par recette.%n%nEn plus de ce qui est listé, vous aurez besoin de 2 Resistors, Transistors et Capacitors, SMD ou non.%n%nCe type de circuit avancé nécessite une salle blanche.
 
 # Quest: HV Cutting Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1A.name=§5§lHV Cutting Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1A.desc=NOR, NAND and other high tier chips require an HV cutting machine.%n%n[note]You'll soon find that everything you cut needs a cleanroom, so make sure you start on that.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1A.name=§5§lCutting Machine HV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1A.desc=Les puces NOR, NAND et autres puces de haut tier nécessitent une Cutting Machine HV.%n%n[note]Vous découvrirez vite que tout ce que vous découpez nécessite une salle blanche, alors commencez-en une dès maintenant.[/note]
 
 # Quest: Phosphorus Doped Monocrystalline Silicon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1Q.name=§5§lPhosphorus Doped Monocrystalline Silicon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1Q.desc=To make more advanced wafers, you need to make phosphorus doped monocrystalline silicon first. The process takes a while, so make sure you have stable power.%n%nYou can also get more wafers, and thus more chips out of higher tier boules. You still need to make the lower tier ones sometimes though.%n%nThere are many different ways to source Phosphorus, you can process ores like Apatite or Tricalcium Phosphate. You may also consider centrifuging ashes if you use a benzene setup, or extracting it from combs if you use bees. Remember to be prudent when searching through NEI!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1Q.name=§5§lSilicium monocristallin dopé au Phosphore
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1Q.desc=Pour fabriquer des Wafers plus avancés, vous devez d'abord produire du silicium monocristallin dopé au Phosphore (Phosphorus Doped Monocrystalline Silicon Boule). Le processus prend du temps, alors assurez-vous d'avoir une alimentation stable.%n%nLes Boules de plus haut tier donnent aussi plus de Wafers, et donc plus de puces. Vous devrez tout de même fabriquer parfois celles de tier inférieur.%n%nIl existe de nombreuses façons d'obtenir du Phosphore : vous pouvez traiter des minerais comme l'Apatite ou le Phosphate Tricalcique. Vous pouvez aussi centrifuger des Cendres si vous avez une installation à Benzène, ou l'extraire de rayons (combs) si vous utilisez des abeilles. Pensez à bien fouiller dans NEI !
 
 # Quest: Phosphorus Doped Wafer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1g.name=§5§lPhosphorus Doped Wafer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1g.desc=To create some phosphorus doped silicon wafers, cut them in a cutting machine. An HV version of the cutting machine is needed for future wafers and chips.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1g.desc=Pour obtenir des Phosphorus Doped Wafers, découpez la Boule dans une Cutting Machine. Une Cutting Machine HV sera nécessaire pour les futurs Wafers et puces.
 
 # Quest: NOR and NAND Chips
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1w.name=§5§lNOR and NAND Chips
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1w.desc=NAND is used for data sticks, data orbs, and UV circuits. NOR chips are needed for data orbs and LuV circuits. You can get these by cutting NAND and NOR wafers. Just worry about the data sticks for now.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1w.name=§5§lNOR et NAND Chips
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE1w.desc=Les NAND servent aux Data Sticks, aux Data Orbs et aux circuits UV. Les NOR Chips sont nécessaires pour les Data Orbs et les circuits LuV. Vous les obtenez en découpant des NAND et NOR Wafers. Pour l'instant, ne vous souciez que des Data Sticks.
 
 # Quest: Data Sticks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE2A.name=§9§lClés de Données
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE2A.desc=Data sticks are very important for seismic prospecting and for the assembly line in the LuV age. Go and craft a few data sticks.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE2A.name=§9§lData Sticks
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE2A.desc=Les Data Sticks sont très importants pour la prospection sismique et pour l'Assembly Line à l'ère LuV. Allez fabriquer quelques Data Sticks.
 
 # Quest: HV Extruder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE9w.name=§5§lHV Extruder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE9w.desc=The HV Extruder is needed to extrude tough metals like Tungstensteel and HSS.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE9w.name=§5§lExtruder HV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE9w.desc=L'Extruder HV est nécessaire pour extruder des métaux résistants comme l'Acier au Tungstène et le HSS.
 
 # Quest: Universal Macerator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjA.name=§9§lBroyeur Universel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjA.desc=L'une des machines les plus importantes en HV est le Broyeur Universel. Il dispose d'un emplacement de sortie supplémentaire permettant d'obtenir plus de matériaux lors du broyage des Minerais. Vous le voulez vraiment, vraiment, vraiment. Si vous l'obtenez, vous pourrez dire adieu à vos soucis de Gallium !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjA.name=§9§lUniversal Macerator
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjA.desc=L'une des machines les plus importantes en HV est l'Universal Macerator. Elle dispose d'un emplacement de sortie supplémentaire permettant d'obtenir plus de matériaux lors du broyage des minerais. Vous la voulez vraiment, vraiment, vraiment. Une fois que vous l'aurez, vous pourrez dire adieu à vos soucis de Gallium !
 
 # Quest: Advanced Circuit Assembler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.name=§5§lAdvanced Circuit Assembler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.desc=EV circuits need an MV Circuit Assembler, so make one.%n%n[note]Shortly after this, all circuit recipes will need a cleanroom, so get started on it![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAExQ.desc=Les circuits EV nécessitent un Circuit Assembler MV, alors fabriquez-en un.%n%n[note]Peu après, toutes les recettes de circuits nécessiteront une salle blanche, alors commencez-en une ![/note]
 
 # Quest: Advanced Circuit Assembler II
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.name=§5§lAdvanced Circuit Assembler II
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.desc=With your workstation circuits you can craft an HV circuit assembler. This is needed for IV circuits.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAExg.desc=Avec vos circuits Workstation, vous pouvez fabriquer un Circuit Assembler HV. Il est nécessaire pour les circuits IV.
 
 # Quest: Mainframes, Your First IV Circuit 
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.name=§5§lMainframes, Your First IV Circuit 
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.desc=Mainframes are the first IV Circuits you can make. It's used for a few EV machines, and basically all IV machines and components.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.name=§5§lMainframes, votre premier circuit IV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEyQ.desc=Les Mainframes sont les premiers circuits IV que vous pouvez fabriquer. Ils servent pour quelques machines EV, et pour pratiquement toutes les machines et composants IV.
 
 # Quest: You're Gonna Hate This 1-4 in HV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEzw.name=§5§lYou're Gonna Hate This 1-4 in HV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEzw.desc=Pumps, pistons, conveyor modules and robot arms are the most needed machine parts in HV. Go and craft one of each.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEzw.name=§5§lVous allez détester ça 1-4 en HV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEzw.desc=Les Pumps, Pistons, Conveyor Modules et Robot Arms sont les composants de machine les plus demandés en HV. Fabriquez-en un de chaque.
 
 # Quest: Chunkloading
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF-Q.name=§5§lChunkloading
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF-Q.desc=With your HV assembler you can craft a world anchor. So let's make one. It will again load a 3x3 chunk area.%n%nYou need coins to power the world anchor, it will run a varying amount depending on the coin used.%n%n§aPersonal Anchors§r are loaded once the owner visits, and stay loaded while the player is logged in.%n%n§9Passive Anchors§r are loaded once the owner visits, and stay loaded until the server resets.%n%n[warn]World Anchors[/warn] are always loaded, even after a server reset.%n%n[note]Check with server operators in case world anchors are disabled. On the official servers, world anchors are currently disabled to keep TPS high.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF-Q.name=§5§lChargement de chunks
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF-Q.desc=Avec votre Assembler HV, vous pouvez fabriquer un World Anchor. Fabriquons-en un. Il charge, encore une fois, une zone de 3x3 chunks.%n%nIl vous faut des pièces pour alimenter le World Anchor ; sa durée de fonctionnement varie selon la pièce utilisée.%n%nLes §aPersonal Anchors§r sont chargés dès que leur propriétaire visite la zone, et restent chargés tant que le joueur est connecté.%n%nLes §9Passive Anchors§r sont chargés dès que leur propriétaire visite la zone, et restent chargés jusqu'au redémarrage du serveur.%n%nLes [warn]World Anchors[/warn] sont toujours chargés, même après un redémarrage du serveur.%n%n[note]Renseignez-vous auprès des opérateurs du serveur, les World Anchors y sont peut-être désactivés. Sur les serveurs officiels, ils sont actuellement désactivés pour garder un TPS élevé.[/note]
 
 # Quest: Tesla Would be Proud
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3g.name=§5§lTesla Would be Proud
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3g.desc=Tired of sticking your EnderIO items in the capacitor bank to charge it? Time to make a wireless charger.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3g.name=§5§lTesla serait fier
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3g.desc=Marre de mettre vos objets EnderIO dans la Capacitor Bank pour les recharger ? Il est temps de fabriquer un Wireless Charger.
 
 # Quest: Separating Gems From the Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF8Q.name=§5§lSeparating Gems From the Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF8Q.desc=The sifter runs sooo slow, you should make an HV sifter to get gems faster.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF8Q.name=§5§lSéparer les gemmes de la poussière
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF8Q.desc=Le Sifter est teeellement lent : vous devriez fabriquer un Sifter HV pour obtenir des gemmes plus vite.
 
 # Quest: HV Bender
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCQ.name=§5§lHV Bender
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCQ.desc=An HV Bender is 4x faster than your LV Bender, but it also opens up an important recipe - Tin Cans!%n%nWith this bender you can turn Tin Casings into Tin Cans. Using the Tin Cans with food in a Canner will make Canned Food. This can stack up to 64, and will fully restore your shanks - no need to rotate food types anymore! You will eat as much as you need with one click. One drawback is you will no longer get the Well Fed buff with its slight health regen bonus, nor will you gain more hearts from eating new food. Also, these cans don't fit in the lunch bag or lunch box so you don't need those anymore.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCQ.name=§5§lBender HV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFCQ.desc=Un Bender HV est 4 fois plus rapide que votre Bender LV, mais il débloque aussi une recette importante : les Tin Cans !%n%nAvec ce Bender, vous pouvez transformer des Tin Casings en Tin Cans. En utilisant les Tin Cans avec de la nourriture dans un Canner, vous obtenez de la Canned Food. Elle s'empile jusqu'à 64 et remplit entièrement votre barre de faim : plus besoin de varier les aliments ! Vous mangerez exactement ce qu'il vous faut en un clic. Seul inconvénient : vous n'obtiendrez plus l'effet Well Fed et son léger bonus de régénération, ni de cœurs supplémentaires en mangeant de nouveaux aliments. De plus, ces conserves ne rentrent pas dans le Lunch Bag ni dans la Lunch Box, vous n'en aurez donc plus besoin.
 
 # Quest: HV Superconductors (512 EU/t)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfQ.name=§5§lHV Superconductors (512 EU/t)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfQ.desc=How about lossless 512 EU Wires? Titaniumonabariumdecacoppereikosaoxide is a superconductor wire and will transfer your energy without any loss.%n%nYou'll need Nichrome Coils and an HV Assembler.%n%n[note]Whether these are worth it to save a little power or not is up to you of course.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfQ.name=§5§lSupraconducteurs HV (512 EU/t)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFfQ.desc=Que diriez-vous de câbles 512 EU sans perte ? Le Titaniumonabariumdecacoppereikosaoxide est un câble supraconducteur qui transportera votre énergie sans aucune perte.%n%nIl vous faudra des Nichrome Coils et un Assembler HV.%n%n[note]À vous de voir, bien sûr, si cela vaut le coup pour économiser un peu d'énergie.[/note]
 
 # Quest: Some Rare High Tier Metals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFgw.name=§5§lSome Rare High Tier Metals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFgw.desc=Platinum, Palladium, Iridium and Osmium can be extracted with a chemical reaction from Chalcopyrite and Pentlandite using sulfuric acid. You don't have the technology to process them properly right now but later on you need large amounts of them.%n%nNote that this is not the proper method to get rare metals. This means none of them are pure, and cannot be utilized without the platline method, aside from EBF-ing platinum. Proper Platinum processing is EV, but you'll have to wait until IV to use the rest. Collecting a lot of it now (especially using this method) might not be a great idea depending on how long that will be.%n%n[note]A Chemical Bath also extracts Platinum from Nickel Ore if you use Mercury. Time to head back to the Twilight Forest![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFgw.name=§5§lQuelques métaux rares de haut tier
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFgw.desc=Le Platine, le Palladium, l'Iridium et l'Osmium peuvent être extraits de la Chalcopyrite et de la Pentlandite par une réaction chimique à l'Acide Sulfurique. Vous n'avez pas encore la technologie pour les traiter correctement, mais plus tard, il vous en faudra de grandes quantités.%n%nNotez que ce n'est pas la bonne méthode pour obtenir les métaux rares. Aucun d'eux n'est pur, et ils ne peuvent pas être utilisés sans la méthode de la platline, à part le Platine passé à l'EBF. Le vrai traitement du Platine se fait en EV, mais vous devrez attendre l'IV pour utiliser le reste. En accumuler beaucoup maintenant (surtout avec cette méthode) n'est peut-être pas une bonne idée, selon le temps qu'il vous faudra pour y arriver.%n%n[note]Un Chemical Bath extrait aussi du Platine du minerai de Nickel si vous utilisez du Mercure. Il est temps de retourner dans la Twilight Forest ![/note]
 
 # Quest: Find Ilmenite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFkA.name=§5§lFind Ilmenite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFkA.desc=You actually get more Ilmenite from the Bauxite Vein. But maybe you are here for the Chromite?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFkA.name=§5§lTrouver de l'Ilménite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFkA.desc=En fait, vous obtenez plus d'Ilménite dans le filon de Bauxite. Mais peut-être êtes-vous là pour la Chromite ?
 
 # Quest: Find Bastnasite, Monazite and Neodymium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTA.name=§5§lFind Bastnasite, Monazite and Neodymium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTA.desc=EV motors need Neodymium. Rare Earth is an §oOK§r source, but on the Moon you can find a vein with pure Neodymium ore. Bastnasite is a great source of fluorine. And Monazite can be taken apart for more Rare Earth.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTA.name=§5§lTrouver de la Bastnasite, de la Monazite et du Néodymium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTA.desc=Les moteurs EV ont besoin de Néodymium. Les Terres Rares sont une source §ocorrecte§r, mais sur la Lune vous pouvez trouver un filon contenant du minerai de Néodymium pur. La Bastnasite est une excellente source de Fluor. Et la Monazite peut être décomposée pour obtenir davantage de Terres Rares.
 
 # Quest: Synthetic Rubber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTw.name=§5§lSynthetic Rubber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTw.desc=Want to make the synthetic rubber styrene-butadiene?%n%nI'll show you a way you can get it. You'll need an Oil Cracker and a Distillation Tower. There are different ways to do it and this quest is only an example of how you can make it.%n%nThe first step is to crack your Naphtha with steam.%n%n§6Already automated Styrene-Butadiene rubber or Polystyrene? Hold 128 sheets of each to skip their respective questline.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTw.name=§5§lCaoutchouc synthétique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGTw.desc=Vous voulez produire le caoutchouc synthétique Styrène-Butadiène ?%n%nJe vais vous montrer une façon de l'obtenir. Il vous faudra un Oil Cracker et une Distillation Tower. Il existe plusieurs méthodes, et cette quête n'est qu'un exemple parmi d'autres.%n%nLa première étape consiste à craquer votre Naphte avec de la Vapeur.%n%n§6Vous avez déjà automatisé la Gomme de Styrène-Butadiène ou le Polystyrène ? Tenez en main 128 feuilles de chacun pour passer le chapitre correspondant.
 
 # Quest: Distillation
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGUQ.name=§5§lDistillation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGUQ.desc=For the next steps you need a few fluids/gases like Benzene, Ethylene and Butadiene. Run your distillation tower a few cycles to get them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGUQ.desc=Pour les étapes suivantes, il vous faut quelques fluides/gaz comme le Benzène, l'Éthylène et le Butadiène. Faites tourner votre Distillation Tower quelques cycles pour les obtenir.
 
 # Quest: Styrene
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGVA.name=§5§lStyrene
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGVA.name=§5§lStyrène
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGVA.desc=En mettant du benzène et de l'éthylène dans le réacteur chimique, on obtient du styrène.%n%n§3Ainsi que de l'hydrogène, qu'il suffit d'emballer avec le reste.
 
 # Quest: Raw Styrene-Butadiene Rubber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGVg.name=§5§lRaw Styrene-Butadiene Rubber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGVg.desc=The second last step is Raw Styrene-Butadiene Rubber. Mix Butadiene, Styrene and Oxygen to make the dust.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGVg.name=§5§lGomme de Styrène-Butadiène brute
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGVg.desc=L'avant-dernière étape est la Gomme de Styrène-Butadiène brute. Mélangez du Butadiène, du Styrène et de l'Oxygène pour obtenir la poudre.
 
 # Quest: Styrene-Butadiene Rubber Sheet
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfA.name=§5§lStyrene-Butadiene Rubber Sheet
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfA.desc=Add sulfur to the raw dust to get molten styrene-butadiene rubber, then solidify it to get sheets.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfA.name=§5§lFeuille de Gomme de Styrène-Butadiène
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfA.desc=Ajoutez du Soufre à la poudre brute pour obtenir de la Gomme de Styrène-Butadiène en fusion, puis solidifiez-la pour obtenir des feuilles.
 
 # Quest: Silicone Rubber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfQ.name=§5§lSilicone Rubber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfQ.desc=Want to make the synthetic rubber Silicone? As the first step you need Chloromethane.%n%nYou can use 2 Chlorine and 1 Methane per Chloromethane in your chemical reactor. Alternatively you can use Methanol and Hydrochloric Acid.%n%nThere are different ways to do it and this quest is only an example of how you can make it.%n%n§6Already automated Silicone Rubber? Hold 128 sheets to skip this questline.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfQ.name=§5§lGomme de Silicone
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfQ.desc=Vous voulez produire le caoutchouc synthétique Silicone ? Pour la première étape, il vous faut du Chlorométhane.%n%nVous pouvez utiliser 2 Chlore et 1 Méthane par Chlorométhane dans votre Chemical Reactor. Sinon, vous pouvez utiliser du Méthanol et de l'Acide Chlorhydrique.%n%nIl existe plusieurs méthodes, et cette quête n'est qu'un exemple parmi d'autres.%n%n§6Vous avez déjà automatisé la Gomme de Silicone ? Tenez en main 128 feuilles pour passer ce chapitre.
 
 # Quest: Dimethyldichlorosilane
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfg.name=§5§lDimethyldichlorosilane
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfg.desc=For the next step you need Chloromethane and Silicon Dust. This gets you Dimethyldichlorosilane.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfg.name=§5§lDiméthyldichlorosilane
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfg.desc=Pour l'étape suivante, il vous faut du Chlorométhane et de la poudre de Silicium. Vous obtenez ainsi du Diméthyldichlorosilane.
 
 # Quest: Polydimethylsiloxane Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfw.name=§5§lPolydimethylsiloxane Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfw.desc=Put Dimethyldichlorosilane and Water into the chemical reactor to get Polydimethylsiloxane.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfw.name=§5§lPoudre de Polydiméthylsiloxane
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGfw.desc=Mettez du Diméthyldichlorosilane et de l'Eau dans le Chemical Reactor pour obtenir du Polydiméthylsiloxane.
 
 # Quest: Silicone Rubber Sheet
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGgA.name=§5§lSilicone Rubber Sheet
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGgA.desc=Lastly we add a bit of sulfur to the polydimethylsiloxane dust and get molten silicone rubber.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGgA.name=§5§lFeuille de Gomme de Silicone
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGgA.desc=Enfin, on ajoute un peu de Soufre à la poudre de Polydiméthylsiloxane pour obtenir de la Gomme de Silicone en fusion.
 
 # Quest: Simple SoC - System on a Chip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsQ.name=§5§lSimple SoC - System on a Chip
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsQ.desc=SoCs (Systems on a Chip) are used to simplify circuit crafting. In this case, you can use Simple SoCs to make ULV circuits more easily.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsQ.desc=Les SoC (Systems on a Chip, systèmes sur puce) servent à simplifier la fabrication des circuits. Ici, vous pouvez utiliser des Simple SoC pour fabriquer plus facilement des circuits ULV.
 
 # Quest: Cheaper Simple Circuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.name=§5§lCheaper Simple Circuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.desc=The NAND chip is an industrial replacement for the vacuum tubes that is much cheaper. You can't use it to make circuits though, only to make other things as a ULV circuit. Make sure to check out all the possible recipes!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.name=§5§lSimple Circuit moins cher
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGsg.desc=La NAND Chip est un remplaçant industriel des Vacuum Tubes, bien moins cher. Vous ne pouvez pas l'utiliser pour fabriquer des circuits, seulement pour fabriquer d'autres choses en tant que circuit ULV. Pensez à consulter toutes les recettes possibles !
 
 # Quest: Farming a Little Easier
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyw.name=§5§lFarming a Little Easier
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyw.desc=Tired of the Multifarm's requirements? The EnderIO Farming Station is here to ease your suffering. It only requires EU and tools and can be easily upgraded with capacitors. Most standard crops and trees work with it, but unfortunately, CropsNH crops do not.%n%n[note]If you want to use it for farming crops from Pam's HarvestCraft, you'll need to provide the crop itself, not the seed, for it to work properly.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyw.name=§5§lUne agriculture un peu plus facile
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGyw.desc=Marre des exigences de la Multifarm ? La Farming Station d'EnderIO est là pour soulager vos souffrances. Elle ne demande que des EU et des outils, et s'améliore facilement avec des Capacitors. La plupart des cultures et arbres standards fonctionnent avec elle, mais malheureusement pas les cultures de CropsNH.%n%n[note]Si vous voulez l'utiliser pour les cultures de Pam's HarvestCraft, vous devez lui fournir la récolte elle-même, et non la graine, pour qu'elle fonctionne correctement.[/note]
 
 # Quest: Even LARGER Tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEw.name=§5§lEven LARGER Tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEw.desc=4000 buckets not enough storage? Stockpiling diesel for a lifetime? Try a Super Tank 2.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEw.name=§5§lDes réservoirs encore PLUS GRANDS
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEw.desc=4000 seaux de stockage ne suffisent pas ? Vous faites des réserves de Diesel pour toute une vie ? Essayez un Super Tank II.
 
 # Quest: Teflon Don
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFA.name=§5§lTeflon Don
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFA.desc=To make PTFE, aka Teflon, you only need a few steps.%n%nThe first one is hydrofluoric acid. If you haven't reached the moon yet, the best sources for fluorine might be cryolite. Other options are treating Sand or Sandstone in a Chemical Plant for some Fluorite Ore, and centrifuging stone dust or black granite dust for biotite. You can also get small amounts from Lepidolite in salt veins and Mica. Mix it with some hydrogen to get hydrofluoric acid.%n%nIf you have reached the moon, you can also process Bastnasite ore.%n%n§6Already automated PTFE? Hold 128 sheets to skip this questline.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFA.desc=Pour produire du PTFE, alias Téflon, il suffit de quelques étapes.%n%nLa première est l'Acide Fluorhydrique. Si vous n'êtes pas encore allé sur la Lune, la meilleure source de Fluor est sans doute la Cryolite. D'autres options : traiter du Sable ou du Grès dans une Chemical Plant pour obtenir du minerai de Fluorite, ou centrifuger de la poudre de pierre ou de Granite noir pour obtenir de la Biotite. Vous pouvez aussi en obtenir de petites quantités à partir de la Lépidolite des filons de sel et du Mica. Mélangez-le avec un peu d'Hydrogène pour obtenir de l'Acide Fluorhydrique.%n%nSi vous êtes déjà allé sur la Lune, vous pouvez aussi traiter du minerai de Bastnasite.%n%n§6Vous avez déjà automatisé le PTFE ? Tenez en main 128 feuilles pour passer ce chapitre.
 
 # Quest: Chloroform
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFQ.name=§5§lChloroform
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFQ.desc=The next step is to mix methane and chlorine to make chloroform. Make sure you have your circuit set correctly.%n%nNow is probably a good time to look at stockpiling chlorine. Look for salt ores, or lapis veins. You can also make salt water with ghast tears. Better get started with crops, you'll need a lot of chlorine later!%n%n[note]Lucky for you though, in this line we can recover all of our Chlorine.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFQ.name=§5§lChloroforme
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFQ.desc=L'étape suivante consiste à mélanger du Méthane et du Chlore pour produire du Chloroforme. Assurez-vous d'avoir réglé correctement votre circuit.%n%nC'est sans doute le bon moment pour commencer à faire des réserves de Chlore. Cherchez des minerais de Sel, ou des filons de Lapis. Vous pouvez aussi produire de l'Eau Salée avec des larmes de Ghast. Mieux vaut vous lancer dans les cultures, vous aurez besoin de beaucoup de Chlore plus tard !%n%n[note]Heureusement pour vous, dans cette chaîne, on récupère tout notre Chlore.[/note]
 
 # Quest: Polytetrafluoroethylene
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFg.name=§5§lPolytetrafluoroethylene
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFg.desc=Molten plastics smell great, don't they? Mix your Hydrofluoric Acid and Chloroform to make Tetrafluoroethylene. React the TFE with oxygen to make molten PTFE.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFg.name=§5§lPolytétrafluoroéthylène
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFg.desc=Le plastique fondu, ça sent bon, non ? Mélangez votre Acide Fluorhydrique et votre Chloroforme pour produire du Tétrafluoroéthylène. Faites réagir le TFE avec de l'Oxygène pour obtenir du PTFE en fusion.
 
 # Quest: How Much is Too Much Fluid?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFw.name=§5§lHow Much is Too Much Fluid?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFw.desc=There's no limit to how much fluid you might want to store. Make yourself some super tank III's for all your bulk storage needs.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFw.name=§5§lÀ partir de combien de fluide est-ce trop ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHFw.desc=Il n'y a pas de limite à la quantité de fluide que vous pourriez vouloir stocker. Fabriquez-vous quelques Super Tank III pour tous vos besoins de stockage en vrac.
 
 # Quest: Rock Cutter LV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHIA.name=§5§lRock Cutter LV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHIA.desc=The Rock Cutter is an unbreakable and Silk-touched Mining Device. It will enable you to mine blocks without damaging them, like glass or stone, while it is charged. Uh, Woo?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHIA.desc=Le Rock Cutter est un outil de minage incassable doté de Toucher de soie. Tant qu'il est chargé, il vous permet de miner des blocs sans les abîmer, comme le verre ou la roche. Euh, youpi ?
 
 # Quest: Magnetic Personality
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQg.name=§5§lMagnetic Personality
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQg.desc=If you haven't received one in a lootbag already, you can craft a nice magnet with a vibrant crystal. It doesn't work great on servers if you're moving around too fast, but it makes harvesting crops a lot easier.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQg.name=§5§lPersonnalité magnétique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHQg.desc=Si vous n'en avez pas déjà reçu un dans un sac de butin, vous pouvez fabriquer un bon aimant avec un Vibrant Crystal. Il ne fonctionne pas très bien sur les serveurs si vous vous déplacez trop vite, mais il facilite grandement la récolte des cultures.
 
 # Quest: LV Field Generator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHTw.name=§5§lLV Field Generator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHTw.desc=Field Generators are powerful devices. They're generally used in super tanks, super chests, in UU-Matter production and use, or in teleporters. Also, anything someone wanted to make harder to make.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHTw.name=§5§lField Generator LV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHTw.desc=Les Field Generators sont des dispositifs puissants. On les utilise généralement dans les Super Tanks, les Super Chests, pour la production et l'utilisation de Matière-UU, ou dans les téléporteurs. Et aussi dans tout ce que quelqu'un a voulu rendre plus difficile à fabriquer.
 
 # Quest: Amplifying Your UUM Production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVA.name=§5§lAmplifying Your UUM Production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVA.desc=To get UU-Amplifier out of your scrap you need an Amplifabricator. Both types of scrap are equivalent.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVA.name=§5§lAmplifier votre production d'UUM
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVA.desc=Pour obtenir de l'Amplificateur-UU à partir de vos Scraps, il vous faut un Amplifabricator. Les deux types de Scrap sont équivalents.
 
 # Quest: UUMatter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVQ.name=§5§lUUMatter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVQ.desc=Now you can actually make the UUM with a Mass Fabricator. Well, technically you could make it without UUA, but that's way more expensive. To make sure it only runs with UUA, put a programmed circuit (any value) in the machine's slot. UUMatter can be used for some very specific things, such as replicating §osome§r materials (check NEI, mostly/all periodic table), used with crops to create an ore, some specific high-level recipes need it, and...you can also sit in it to get regen.%n%nThe energy usage and overclocking of the Mass Fabricator is different from the usual GT way. To have fixed EU to UUM ratios for all tiers, the machine does perfect 2/2 overclocks. It also starts with a very high amperage in LV. The following chart should make it more clear:%n%nTier  Amps       EU/t         Time%nLV     8A         256          160%nMV     4A         512           80%nHV     2A        1024           40%nEV     1A        2048           20%nIV     0.5A      4096           10%netc.%n%nPut in power (and hopefully UUA), and out comes UUM.%n%nFor now, just stockpile the UU matter. You need data orbs to use the replicator, and that's explained next tier.%n%n[note]You only need to complete one of the tasks.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVQ.name=§5§lMatière-UU
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHVQ.desc=Vous pouvez maintenant produire réellement de l'UUM avec un Mass Fabricator. Bon, techniquement, vous pourriez en produire sans UUA, mais c'est bien plus cher. Pour vous assurer qu'il ne fonctionne qu'avec de l'UUA, placez un Programmed Circuit (n'importe quelle valeur) dans l'emplacement de la machine. La Matière-UU sert à des choses très spécifiques, comme répliquer §ocertains§r matériaux (consultez NEI : surtout, voire uniquement, ceux du tableau périodique), produire des minerais avec des cultures, certaines recettes de haut niveau en ont besoin, et... vous pouvez aussi vous baigner dedans pour vous régénérer.%n%nLa consommation d'énergie et l'overclock du Mass Fabricator diffèrent de la façon habituelle de GT. Pour avoir un ratio EU/UUM fixe à tous les tiers, la machine fait des overclocks parfaits 2/2. Elle démarre aussi avec un ampérage très élevé en LV. Le tableau suivant devrait rendre les choses plus claires :%n%nTier  Amps       EU/t         Temps%nLV     8A         256          160%nMV     4A         512           80%nHV     2A        1024           40%nEV     1A        2048           20%nIV     0.5A      4096           10%netc.%n%nFournissez de l'énergie (et si possible de l'UUA), et il en ressort de l'UUM.%n%nPour l'instant, contentez-vous de faire des réserves de Matière-UU. Il vous faut des Data Orbs pour utiliser le Replicator, et cela sera expliqué au tier suivant.%n%n[note]Vous n'avez besoin d'accomplir qu'une seule des tâches.[/note]
 
 # Quest: MV Field Generator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHWA.name=§5§lMV Field Generator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHWA.desc=Field Generators are powerful but expensive devices.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHWA.name=§5§lField Generator MV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHWA.desc=Les Field Generators sont des dispositifs puissants, mais chers.
 
 # Quest: HV Advanced Steam Boiler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHbQ.name=§5§lHV Advanced Steam Boiler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHbQ.desc=The HV GT++ Steam Boiler is the next machine you can make to produce steam efficiently. It regulates its fuel more efficiently if it ends up being full.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHbQ.name=§5§lAdvanced Steam Boiler HV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHbQ.desc=Le Steam Boiler HV de GT++ est la prochaine machine que vous pouvez fabriquer pour produire de la Vapeur efficacement. Il régule mieux sa consommation de combustible lorsqu'il finit par être plein.
 
 # Quest: HV Energy Hatch
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHbw.name=§5§lHV Energy Hatch
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHbw.desc=The HV energy hatch is crucial to a faster EBF that can do higher tier recipes. You will probably want to make at least two.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHbw.name=§5§lEnergy Hatch HV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHbw.desc=L'Energy Hatch HV est indispensable pour un EBF plus rapide, capable de faire des recettes de plus haut tier. Vous voudrez sans doute en fabriquer au moins deux.
 
 # Quest: Recycle for the Environment
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcg.name=§5§lRecycle for the Environment
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcg.desc=If you have too much wood, saplings, netherrack or other garbage, you can recycle it and get scrap [note](this does not have a 100%% chance)[/note]. Scrap can be used to make UU-Amplifier to make UU-Matter in 1/4 the time, saving you a significant amount of energy.%n%nCertain items such as cobblestone, stone, and tiny/small dusts are too easy to make and don't give any scrap. But otherwise any items can be recycled to get scrap.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcg.name=§5§lRecycler pour l'environnement
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcg.desc=Si vous avez trop de bois, de pousses d'arbre, de netherrack ou d'autres déchets, vous pouvez les recycler pour obtenir du Scrap [note](ce n'est pas garanti à 100%%)[/note]. Le Scrap sert à produire de l'Amplificateur-UU, qui permet de produire de la Matière-UU en 4 fois moins de temps, ce qui vous fait économiser beaucoup d'énergie.%n%nCertains objets comme la pierre, la roche et les petites/minuscules poudres sont trop faciles à produire et ne donnent pas de Scrap. Mais à part ça, n'importe quel objet peut être recyclé pour obtenir du Scrap.
 
 # Quest: How Much is Too Much Cobblestone?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHdQ.name=§5§lHow Much is Too Much Cobblestone?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHdQ.desc=A super chest III is just ridiculous. Who would possibly need to store 16 million items? You, that's who.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHdQ.name=§5§lÀ partir de combien de pierre est-ce trop ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHdQ.desc=Un Super Chest III, c'est tout simplement ridicule. Qui pourrait bien avoir besoin de stocker 16 millions d'objets ? Vous, pardi.
 
 # Quest: Separating Molecules
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgQ.name=§5§lSeparating Molecules
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgQ.desc=Many centrifuging recipes are slow. You better upgrade your machines.%n%nThere are many interesting things you can centrifuge outside your normal ore processing or Methane production. Glowstone, Redstone, Soul Sand, Lava, Ashes, Planet Dusts, Compressed Air, etc. Make sure to look around a bit.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgQ.name=§5§lSéparer les molécules
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHgQ.desc=Beaucoup de recettes de centrifugation sont lentes. Vous feriez mieux d'améliorer vos machines.%n%nIl y a plein de choses intéressantes à centrifuger en dehors du traitement habituel des minerais ou de la production de Méthane : Pierre lumineuse, Redstone, Sable des Âmes, Lave, Cendres, poudres planétaires, air comprimé, etc. Prenez le temps de fouiller un peu.
 
 # Quest: Getting Your First Platinum
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9w.name=§5§lGetting Your First Platinum
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9w.desc=Efficient Platinum processing is quite complicated. But for now, we can just smelt it directly into nuggets. This might not be the most efficient route to take, but it is enough for what we want to do next.%n%nAt this tier, your best source of Platinum is Nickel ores from the Twilight Forest, or maybe Endstone Dust if you've managed to survive the End already.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9w.name=§5§lVotre premier Platine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9w.desc=Le traitement efficace du Platine est assez compliqué. Mais pour l'instant, on peut simplement le faire fondre directement en pépites. Ce n'est peut-être pas la méthode la plus efficace, mais elle suffit pour ce que nous voulons faire ensuite.%n%nÀ ce tier, votre meilleure source de Platine est le minerai de Nickel de la Twilight Forest, ou peut-être la poudre de Pierre de l'End si vous avez déjà réussi à survivre à l'End.
 
 # Quest: Hidden Drawers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJXg.name=§5§lHidden Drawers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJXg.desc=You might notice once you get a wall of drawers that looking that direction gives you a little lag. If the lag gets bad enough, you can craft this key to stop putting the item on the front. Use it on the drawer controller to affect all of them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJXg.name=§5§lTiroirs cachés
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJXg.desc=Une fois que vous aurez tout un mur de tiroirs, vous remarquerez peut-être qu'en regardant dans cette direction, le jeu lague un peu. Si le lag devient trop important, vous pouvez fabriquer cette clé pour ne plus afficher l'objet en façade. Utilisez-la sur le Drawer Controller pour l'appliquer à tous les tiroirs.
 
 # Quest: Forget Something?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjw.name=§5§lForget Something?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjw.desc=Need some Electrotine for your Workstations? Go back to the Nether and find a Saltpeter vein at Y 5-45. You can also centrifuge it for Electrum and Redstone if you have too much.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjw.name=§5§lVous n'oubliez rien ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjw.desc=Besoin d'Electrotine pour vos Workstations ? Retournez dans le Nether et cherchez un filon de Salpêtre entre Y 5 et 45. Vous pouvez aussi la centrifuger pour obtenir de l'Électrum et de la Redstone si vous en avez trop.
 
 # Quest: Polystyrene
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBQ.name=§5§lPolystyrene
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBQ.desc=To make Polystyrene use the chemical reactor to combine oxygen and styrene.%n%n[note]There's only one type of machine that uses it, so don't bother making more until you need it.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBQ.name=§5§lPolystyrène
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBQ.desc=Pour produire du Polystyrène, combinez de l'Oxygène et du Styrène dans le Chemical Reactor.%n%n[note]Un seul type de machine l'utilise, alors inutile d'en produire plus tant que vous n'en avez pas besoin.[/note]
 
 # Quest: Bio Lab
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBg.name=§5§lBio Lab
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBg.desc=The Bio Lab is a multi-use bioengineering station. You can create bacterial cultures for use in the Bacterial Vat with it, as well as make DNA Samples and Data Orbs, and Plasmids to duplicate cultures and create new ones.%n%nThe Bacterial Vat can be found in the multiblock Goals tab. You can use it right now if you have any industrial brewing needs or wait until later when you need to get into bioengineering.%n%n[note]If you are only doing this later you might as well make a higher tier Bio Lab. You only need one of them to complete the quest.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBg.desc=Le Bio Lab est une station de bio-ingénierie polyvalente. Elle permet de créer des cultures bactériennes pour le Bacterial Vat, ainsi que des DNA Samples, des Data Orbs, et des Plasmids pour dupliquer des cultures et en créer de nouvelles.%n%nLe Bacterial Vat se trouve dans l'onglet Multiblock Goals. Vous pouvez l'utiliser dès maintenant si vous avez des besoins de brassage industriel, ou attendre plus tard, quand vous vous lancerez dans la bio-ingénierie.%n%n[note]Si vous ne faites cela que plus tard, autant fabriquer un Bio Lab de plus haut tier. Un seul suffit pour terminer la quête.[/note]
 
 # Quest: Petri Dishes, Not for Eating
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBw.name=§5§lPetri Dishes, Not for Eating
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBw.desc=You'll need petri dishes to hold the cultures. You can make them out of borosilicate, styrene, or PTFE.%n%nThe petri dishes must then be sterilized to allow cultures to grow on them. You can use ethanol, methanol, ammonia, or chlorine to sterilize them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBw.name=§5§lPetri Dishes, pas pour manger
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKBw.desc=Il vous faudra des Petri Dishes pour contenir les cultures. Vous pouvez les fabriquer en Verre Borosilicate, en Styrène ou en PTFE.%n%nLes Petri Dishes doivent ensuite être stérilisées pour que les cultures puissent s'y développer. Vous pouvez utiliser de l'Éthanol, du Méthanol, de l'Ammoniac ou du Chlore pour les stériliser.
 
 # Quest: Hangover From All That Glue?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsA.name=§5§lHangover From All That Glue?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsA.desc=Surface-mount devices are more advanced circuits parts. They're needed for the EV tier+ circuit line and are cheaper to craft than the basic versions, if you have the right materials. You need an HV Assembler and some molten polyethylene.%n%nBe sure to check how much gallium you have available. It might not be worth it to use SMD transistors until you have a steady supply with an HV macerator or bees. Also look into crops to 4x your zinc, sphalerite, and bauxite.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsA.name=§5§lLa gueule de bois après toute cette colle ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKsA.desc=Les composants montés en surface (SMD) sont des composants de circuit plus avancés. Ils sont nécessaires pour la gamme de circuits EV et au-delà, et sont moins chers à fabriquer que les versions de base, si vous avez les bons matériaux. Il vous faut un Assembler HV et du Polyéthylène en fusion.%n%nVérifiez bien combien de Gallium vous avez à disposition. Utiliser des SMD Transistors ne vaut peut-être pas le coup tant que vous n'avez pas un approvisionnement régulier grâce à un Macerator HV ou aux abeilles. Pensez aussi aux cultures pour multiplier par 4 votre Zinc, votre Sphalérite et votre Bauxite.
 
 # Quest: Better Magnetic Rods
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALZQ.name=§5§lBetter Magnetic Rods
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALZQ.desc=You don't need them this tier, but for EV motors, you're going to need Magnetic Neodymium Rods, so make sure to make this before you start EV.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALZQ.name=§5§lDe meilleures tiges magnétiques
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALZQ.desc=Vous n'en avez pas besoin à ce tier, mais pour les moteurs EV, il vous faudra des Magnetic Neodymium Rods : fabriquez-les donc avant de commencer l'EV.
 
 # Quest: Bauxite Slag
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALng.name=§5§lBauxite Slag
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALng.desc=Now the slurry can be separated in a chemical process. Besides the Alumina which we get directly, the most important part is the Bauxite Slag which we will process further. You can also centrifuge the Sluice Juice for some extra byproducts.%n%nIf you don't have Aluminum Hydroxide yet, look around a bit in NEI. You can get it from Sodium Aluminate or from either Ruby, Sapphire, or Green Sapphire Slurry.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALng.name=§5§lScories de Bauxite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALng.desc=Les boues peuvent maintenant être séparées par un procédé chimique. En plus de l'Alumine que l'on obtient directement, la partie la plus importante est la Scorie de Bauxite, que nous allons traiter ensuite. Vous pouvez aussi centrifuger le Sluice Juice pour quelques sous-produits supplémentaires.%n%nSi vous n'avez pas encore d'Hydroxyde d'aluminium, fouillez un peu dans NEI. Vous pouvez l'obtenir à partir d'Aluminate de Sodium, ou des boues de Rubis, de Saphir ou de Saphir vert.
 
 # Quest: Gallium and more
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALoA.name=§5§lGallium and more
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALoA.desc=Centrifuge the Bauxite Slag to get the remaining desired products.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALoA.name=§5§lGallium et plus encore
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALoA.desc=Centrifugez les Scories de Bauxite pour obtenir les produits restants qui vous intéressent.
 
 # Quest: Hot Slurry
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALoQ.name=§5§lHot Slurry
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALoQ.desc=Then heat up the slurry you made with a Fluid Heater.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALoQ.name=§5§lBoues chaudes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALoQ.desc=Ensuite, chauffez les boues que vous avez produites avec un Fluid Heater.
 
 # Quest: Getting the most out of your Bauxite.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALog.name=§5§lGetting the most out of your Bauxite.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALog.desc=If processed correctly you can get a lot more Gallium out of your Bauxite compared to just using the Thermal Centrifuge. You will also get large amounts of Rutile and Alumina.%n%nFirst, make some Bauxite Slurry.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALog.name=§5§lTirer le meilleur de votre Bauxite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALog.desc=Bien traitée, votre Bauxite peut vous donner bien plus de Gallium qu'avec la simple Thermal Centrifuge. Vous obtiendrez aussi de grandes quantités de Rutile et d'Alumine.%n%nPour commencer, produisez des Boues de Bauxite.
 
 # Quest: Ender Fluid Conduits
 betterquesting.quest.Tccv2-B9QaS_8tS8kteSSg.name=Ender Fluid Conduits
-betterquesting.quest.Tccv2-B9QaS_8tS8kteSSg.desc=Ender Fluid Conduits are an advanced fluid transport system available at HV tier. They have many useful abilities, such as filtering specific fluids and routing them by color channel.%n%nTheir main advantage is the ability to create a large unified fluid network, which makes complex setups much easier to manage. As you use them, you’ll quickly see how convenient they are at this stage of the game.%n%n[note]However, be careful: large conduit networks with too many nodes can cause TPS lag. Use them wisely, avoid overbuilding, and consider switching to AE2-based fluid handling for large-scale systems.[/note]
+betterquesting.quest.Tccv2-B9QaS_8tS8kteSSg.desc=Les Ender Fluid Conduits sont un système avancé de transport de fluides disponible en HV. Ils offrent de nombreuses fonctions utiles, comme le filtrage de fluides précis et leur routage par canal de couleur.%n%nLeur principal avantage est de pouvoir créer un grand réseau de fluides unifié, ce qui simplifie énormément la gestion des installations complexes. En les utilisant, vous verrez vite à quel point ils sont pratiques à ce stade du jeu.%n%n[note]Attention toutefois : de grands réseaux de conduits avec trop de nœuds peuvent faire chuter le TPS. Utilisez-les avec sagesse, évitez d'en faire trop, et envisagez de passer à une gestion des fluides via AE2 pour les systèmes à grande échelle.[/note]
 
 # Quest: Keeping your energy hatch from overheating
-betterquesting.quest.pXRqb1HyQYSjtHp9dt1xZg.name=§5§lKeeping your energy hatch from overheating
-betterquesting.quest.pXRqb1HyQYSjtHp9dt1xZg.desc=You have two options here. Either you followed the NaK quests or you made a vacuum freezer to cool helium.
+betterquesting.quest.pXRqb1HyQYSjtHp9dt1xZg.name=§5§lEmpêcher votre Energy Hatch de surchauffer
+betterquesting.quest.pXRqb1HyQYSjtHp9dt1xZg.desc=Vous avez deux options ici. Soit vous avez suivi les quêtes NaK, soit vous avez fabriqué un Vacuum Freezer pour refroidir de l'Helium.
 
 # Quest: NaK
 betterquesting.quest.wLYoO7hsT_SOuJGzbgDMhg.name=§5§lNaK
-betterquesting.quest.wLYoO7hsT_SOuJGzbgDMhg.desc=Let's make some NaK coolant!
+betterquesting.quest.wLYoO7hsT_SOuJGzbgDMhg.desc=Produisons du NaK Coolant !
 
 
 ## Quest Line: Tier 4 - EV
