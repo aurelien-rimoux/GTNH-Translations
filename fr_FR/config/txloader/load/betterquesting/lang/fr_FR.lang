@@ -12791,341 +12791,341 @@ betterquesting.quest.GoTATpPcQAuqGyfJG_dI-Q.desc=La §5§lLarge Essentia Smelter
 
 
 ## Quest Line: Focus on Wand Foci & EMT
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGQ.name=Focus on Wand Foci & EMT
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGQ.desc=Do you know which wand focus is useful and which not? Also, some EMT stuff.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGQ.name=Focalisateurs de baguette et EMT
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGQ.desc=Savez-vous quels focalisateurs de baguette sont utiles et lesquels ne le sont pas ? Et aussi, quelques trucs d'EMT.
 
 # Quest: An Appropriate Weapon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.name=An Appropriate Weapon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.desc=The Wand Focus: Nine Hells is truly a weapon worthy of your skills. It can fire creatures of the Nether at your enemies!%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases damage dealt every level%n§5Bat Bombs§r (level 3): Summoned bats always explode on contact%n§5Devil Bats§r (level 3): Summoned bats are larger, do more damage, and stay around for longer%n§5Vampire Bats§r (level 5): Summoned bats will heal themselves and the caster when they deal damage
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.name=Une arme digne de ce nom
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.desc=Le Wand Focus: Nine Hells est une arme vraiment digne de vos talents. Il peut projeter des créatures du Nether sur vos ennemis !%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente les dégâts infligés à chaque niveau%n§5Bat Bombs§r (niveau 3) : les chauves-souris invoquées explosent toujours au contact%n§5Devil Bats§r (niveau 3) : les chauves-souris invoquées sont plus grandes, infligent plus de dégâts et restent plus longtemps%n§5Vampire Bats§r (niveau 5) : les chauves-souris invoquées se soignent, ainsi que le lanceur, quand elles infligent des dégâts
 
 # Quest: Dropped in Asgard, Fallen to Earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQg.name=Dropped in Asgard, Fallen to Earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQg.desc=You've heard rumors of a mighty weapon, dropped in Asgard and fallen to earth. Could this be the mystical Item?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQg.name=Tombé d'Asgard sur la Terre
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQg.desc=Vous avez entendu parler d'une arme puissante, tombée d'Asgard jusque sur la Terre. Serait-ce l'objet mystique en question ?
 
 # Quest: Repaired it!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQw.name=Repaired it!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQw.desc=Sadly enough, the hammer was broken. But you have the skills and the knowledge to repair it, don't you?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQw.name=Réparé !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQw.desc=Malheureusement, le marteau était brisé. Mais vous avez le savoir-faire et les connaissances pour le réparer, n'est-ce pas ?
 
 # Quest: Super-Mjolnir
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRA.name=Super-Mjolnir
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRA.desc=Additional tweaks to your Mjolnir have changed it. Now you can summon some Guardian Snowmen to help you out!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRA.desc=Quelques retouches supplémentaires ont transformé votre Mjolnir. Vous pouvez maintenant invoquer des Guardian Snowmen pour vous prêter main-forte !
 
 # Quest: Sparking Nitor...?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSQ.name=Sparking Nitor...?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSQ.desc=YELLOW! What an ugly color! I want PURPLE Nitor! Get me some and you'll receive something nice in exchange.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSQ.name=Du Nitor étincelant... ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSQ.desc=JAUNE ! Quelle couleur affreuse ! Je veux du Nitor VIOLET ! Apportez-m'en et vous recevrez quelque chose de sympa en échange.
 
 # Quest: Rechargeable Scribing Tools
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSg.name=Rechargeable Scribing Tools
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSg.desc=Are you tired of getting all the Ink for your scribing and you don't want to use your blood either? Get this Hi-Tech Scribing Device which will make your life much easier! Treat it like an HV battery - charge in any HV machine's battery slot, or in an HV battery buffer.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSg.name=Outils d'écriture rechargeables
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSg.desc=Vous en avez assez de chercher de l'encre pour vos écrits, et vous ne voulez pas non plus utiliser votre sang ? Procurez-vous ce dispositif d'écriture high-tech qui va vous simplifier la vie ! Traitez-le comme une batterie HV : rechargez-le dans l'emplacement de batterie de n'importe quelle machine HV, ou dans un Battery Buffer HV.
 
 # Quest: Electric Hoe-ing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFTQ.name=Electric Hoe-ing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFTQ.desc=While the Hoe of Growth breaks easily, we have a fix for you! Get this one and simply recharge it when it's empty.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFTQ.name=Binage électrique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFTQ.desc=La Hoe of Growth se casse facilement, mais nous avons la solution ! Procurez-vous celle-ci et rechargez-la simplement quand elle est vide.
 
 # Quest: EU->VIS
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFTg.name=EU->VIS
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFTg.desc=This device allows you to charge your wands using EU, but it costs 10kEU per Vis restored.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFTg.desc=Ce dispositif vous permet de recharger vos baguettes avec des EU, mais il en coûte 10kEU par point de Vis restauré.
 
 # Quest: Press and Hold the B Button to Block!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFTw.name=Press and Hold the B Button to Block!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFTw.desc=The Wand Focus: Shield creates a shield around you which blocks any incoming damage and removes potion effects. Sneak away if you're fighting an enemy too strong for you!%n%n[note]This focus accepts the following upgrade in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFTw.name=Maintenez le bouton B pour bloquer !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFTw.desc=Le Wand Focus: Shield crée autour de vous un bouclier qui bloque tous les dégâts entrants et supprime les effets de potion. Éclipsez-vous discrètement si vous affrontez un ennemi trop fort pour vous !%n%n[note]Ce focalisateur accepte l'amélioration suivante dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau
 
 # Quest: Reactor Shielding 2.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUA.name=Reactor Shielding 2.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUA.desc=Shield Blocks - explosion proof - single use. Get a couple of these to shield your reactor!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUA.name=Blindage de réacteur 2.0
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUA.desc=Shield Blocks : résistent aux explosions, usage unique. Procurez-vous-en quelques-uns pour protéger votre réacteur !
 
 # Quest: What the Heck...?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUQ.name=What the Heck...?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUQ.desc=You found a yellow-ish glowing ball. It might be useful later on.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUQ.name=Mais qu'est-ce que c'est... ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFUQ.desc=Vous avez trouvé une boule lumineuse jaunâtre. Elle pourrait vous être utile plus tard.
 
 # Quest: I Don't Want to Set the World on Fire
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXA.name=I Don't Want to Set the World on Fire
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXA.desc=Wand Focus: Fire is a basic wand focus that is able to spew a short-range cone of fire that deals damage and sets mobs ablaze.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases damage dealt every level%n§5Alchemist's Fire§r (even levels): Hit mobs burn for longer and lights blocks on fire%n§5Fireball§r (level 3): The focus now shoots a large, explosive ball of fire which sets the ground on fire if paired with §5Alchemist's Fire§r%n§5Fire Beam§r (level 3): Concentrates the cone of fire into a beam that does more damage and shoots farther
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXA.name=Je ne veux pas mettre le feu au monde
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXA.desc=Le Wand Focus: Fire est un focalisateur de base qui crache un cône de feu à courte portée, qui inflige des dégâts et enflamme les monstres.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente les dégâts infligés à chaque niveau%n§5Alchemist's Fire§r (niveaux pairs) : les monstres touchés brûlent plus longtemps, et les blocs prennent feu%n§5Fireball§r (niveau 3) : le focalisateur tire désormais une grosse boule de feu explosive, qui met le feu au sol si elle est associée à §5Alchemist's Fire§r%n§5Fire Beam§r (niveau 3) : concentre le cône de feu en un rayon qui inflige plus de dégâts et porte plus loin
 
 # Quest: Diggy Diggy Hole
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXQ.name=Diggy Diggy Hole
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXQ.desc=The Wand Focus: Excavation emits a green beam of light that will mine blocks of any hardness (except for unbreakable blocks like Bedrock) from a distance.%n%nThis focus is also required to operate the Arcane Bore. Upgrading foci to be used in the Bore with §5Enlarge§r is highly recommended, as it increases the radius by 1 per level.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases block breaking speed every level%n§5Treasure§r: Acts like vanilla Fortune%n§5Enlarge§r (even levels): Breaks an extra adjacent block per level%n§5Dowsing§r (level 3): May drop Thaumcraft Native Ores from ores, but does not apply to GT ores%n§5Silk Touch§r (level 5): Acts like vanilla Silk Touch
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXQ.name=Creuse, creuse, creuse un trou
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXQ.desc=Le Wand Focus: Excavation émet un rayon de lumière verte qui mine à distance des blocs de n'importe quelle dureté (sauf les blocs incassables comme la Bedrock).%n%nCe focalisateur est aussi nécessaire pour faire fonctionner l'Arcane Bore. Il est fortement recommandé d'améliorer les focalisateurs destinés au Bore avec §5Enlarge§r, qui augmente le rayon de 1 par niveau.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente la vitesse de minage à chaque niveau%n§5Treasure§r : agit comme Fortune en vanilla%n§5Enlarge§r (niveaux pairs) : casse un bloc adjacent supplémentaire par niveau%n§5Dowsing§r (niveau 3) : peut donner des Native Clusters de Thaumcraft à partir des minerais, mais ne s'applique pas aux minerais GT%n§5Silk Touch§r (niveau 5) : agit comme Toucher de soie en vanilla
 
 # Quest: Bzzap!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXg.name=Bzzap!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXg.desc=The Wand Focus: Shock will shoot a bolt of lightning. It homes in slightly to the nearest mob/player from where it is aimed. It is even fast enough to hit Endermen before they can teleport away!%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases damage dealt every level%n§5Chain Lightning§r (level 3): The lightning bolt now arcs to two nearby creatures. Great for dealing with bats from warp!%n§5Earth Shock§r (level 3): The focus now shoots a ball of lightning that leaves the ground electrified%n§5Enlarge§r (requires §5Chain Lightning§r): The lightning bolt arcs to two additional targets per level. Show those bats who's boss!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXg.name=Bzzap !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXg.desc=Le Wand Focus: Shock tire un éclair. Il se dirige légèrement vers le monstre ou le joueur le plus proche du point visé. Il est même assez rapide pour toucher les Endermen avant qu'ils ne se téléportent !%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente les dégâts infligés à chaque niveau%n§5Chain Lightning§r (niveau 3) : l'éclair rebondit désormais sur deux créatures proches. Idéal contre les chauves-souris du Warp !%n§5Earth Shock§r (niveau 3) : le focalisateur tire désormais une boule de foudre qui électrifie le sol%n§5Enlarge§r (nécessite §5Chain Lightning§r) : l'éclair rebondit sur deux cibles supplémentaires par niveau. Montrez à ces chauves-souris qui est le patron !
 
 # Quest: Trade Offer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXw.name=Trade Offer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXw.desc=Wand Focus: Equal Trade is able to switch out blocks in the world with blocks in the player's inventory. Shift-right-click on a block to attune the focus to the block. Once attuned to a block, left-click on a single block to replace it with the substitute block. Right-click will transform a contiguous 5x5x5 area of the same block that has air on at least one side. This can go through thin walls or into caves, so be careful. Very useful for upgrading EBF coils or for swapping other blocks that are slow to break like Obsidian! It cannot be used to break or place blocks with Tile Entities like chests.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Enlarge§r: Expands the maximum range by 1 block in each direction per level%n§5Treasure§r (level 3): Works like vanilla Fortune%n§5Architect§r (level 3): Allows the focus's working area to be modified with the Misc Wand Toggle keybind. Sneaking with the keybind changes which axes are modified. This upgrade also changes the working area to a plane, so be sure to test this upgrade out before committing to it and applying further upgrades%n§5Silk Touch§r (level 5): Works like vanilla Silk Touch
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXw.name=Proposition d'échange
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFXw.desc=Le Wand Focus: Equal Trade permet d'échanger des blocs du monde avec des blocs de l'inventaire du joueur. Maj + clic droit sur un bloc pour accorder le focalisateur à ce bloc. Une fois accordé, un clic gauche sur un bloc le remplace par le bloc de substitution. Un clic droit transforme une zone contiguë de 5x5x5 du même bloc ayant de l'air sur au moins une face. Cela peut traverser les murs fins ou déboucher dans des grottes, alors soyez prudent. Très utile pour améliorer les bobines d'un EBF ou remplacer d'autres blocs longs à casser comme l'Obsidienne ! Il ne peut pas casser ni poser de blocs avec des Tile Entities, comme les coffres.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Enlarge§r : étend la portée maximale de 1 bloc dans chaque direction par niveau%n§5Treasure§r (niveau 3) : fonctionne comme Fortune en vanilla%n§5Architect§r (niveau 3) : permet de modifier la zone d'action du focalisateur avec la touche Misc Wand Toggle. En vous accroupissant avec cette touche, vous changez les axes modifiés. Cette amélioration change aussi la zone d'action en un plan : testez-la bien avant de vous engager et d'appliquer d'autres améliorations%n§5Silk Touch§r (niveau 5) : fonctionne comme Toucher de soie en vanilla
 
 # Quest: Snowball Fight!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYA.name=Snowball Fight!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYA.desc=The Wand Focus: Frost will launch a ball of ice that can bounce off of blocks and mobs.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases damage dealt every level%n§5Alchemist's Frost§r (odd levels): Applies Slowness to hit mobs. Higher levels increase the potency of the effect%n§5Scattershot§r (level 3): The focus now shoots a volley of shards that break on impact. The normal damage immunity timer is ignored, so multiple shards can hit the same mob at once and all will deal damage. §5Potency§r increases the number of shards instead of the damage%n§5Ice Boulder§r (level 3): The focus now shoots a larger, bouncier, and deadlier ball of ice
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYA.name=Bataille de boules de neige !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYA.desc=Le Wand Focus: Frost lance une boule de glace qui peut rebondir sur les blocs et les monstres.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente les dégâts infligés à chaque niveau%n§5Alchemist's Frost§r (niveaux impairs) : inflige Lenteur aux monstres touchés. Les niveaux supérieurs renforcent l'effet%n§5Scattershot§r (niveau 3) : le focalisateur tire désormais une salve d'éclats qui se brisent à l'impact. Le délai normal d'immunité aux dégâts est ignoré : plusieurs éclats peuvent donc toucher le même monstre en même temps et tous infligent des dégâts. §5Potency§r augmente alors le nombre d'éclats au lieu des dégâts%n§5Ice Boulder§r (niveau 3) : le focalisateur tire désormais une boule de glace plus grosse, plus rebondissante et plus meurtrière
 
 # Quest: Magical Base Defense
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYQ.name=Magical Base Defense
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYQ.desc=The Wand Focus: Warding can be used to make blocks invincible with right-click. Warding may be removed by right-clicking it again. It is not able to ward transparent blocks like Glass or non-full blocks like slabs, but there is a block known as Warded Glass available with the Warded Arcana research if you want a protected transparent block. It is also unable to ward blocks with Tile Entities like chests. Take note that only the player who warded the block can unward it.%n%nHolding a wand with this focus will show an outline on nearby blocks you have warded. They look normal otherwise. Warded Blocks are [note]completely indestructible[/note] and will produce particle effects similar to runic shielding when a player tries to break them. Blocks will lose any special properties when warded: sand or gravel will not fall, grass will not grow, and packed ice will no longer be slippery. Warded blocks cannot be affected by any outside influence such as redstone or pistons. The only way to break the warded block is via the owner right-clicking with a wand with this focus.%n%n[note]Special Note: Warded blocks emit light. They can also cause quite a bit of lag if used at scale.[/note]%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§%n§5Architect§r (level 2): Allows the focus's working area to be modified with the Misc Wand Toggle keybind. Sneaking with the keybind changes which axes are modified. This upgrade increases the maximum area to 7x7x7%n§5Enlarge§r (Requires §5Architect§r)§r: Expands the maximum range by 1 block in each direction per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYQ.name=Défense magique de la base
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYQ.desc=Le Wand Focus: Warding permet de rendre des blocs invulnérables d'un clic droit. La protection peut être retirée d'un nouveau clic droit. Il ne peut pas protéger les blocs transparents comme le Verre ni les blocs incomplets comme les dalles, mais il existe un bloc appelé Warded Glass, disponible avec la recherche Warded Arcana, si vous voulez un bloc transparent protégé. Il ne peut pas non plus protéger les blocs avec des Tile Entities, comme les coffres. Notez que seul le joueur qui a protégé le bloc peut retirer sa protection.%n%nTenir une baguette équipée de ce focalisateur affiche un contour sur les blocs proches que vous avez protégés. Sinon, ils ont l'air normaux. Les blocs protégés sont [note]totalement indestructibles[/note] et produisent des particules semblables au bouclier runique quand un joueur tente de les casser. Les blocs perdent toutes leurs propriétés spéciales une fois protégés : le sable ou le gravier ne tombent plus, l'herbe ne pousse plus, et la glace compacte ne glisse plus. Les blocs protégés ne peuvent subir aucune influence extérieure, comme la redstone ou les pistons. La seule façon de casser un bloc protégé est que son propriétaire fasse un clic droit dessus avec une baguette équipée de ce focalisateur.%n%n[note]Remarque spéciale : les blocs protégés émettent de la lumière. Ils peuvent aussi causer pas mal de lag s'ils sont utilisés à grande échelle.[/note]%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§%n§5Architect§r (niveau 2) : permet de modifier la zone d'action du focalisateur avec la touche Misc Wand Toggle. En vous accroupissant avec cette touche, vous changez les axes modifiés. Cette amélioration porte la zone maximale à 7x7x7%n§5Enlarge§r (nécessite §5Architect§r)§r : étend la portée maximale de 1 bloc dans chaque direction par niveau
 
 # Quest: Keep it Away from Bags of Holding
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYg.name=Keep it Away from Bags of Holding
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYg.desc=The Wand Focus: Portable Hole will create a temporary 3x3x32 hole centered on the targeted block. Some blocks cannot be passed through, such as Bedrock or blocks warded by the Wand Focus: Warding.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Enlarge§r: Extends the hole by 8 blocks per level%n§5Extend§r: The hole will stay open 3 seconds longer for every level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYg.name=Tenez-le loin des sacs sans fond
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYg.desc=Le Wand Focus: Portable Hole crée un trou temporaire de 3x3x32 centré sur le bloc visé. Certains blocs ne peuvent pas être traversés, comme la Bedrock ou les blocs protégés par le Wand Focus: Warding.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Enlarge§r : prolonge le trou de 8 blocs par niveau%n§5Extend§r : le trou reste ouvert 3 secondes de plus par niveau
 
 # Quest: Plague Inc.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFZA.name=Plague Inc.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFZA.desc=The Wand Focus: Pech's Curse is a rare wand focus which cannot be crafted by players. It can only be obtained from a Pech Mage -- either by bartering valuable items or by killing it for its wand to drop. Pech Mages are rare and the drop chance is quite low, so bartering is recommended. [warn]If attacked, the Pech will use this focus against you![/warn]%n%nThis focus fires a small ball of energy with a bright bluish-green trail. This missile is affected by gravity, so the shots need to be "arced" to hit distant targets. When the shot hits a mob, it does one heart of damage and randomly inflicts one of several effects on the target: Poison, Weakness, or Slowness.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases potency of the applied effect. Being able to apply Weakness III to mobs might be useful for Blood Magic...%n§5Extend§r (even levels): Extends the duration of the applied effect%n§5Nightshade§r (level 5): Applies all three effects at once
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFZA.desc=Le Wand Focus: Pech's Curse est un focalisateur rare que les joueurs ne peuvent pas fabriquer. On ne peut l'obtenir que d'un Pech Mage, soit en troquant des objets de valeur, soit en le tuant pour qu'il lâche sa baguette. Les Pech Mages sont rares et la chance de butin est assez faible, le troc est donc recommandé. [warn]S'il est attaqué, le Pech utilisera ce focalisateur contre vous ![/warn]%n%nCe focalisateur tire une petite boule d'énergie avec une traînée bleu-vert vive. Ce projectile est soumis à la gravité : il faut donc tirer « en cloche » pour atteindre les cibles lointaines. Quand le tir touche un monstre, il inflige un cœur de dégâts et applique au hasard l'un de ces effets à la cible : Poison, Faiblesse ou Lenteur.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente la puissance de l'effet appliqué. Pouvoir infliger Faiblesse III aux monstres pourrait être utile pour la Blood Magic...%n§5Extend§r (niveaux pairs) : prolonge la durée de l'effet appliqué%n§5Nightshade§r (niveau 5) : applique les trois effets à la fois
 
 # Quest: It's Mesmerizing...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFZQ.name=It's Mesmerizing...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFZQ.desc=The Wand Focus: Primal will hurl an orb of primal energy with right-click. The orb explodes on impact, and it has a small chance to cause other effects. It sometimes creates taint when it lands, and it very rarely creates a node if it destroys the block it impacts. Its base vis cost constantly fluctuates. [note]Maybe studying it and its projectiles will give you a better understanding of vis.[/note]%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Seeker§r (level 3): The orb homes in on the closest target, but loses some of its special effects like creating taint or nodes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFZQ.name=C'est envoûtant...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFZQ.desc=Le Wand Focus: Primal projette d'un clic droit un orbe d'énergie primale. L'orbe explose à l'impact et a une petite chance de provoquer d'autres effets. Il crée parfois du taint là où il atterrit, et très rarement un nœud s'il détruit le bloc qu'il percute. Son coût de base en vis fluctue sans cesse. [note]L'étudier, lui et ses projectiles, vous permettra peut-être de mieux comprendre la vis.[/note]%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Seeker§r (niveau 3) : l'orbe se dirige vers la cible la plus proche, mais perd certains de ses effets spéciaux, comme la création de taint ou de nœuds
 
 # Quest: Pocket Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaA.name=Pocket Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaA.desc=Wand Focus: Efreet's Flame shoots a beam similar to the Wand Focus: Excavation that smelts blocks like a Furnace.%n%n[note]This focus accepts the following upgrade in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaA.name=Four de poche
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaA.desc=Le Wand Focus: Efreet's Flame tire un rayon semblable à celui du Wand Focus: Excavation, qui fait cuire les blocs comme un four.%n%n[note]Ce focalisateur accepte l'amélioration suivante dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau
 
 # Quest: Pocket Dolly
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaQ.name=Pocket Dolly
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaQ.desc=Wand Focus: Dislocation is a very useful focus that allows its user to take and place nearly any block, even Tile Entities and one that usually can't be moved, like Mob Spawners, planted crops, and more.%n%n[warn]Please use responsibly, and don't move things you shouldn't, like door halves, or some multiblock parts, unless you like the idea of world corruption destroying your world. That said, if you're in SP and make a backup, do whatever you want, just know the risks.[/warn]%n%nIt uses:%n5 Ordo + 5 Perditio + 1 Terra to take any mundane block.%n25 Ordo + 25 Perditio + 5 Terra to take any block with a tile entity (such as a Chest).%n100 Ordo + 100 Perditio + 20 Terra to take a Mob Spawner.%n%n[note]This focus accepts the following upgrade in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaQ.name=Diable de poche
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaQ.desc=Le Wand Focus: Dislocation est un focalisateur très utile qui permet à son utilisateur de prendre et de poser presque n'importe quel bloc, même les Tile Entities et les blocs normalement impossibles à déplacer, comme les Mob Spawners, les cultures plantées, et bien d'autres.%n%n[warn]Utilisez-le de façon responsable, et ne déplacez pas ce qu'il ne faut pas, comme une moitié de porte ou certaines parties de multiblocs, à moins d'aimer l'idée qu'une corruption détruise votre monde. Cela dit, si vous êtes en solo et que vous avez fait une sauvegarde, faites ce que vous voulez, mais connaissez les risques.[/warn]%n%nIl consomme :%n5 Ordo + 5 Perditio + 1 Terra pour prendre un bloc ordinaire.%n25 Ordo + 25 Perditio + 5 Terra pour prendre un bloc avec une Tile Entity (comme un coffre).%n100 Ordo + 100 Perditio + 20 Terra pour prendre un Mob Spawner.%n%n[note]Ce focalisateur accepte l'amélioration suivante dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau
 
 # Quest: Medic!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFag.name=Medic!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFag.desc=The Wand Focus: Mending is a wand focus that will slowly mend the caster's wounds by expending Vis. It heals half a heart at a time. It's an invaluable tool in a Blood Mage's arsenal.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases healing by half a heart per level.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFag.name=Médecin !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFag.desc=Le Wand Focus: Mending est un focalisateur qui soigne lentement les blessures du lanceur en dépensant de la Vis. Il rend un demi-cœur à la fois. C'est un outil inestimable dans l'arsenal d'un mage de sang.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente les soins d'un demi-cœur par niveau.
 
 # Quest: Fly High!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaw.name=Fly High!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaw.desc=The Wand Focus: Uprising propels its caster forward. It works well to gain height to glide for long distances or to scale tall obstacles. Fall damage is only reset when cast, so be careful when using it!%n%n[note]This focus accepts the following upgrade in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaw.name=Envolez-vous !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFaw.desc=Le Wand Focus: Uprising propulse son lanceur vers l'avant. Il est idéal pour prendre de la hauteur afin de planer sur de longues distances ou pour franchir de grands obstacles. Les dégâts de chute ne sont réinitialisés qu'au moment du lancer, alors soyez prudent en l'utilisant !%n%n[note]Ce focalisateur accepte l'amélioration suivante dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau
 
 # Quest: Projectile Protection V
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbA.name=Projectile Protection V
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbA.desc=The Wand Focus: Distortion protects the caster from "ordinary" projectiles such as arrows, snowballs, and potions while right-click is held.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Enlarge§r (even levels): Expands the projectile deflection range by 1 block in each direction per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbA.name=Protection contre les projectiles V
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbA.desc=Le Wand Focus: Distortion protège le lanceur des projectiles « ordinaires », comme les flèches, les boules de neige et les potions, tant que le clic droit est maintenu.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Enlarge§r (niveaux pairs) : étend la portée de déviation des projectiles de 1 bloc dans chaque direction par niveau
 
 # Quest: Ender Backpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbQ.name=Ender Backpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbQ.desc=The Wand Focus: Ender Rift opens your vanilla Personal Ender Chest when used. It can also be attuned to an Ender Chest from Ender Storage with shift-right-click. Shift-right-click a block of obsidian to set it back to your Personal Ender Chest.%n%n[note]This focus accepts the following upgrade in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbQ.name=Sac à dos de l'Ender
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbQ.desc=Le Wand Focus: Ender Rift ouvre votre Coffre de l'Ender personnel vanilla quand il est utilisé. Il peut aussi être accordé à un Ender Chest d'Ender Storage avec Maj + clic droit. Faites Maj + clic droit sur un bloc d'obsidienne pour le ramener sur votre Coffre de l'Ender personnel.%n%n[note]Ce focalisateur accepte l'amélioration suivante dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau
 
 # Quest: It Can't Bend Spoons
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbg.name=It Can't Bend Spoons
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbg.desc=The Wand Focus: Telekinesis is a wand focus that can move nearby dropped items. It either moves them where you are pointing with the wand or toward you while sneaking.%n%n[note]This focus accepts the following upgrade in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbg.name=Il ne sait pas tordre les cuillères
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbg.desc=Le Wand Focus: Telekinesis est un focalisateur qui peut déplacer les objets lâchés à proximité. Il les déplace soit là où vous pointez la baguette, soit vers vous si vous êtes accroupi.%n%n[note]Ce focalisateur accepte l'amélioration suivante dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau
 
 # Quest: Knowledge is Power
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbw.name=Knowledge is Power
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbw.desc=The Wand Focus: Experience Drain will drain the player's experience every tick, using 15 XP to restore 5 vis to the lowest aspect in the wand.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers experience cost per tick by 1 per level%n§5Potency§r: Creates 20%% more vis per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbw.name=Savoir, c'est pouvoir
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFbw.desc=Le Wand Focus: Experience Drain draine l'expérience du joueur à chaque tick, et utilise 15 XP pour restaurer 5 vis de l'aspect le plus bas de la baguette.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en expérience de 1 par tick et par niveau%n§5Potency§r : produit 20%% de vis en plus par niveau
 
 # Quest: Wand Focus Shadow Beam
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcA.name=Wand Focus Shadow Beam
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcA.desc=The Wand Focus: Shadowbeam shoots a beam of dark energy that is reflected by any block and damages everything it passes through. The beam travels about 40 blocks and does about 100 damage.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases damage dealt every level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcA.desc=Le Wand Focus: Shadowbeam tire un rayon d'énergie sombre qui se réfléchit sur tous les blocs et blesse tout ce qu'il traverse. Le rayon parcourt environ 40 blocs et inflige environ 100 points de dégâts.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente les dégâts infligés à chaque niveau
 
 # Quest: Weaponized Blight
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcQ.name=Weaponized Blight
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcQ.desc=The Wand Focus: Tainted Storm will emit a stream of tainted bubbles which damage anything in a short distance and inflict Poison for 5 seconds. The focus may also debuff the caster with Flux Flu III for 50 seconds.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases damage dealt and increases the number of bubbles every level%n§5Tainturgy§r (level 3): The caster will no longer get Flux Flu. This adds 0.6 Ordo to the casting cost%n§5Enlarge§r (level 4): The tainted bubbles fan out across a wider area. This adds 0.6 Aer and Aqua to the casting cost%n§5Corrosive§r (level 5): The tainted bubbles inflict the Wither effect instead of Poison. This adds 0.6 Perditio and Ignis to the casting cost
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcQ.name=Fléau militarisé
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcQ.desc=Le Wand Focus: Tainted Storm émet un flot de bulles corrompues qui blessent tout ce qui se trouve à courte distance et infligent Poison pendant 5 secondes. Le focalisateur peut aussi infliger au lanceur le malus Flux Flu III pendant 50 secondes.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente les dégâts infligés et le nombre de bulles à chaque niveau%n§5Tainturgy§r (niveau 3) : le lanceur n'attrape plus la Flux Flu. Ajoute 0.6 Ordo au coût du sort%n§5Enlarge§r (niveau 4) : les bulles corrompues se dispersent sur une zone plus large. Ajoute 0.6 Aer et Aqua au coût du sort%n§5Corrosive§r (niveau 5) : les bulles corrompues infligent l'effet Wither au lieu de Poison. Ajoute 0.6 Perditio et Ignis au coût du sort
 
 # Quest: Tainted Nuclear Detonation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcg.name=Tainted Nuclear Detonation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcg.desc=The Wand Focus: Tainted Shockwave will release a powerful shockwave around the caster which travels 10 blocks away, damaging all mobs in the radius and launching them into the air. After using this focus, the caster will be unable to use any other foci for 6 seconds.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases damage dealt every level%n§5Enlarge§r: Increases the radius by 2 blocks per level. This also adds 2.5 Perditio, Terra, and Aqua to the casting cost per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcg.name=Détonation nucléaire corrompue
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcg.desc=Le Wand Focus: Tainted Shockwave libère autour du lanceur une puissante onde de choc qui se propage sur 10 blocs, blesse tous les monstres dans le rayon et les projette en l'air. Après avoir utilisé ce focalisateur, le lanceur ne peut plus utiliser d'autres focalisateurs pendant 6 secondes.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente les dégâts infligés à chaque niveau%n§5Enlarge§r : augmente le rayon de 2 blocs par niveau. Ajoute aussi 2.5 Perditio, Terra et Aqua au coût du sort par niveau
 
 # Quest: Heat-Seeking Vis-sile
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcw.name=Heat-Seeking Vis-sile
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcw.desc=The Wand Focus: Vis Shard can be used to cast a homing projectile which deals 35 damage. This projectile can bounce off of solid blocks. If the target is not hit in 10 seconds, the projectile disappears.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases damage dealt every level%n§5Persistent§r (level 5): The shard will seek another target if its current one dies or gets out of range
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcw.name=Vis-sile à tête chercheuse
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFcw.desc=Le Wand Focus: Vis Shard permet de lancer un projectile à tête chercheuse qui inflige 35 points de dégâts. Ce projectile peut rebondir sur les blocs solides. Si la cible n'est pas touchée en 10 secondes, le projectile disparaît.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente les dégâts infligés à chaque niveau%n§5Persistent§r (niveau 5) : l'éclat cherche une autre cible si la sienne meurt ou sort de portée
 
 # Quest: A Taste of Their Own Medicine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdA.name=A Taste of Their Own Medicine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdA.desc=The Wand Focus: Dark Matter allows its wielder to shoot the same projectiles as Eldritch Guardians. There is a chance for the caster to gain sticky warp for each projectile cast.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases damage dealt every level%n§5Corrosive§r (level 3): The orbs now inflict the Wither effect upon their targets%n§5Sanity§r (level 5): The caster will not gain warp from using this focus
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdA.name=La monnaie de leur pièce
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdA.desc=Le Wand Focus: Dark Matter permet à son porteur de tirer les mêmes projectiles que les Eldritch Guardians. Chaque projectile tiré a une chance de donner au lanceur du warp persistant.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente les dégâts infligés à chaque niveau%n§5Corrosive§r (niveau 3) : les orbes infligent désormais l'effet Wither à leurs cibles%n§5Sanity§r (niveau 5) : le lanceur ne reçoit plus de warp en utilisant ce focalisateur
 
 # Quest: So Take Me Back in Time...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdQ.name=So Take Me Back in Time...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdQ.desc=The Wand Focus: Time can be used to move time forward by 12 hours. Using this focus at noon will set the time to midnight, while using it at dusk will make it dawn. This focus will also make the player unable to use any other foci for 30 seconds.%n%n[note]This focus accepts the following upgrade in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdQ.name=Ramène-moi dans le temps...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdQ.desc=Le Wand Focus: Time permet d'avancer le temps de 12 heures. L'utiliser à midi fait passer à minuit, et l'utiliser au crépuscule fait venir l'aube. Ce focalisateur empêche aussi le joueur d'utiliser tout autre focalisateur pendant 30 secondes.%n%n[note]Ce focalisateur accepte l'amélioration suivante dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau
 
 # Quest: Can You Feel the Sunshine?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdg.name=Can You Feel the Sunshine?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdg.desc=The Wand Focus: Meteorology can be used to start or stop rain at will. The perfect thing for Water Infused Solar Panels!%n%n[note]This focus accepts the following upgrade in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdg.name=Sentez-vous le soleil ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdg.desc=Le Wand Focus: Meteorology permet de déclencher ou d'arrêter la pluie à volonté. L'idéal pour les Water Infused Solar Panels !%n%n[note]Ce focalisateur accepte l'amélioration suivante dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau
 
 # Quest: A Battlemage's Best Friend
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdw.name=A Battlemage's Best Friend
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdw.desc=The Wand Focus: Mage's Mace can be equipped by any wand and will boost its attack damage to 30 hearts. Equipping it to a staff will deal double damage.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Increases damage dealt every level%n§5Bloodlust§r (level 5): Slain mobs may drop Crystal Blood like when killed with a Crystal Dagger
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdw.name=Le meilleur ami du mage de guerre
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFdw.desc=Le Wand Focus: Mage's Mace peut être équipé sur n'importe quelle baguette et porte ses dégâts d'attaque à 30 cœurs. Équipé sur un bâton, il inflige le double de dégâts.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : augmente les dégâts infligés à chaque niveau%n§5Bloodlust§r (niveau 5) : les monstres tués peuvent lâcher du Crystal Blood, comme s'ils étaient tués avec une Crystal Dagger
 
 # Quest: Walking is Too Hard...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFeA.name=Walking is Too Hard...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFeA.desc=The Wand Focus: Blink is a very powerful focus that allows its user to teleport anywhere in sight, as long as the destination is less than 50 blocks away. There is no teleport cooldown, so it can be used to travel very quickly in the right conditions.%n%n[note]This focus accepts the following upgrade in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFeA.name=Marcher, c'est trop dur...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFeA.desc=Le Wand Focus: Blink est un focalisateur très puissant qui permet à son utilisateur de se téléporter n'importe où dans son champ de vision, tant que la destination est à moins de 50 blocs. Il n'y a pas de temps de recharge, il permet donc de voyager très vite dans de bonnes conditions.%n%n[note]Ce focalisateur accepte l'amélioration suivante dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau
 
 # Quest: Scrub, Scrub, Scrub...
-betterquesting.quest.bGdFghCeQfuBhAeMWxJJ8A.name=Scrub, Scrub, Scrub...
-betterquesting.quest.bGdFghCeQfuBhAeMWxJJ8A.desc=The Wand Focus: Flux Scrubber is an incredibly useful focus for the messy or insane thaumaturge. It creates a beam that sucks up flux goo and gas.%n%n[note]This focus accepts the following upgrades in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level%n§5Potency§r: Speeds up flux cleanup%n§5Crystallization§r: Drops Crystallized Potentia when cleaning up flux at level 1. Drops Crystallized Essence of a random aspect at level 2. Mutually exclusive with §5Warping§r and §5Calming§r%n§5Warping§r: Gives its user temporary warp when used to clean flux. Mutually exclusive with §5Crystallization§r%n§5Calming§r (level 5, requires §5Warping§r): Negates the effect of §5Warping§r. Removes some temporary or sticky warp when used to clean flux. Mutually exclusive with §5Crystallization§r
+betterquesting.quest.bGdFghCeQfuBhAeMWxJJ8A.name=On frotte, on frotte, on frotte...
+betterquesting.quest.bGdFghCeQfuBhAeMWxJJ8A.desc=Le Wand Focus: Flux Scrubber est un focalisateur incroyablement utile pour le thaumaturge désordonné ou fou. Il crée un rayon qui aspire le flux, sous forme de goo comme de gaz.%n%n[note]Ce focalisateur accepte les améliorations suivantes dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau%n§5Potency§r : accélère le nettoyage du flux%n§5Crystallization§r : au niveau 1, donne du Crystallized Potentia en nettoyant le flux. Au niveau 2, donne du Crystallized Essence d'un aspect aléatoire. Incompatible avec §5Warping§r et §5Calming§r%n§5Warping§r : donne du warp temporaire à son utilisateur quand il nettoie du flux. Incompatible avec §5Crystallization§r%n§5Calming§r (niveau 5, nécessite §5Warping§r) : annule l'effet de §5Warping§r. Retire un peu de warp temporaire ou persistant quand il nettoie du flux. Incompatible avec §5Crystallization§r
 
 # Quest: But Duct Tape Already is Magical!
-betterquesting.quest.l4q7oG79RfCZjnE_Ys57DA.name=But Duct Tape Already is Magical!
-betterquesting.quest.l4q7oG79RfCZjnE_Ys57DA.desc=The Wand Focus: Maintenance will fix all problems of a multiblock machine when used on its Maintenance Hatch. It won't prevent future issues, but it sure beats recharging your Soldering Iron for the 6th time.%n%n[note]This focus accepts the following upgrade in the Focal Manipulator:[/note]%n§5Frugal§r: Lowers vis cost to cast by 10%% per level
+betterquesting.quest.l4q7oG79RfCZjnE_Ys57DA.name=Mais le Duct Tape est déjà magique !
+betterquesting.quest.l4q7oG79RfCZjnE_Ys57DA.desc=Le Wand Focus: Maintenance règle tous les problèmes d'une machine multibloc quand il est utilisé sur sa Maintenance Hatch. Il n'empêchera pas les pannes futures, mais c'est toujours mieux que de recharger votre fer à souder pour la 6e fois.%n%n[note]Ce focalisateur accepte l'amélioration suivante dans le Focal Manipulator :[/note]%n§5Frugal§r : réduit le coût en vis de 10%% par niveau
 
 
 ## Quest Line: Flower Power
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIA.name=Flower Power
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIA.desc=A treatise on magical herbology and Botania
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAIA.desc=Un traité d'herboristerie magique et de Botania
 
 # Quest: Fountain Of Conjuration
 betterquesting.quest.1W0BrWncRuWbeTrPDVV99w.name=Fountain Of Conjuration
-betterquesting.quest.1W0BrWncRuWbeTrPDVV99w.desc=The Fountain of Conjuration, as I'm sincerely hoping you can guess at this point, functions exactly like the Mana Fountain and the Fountain of Alchemy, except it handles §nexclusively§r recipes that are typically done with a Conjuration Catalyst underneath a Mana Pool.%n%nIf you need any further details about it's functionality, check out the Mana Fountain quest or the Lexica Botania.%n%n[note]Reminder that this can also wall-share with any type of Mana Fountain you may currently have.[/note]
+betterquesting.quest.1W0BrWncRuWbeTrPDVV99w.desc=La Fountain of Conjuration, comme vous l'avez sûrement deviné à ce stade (du moins je l'espère sincèrement), fonctionne exactement comme la Mana Fountain et la Fountain of Alchemy, sauf qu'elle traite §nexclusivement§r les recettes qui se font normalement avec un Conjuration Catalyst sous un Mana Pool.%n%nPour plus de détails sur son fonctionnement, consultez la quête Mana Fountain ou le Lexica Botania.%n%n[note]Pour rappel, elle peut aussi partager ses murs avec n'importe quel type de Mana Fountain que vous possédez déjà.[/note]
 
 # Quest: Magical Techno-Glass
-betterquesting.quest.7QI56xG-TnSlR4FA3EGzTw.name=Magical Techno-Glass
-betterquesting.quest.7QI56xG-TnSlR4FA3EGzTw.desc=After obtaining your first mana, you can craft mana glass. It can be used as a cheaper substitute for EV glass in multiblock machines, recipes, and general construction.%n%n[note]Alfglass unlocks later, at the EV+ tier and can, in turn, be used as IV-tier glass.[/note]
+betterquesting.quest.7QI56xG-TnSlR4FA3EGzTw.name=Techno-verre magique
+betterquesting.quest.7QI56xG-TnSlR4FA3EGzTw.desc=Après avoir obtenu votre premier mana, vous pouvez fabriquer du Managlass. Il peut servir de substitut moins cher au verre EV dans les machines multiblocs, les recettes et la construction en général.%n%n[note]L'Alfglass se débloque plus tard, au tier EV+, et peut à son tour servir de verre de tier IV.[/note]
 
 # Quest: The Roots of Magic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlA.name=The Roots of Magic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlA.desc=If you're familiar with Botania, you will notice that the overworld is noticeably void of magical flowers and mushrooms. Such pretty expressions of magic sadly require you to have leveled up on your magical skills. For now you will have to make do with what the world has to offer.%n%nLook in deep caves in the Twilight Forest at low Y-levels for glimmering mushrooms. These are your starting ingredient and can be used instead of flower petals. Beware, unlike flowers you can't grow more just yet, so be careful what you use them for.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlA.name=Les racines de la magie
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlA.desc=Si vous connaissez Botania, vous remarquerez que l'Overworld est nettement dépourvu de fleurs et de champignons magiques. Ces jolies manifestations de la magie exigent hélas que vous ayez développé vos compétences magiques. Pour l'instant, il faudra vous contenter de ce que le monde a à offrir.%n%nCherchez dans les grottes profondes de la Twilight Forest, à basse altitude (Y), des champignons scintillants. Ce sont vos ingrédients de départ, et ils peuvent remplacer les pétales de fleurs. Attention : contrairement aux fleurs, vous ne pouvez pas encore en faire pousser d'autres, alors choisissez bien l'usage que vous en faites.
 
 # Quest: Flower Grafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlQ.name=Flower Grafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlQ.desc=The first item you want to make is the Petal Apothecary. A mushroom is needed to anoint it and give it its restorative properties.%n%nTo operate it, fill it with a bucket of water to keep the plants hydrated. After that you can add the ingredients by dropping them on top.%n%nEach craft requires some magical ingredients, but also one or more regular flowers from the world that can function as a stable base. Once you've added all the ingredients, finish the craft by adding a seed. Any vanilla seed will do.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlQ.name=Greffe florale
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlQ.desc=Le premier objet à fabriquer est le Petal Apothecary. Il faut un champignon pour l'oindre et lui donner ses propriétés régénératrices.%n%nPour l'utiliser, remplissez-le d'un seau d'eau afin de garder les plantes hydratées. Vous pouvez ensuite ajouter les ingrédients en les lâchant dessus.%n%nChaque fabrication demande quelques ingrédients magiques, mais aussi une ou plusieurs fleurs ordinaires du monde, qui servent de base stable. Une fois tous les ingrédients ajoutés, terminez la fabrication en ajoutant une graine. N'importe quelle graine vanilla fera l'affaire.
 
 # Quest: Pure Daisy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlg.name=Pure Daisy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlg.desc=The first magical flower you are able to make is the Pure Daisy. This flower can slowly enchant nearby stone and logs into their special Botania variants, which are used commonly as ingredients.%n%nAfter placing the flower down, you can place down stone and/or wood in the 8 tiles horizontally surrounding it, and after some time they will be converted.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlg.desc=La première fleur magique que vous pouvez fabriquer est la Pure Daisy. Cette fleur enchante lentement la pierre et les bûches à proximité pour les transformer en leurs variantes spéciales de Botania, très utilisées comme ingrédients.%n%nAprès avoir posé la fleur, vous pouvez placer de la pierre et/ou du bois sur les 8 cases qui l'entourent horizontalement ; au bout d'un moment, ils seront convertis.
 
 # Quest: Your First Mana Pool
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlw.name=Your First Mana Pool
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlw.desc=Now that you have livingrock, create your first mana pool. Chop some pieces into slabs with a saw to make the bottom, then stick them together with plates for the sides.%n%nYou lack the knowledge to make it effective, so sadly it won't be able to craft a lot as a result.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlw.name=Votre premier bassin de mana
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMlw.desc=Maintenant que vous avez de la Livingrock, fabriquez votre premier bassin de mana. Découpez-en quelques morceaux en dalles avec une scie pour faire le fond, puis assemblez-les avec des plaques pour les côtés.%n%nVous n'avez pas les connaissances nécessaires pour le rendre efficace, donc malheureusement il ne pourra pas fabriquer grand-chose.
 
 # Quest: Upgrading Your Mana Pool
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmA.name=Upgrading Your Mana Pool
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmA.desc=Now that you have discovered the power of the magically enchanted crucible, you can use that technology to make a better mana pool.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmA.name=Améliorer votre bassin de mana
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmA.desc=Maintenant que vous avez découvert la puissance du creuset enchanté par magie, vous pouvez utiliser cette technologie pour fabriquer un meilleur bassin de mana.
 
 # Quest: Pollination Buddies
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmQ.name=Pollination Buddies
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmQ.desc=Some flowers are everywhere, and some are limited to specific biomes. If you don't want to walk long distances from home, you can call in some help.%n%nBees with the flower trait will slowly generate new flowers in its working area, including plenty that have been brought in from distant pastures.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmQ.name=Copains pollinisateurs
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmQ.desc=Certaines fleurs sont partout, d'autres sont limitées à des biomes précis. Si vous ne voulez pas parcourir de longues distances loin de chez vous, vous pouvez appeler du renfort.%n%nLes abeilles ayant le trait fleur génèrent lentement de nouvelles fleurs dans leur zone de travail, dont beaucoup venues de contrées lointaines.
 
 # Quest: Mana Diamonds
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmg.name=Mana Diamonds
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmg.desc=Mana diamonds are magically enhanced diamonds, and they require more or less energy depending on the quality of the gem you're trying to enchant.%n%nA completely full diluted pool is barely able to make a mana diamond out of an exquisite diamond. Once you upgrade the pool you can use regular diamonds - be it at a higher mana cost.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmg.desc=Les Mana Diamonds sont des diamants renforcés par la magie, et ils demandent plus ou moins d'énergie selon la qualité de la gemme que vous essayez d'enchanter.%n%nUn Diluted Mana Pool complètement plein peut à peine transformer un diamant exquis en Mana Diamond. Une fois le bassin amélioré, vous pourrez utiliser des diamants ordinaires, quitte à payer plus de mana.
 
 # Quest: A Glimpse Into A Watery Future
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmw.name=A Glimpse Into A Watery Future
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmw.desc=The next step is to make some catalysts. The Alchemical catalyst can use mana to change one item or block into a related item or block.%n%nPut it under a filled mana pool, then try it out by making some prismarine.%n%nThe recipe will need to be researched in the Thaumonomicon.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmw.name=Un aperçu d'un avenir aquatique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMmw.desc=L'étape suivante consiste à fabriquer des catalyseurs. L'Alchemy Catalyst peut utiliser du mana pour transformer un objet ou un bloc en un objet ou un bloc apparenté.%n%nPlacez-le sous un bassin de mana rempli, puis testez-le en fabriquant de la prismarine.%n%nLa recette doit être recherchée dans le Thaumonomicon.
 
 # Quest: Botanic Infusion
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnA.name=Botanic Infusion
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnA.desc=The infusion altar will allow you to make runes, which in turn gives you access to progressively more advanced flowers.%n%nTo operate the altar, drop the ingredients on top, whack it with a wand of the forest, and when it's done drop a livingrock block on top to complete the craft. You will additionally need a mana source, such as a mana spreader pointing at it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnA.name=Infusion botanique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnA.desc=L'autel d'infusion vous permet de fabriquer des runes, qui donnent à leur tour accès à des fleurs de plus en plus avancées.%n%nPour utiliser l'autel, lâchez les ingrédients dessus, frappez-le avec une Wand of the Forest et, une fois terminé, lâchez un bloc de Livingrock dessus pour achever la fabrication. Il vous faudra aussi une source de mana, comme un Mana Spreader pointé vers lui.
 
 # Quest: Terrasteel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnQ.name=Terrasteel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnQ.desc=To get some advanced tools and equipment you will need some terrasteel. This is done using a dedicated machine.%n%nYou'll need to layout the blocks underneath the plate as described in the Lexica Botania. Then place a spark on top of the plate nearby a mana pool with a large stockpile of mana. Lastly you'll place a mana diamond, mana pearl, and mana steel onto the plate to begin the transformation.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnQ.desc=Pour obtenir des outils et équipements avancés, il vous faudra du Terrasteel. Il se fabrique avec une machine dédiée.%n%nVous devrez disposer les blocs sous la plaque comme décrit dans le Lexica Botania. Placez ensuite une Spark sur la plaque, près d'un bassin de mana contenant une grosse réserve de mana. Enfin, posez un Mana Diamond, une Mana Pearl et du Manasteel sur la plaque pour lancer la transformation.
 
 # Quest: Alfheim
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMng.name=Alfheim
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMng.desc=Legends speak of a portal to a different realm filled with green energy.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMng.desc=Les légendes parlent d'un portail vers un autre royaume, rempli d'énergie verte.
 
 # Quest: Round One... FIGHT!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnw.name=Round One... FIGHT!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnw.desc=Put the 4 pylons down and shift-right-click the terrasteel ingot on the beacon to summon the Gaia Guardian.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnw.name=Premier round... FIGHT !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMnw.desc=Posez les 4 pylônes et faites Maj + clic droit avec le lingot de Terrasteel sur la balise pour invoquer le Guardian of Gaia.
 
 # Quest: A Deal With Alfar Industries
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMoA.name=A Deal With Alfar Industries
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMoA.desc=So the rumors about the elves are true. Well, §owere§r true. Some are still true. And what isn't true used to be true.%n%nTurns out they have since been talking to a mysterious individual they call the §oDream Master§r. Apparently that sparked an industrial revolution among the Alfar. Sadly, that means that they now insist on receiving the latest fashion in machinery to fuel their ever-expanding factories, in exchange for the elven materials that are now rapidly going out of fashion.%n%nSomeone needs to have a word with this guy...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMoA.name=Un marché avec Alfar Industries
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMoA.desc=Les rumeurs sur les elfes sont donc vraies. Enfin, §oétaient§r vraies. Certaines le sont encore. Et ce qui n'est pas vrai l'était autrefois.%n%nIl s'avère qu'ils discutent depuis un moment avec un mystérieux individu qu'ils appellent le §oDream Master§r. Apparemment, cela a déclenché une révolution industrielle chez les Alfar. Malheureusement, cela signifie qu'ils exigent désormais le dernier cri en matière de machines pour alimenter leurs usines en perpétuelle expansion, en échange de matériaux elfiques qui passent rapidement de mode.%n%nQuelqu'un devrait avoir une petite discussion avec ce type...
 
 # Quest: Round Two... FIGHT!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqQ.name=Round Two... FIGHT!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqQ.desc=Now craft a Gaia Spirit ingot with your new Gaia Spirit from killing the Gaia guardian.%n%nPut the 4 pylons down and shift-right-click the Gaia Spirit ingot on the beacon to summon a harder version of Gaia Guardian.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqQ.name=Deuxième round... FIGHT !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMqQ.desc=Fabriquez maintenant un Gaia Spirit Ingot avec le Gaia Spirit obtenu en tuant le Guardian of Gaia.%n%nPosez les 4 pylônes et faites Maj + clic droit avec le Gaia Spirit Ingot sur la balise pour invoquer une version plus difficile du Guardian of Gaia.
 
 # Quest: Runes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrg.name=Runes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrg.desc=Craft some runes, because why not?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMrg.desc=Fabriquez quelques runes, parce que pourquoi pas ?
 
 # Quest: What Are All These Flowers Even For?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtA.name=What Are All These Flowers Even For?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtA.desc=If you've never used Botania before, you may be wondering about the purpose of all this effort. This isn't a simple question to answer, but one thing you can do that's quite useful right now is making yourself some manasteel.%n%nAmong its many uses, manasteel has one of the best, if not simply §othe§o §rbest, durabilities of materials available at LV, so it's perfect for all of your crafting tools.%n%nIf you have a particular dislike of Tinker's Construct, manasteel is a great material to make a Gregtech pickaxe out of too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtA.name=Mais à quoi servent toutes ces fleurs ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtA.desc=Si vous n'avez jamais utilisé Botania, vous vous demandez peut-être à quoi bon tous ces efforts. Ce n'est pas une question simple, mais une chose très utile que vous pouvez faire dès maintenant, c'est vous fabriquer du Manasteel.%n%nParmi ses nombreux usages, le Manasteel a l'une des meilleures durabilités, si ce n'est §ola§o §rmeilleure, parmi les matériaux disponibles en LV : il est donc parfait pour tous vos outils de fabrication.%n%nSi vous détestez particulièrement Tinker's Construct, le Manasteel est aussi un excellent matériau pour fabriquer une pioche GregTech.
 
 # Quest: Moron's Manual For Mana Manufacture And Manipulation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtQ.name=Moron's Manual For Mana Manufacture And Manipulation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtQ.desc=To use the power of magical flowers, you must understand how to generate and manipulate mana. This ethereal blue-ish substance is produced by generating flowers, when their requirements are met. Mana is not easily quantified, so you will have to do a lot of estimating if you want to use it efficiently.%n%nOnce you have chosen which flower you want to use to generate mana, you must plant it near a mana spreader. When the flower's conditions are fulfilled, it will begin to produce mana, and store it in the internal buffer of the nearest mana spreader. The mana spreader itself will automatically emit any mana it contains, provided it is aimed at a valid destination (such as a mana pool). You'll need a lot of these devices, so craft a pair for now.%n%nMana spreaders will aim towards you when you place them down. To change their direction, use a wand of the forest: while holding the wand, shift-right-click on the mana spreader, and then shift-right-click on the block you want it to aim at. This method of binding also works for other things, such as binding a flower to a specific mana spreader.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtQ.name=Manuel du malhabile pour la manufacture et la manipulation du mana
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtQ.desc=Pour utiliser le pouvoir des fleurs magiques, vous devez comprendre comment générer et manipuler le mana. Cette substance éthérée bleutée est produite par les fleurs génératrices lorsque leurs conditions sont remplies. Le mana ne se quantifie pas facilement : vous devrez donc beaucoup estimer si vous voulez l'utiliser efficacement.%n%nUne fois que vous avez choisi la fleur qui générera votre mana, plantez-la près d'un Mana Spreader. Quand les conditions de la fleur sont remplies, elle commence à produire du mana et le stocke dans la réserve interne du Mana Spreader le plus proche. Le Mana Spreader émet automatiquement tout le mana qu'il contient, à condition d'être pointé vers une destination valide (comme un bassin de mana). Il vous faudra beaucoup de ces dispositifs, alors fabriquez-en deux pour l'instant.%n%nLes Mana Spreaders s'orientent vers vous quand vous les posez. Pour changer leur direction, utilisez une Wand of the Forest : en tenant la baguette, faites Maj + clic droit sur le Mana Spreader, puis Maj + clic droit sur le bloc que vous voulez viser. Cette méthode de liaison fonctionne aussi pour d'autres choses, comme lier une fleur à un Mana Spreader précis.
 
 # Quest: Solar Power: Floral Edition
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtg.name=Solar Power: Floral Edition
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtg.desc=The daybloom is an extremely simple generating flower. All you have to do is place it down, and it'll produce mana for free during the day. The downside of this arrangement is that dayblooms die after only an hour.%n%nYou can find Goldenrod flowers in Prairie biomes.%n%nMake one, and I'll give you another.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtg.name=Énergie solaire : édition florale
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtg.desc=La Daybloom est une fleur génératrice extrêmement simple. Il suffit de la poser, et elle produit du mana gratuitement pendant la journée. Le revers de la médaille, c'est que les Dayblooms meurent au bout d'une heure seulement.%n%nVous trouverez des fleurs Goldenrod dans les biomes Prairie.%n%nFabriquez-en une, et je vous en donnerai une autre.
 
 # Quest: Hydrobotanic Energy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtw.name=Hydrobotanic Energy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtw.desc=Mana is blue. Water is also blue. There's a correlation there, and the hydroangea turns that correlation into causation. Place a water source block nearby, and the hydroangea will consume it to produce mana - until it dies after an hour.%n%nThis one can be a bit tricky to automate given the lack of naturally-regenerating source blocks.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtw.name=Énergie hydrobotanique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMtw.desc=Le mana est bleu. L'eau aussi est bleue. Il y a là une corrélation, et l'Hydroangeas transforme cette corrélation en causalité. Placez une source d'eau à proximité, et l'Hydroangeas la consommera pour produire du mana, jusqu'à ce qu'elle meure au bout d'une heure.%n%nElle peut être un peu délicate à automatiser, vu l'absence de sources d'eau qui se régénèrent naturellement.
 
 # Quest: Dark Energy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuA.name=Dark Energy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuA.desc=Perhaps not the kind of "dark energy" you're familiar with, the nightshade produces mana at night. Like other passive generating flowers, it dies after an hour.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuA.name=Énergie sombre
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuA.desc=Ce n'est peut-être pas le genre d'« énergie sombre » que vous connaissez : la Nightshade produit du mana la nuit. Comme les autres fleurs génératrices passives, elle meurt au bout d'une heure.
 
 # Quest: Is This A Combustion Generator?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuQ.name=Is This A Combustion Generator?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuQ.desc=The endoflame burns combustible materials in order to produce mana. It can efficiently consume fuels with a burn time of up to 64000 per item (equivalent to four blocks of coal); any burn time beyond this will be wasted. Endoflames don't die like passive flowers do, and are simple to use, so it's a good idea to make several of them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuQ.name=Serait-ce un Combustion Generator ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuQ.desc=L'Endoflame brûle des matériaux combustibles pour produire du mana. Elle consomme efficacement les combustibles dont la durée de combustion va jusqu'à 64000 par objet (l'équivalent de quatre blocs de charbon) ; toute durée de combustion au-delà est gaspillée. Les Endoflames ne meurent pas comme les fleurs passives et sont simples à utiliser : c'est donc une bonne idée d'en fabriquer plusieurs.
 
 # Quest: A Botanist's Best Friend
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMug.name=A Botanist's Best Friend
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMug.desc=Functional flowers are a large part of Botania. Most of them have nuances to how they operate, and these are generally best explained in the Lexica Botania: a codex of all Botania knowledge. This questline will explain the basics, but be sure to keep a copy of the Lexica Botania on hand so you can easily reference the details.%n%nBesides being a repository of useful information, the Lexica Botania has another function: if, while holding it, you look at any Botania block in the world, you can shift-right-click on that block to open up the relevant page.%n%nSomething else you'll want for functional flowers is a handful of redstone roots. Flowers which have a redstone root in their recipe have the ability to toggle whether they are active by applying a redstone signal. Make a few before you move on.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMug.name=Le meilleur ami du botaniste
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMug.desc=Les fleurs fonctionnelles sont une grande partie de Botania. La plupart ont des subtilités de fonctionnement, qui sont généralement mieux expliquées dans le Lexica Botania : un recueil de tout le savoir de Botania. Ce chapitre explique les bases, mais gardez un exemplaire du Lexica Botania sous la main pour pouvoir consulter facilement les détails.%n%nEn plus d'être une mine d'informations utiles, le Lexica Botania a une autre fonction : si vous le tenez en main et regardez n'importe quel bloc de Botania dans le monde, vous pouvez faire Maj + clic droit sur ce bloc pour ouvrir la page correspondante.%n%nAutre chose dont vous aurez besoin pour les fleurs fonctionnelles : une poignée de Redstone Roots. Les fleurs qui ont une Redstone Root dans leur recette peuvent être activées ou désactivées en leur appliquant un signal de redstone. Fabriquez-en quelques-unes avant de continuer.
 
 # Quest: Anti-Magnetism
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuw.name=Anti-Magnetism
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuw.desc=If you've made a ring of magnetization, you may be getting tired of having to take it off around various Botania systems that require items to be on the ground in order to interact with flowers. The solegnolia is your solution to that. Simply place one down anywhere you don't want items to be automatically put in your inventory, and the ring of magnetization will be disabled while you're in the vicinity of the solegnolia. It doesn't even require mana!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuw.name=Antimagnétisme
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMuw.desc=Si vous avez fabriqué un Ring of Magnetization, vous en avez peut-être assez de devoir l'enlever près des divers systèmes de Botania qui exigent que les objets soient au sol pour interagir avec les fleurs. La Solegnolia est votre solution. Posez-en simplement une partout où vous ne voulez pas que les objets aillent automatiquement dans votre inventaire, et le Ring of Magnetization sera désactivé tant que vous serez à proximité de la Solegnolia. Elle n'a même pas besoin de mana !
 
 # Quest: Violence Is Blue
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvA.name=Violence Is Blue
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvA.desc=The dreadthorne is similar to the bellethorne, but it only kills adult animals. This is helpful for farming livestock, though it's only one aspect of a successful farm.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvA.name=La violence est bleue
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvA.desc=La Dreadthorne ressemble à la Bellethorne, mais elle ne tue que les animaux adultes. C'est utile pour l'élevage, même si ce n'est qu'un aspect d'une ferme réussie.
 
 # Quest: Roses Are Blood-Red
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvQ.name=Roses Are Blood-Red
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvQ.desc=The bellethorne is a delightful little flower with an [warn]insatiable thirst for blood[/warn], though fortunately your blood doesn't count. When provided with a supply of mana, it will inflict damage on any living entities near it, with the exception of players. It's a good extra layer of defense to place at the entrances to your early-game bamboo fortress.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvQ.name=Les roses sont rouge sang
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvQ.desc=La Bellethorne est une charmante petite fleur à la [warn]soif de sang insatiable[/warn], mais heureusement votre sang ne compte pas. Quand elle est alimentée en mana, elle inflige des dégâts à toutes les entités vivantes à proximité, à l'exception des joueurs. C'est une bonne couche de défense supplémentaire à placer aux entrées de votre forteresse de bambou du début de partie.
 
 # Quest: Magic Blue Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvg.name=Magic Blue Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvg.desc=You'll need mana powder to proceed. Make four to start out with.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvg.name=Poudre bleue magique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvg.desc=Il vous faudra de la Mana Powder pour progresser. Fabriquez-en quatre pour commencer.
 
 # Quest: Better Generating Flowers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvw.name=Better Generating Flowers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvw.desc=If you want anything better than an endoflame, you'll need a runic altar. Fortunately, most runes are easily crafted as soon as you can make the runic altar. Sinful runes, however, require titanium to make. For now, just make one of each of the elemental runes; that'll be enough to get you started.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvw.name=De meilleures fleurs génératrices
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMvw.desc=Si vous voulez mieux qu'une Endoflame, il vous faudra un Runic Altar. Heureusement, la plupart des runes se fabriquent facilement dès que vous pouvez fabriquer le Runic Altar. Les runes des péchés, en revanche, demandent du Titane. Pour l'instant, fabriquez simplement une rune de chaque élément ; cela suffira pour démarrer.
 
 # Quest: Shut Down Your Canning Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwA.name=Shut Down Your Canning Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwA.desc=Some flowers eat bees. Some eat leaves. Some eat slimes. This one eats everything (everything you can eat, anyway). The gourmaryllis is happiest when provided with a good variety of delicious meals, so I hope the HV-tier diet of canned sludge hasn't made you forget how to cook.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwA.name=Éteignez votre Canning Machine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwA.desc=Certaines fleurs mangent des abeilles. D'autres des feuilles. D'autres encore des slimes. Celle-ci mange tout (en tout cas tout ce que vous pouvez manger). La Gourmaryllis est plus heureuse quand on lui fournit une bonne variété de plats délicieux, alors j'espère que le régime de bouillie en conserve du tier HV ne vous a pas fait oublier comment cuisiner.
 
 # Quest: Experienced Botanist
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwQ.name=Experienced Botanist
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwQ.desc=The Rosa Arcana transmutes experience into mana. A player standing near it will have their experience drained for this purpose. This process is unfortunately not very practical to automate, as the experience can only be extracted directly from a player or from orbs on the ground. It might be wise to place it somewhere you spend a lot of time.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwQ.name=Botaniste expérimenté
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwQ.desc=La Rosa Arcana transmute l'expérience en mana. Un joueur qui se tient près d'elle voit son expérience drainée à cet effet. Ce processus n'est malheureusement pas très pratique à automatiser, car l'expérience ne peut être extraite que directement d'un joueur ou d'orbes au sol. Il serait sage de la placer là où vous passez beaucoup de temps.
 
 # Quest: Mmmmmm, Slimy!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwg.name=Mmmmmm, Slimy!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwg.desc=Have you ever seen a slime and thought "I'd love to eat that"? The narslimmus has.%n%nIt needs to be planted somewhere slimes can naturally appear, but if you can find a good place for a narslimmus it'll consume those slimes and give you a good amount of mana in return.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwg.name=Mmmmmm, gluant !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMwg.desc=Avez-vous déjà vu un slime en vous disant « J'adorerais manger ça » ? La Narslimmus, oui.%n%nElle doit être plantée là où des slimes peuvent apparaître naturellement, mais si vous trouvez un bon emplacement pour une Narslimmus, elle consommera ces slimes et vous donnera une bonne quantité de mana en retour.
 
 # Quest: Flower!!! Unlimited Flower!!!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMww.name=Flower!!! Unlimited Flower!!!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMww.desc=The jaded amaranthus causes mystical flowers to grow all around it. Their vibrant petals can be used for magic, so you no longer have to go foraging for mushrooms.%n%nThere §ois§r another way of getting these, but you'll have to figure that one out for yourself.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMww.name=Des fleurs !!! Des fleurs à l'infini !!!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMww.desc=La Jaded Amaranthus fait pousser des fleurs mystiques tout autour d'elle. Leurs pétales éclatants peuvent servir à la magie : vous n'avez donc plus besoin d'aller cueillir des champignons.%n%nIl §oexiste§r un autre moyen de les obtenir, mais ce sera à vous de le découvrir.
 
 # Quest: Obligatory Lava Power
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxA.name=Obligatory Lava Power
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxA.desc=The thermalily consumes lava, but it's not quite as simple as just constantly replenishing a lava pool. There's a cooldown that you'll have to account for. Even so, it's a fairly easy flower to automate if you have a good lava source.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxA.name=L'incontournable énergie de la lave
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxA.desc=La Thermalily consomme de la lave, mais ce n'est pas aussi simple que de remplir constamment un bassin de lave. Il y a un temps de recharge dont vous devrez tenir compte. Malgré tout, c'est une fleur assez facile à automatiser si vous avez une bonne source de lave.
 
 # Quest: Chickenization
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxQ.name=Chickenization
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxQ.desc=The soarleander generates mana by consuming anything chicken-related, including entire chickens.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxQ.name=Poulétisation
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxQ.desc=La Soarleander génère du mana en consommant tout ce qui a trait au poulet, y compris des poulets entiers.
 
 # Quest: According To All Known Laws Of Mana Generation...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxg.name=According To All Known Laws Of Mana Generation...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxg.desc=...there is no way a bee should be able to produce mana. The beegonia doesn't know this, and will gladly eat up all of your spare drones to help with filling your mana pools.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxg.name=Selon toutes les lois connues de la génération de mana...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxg.desc=...une abeille ne devrait pas pouvoir produire de mana. La Beegonia l'ignore, et mangera volontiers tous vos faux-bourdons en trop pour vous aider à remplir vos bassins de mana.
 
 # Quest: Mana Fountain
 betterquesting.quest.EP-xPjNWRnKCWRJjGzySvQ.name=Mana Fountain
-betterquesting.quest.EP-xPjNWRnKCWRJjGzySvQ.desc=The Mana Fountain allows for quick and seamless automation of Mana Pool recipes.%n%nYou can assemble the multiblock as specified in the Lexica Botania / NEI. After it's assembled, right clicking it using the Wand of the Forest will show you whether it's complete and the amount of internally stored mana.%n%nYou can send the controller mana directly by either using a spreader or a spark much like a Mana Pool. Technically you don't have to use the Mana Pool in the center of the multiblock for it to function, but it is placed conveniently so that you can (plus, it doesn't hurt to have an extra buffer).%n%nItems are allowed to input from any side of the controller, but can only output from the bottom. For early automation, it's recommended to just use hoppers. Once you unlock AE2 however you can simply place an interface underneath the controller with the appropriate patterns and it should push and pull items automatically.%n%n[warn]You cannot craft Alchemy or Conjuration recipes using this multiblock, those are separate multiblocks that you will unlock with more advanced robot arm technology.[/warn]%n%n[note]This structure can absolutely wall-share. It has the perfect design to be able to share 4 different Mana Fountains between the center pool.[/note]
+betterquesting.quest.EP-xPjNWRnKCWRJjGzySvQ.desc=La Mana Fountain permet d'automatiser rapidement et sans accroc les recettes du Mana Pool.%n%nVous pouvez assembler le multibloc comme indiqué dans le Lexica Botania / NEI. Une fois assemblé, un clic droit dessus avec la Wand of the Forest vous indiquera s'il est complet et la quantité de mana stockée en interne.%n%nVous pouvez envoyer du mana directement au contrôleur avec un Mana Spreader ou une Spark, comme pour un Mana Pool. Techniquement, vous n'êtes pas obligé d'utiliser le Mana Pool au centre du multibloc pour qu'il fonctionne, mais il est placé de façon pratique pour que vous puissiez le faire (et une réserve supplémentaire ne fait pas de mal).%n%nLes objets peuvent entrer par n'importe quelle face du contrôleur, mais ne peuvent sortir que par le dessous. Au début, il est recommandé d'utiliser simplement des entonnoirs. Une fois AE2 débloqué, vous pourrez simplement placer une interface sous le contrôleur avec les patterns appropriés, et elle devrait pousser et récupérer les objets automatiquement.%n%n[warn]Vous ne pouvez pas fabriquer les recettes d'Alchemy ou de Conjuration avec ce multibloc : ce sont des multiblocs distincts, que vous débloquerez avec une technologie de bras robotique plus avancée.[/warn]%n%n[note]Cette structure peut tout à fait partager ses murs. Sa conception est parfaite pour partager le bassin central entre 4 Mana Fountains différentes.[/note]
 
 # Quest: Asgardandelion
 betterquesting.quest.M7CE2a0uSOSZZsyNloB0zg.name=Asgardandelion
-betterquesting.quest.M7CE2a0uSOSZZsyNloB0zg.desc=A passive mana generating flower that can produce a never-ending torrent of mana.
+betterquesting.quest.M7CE2a0uSOSZZsyNloB0zg.desc=Une fleur génératrice de mana passive qui peut produire un torrent de mana inépuisable.
 
 # Quest: Fountain Of Alchemy
 betterquesting.quest.MJgg4KT4Q1Gi-2hgQ9Sz6w.name=Fountain Of Alchemy
-betterquesting.quest.MJgg4KT4Q1Gi-2hgQ9Sz6w.desc=The Fountain of Alchemy as you may guess, is functionally just like the Mana Fountain, except it can handle the recipes that you would typically need an Alchemy Rune underneath a Mana Pool for.%n%nIf you need any further details about it's functionality, check out the Mana Fountain quest or the Lexica Botania.%n%n[warn]This cannot do regular Mana Pool recipes, only Alchemy recipes.[/warn]%n%n[note]If, for whatever reason, you needed an abundance of prismarine in the future... perhaps a quad Fountain of Alchemy would be an excellent aid in obtaining that.[/note]
+betterquesting.quest.MJgg4KT4Q1Gi-2hgQ9Sz6w.desc=La Fountain of Alchemy, comme vous pouvez le deviner, fonctionne exactement comme la Mana Fountain, sauf qu'elle traite les recettes pour lesquelles il faudrait normalement une Alchemy Rune sous un Mana Pool.%n%nPour plus de détails sur son fonctionnement, consultez la quête Mana Fountain ou le Lexica Botania.%n%n[warn]Elle ne peut pas faire les recettes normales du Mana Pool, seulement les recettes d'Alchemy.[/warn]%n%n[note]Si, pour une raison quelconque, vous aviez besoin d'une grande quantité de prismarine à l'avenir... une Fountain of Alchemy quadruple pourrait vous être d'une aide précieuse.[/note]
 
 # Quest: Synthetic Elven Gateway
 betterquesting.quest.V76lvP8lSsewcKfwxHirPw.name=Synthetic Elven Gateway
-betterquesting.quest.V76lvP8lSsewcKfwxHirPw.desc=The Synthetic Elven Gateway is an advanced and easily automatable version of the normal Elven Gateway. As a result it is much quicker, less TPS intensive, and AE2 compatible.%n%nMuch like the Mana Fountain, the controller can be given mana via a mana spreader or spark & item input can happen from any face, while item output is restricted to the bottom.%n%n[note]While running, this uses more mana passively than a normal Elven Gateway does, so be sure you have adequate mana production![/note]
+betterquesting.quest.V76lvP8lSsewcKfwxHirPw.desc=La Synthetic Elven Gateway est une version avancée et facile à automatiser de l'Elven Gateway normale. Elle est donc beaucoup plus rapide, moins gourmande en TPS et compatible avec AE2.%n%nComme pour la Mana Fountain, le contrôleur peut recevoir du mana via un Mana Spreader ou une Spark, et les objets peuvent entrer par n'importe quelle face, tandis que la sortie est limitée au dessous.%n%n[note]En fonctionnement, elle consomme passivement plus de mana qu'une Elven Gateway normale, alors assurez-vous d'avoir une production de mana suffisante ![/note]
 
 # Quest: Laputa I
 betterquesting.quest.YO0JcMSOQVa3-WoWP1l78Q.name=Laputa I
-betterquesting.quest.YO0JcMSOQVa3-WoWP1l78Q.desc=The item when used will raise a sphere of land into the air, centered on the selected block. The radius of the sphere and the height elevated are determined by the Shard Power. The process is not instant, and instead will move each block at a time until every block within a radius is moved. Blocks that rely on walls or floors, such as torches and crops, will drop in the process, as the required support is not moved alongside.%n%nYou can also use this to summon a meteor that contains Gaia blocks if you prefer to automate the production of Gaia spirit rather than fighting the boss over and over.
+betterquesting.quest.YO0JcMSOQVa3-WoWP1l78Q.desc=Quand on l'utilise, cet objet soulève dans les airs une sphère de terrain centrée sur le bloc sélectionné. Le rayon de la sphère et la hauteur d'élévation dépendent de la puissance du Shard. Le processus n'est pas instantané : les blocs sont déplacés un par un jusqu'à ce que tout le rayon ait été déplacé. Les blocs qui dépendent d'un mur ou d'un sol, comme les torches et les cultures, tombent au passage, puisque leur support n'est pas déplacé avec eux.%n%nVous pouvez aussi l'utiliser pour invoquer un météore contenant des blocs de Gaia, si vous préférez automatiser la production de Gaia Spirit plutôt que de combattre le boss encore et encore.
 
 # Quest: LAPUTA XX
 betterquesting.quest.hHjJCOZtR-GM69bGHq845w.name=LAPUTA XX
-betterquesting.quest.hHjJCOZtR-GM69bGHq845w.desc=The most powerful version of the Laputa shard. Using it's power you can raise entire islands at a whim!
+betterquesting.quest.hHjJCOZtR-GM69bGHq845w.desc=La version la plus puissante du Shard of Laputa. Grâce à son pouvoir, vous pouvez soulever des îles entières à volonté !
 
 # Quest: Loonium
 betterquesting.quest.r3fKz87vRk23Tv2TRGarvg.name=Loonium
-betterquesting.quest.r3fKz87vRk23Tv2TRGarvg.desc=This flower uses mana to randomly produce dungeon loot that would be found in chests in your world. This loot drops as items. It can be disabled at will by applying a redstone signal.%n%n[note]Here you have a list of all possible drops[/note]%n%n[url]https://docs.google.com/spreadsheets/d/1EzFQYnL53GdzXxs6H2lVM2QJEgNEAUG1vSS-15DPPSM/edit?gid=0#gid=0[/url]
+betterquesting.quest.r3fKz87vRk23Tv2TRGarvg.desc=Cette fleur utilise du mana pour produire au hasard le butin de donjon qu'on trouverait dans les coffres de votre monde. Ce butin tombe sous forme d'objets. Elle peut être désactivée à volonté en lui appliquant un signal de redstone.%n%n[note]Voici la liste de tous les butins possibles[/note]%n%n[url]https://docs.google.com/spreadsheets/d/1EzFQYnL53GdzXxs6H2lVM2QJEgNEAUG1vSS-15DPPSM/edit?gid=0#gid=0[/url]
 
 
 ## Quest Line: Look to the Edges
@@ -13498,300 +13498,300 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxw.desc=Essayez simplement de rêver d'
 
 
 ## Quest Line: Paying the Highest Price
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHA.name=Paying the Highest Price
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHA.desc=When regular magic just won't cover it, pay demons to do it for you! The cost might scare some people... But no risk no fun!
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHA.name=Payer le prix fort
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAHA.desc=Quand la magie ordinaire ne suffit plus, payez des démons pour faire le travail à votre place ! Le prix pourrait en effrayer certains... Mais qui ne risque rien n'a rien !
 
 # Quest: Incense Crucible
 betterquesting.quest.1PpNSMRMR_-6fCQnguQX-A.name=Incense Crucible
-betterquesting.quest.1PpNSMRMR_-6fCQnguQX-A.desc=The forefather of the 1.12.2 Incense Altar.%n%nThe bonuses it gives are mostly similar, but the way it works is completely different.%nEach incense is meant to be tiered one after another. Currently you can only use §eWood Ash§r and §4Byrrus (Red)§r.%n%nWhite smoke will come out when there is an incense in the crucible, and the crucible will light up when it finds a player to increase the incense value of.%nOnce the player has an incense value greater than 0, their sacrificial knife will get super-charged, allowing the player to completely sacrifice all of their hearts but one.%n%nPutting §eWood Ash§r in the crucible will increase the incense value from §90§r to §9400§r.%n§4Byrrus§r increases it from §9400§r to §9800§r. It cannot get you from §90§r to §9800§r alone.%n%nThe LP you get from self-sacrifice will get a boost depending on your §9Incense Value§r.%n%n§dLP§r = §d200LP§r * §cHeartSacrificed§r * §bIncenseModifier§r%n%n§bIncenseModifier§r = 1 + §9IncenseValue§r * 0.001
+betterquesting.quest.1PpNSMRMR_-6fCQnguQX-A.desc=L'ancêtre de l'Incense Altar de la 1.12.2.%n%nLes bonus qu'il donne sont globalement similaires, mais son fonctionnement est complètement différent.%nLes encens sont conçus pour être utilisés par paliers, l'un après l'autre. Pour l'instant, vous ne pouvez utiliser que §eWood Ash§r et §4Byrrus (Red)§r.%n%nDe la fumée blanche s'échappe quand il y a un encens dans le creuset, et le creuset s'illumine quand il trouve un joueur dont il peut augmenter la valeur d'encens.%nUne fois que la valeur d'encens du joueur est supérieure à 0, son couteau sacrificiel est surpuissant, ce qui lui permet de sacrifier tous ses cœurs sauf un.%n%nMettre du §eWood Ash§r dans le creuset augmente la valeur d'encens de §90§r à §9400§r.%nLe §4Byrrus§r l'augmente de §9400§r à §9800§r. Il ne peut pas à lui seul vous faire passer de §90§r à §9800§r.%n%nLes LP obtenus par autosacrifice reçoivent un bonus qui dépend de votre §9valeur d'encens§r.%n%n§dLP§r = §d200LP§r * §cHeartSacrificed§r * §bIncenseModifier§r%n%n§bIncenseModifier§r = 1 + §9IncenseValue§r * 0.001
 
 # Quest: Tier 2 Sigils
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.name=Tier 2 Sigils
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.desc=With Reinforced Slates, you can make new sigils.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.name=Sceaux de tier 2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.desc=Avec les Reinforced Slates, vous pouvez fabriquer de nouveaux sceaux.
 
 # Quest: Paying the Highest Price
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAoQ.name=Paying the Highest Price
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAoQ.desc=When regular magic just isn't enough, you need something... stronger. Which is paid with blood. Your blood, and maybe others'.%n%nIn tier 1 you only need to place the blood altar. Plan for the configuration to grow in size up to 23x23 for a single altar.%n%nKeep in mind that you get less blood, and use more when crafting in GTNH. Plan for pain and frustration too.%n%nThe altar has a 10,000L blood tank, plus a 1,000L I/O buffer (you can pump in and out, but the rate is pitifully low at the start). Blood will flow to the I/O buffer until it's full, so be aware of that before your first craft.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAoQ.name=Payer le prix fort
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAoQ.desc=Quand la magie ordinaire ne suffit plus, il vous faut quelque chose de... plus fort. Quelque chose qui se paie en sang. Votre sang, et peut-être celui des autres.%n%nAu tier 1, il vous suffit de poser le Blood Altar. Prévoyez que la structure s'agrandira jusqu'à 23x23 pour un seul autel.%n%nGardez à l'esprit que dans GTNH, vous obtenez moins de sang et en consommez davantage lors des fabrications. Prévoyez aussi de la douleur et de la frustration.%n%nL'autel possède un réservoir de sang de 10,000L, plus une réserve d'E/S de 1,000L (vous pouvez pomper dedans et dehors, mais le débit est ridiculement faible au début). Le sang s'écoule vers la réserve d'E/S jusqu'à ce qu'elle soit pleine, tenez-en compte avant votre première fabrication.
 
 # Quest: Portable Battery...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApA.name=Portable Battery...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApA.desc=Using this binds it to you (expect to do that a lot), and consumes one heart while depositing 200LP in your 'soul network'. You can draw upon the soul network for anything that needs LP such as Alchemy or Rituals. If you want to automate it, you can put it into your altar for a 1:1 conversion of blood.%n%nThe highest tier orb you have bound will be considered the maximum limit to LP in your network, but you'll need to put it into the appropriately tiered altar to keep absorbing blood.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApA.name=Batterie portable...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApA.desc=L'utiliser le lie à vous (attendez-vous à le faire souvent), et consomme un cœur en déposant 200LP dans votre « réseau d'âme ». Vous pouvez puiser dans le réseau d'âme pour tout ce qui demande des LP, comme l'alchimie ou les rituels. Si vous voulez l'automatiser, vous pouvez le placer dans votre autel pour une conversion du sang en 1:1.%n%nL'orbe de plus haut tier que vous avez lié détermine la limite maximale de LP de votre réseau, mais il faudra le placer dans un autel du tier correspondant pour qu'il continue d'absorber du sang.
 
 # Quest: Poke
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsQ.name=§oPoke§r
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsQ.desc=Time to get some blood. You will have to start with your own...%n%nYou get 100LP in the altar for each use.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsQ.name=§oPique§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsQ.desc=Il est temps de récolter du sang. Vous allez devoir commencer par le vôtre...%n%nChaque utilisation vous rapporte 100LP dans l'autel.
 
 # Quest: Tier 3 Sigils
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlg.name=Tier 3 Sigils
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlg.desc=They're actually useful this time.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlg.name=Sceaux de tier 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlg.desc=Cette fois, ils sont vraiment utiles.
 
 # Quest: Tier 1 Slates
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=Tier 1 Slates
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=The basic slates. Basically just stone with blood infused in it.%n%nYou can either pump the blood out, use buckets, or fill cells to get the blood for the cutting machine.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=Ardoises de tier 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=Les ardoises de base. En gros, de la pierre imprégnée de sang.%n%nPour obtenir le sang destiné à la Cutting Machine, vous pouvez soit pomper le sang, soit utiliser des seaux, soit remplir des cellules.
 
 # Quest: See All the Things
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=See All the Things
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=It's quite difficult to see how much blood there is in your altar, or your personal blood network. This little device will solve that problem for you. Just a little prick in the finger, and everything will be revealed.%n%nYou can also make the sigil of sight when you have the alchemy set too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=Tout voir
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=Il est assez difficile de savoir combien de sang contient votre autel, ou votre réseau de sang personnel. Ce petit dispositif va régler ce problème. Une petite piqûre au doigt, et tout vous sera révélé.%n%nVous pouvez aussi fabriquer le Sigil of Sight quand vous aurez l'Alchemy Set.
 
 # Quest: Basic Rune
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.name=Basic Rune
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.desc=The Blood Rune is the basic rune that makes up blood altars, expect to make a lot of them.%n%nYou need 8 runes for your tier 2 altar. You can make new stuff with your upgraded altar.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.name=Rune de base
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.desc=La Blood Rune est la rune de base qui compose les autels de sang : attendez-vous à en fabriquer beaucoup.%n%nIl vous faut 8 runes pour votre autel de tier 2. Votre autel amélioré vous permet de fabriquer de nouvelles choses.
 
 # Quest: Alchemy With Blood
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=Alchemy With Blood
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=Not like "blood alchemy". You probably will need more than one later, but for now one is sufficient.%n%nPlace an orb in the slot to start crafting, using LP from your network. You'll need higher tier orbs to craft more complicated items.%n%nIf the LP in your network falls to 0 while you're working with this alchemy, you will get a permanent Nausea debuff until it is increased again.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=L'alchimie avec du sang
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=À ne pas confondre avec l'« alchimie du sang ». Il vous en faudra probablement plus d'un plus tard, mais pour l'instant un seul suffit.%n%nPlacez un orbe dans l'emplacement pour lancer la fabrication, qui utilise les LP de votre réseau. Il vous faudra des orbes de tier supérieur pour fabriquer des objets plus complexes.%n%nSi les LP de votre réseau tombent à 0 pendant que vous utilisez cette alchimie, vous subirez un malus Nausée permanent jusqu'à ce qu'ils remontent.
 
 # Quest: Potion Catalysts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=Potion Catalysts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=In order to manipulate potions you need catalysts. You then combine the ingredient you used to get the potion effect in with either a lengthening or power catalyst to increase the duration or the strength of the potion effect.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=Catalyseurs de potion
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=Pour manipuler les potions, il vous faut des catalyseurs. Vous combinez ensuite l'ingrédient qui a donné l'effet de la potion avec un catalyseur de prolongation ou de puissance pour augmenter la durée ou la force de l'effet.
 
 # Quest: Simple Alchemical Things
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABnA.name=Simple Alchemical Things
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABnA.desc=Alchemy can be weird, and tedious. There are a lot of reagents and even more possible combinations. For now, and in order to get started, you need a couple of basic things.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABnA.name=Des trucs alchimiques simples
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABnA.desc=L'alchimie peut être étrange et fastidieuse. Il existe beaucoup de réactifs et encore plus de combinaisons possibles. Pour l'instant, et pour bien démarrer, il vous faut quelques éléments de base.
 
 # Quest: Refilling Your Potions
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABnQ.name=Refilling Your Potions
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABnQ.desc=If empty, you don't have to throw the potion away. Just refill it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABnQ.name=Remplir vos potions
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABnQ.desc=Quand elle est vide, inutile de jeter la potion. Remplissez-la simplement.
 
 # Quest: Special Potion Flasks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.name=Special Potion Flasks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.desc=Regular glass phials are unable to hold these special potions you want. You need to imbue them with some blood from your altar.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.name=Flacons de potion spéciaux
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.desc=Les fioles en verre ordinaires ne peuvent pas contenir les potions spéciales que vous voulez. Vous devez les imprégner d'un peu de sang de votre autel.
 
 # Quest: Potion: Flight Mode
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.name=Potion: Flight Mode
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.desc=Just to give you an idea what is possible. Let's do a sample potion. Shall we? Get yourself a potion flask, a feather and one of your weak binding agents you made. Combine those in the chemistry set, and you'll get something that you'll probably want to keep for a while.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.name=Potion : mode vol
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.desc=Juste pour vous donner une idée de ce qui est possible, faisons une potion d'exemple, voulez-vous ? Procurez-vous un flacon de potion, une plume et l'un des agents liants faibles que vous avez fabriqués. Combinez-les dans le Chemistry Set, et vous obtiendrez quelque chose que vous voudrez sans doute garder un moment.
 
 # Quest: Simple, But Powerful Spells
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=Simple, But Powerful Spells
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.desc=The simple spell system is rather easy to set up, and can be done early on in your blood magic career.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=Des sorts simples, mais puissants
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.desc=Le système de sorts simples est plutôt facile à mettre en place, et peut être abordé tôt dans votre carrière de mage de sang.
 
 # Quest: Paradigm
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABoQ.name=Paradigm
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABoQ.desc=Paradigms shape your spell.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABoQ.name=Paradigme
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABoQ.desc=Les paradigmes donnent forme à votre sort.
 
 # Quest: Spell Foci
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABog.name=Spell Foci
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABog.desc=There are nine basic elements and each has a focus, an item that represents them. You place this focus in your altar next to the spell table in order for your magic to flow through it and the paradigm.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABog.name=Focalisateurs de sort
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABog.desc=Il existe neuf éléments de base, et chacun a un focalisateur, un objet qui le représente. Placez ce focalisateur dans votre autel, à côté de la table de sort, pour que votre magie circule à travers lui et le paradigme.
 
 # Quest: Some Examples
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABow.name=Some Examples
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABow.desc=There are a LOT of spell combinations to discover, so just use trial and error!%n%n[note]Or the internet.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABow.name=Quelques exemples
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABow.desc=Il y a ÉNORMÉMENT de combinaisons de sorts à découvrir, alors procédez par essais et erreurs !%n%n[note]Ou alors, Internet.[/note]
 
 # Quest: Tier 4 Sigils
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Tier 4 Sigils
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=Are they useful? Maybe.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Sceaux de tier 4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=Sont-ils utiles ? Peut-être.
 
 # Quest: Tier 3 Slates
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Tier 3 Slates
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=...and even more blood.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Ardoises de tier 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=...et encore plus de sang.
 
 # Quest: Tier 2 slates
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=Tier 2 slates
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=You need MOOORE. Imbue some slates with even more blood.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=Ardoises de tier 2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=Il vous en faut ENCOOORE. Imprégnez des ardoises avec encore plus de sang.
 
 # Quest: Apprentice Orb
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=Apprentice Orb
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=Your tier 2 orb.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=Orbe d'apprenti
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=Votre orbe de tier 2.
 
 # Quest: Magican's Orb
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.name=Magican's Orb
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.desc=Your tier 3 orb.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.name=Orbe de magicien
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.desc=Votre orbe de tier 3.
 
 # Quest: Elemental Chalk
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=Elemental Chalk
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=Necessary for rituals. You can technically use these to make the rituals, but just make the diviner.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=Craie élémentaire
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=Indispensable pour les rituels. Techniquement, vous pouvez les utiliser pour tracer les rituels, mais fabriquez plutôt le Ritual Diviner.
 
 # Quest: Sacrificial Runes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=Sacrificial Runes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=Poking your finger might work for simple slates and runes, but getting enough blood for advanced stuff is tedious. With sacrificial runes you are able to increase the blood gain from mobs or yourself.%n%nThese increase the blood gain by 12%% additively for each rune.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=Runes sacrificielles
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=Vous piquer le doigt peut suffire pour les ardoises et les runes simples, mais récolter assez de sang pour les choses avancées devient fastidieux. Avec les runes sacrificielles, vous pouvez augmenter le sang récolté sur les monstres ou sur vous-même.%n%nElles augmentent le sang récolté de 12%% de façon additive pour chaque rune.
 
 # Quest: Tier 3 Runes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=Tier 3 Runes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=The first rune increases the I/O from the altar's buffer by a multiplicative 50%% rate, and the second increases your altar's capacity by 3500L. This also increases the size of the I/O buffer, which is always 10%% of the altar.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=Runes de tier 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=La première rune augmente le débit d'E/S de la réserve de l'autel de 50%% de façon multiplicative, et la seconde augmente la capacité de votre autel de 3500L. Cela augmente aussi la taille de la réserve d'E/S, qui vaut toujours 10%% de l'autel.
 
 # Quest: Rituals Made Easy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=Rituals Made Easy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=Now that you have access to elemental chalk, you can get yourself the basic ritual diviner. A convenient way to place simple but yet complex magical rituals. Shift-right-click to cycle between rituals.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=Les rituels en toute simplicité
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=Maintenant que vous avez accès à la craie élémentaire, vous pouvez vous procurer le Ritual Diviner de base. Un moyen pratique de placer des rituels magiques simples, et pourtant complexes. Maj + clic droit pour faire défiler les rituels.
 
 # Quest: Powerful Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Powerful Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=A long way to go, and rather expensive, but a really powerful armor and well worth the effort.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Une armure puissante
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Le chemin est long et plutôt coûteux, mais c'est une armure vraiment puissante qui vaut largement l'effort.
 
 # Quest: Getting Soul Shards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=Getting Soul Shards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=Enable your sword by shift-right-clicking and slay some enemies! Collect as many shards as possible. You will need a ton of them...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=Obtenir des éclats d'âme
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=Activez votre épée avec Maj + clic droit et massacrez quelques ennemis ! Récupérez autant d'éclats que possible. Il vous en faudra des tonnes...
 
 # Quest: Bound Armor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=Bound Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=Time to assemble your armor. You need to build the pattern with blocks as you would craft the armor in a crafting table. The soul forge must connect to the structure on at least 2 sides. Then, right-click the forge block with an empty hand to craft the armor piece.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=Il est temps d'assembler votre armure. Vous devez construire le motif avec des blocs, comme si vous fabriquiez l'armure sur un établi. La Soul Forge doit être reliée à la structure sur au moins 2 côtés. Faites ensuite un clic droit à main nue sur le bloc de la forge pour fabriquer la pièce d'armure.
 
 # Quest: A Bloodmage's Sword
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=A Bloodmage's Sword
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=Diamonds and emeralds are limited in their ability to store LP. With this sword, you are able to get the crystallized souls from your enemies. Time to go hunting.%n%n[warn]While active, all bound tools, including this sword, will actively draw LP from your network. This can have deadly consequences if you run out of LP, so be sure you have a reliable source.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=L'épée d'un mage de sang
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=Les diamants et les émeraudes sont limités dans leur capacité à stocker des LP. Avec cette épée, vous pouvez récupérer les âmes cristallisées de vos ennemis. Il est temps d'aller chasser.%n%n[warn]Tant qu'ils sont actifs, tous les outils liés, y compris cette épée, puisent activement des LP dans votre réseau. Cela peut avoir des conséquences mortelles si vous tombez à court de LP, alors assurez-vous d'avoir une source fiable.[/warn]
 
 # Quest: Rituals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Rituals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=Time for some rituals. The most basic one you'll probably get first is the ritual of binding.%n%nThere are various rituals, some useful, some not. The other ones you're likely to care about are: Serenade of the Nether (if you don't like everburn urns), Ballad of Alchemy (for automating alchemy), Well of Suffering (for automating blood collection), Mark of the Falling Tower (summon a meteor filled with ore), and the endgame Convocation of the Damned.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Rituels
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=Place aux rituels. Le plus basique, que vous obtiendrez sans doute en premier, est le Ritual of Binding.%n%nIl existe divers rituels, certains utiles, d'autres non. Les autres qui devraient vous intéresser sont : Serenade of the Nether (si vous n'aimez pas les Everburn Urns), Ballad of Alchemy (pour automatiser l'alchimie), Well of Suffering (pour automatiser la récolte de sang), Mark of the Falling Tower (invoque un météore rempli de minerais), et le Convocation of the Damned de fin de partie.
 
 # Quest: Bound Tools: Pickaxe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=Bound Tools: Pickaxe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=Mining never was easier. Just right-click with this tool and all the stone is gone! Like all bound tools, this uses a massive amount of LP.%n%n[note]Watch out for falling into lava![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=Outils liés : pioche
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=Miner n'a jamais été aussi facile. Un clic droit avec cet outil, et toute la pierre disparaît ! Comme tous les outils liés, il consomme une quantité énorme de LP.%n%n[note]Attention à ne pas tomber dans la lave ![/note]
 
 # Quest: Bound Tools: Shovel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=Bound Tools: Shovel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=Ever wanted to clear out a large piece of terrain with dirt, gravel and sand? Why not let demons do it? This shovel, imbued with the soul of a demon will unleash the power by your will. But be warned: The demon you're about to summon with this is thirsty, and it costs a lot of LP to make use of it, so make sure your LP pool is full!%n%n[note]Will not dig beneath you.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=Outils liés : pelle
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=Vous avez toujours rêvé de dégager un grand terrain plein de terre, de gravier et de sable ? Pourquoi ne pas laisser des démons s'en charger ? Cette pelle, imprégnée de l'âme d'un démon, libérera sa puissance selon votre volonté. Mais attention : le démon que vous allez invoquer avec elle est assoiffé, et son utilisation coûte beaucoup de LP, alors assurez-vous que votre réserve de LP est pleine !%n%n[note]Ne creuse pas sous vos pieds.[/note]
 
 # Quest: Bound Tools: Axe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Bound Tools: Axe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Upon right-clicking while activated, this axe will clear out any wood within a large area. Be warned: This uses a huge amount of LP. You might suffer from sudden death...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Outils liés : hache
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Un clic droit quand elle est activée, et cette hache abat tout le bois dans une large zone. Attention : elle consomme une quantité énorme de LP. Vous risquez une mort subite...
 
 # Quest: A true blood-mage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtQ.name=A true blood-mage
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtQ.desc=Bloodmagic is fine, so is Thaumcraft. Why not combine both worlds?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtQ.name=Un vrai mage de sang
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtQ.desc=La Blood Magic, c'est bien, Thaumcraft aussi. Pourquoi ne pas combiner les deux mondes ?
 
 # Quest: Complex Spell System
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtg.name=Complex Spell System
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtg.desc=Unlike the simple spells with foci and paradigm, the complex spell system is incredibly...complex. There are way too many combinations to cover them here, so it's advised to look for the knowledge in other places. However, with the items from this quest, you are able to craft a simple mining spell.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtg.name=Système de sorts complexes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtg.desc=Contrairement aux sorts simples avec focalisateurs et paradigme, le système de sorts complexes est incroyablement... complexe. Il y a beaucoup trop de combinaisons pour les couvrir ici, il est donc conseillé de chercher ces connaissances ailleurs. Cependant, avec les objets de cette quête, vous pouvez fabriquer un sort de minage simple.
 
 # Quest: Runes Tier 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.name=Runes Tier 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.desc=The speed rune is the only tier 2 rune. The speed rune does what its name implies, provides an additive 25%% increase to the processing speed of the blood altar.%n%nHOWEVER, this makes it much more difficult to actually craft anything, so don't use them unless you're sure you can craft the item.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.name=Runes de tier 2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.desc=La Speed Rune est la seule rune de tier 2. Elle fait ce que son nom indique : elle augmente de façon additive de 25%% la vitesse de traitement du Blood Altar.%n%nCEPENDANT, cela rend la fabrication de quoi que ce soit beaucoup plus difficile, alors ne l'utilisez pas à moins d'être sûr de pouvoir fabriquer l'objet.
 
 # Quest: How Dark Can You Go?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACvA.name=How Dark Can You Go?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACvA.desc=Seriously, how dark can one be? You're sure the face in that crystal was nothing but imagination...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACvA.name=Jusqu'où irez-vous dans les ténèbres ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACvA.desc=Sérieusement, jusqu'à quel point peut-on être sombre ? Vous êtes sûr que le visage dans ce cristal n'était que le fruit de votre imagination...
 
 # Quest: Ascended
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACvQ.name=Ascended
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACvQ.desc=You feel empowered, light, almost like a ghost.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACvQ.name=Transcendé
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACvQ.desc=Vous vous sentez plus fort, léger, presque comme un fantôme.
 
 # Quest: Tier 5 slates
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACvg.name=Tier 5 slates
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACvg.desc=1023 Buckets of blood in one slate! How much more I can store, oh I wish I would know. Then I add one and check if it works. 1024 buckets of blood in one slate! ... ...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACvg.name=Ardoises de tier 5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACvg.desc=1023 seaux de sang dans une ardoise ! Combien de plus puis-je stocker, oh, si seulement je savais. Alors j'en ajoute un et je vérifie si ça marche. 1024 seaux de sang dans une ardoise ! ... ...
 
 # Quest: Powerful Shards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACvw.name=Powerful Shards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACvw.desc=The demons summoned are rather strong, but their souls contain immense power!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACvw.name=Éclats puissants
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACvw.desc=Les démons invoqués sont plutôt forts, mais leurs âmes renferment un pouvoir immense !
 
 # Quest: Tier 4 Slates
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACwA.name=Tier 4 Slates
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACwA.desc=Tier 4 slates: Getting close.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACwA.name=Ardoises de tier 4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACwA.desc=Ardoises de tier 4 : on s'approche du but.
 
 # Quest: Ethereal Chalk
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.name=Ethereal Chalk
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.desc=Top tier chalk, for fancy wall paintings?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.name=Craie éthérée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.desc=De la craie haut de gamme, pour de jolies peintures murales ?
 
 # Quest: Archmage Orb. Let Them Come!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.name=Archmage Orb. Let Them Come!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.desc=Your tier 5 orb.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.name=Orbe d'archimage. Qu'ils viennent !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.desc=Votre orbe de tier 5.
 
 # Quest: Master Orb: Getting Close
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.name=Master Orb: Getting Close
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.desc=Your tier 4 orb.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.name=Orbe de maître : on s'approche
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.desc=Votre orbe de tier 4.
 
 # Quest: Elemental Chalk II
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxQ.name=Elemental Chalk II
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxQ.desc=Enhanced elemental chalk, to write "darker" runes than you're used to...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxQ.name=Craie élémentaire II
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxQ.desc=Une craie élémentaire améliorée, pour écrire des runes plus « sombres » que d'habitude...
 
 # Quest: Tier 4 Runes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxg.name=Tier 4 Runes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxg.desc=Runes of Superior Capacity increase the Altar's size by 14%% multiplicatively.%n%nRunes of the Orb increase the soul network size by 4%% each. You'll need them later on.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxg.name=Runes de tier 4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxg.desc=Les Runes of Superior Capacity augmentent la taille de l'autel de 14%% de façon multiplicative.%n%nLes Runes of the Orb augmentent chacune la taille du réseau d'âme de 4%%. Vous en aurez besoin plus tard.
 
 # Quest: Tier 5 Runes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxw.name=Tier 5 Runes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxw.desc=The final frontier: There are not many runes available. The acceleration rune reduces the tick time until the next buffer I/O interaction. It starts at 20, and is reduced by 1 for each rune, with the minimum being 1.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxw.name=Runes de tier 5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxw.desc=L'ultime frontière : il n'y a pas beaucoup de runes disponibles. La Rune of Acceleration réduit le nombre de ticks avant la prochaine interaction d'E/S de la réserve. Il part de 20 et diminue de 1 par rune, avec un minimum de 1.
 
 # Quest: Advanced Rituals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyA.name=Advanced Rituals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyA.desc=More powerful rituals require dusk runes. With your new dusk chalk, you can enhance your ritual diviner to place those. Allowing you to perform a lot more rituals.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyA.name=Rituels avancés
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyA.desc=Les rituels plus puissants nécessitent des runes du crépuscule (Dusk). Avec votre nouvelle craie du crépuscule, vous pouvez améliorer votre Ritual Diviner pour les placer. Vous pourrez ainsi accomplir bien plus de rituels.
 
 # Quest: High-end Rituals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyQ.name=High-end Rituals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyQ.desc=The last diviner so far, used for the most powerful rituals.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyQ.name=Rituels haut de gamme
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyQ.desc=Le dernier diviner à ce jour, utilisé pour les rituels les plus puissants.
 
 # Quest: Convocation of the Damned
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACyg.name=Convocation of the Damned
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyg.desc=Time to open a portal to the Demonic Realm. What could possibly go wrong? (It's recommended to do this ritual in a space dimension, as the demon city spreads up to 1000x1000 blocks)%n%n[note]You should also be starting the ritual from the ground rather than in the air for the best results![/note]%n%nRequirements:%n- 15M LP (Archmage Blood Orb and >= 13 Runes of the Orb)%n- 8 Crystal Belljars (one filled with each of: magicales, potentia, incendium, terrae, tenebrae, sanctus, aether, and aquasalus)%n- 1 Sacrifice (Bottle a lesser demon/elemental in a soul vial)%n- 1 Master Ritual Stone, 128 Ritual Stones, and 1 Blood Altar%n- 1 Awakened Activation Crystal%n%nSteps to the Ritual:%n1. Use a Ritual Diviner to place all the Ritual Stones.%n2. Place the Belljars atop the 8 pillars surrounding the center.%n3. Link the Belljars to the Master Ritual Stone.%n4. Place the Blood Altar on top of the Master Ritual Stone.%n5. Start the ritual with the Awakened Activation Crystal.%n6. The Belljars are drained of their reagents.%n7. Kill the lesser demon/elemental with a Dagger of Sacrifice.%n8. The Demon Portal is opened.%n%nFor more details and images, visit [url]https://wiki.gtnewhorizons.com/wiki/Convocation_of_the_Damned[/url]%n%n[warn]The OW is now blacklisted for the portal. Too many people did not follow the recommendation and servers suffered for it. It also does not work well in the Personal Dimension.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyg.desc=Il est temps d'ouvrir un portail vers le Demonic Realm. Qu'est-ce qui pourrait mal tourner ? (Il est recommandé d'accomplir ce rituel dans une dimension spatiale, car la cité démoniaque s'étend sur jusqu'à 1000x1000 blocs)%n%n[note]Pour de meilleurs résultats, lancez aussi le rituel depuis le sol plutôt qu'en l'air ![/note]%n%nConditions :%n- 15M LP (Archmage Blood Orb et >= 13 Runes of the Orb)%n- 8 Crystal Belljars (une remplie de chacun de ces réactifs : magicales, potentia, incendium, terrae, tenebrae, sanctus, aether et aquasalus)%n- 1 sacrifice (mettez en bouteille un démon/élémentaire mineur dans une Soul Vial)%n- 1 Master Ritual Stone, 128 Ritual Stones et 1 Blood Altar%n- 1 Awakened Activation Crystal%n%nÉtapes du rituel :%n1. Utilisez un Ritual Diviner pour placer toutes les Ritual Stones.%n2. Placez les Belljars au sommet des 8 piliers qui entourent le centre.%n3. Reliez les Belljars à la Master Ritual Stone.%n4. Placez le Blood Altar sur la Master Ritual Stone.%n5. Lancez le rituel avec l'Awakened Activation Crystal.%n6. Les Belljars sont vidées de leurs réactifs.%n7. Tuez le démon/élémentaire mineur avec une Dagger of Sacrifice.%n8. Le portail démoniaque s'ouvre.%n%nPour plus de détails et des images, consultez [url]https://wiki.gtnewhorizons.com/wiki/Convocation_of_the_Damned[/url]%n%n[warn]L'Overworld est désormais interdit pour le portail. Trop de gens n'ont pas suivi la recommandation, et les serveurs en ont souffert. Il ne fonctionne pas bien non plus dans la dimension personnelle.[/warn]
 
 # Quest: Imbued Spell Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyw.name=Imbued Spell Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyw.desc=With these new shards you're able to craft the most powerful spell components. Maybe it's time to upgrade your mining spell?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyw.name=Améliorations de sort imprégnées
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyw.desc=Avec ces nouveaux éclats, vous pouvez fabriquer les composants de sort les plus puissants. Il est peut-être temps d'améliorer votre sort de minage ?
 
 # Quest: Blood Altar Tier 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADng.name=Blood Altar Tier 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADng.desc=To make your altar more powerful you need to upgrade it. Add another ring of Blood Runes with a two-high pillar of blood-soaked thaumium blocks at each corner. Top each of the pillars with a block of glowstone.%n%nView the structure preview in NEI or visit [url]https://wiki.gtnewhorizons.com/wiki/Blood_Altar[/url] for images on how it should look.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADng.name=Blood Altar de tier 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADng.desc=Pour rendre votre autel plus puissant, vous devez l'améliorer. Ajoutez un autre anneau de Blood Runes, avec à chaque coin un pilier de deux blocs de haut en blocs de Thaumium imbibés de sang. Coiffez chaque pilier d'un bloc de Pierre lumineuse.%n%nConsultez l'aperçu de la structure dans NEI ou rendez-vous sur [url]https://wiki.gtnewhorizons.com/wiki/Blood_Altar[/url] pour voir en images à quoi elle doit ressembler.
 
 # Quest: Blood Altar Tier 4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADnw.name=Blood Altar Tier 4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADnw.desc=If you want to make tier 4 slates you need a Tier 4 altar. This can be made like the tier 3 altar with pillars out of void-blood-soaked stones four blocks high and a blood brick on top of the pillars.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADnw.name=Blood Altar de tier 4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADnw.desc=Si vous voulez fabriquer des ardoises de tier 4, il vous faut un autel de tier 4. Il se construit comme l'autel de tier 3, avec des piliers de quatre blocs de haut en pierres imbibées de sang du Vide, et une brique de sang au sommet des piliers.
 
 # Quest: Blood Altar Tier 5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADoA.name=Blood Altar Tier 5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADoA.desc=If you want to make tier 5 slates you need a Tier 5 altar. This can be made with 4 beacons. Beacons have thaumcraft recipes and can be found in the thaumcraft book on the GTNH page. The quest is most of the way through adept thaumaturgy.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADoA.name=Blood Altar de tier 5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADoA.desc=Si vous voulez fabriquer des ardoises de tier 5, il vous faut un autel de tier 5. Il se construit avec 4 balises. Les balises ont des recettes Thaumcraft et se trouvent dans le livre de Thaumcraft, à la page GTNH. La quête se trouve vers la fin du chapitre Thaumaturgie adepte.
 
 # Quest: Blood Altar Tier 6
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADoQ.name=Blood Altar Tier 6
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADoQ.desc=The highest tier of the blood altar is tier 6. You need pillars of blood-soaked ichorium 7 blocks high and on top the crystal cluster blocks made out of demon soul shards.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADoQ.name=Blood Altar de tier 6
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADoQ.desc=Le tier le plus élevé du Blood Altar est le tier 6. Il vous faut des piliers de 7 blocs de haut en Ichorium imbibé de sang, et au sommet, les blocs de Crystal Cluster fabriqués à partir d'éclats d'âme de démon.
 
 # Quest: Dagger of Sacrifice
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLQ.name=Dagger of Sacrifice
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLQ.desc=Time to get more blood. Mobs are a good source for more blood. Transform your knife of sacrifice in your tier 2 altar into a dagger of sacrifice.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFLQ.desc=Il est temps de récolter plus de sang. Les monstres sont une bonne source de sang. Transformez votre Sacrificial Knife en Dagger of Sacrifice dans votre autel de tier 2.
 
 # Quest: Blood Letters Pack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJkw.name=Blood Letters Pack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJkw.desc=The Blood Letters Pack will damage you by half a heart until you're at half health (accounts for extra health!), and stores 100 LP each time up to 10,000. You can then use it on an altar to deposit the contents so long as it's not currently crafting something.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJkw.desc=Le Blood Letter's Pack vous inflige un demi-cœur de dégâts jusqu'à ce que vous soyez à mi-vie (la santé bonus est prise en compte !), et stocke 100 LP à chaque fois, jusqu'à 10,000. Vous pouvez ensuite l'utiliser sur un autel pour y déposer son contenu, du moment qu'il n'est pas en train de fabriquer quelque chose.
 
 # Quest: Glass Sacrificial Dagger
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJlA.name=Glass Sacrificial Dagger
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJlA.desc=The Glass Sacrificial Dagger works the same as the normal one, but gives you more LP and can cause you to bleed. The amount you get is randomized.%n%nTo get the Glass Shards, break normal Glass while holding Flint.%n%nUnfortunately the glass version of the Dagger of Sacrifice might have some bugs, but other players are saying it works fine. Maybe try it yourself and report any issues.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJlA.desc=La Glass Sacrificial Dagger fonctionne comme la dague normale, mais elle vous donne plus de LP et peut vous faire saigner. La quantité obtenue est aléatoire.%n%nPour obtenir les Glass Shards, cassez du Verre normal en tenant du Silex.%n%nMalheureusement, la version en verre de la Dagger of Sacrifice a peut-être quelques bugs, mais d'autres joueurs disent qu'elle fonctionne bien. Essayez par vous-même et signalez les problèmes éventuels.
 
 # Quest: Imperfect Ritual Stone
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJlQ.name=Imperfect Ritual Stone
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJlQ.desc=This stone allows you to create simple rituals, such as changing the time to night, or summoning a thunderstorm.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJlQ.desc=Cette pierre vous permet de créer des rituels simples, comme faire passer le temps à la nuit ou invoquer un orage.
 
 # Quest: Well of Suffering
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJlg.name=Well of Suffering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJlg.desc=The Well of Suffering damages mobs in a 6 block radius and feeds blood gained from them into an altar that is also within 6 blocks. Each mob costs 2 LP to damage, but give 10LP back. You can use Runes of Sacrifice to increase this. Very useful for automation!%n%n[note]Instead of feeding it live mobs, you can also use the Extreme Entity Crusher (EEC) set to ritual mode for the same effect![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJlg.desc=Le Well of Suffering blesse les monstres dans un rayon de 6 blocs et envoie le sang qu'il en tire dans un autel situé lui aussi à moins de 6 blocs. Chaque monstre coûte 2 LP à blesser, mais en rapporte 10LP. Vous pouvez utiliser des Runes of Sacrifice pour augmenter ce rendement. Très utile pour l'automatisation !%n%n[note]Au lieu de lui fournir des monstres vivants, vous pouvez aussi utiliser l'Extreme Entity Crusher (EEC) réglé en mode rituel pour le même effet ![/note]
 
 # Quest: Demon Blood Shards
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmA.name=Demon Blood Shards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmA.desc=To get Demon Blood Shards, you'll need to summon and kill a demon. To summon one you'll need to arrange the pedestals around the plinth as such:%n%nxpxpx%nxxxxx%npxPxp%nxxxxx%nxpxpx%n%nx=space, p=pedestal, P=plinth%n%nPlace a bound master orb on the plinth and the appropriate sacrifices on the pedestals. They must all be the same element. Specifically, Aether, Incendium, Aquasalus, Terrae, Tenebrae, or Sanctus.%n%nAfter the lightning, the demon will appear. It won't always drop the shard, so prepare multiple sets.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmA.desc=Pour obtenir des Demon Blood Shards, vous devrez invoquer et tuer un démon. Pour en invoquer un, disposez les piédestaux autour du socle comme ceci :%n%nxpxpx%nxxxxx%npxPxp%nxxxxx%nxpxpx%n%nx=vide, p=piédestal, P=socle%n%nPlacez un Master Blood Orb lié sur le socle et les sacrifices appropriés sur les piédestaux. Ils doivent tous être du même élément, à savoir : Aether, Incendium, Aquasalus, Terrae, Tenebrae ou Sanctus.%n%nAprès la foudre, le démon apparaîtra. Il ne lâche pas toujours l'éclat, alors préparez plusieurs séries.
 
 # Quest: Starter Key
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmQ.name=Starter Key
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmQ.desc=You need this to start Rituals. More complex rituals need the Activated version. To use it, bind it to yourself and right-click on the center of the ritual.%n%n[note]The Energy Crystal needs to be fully charged.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmQ.name=Clé de démarrage
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmQ.desc=Il vous faut ceci pour lancer des rituels. Les rituels plus complexes nécessitent la version activée. Pour l'utiliser, liez-le à vous et faites un clic droit au centre du rituel.%n%n[note]L'Energy Crystal doit être entièrement chargé.[/note]
 
 # Quest: Micro-Rituals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmg.name=Micro-Rituals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmg.desc=Don't want to use all that space for rituals? Use the Soul Compactor to reduce them to a single block!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmg.name=Micro-rituels
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmg.desc=Vous ne voulez pas consacrer tout cet espace aux rituels ? Utilisez le Soul Compactor pour les réduire à un seul bloc !
 
 # Quest: Tier 5 Sigils
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmw.name=Tier 5 Sigils
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmw.desc=They're of seriously questionable utility this time, so why not try to get the blood arsenal ones as well? Collect them all!%n%nPS: You need Lightning Sigils for the Transcendent Orb
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmw.name=Sceaux de tier 5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJmw.desc=Cette fois, leur utilité est franchement discutable, alors pourquoi ne pas essayer d'obtenir aussi ceux de Blood Arsenal ? Collectionnez-les tous !%n%nPS : il vous faut des Lightning Sigils pour le Transcendent Orb
 
 # Quest: It Holds More, Ok?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnA.name=It Holds More, Ok?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnA.desc=But why is it transparent?%n%n[note]Does not actually hold more, doesn't render the blood in it properly, and can't be used in the altar. It does list the amount of blood you have in realtime though, and is used to make the next one.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnA.name=Il contient plus, d'accord ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnA.desc=Mais pourquoi est-il transparent ?%n%n[note]Il ne contient pas vraiment plus, n'affiche pas correctement le sang qu'il contient et ne peut pas être utilisé dans l'autel. Il indique cependant en temps réel la quantité de sang dont vous disposez, et sert à fabriquer le suivant.[/note]
 
 # Quest: Ritual Dismantler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJng.name=Ritual Dismantler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJng.desc=Use this to quickly dismantle a ritual.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJng.desc=Utilisez-le pour démanteler rapidement un rituel.
 
 # Quest: Jeremy Fragrance
 betterquesting.quest.FiNzfQEmSlOHb8fuC-FWBw.name=Jeremy Fragrance
-betterquesting.quest.FiNzfQEmSlOHb8fuC-FWBw.desc=The peak of all Incenses.%n%n§dPurpura§r will increase your Incense from §92400§r to §93500§r.
+betterquesting.quest.FiNzfQEmSlOHb8fuC-FWBw.desc=Le summum des encens.%n%n§dPurpura§r augmente votre valeur d'encens de §92400§r à §93500§r.
 
 # Quest: Ritual of Gaia's Transformation
 betterquesting.quest.Lljg4YMJTmKDgqRzk2yrzw.name=Ritual of Gaia's Transformation
-betterquesting.quest.Lljg4YMJTmKDgqRzk2yrzw.desc=The §5Ritual of Gaia's Transformation§r is the Blood Magic way of changing biomes. It consists of 116 Ritual Stones, including the Dusk ones, and requires an §9Awakened Activation Crystal§r.%n%nTo use the ritual, simply activate it, and it will transform an area up to §221x21§r.%n%nIf you want to change the biome you get from the ritual, use Arcane Plinths. The ritual starts from 0.5 humidity and 0.5 temperature, then consumes the items placed on the plinths to increase or decrease those values. It also starts by assuming a range of 0.1 is acceptable in both directions.%n%nThe items that modify these values are as follows:%n- Sand -> Humidity -0.1%n- Sandstone -> Humidity -0.2%n- Netherrack -> Humidity -0.4%n- Lapis -> Humidity +0.1%n- Water Bucket -> Humidity +0.2%n- Lapis Block -> Humidity +0.4%n- Coal -> Temperature +0.1%n- Coal Block -> Temperature +0.2%n- Lava Bucket -> Temperature +0.4%n- Snowball -> Temperature -0.1%n- Snow Block -> Temperature -0.2%n- Ice Block -> Temperature -0.4%n%nOnce you have used the items to reach your desired environment, the ritual will give you a biome from it. If there are multiple biomes with that humidity and temperature, you can use wool to determine the exact one, for up to 17 conflicting biomes. If the ritual cannot find a valid biome, it will default to Plains.%n%nSome cool ones include, but are not limited to:%n- Sky (also known as End) -> Orange Wool%n- Eldritch -> Cyan Wool%n- Eerie -> Light Gray Wool%n- TF Forest -> Pink Wool%n- Sacred Springs -> Yellow Wool%n- Tainted Land -> Purple or Blue Wool%n- Moon -> 0%% Humidity, No Wool%n- Mars Flat -> 0%% Humidity, White Wool%n- Asteroids -> 0%% Humidity, Orange Wool%n- Space -> 0%% Humidity, Magenta Wool%n- Toxic Everglades -> 70%% Humidity, No Wool%n%n[note]For the biome change to show up properly on the client, you may need to relog.[/note]
+betterquesting.quest.Lljg4YMJTmKDgqRzk2yrzw.desc=Le §5Ritual of Gaia's Transformation§r est la façon Blood Magic de changer de biome. Il se compose de 116 Ritual Stones, dont celles du crépuscule (Dusk), et nécessite un §9Awakened Activation Crystal§r.%n%nPour utiliser le rituel, activez-le simplement, et il transformera une zone allant jusqu'à §221x21§r.%n%nSi vous voulez changer le biome obtenu par le rituel, utilisez des Arcane Plinths. Le rituel part d'une humidité de 0.5 et d'une température de 0.5, puis consomme les objets placés sur les socles pour augmenter ou diminuer ces valeurs. Il considère aussi au départ qu'un écart de 0.1 est acceptable dans les deux sens.%n%nLes objets qui modifient ces valeurs sont les suivants :%n- Sable -> Humidité -0.1%n- Grès -> Humidité -0.2%n- Netherrack -> Humidité -0.4%n- Lapis-lazuli -> Humidité +0.1%n- Seau d'eau -> Humidité +0.2%n- Bloc de lapis-lazuli -> Humidité +0.4%n- Charbon -> Température +0.1%n- Bloc de charbon -> Température +0.2%n- Seau de lave -> Température +0.4%n- Boule de neige -> Température -0.1%n- Bloc de neige -> Température -0.2%n- Bloc de glace -> Température -0.4%n%nUne fois que vous avez utilisé les objets pour atteindre l'environnement voulu, le rituel vous donnera un biome correspondant. Si plusieurs biomes ont cette humidité et cette température, vous pouvez utiliser de la laine pour choisir le bon, jusqu'à 17 biomes en conflit. Si le rituel ne trouve aucun biome valide, il se rabat sur Plains.%n%nParmi les biomes sympas, on trouve notamment :%n- Sky (aussi appelé End) -> Laine orange%n- Eldritch -> Laine cyan%n- Eerie -> Laine gris clair%n- TF Forest -> Laine rose%n- Sacred Springs -> Laine jaune%n- Tainted Land -> Laine violette ou bleue%n- Moon -> 0%% d'humidité, sans laine%n- Mars Flat -> 0%% d'humidité, Laine blanche%n- Asteroids -> 0%% d'humidité, Laine orange%n- Space -> 0%% d'humidité, Laine magenta%n- Toxic Everglades -> 70%% d'humidité, sans laine%n%n[note]Pour que le changement de biome s'affiche correctement côté client, il faudra peut-être vous reconnecter.[/note]
 
 # Quest: Smelling Even Better
-betterquesting.quest.MFGBdpO5TH6jRZXJSQistA.name=Smelling Even Better
-betterquesting.quest.MFGBdpO5TH6jRZXJSQistA.desc=§3Livens§r will increase your Incense from §9800§r to §91500§r.%n§aViridis§r will increase it even further from §91500§r to §92400§r.
+betterquesting.quest.MFGBdpO5TH6jRZXJSQistA.name=Sentir encore meilleur
+betterquesting.quest.MFGBdpO5TH6jRZXJSQistA.desc=§3Livens§r augmente votre valeur d'encens de §9800§r à §91500§r.%n§aViridis§r l'augmente encore, de §91500§r à §92400§r.
 
 # Quest: Summon the Meteor!
-betterquesting.quest.s4B77B7FSamWlvHY8hfqqA.name=Summon the Meteor!
-betterquesting.quest.s4B77B7FSamWlvHY8hfqqA.desc=The Mark of the Falling Tower is among the most powerful magic you can achieve in GTNH. It allows you to summon a huge meteor full of various GT ores right were you want it. All you need is a particular catalyst item and a good amount of LP. Even better, you sometimes get access to ores before you could get them normally! Check out NEI for all the possible meteors. For example you can start by looking at the uses of a Pufferfish.%n%nThe meteor requires at least a singular block to see the sky above the master ritual stone. You can use the alchemical component Terrae to increase the radius of the meteor by 1. Using Orbis Terrae increases the radius by 2.%n%nThe meteor deals some damage but it does not deal environmental/block damage. Just be weary if you have villagers or important mobs nearby. The size of the meteor also increases the damage & radius by an enormous amount.%n%nA multiblock miners can mine out the various ores spawned from the meteor, but there are other options too!
+betterquesting.quest.s4B77B7FSamWlvHY8hfqqA.name=Invoquez le météore !
+betterquesting.quest.s4B77B7FSamWlvHY8hfqqA.desc=Le Mark of the Falling Tower fait partie de la magie la plus puissante que vous puissiez atteindre dans GTNH. Il vous permet d'invoquer un énorme météore rempli de divers minerais GT exactement là où vous le voulez. Il suffit d'un objet catalyseur particulier et d'une bonne quantité de LP. Mieux encore, vous avez parfois accès à des minerais avant de pouvoir les obtenir normalement ! Consultez NEI pour voir tous les météores possibles. Par exemple, vous pouvez commencer par regarder les usages d'un Poisson-globe.%n%nLe météore exige qu'au moins un bloc au-dessus de la Master Ritual Stone voie le ciel. Vous pouvez utiliser le composant alchimique Terrae pour augmenter le rayon du météore de 1. Orbis Terrae l'augmente de 2.%n%nLe météore inflige quelques dégâts, mais ne cause aucun dégât à l'environnement ni aux blocs. Faites simplement attention si vous avez des villageois ou des créatures importantes à proximité. La taille du météore augmente aussi énormément les dégâts et le rayon.%n%nDes mineurs multiblocs peuvent extraire les divers minerais générés par le météore, mais il existe aussi d'autres options !
 
 
 ## Quest Line: Kill All the Things
