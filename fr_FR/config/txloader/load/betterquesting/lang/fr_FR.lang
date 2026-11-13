@@ -5645,613 +5645,613 @@ betterquesting.quest.z3RLaOumReeg-aZ906lPCg.desc=C'est une catégorie très larg
 
 
 ## Quest Line: Getting Around...
-betterquesting.questline.bAal8kZ3R8eRTwaHgbYkKA.name=Getting Around...
-betterquesting.questline.bAal8kZ3R8eRTwaHgbYkKA.desc=Movement can be slow initially. But with some technology or magic, that is easily overcome!
+betterquesting.questline.bAal8kZ3R8eRTwaHgbYkKA.name=Se déplacer...
+betterquesting.questline.bAal8kZ3R8eRTwaHgbYkKA.desc=Au début, on se déplace lentement. Mais avec un peu de technologie ou de magie, ce problème est vite surmonté !
 
 # Quest: Indestructible Vessel
-betterquesting.quest.-MexGhcYQ0OUrr5xgriDXQ.name=Indestructible Vessel
-betterquesting.quest.-MexGhcYQ0OUrr5xgriDXQ.desc=In light of your thaumaturgical research, you have come to the conclusion that Greatwood is, in fact, a great material for constructing a resilient boat. Utilizing this material to its fullest potential has allowed you to construct a boat that is slightly faster and will never break on collision.
+betterquesting.quest.-MexGhcYQ0OUrr5xgriDXQ.name=Navire indestructible
+betterquesting.quest.-MexGhcYQ0OUrr5xgriDXQ.desc=À la lumière de vos recherches thaumaturgiques, vous en êtes venu à la conclusion que le Greatwood est, en fait, un excellent matériau pour construire un bateau résistant. En exploitant tout le potentiel de ce matériau, vous avez pu construire un bateau légèrement plus rapide et qui ne se brisera jamais lors d'une collision.
 
 # Quest: Basic Flight Potion
-betterquesting.quest.4LY2S8QsSw-JdMGrF8FUsQ.name=Basic Flight Potion
-betterquesting.quest.4LY2S8QsSw-JdMGrF8FUsQ.desc=Tired of jetpacks? Want normal flight with no strings attached? Look no further!%n%nUsing your brand new MV Assembler and a Chicken Trophy, you can craft a basic Potion of Flight from Blood Magic, giving you 7 minutes of Creative flight with 8 uses before you have to make a new one.%n%n[note]Chicken Trophies are a rare drop from killing chickens.[/note]%n%n[note]Once you unlock Blood Magic, you can craft your own Flight Potion Flasks with a duration of up to 19 minutes, and refill them with any Filling Agent in an Alchemic Chemistry set.[/note]
+betterquesting.quest.4LY2S8QsSw-JdMGrF8FUsQ.name=Potion de vol basique
+betterquesting.quest.4LY2S8QsSw-JdMGrF8FUsQ.desc=Fatigué des jetpacks ? Vous voulez voler normalement, sans aucune contrainte ? Ne cherchez plus !%n%nAvec votre tout nouvel Assembler MV et un Chicken Trophy, vous pouvez fabriquer une Potion of Flight basique de Blood Magic, qui vous donne 7 minutes de vol Créatif, avec 8 utilisations avant de devoir en refaire une.%n%n[note]Les Chicken Trophies sont un butin rare obtenu en tuant des poulets.[/note]%n%n[note]Une fois Blood Magic débloqué, vous pourrez fabriquer vos propres flasques de Potion of Flight d'une durée allant jusqu'à 19 minutes, et les remplir avec n'importe quel Filling Agent dans un Alchemic Chemistry Set.[/note]
 
 # Quest: Relocator
 betterquesting.quest.8QSORTVOSOaUXC6mQurMgA.name=Relocator
-betterquesting.quest.8QSORTVOSOaUXC6mQurMgA.desc=The relocator allows for teleportation to previously marked locations, even between dimensions.%n%n[note]Uses quite a lot of power so a GraviChestPlate or other energy sources are recommended.[/note]
+betterquesting.quest.8QSORTVOSOaUXC6mQurMgA.desc=Le Relocator permet de se téléporter vers des emplacements préalablement marqués, même entre dimensions.%n%n[note]Il consomme beaucoup d'énergie : un GraviChestPlate ou une autre source d'énergie est donc recommandé.[/note]
 
 # Quest: The Power of Endermen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=The Power of Endermen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=Elevators are nice, but they're limited to vertical teleportation, and their range is also highly limited. Travel anchors don't have a limitation on angle, you can teleport from one anchor to any other within 128 blocks. You do this by looking at the anchor you wish to travel to and pressing the shift button. You can also name them and even set them as private if you like. They have a 2s cooldown.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=Le pouvoir des Endermen
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=Les ascenseurs, c'est bien, mais ils se limitent à la téléportation verticale, et leur portée est aussi très limitée. Les Travel Anchors n'ont pas de limitation d'angle : vous pouvez vous téléporter d'une ancre à n'importe quelle autre dans un rayon de 128 blocs. Pour cela, regardez l'ancre vers laquelle vous voulez aller et appuyez sur Maj. Vous pouvez aussi les nommer, et même les rendre privées si vous le souhaitez. Elles ont un temps de recharge de 2 s.
 
 # Quest: Glider Wings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=Glider Wings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=If for some reason you want to be able to jump down a cliff without getting the message "Player X fell from a high place", a great idea would be to find a way to slow your fall. The store was out of feather falling potions, so make a hang glider instead.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=Ailes de planeur
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=Si, pour une raison quelconque, vous voulez pouvoir sauter d'une falaise sans recevoir le message « Joueur X est tombé de haut », une bonne idée serait de trouver un moyen de ralentir votre chute. Le magasin était en rupture de potions de chute amortie, alors fabriquez plutôt un Hang Glider.
 
 # Quest: Electrotine Jetpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=Electrotine Jetpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=Your glider gets you to the ground safely but it does not have any method to get up. After you researched electrotine you discovered that it is powerful enough for your first jetpack.%n%nA diamond chestplate surrounded with 4 electrotine batteries is powerful enough to bring you up into the air.%n%nIt does not have a hover mode so you better take your glider with you.%n%nHint: This jetpack can't fly higher than Y-128.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=Jetpack à Electrotine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=Votre planeur vous ramène au sol en toute sécurité, mais il n'a aucun moyen de monter. Après avoir étudié l'Electrotine, vous avez découvert qu'elle est assez puissante pour votre premier jetpack.%n%nUn plastron en diamant entouré de 4 batteries à Electrotine est assez puissant pour vous élever dans les airs.%n%nIl n'a pas de mode stationnaire, alors vous feriez mieux d'emporter votre planeur.%n%nAstuce : ce jetpack ne peut pas voler plus haut que Y-128.
 
 # Quest: Refill Your Jetpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.name=Refill Your Jetpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.desc=GREAT.... you now have an empty jetpack. You need 25 electrotine dust to completely fill it. Let's craft an electrotine generator and a charging bench to use the power of electrotine.%n%nYou will very quickly discover that, while it is fast and cheap, it's empty in the blink of an eye. Despite this, it is useful in combination with the hang glider to get into the air and to get away from hairy situations.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.name=Rechargez votre jetpack
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.desc=GÉNIAL.... vous avez maintenant un jetpack vide. Il vous faut 25 poudres d'Electrotine pour le remplir complètement. Fabriquons un générateur à Electrotine et un banc de charge pour exploiter la puissance de l'Electrotine.%n%nVous découvrirez très vite que, s'il est rapide et bon marché, il se vide en un clin d'œil. Malgré cela, il est utile en combinaison avec le Hang Glider pour prendre de la hauteur et vous sortir de situations délicates.
 
 # Quest: Coal Steam Jetpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=Coal Steam Jetpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=Your coal jetpack needs coal and water to produce steam. After a short warm-up period you can go and take it for a ride. Keep in mind you will need your glider to make a soft landing.%n%nPut your jetpack on your back and hit Shift and the adventure backpack's action-key to start it.%n%nMax flying height for this jetpack is Y-185.%n%nVertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=Jetpack à charbon
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=Votre jetpack à charbon a besoin de charbon et d'eau pour produire de la vapeur. Après une courte période de chauffe, vous pouvez partir faire un tour. N'oubliez pas qu'il vous faudra votre planeur pour atterrir en douceur.%n%nMettez votre jetpack sur votre dos et appuyez sur Maj et la touche d'action de l'Adventure Backpack pour le démarrer.%n%nL'altitude de vol maximale de ce jetpack est Y-185.%n%nLa vitesse verticale diminue linéairement avec l'altitude une fois l'altitude optimale dépassée : 135 pour le jetpack et 100 pour le pack hélicoptère.
 
 # Quest: Copterpack, More 'Hover' than 'Jet'
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.name=Copterpack, More 'Hover' than 'Jet'
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.desc=The copterpack is the first jetpack with a hover mode. It uses several different types of fuels to power it.%n%nBuckets of creosote, lava, oil, diesel, cetane, ethanol, and fuel will work.%n%nEquip your jetpack and hit Shift and the adventure backpack's action-key. You can also switch between hover and normal mode.%n%nMax flying height is limited to Y-200.%n%nVertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.%n%n[note]Dropped items will be pushed away from you, just like a helicopter pushes things away, so be careful in the End, or by cliffsides.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.name=Pack hélicoptère, plus « stationnaire » que « jet »
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.desc=Le pack hélicoptère est le premier jetpack doté d'un mode stationnaire. Il fonctionne avec plusieurs types de carburants.%n%nLes seaux de Créosote, de Lave, de Pétrole, de Diesel, de Cétane, d'Éthanol et de carburant conviennent.%n%nÉquipez votre jetpack et appuyez sur Maj et la touche d'action de l'Adventure Backpack. Vous pouvez aussi basculer entre le mode stationnaire et le mode normal.%n%nL'altitude de vol maximale est limitée à Y-200.%n%nLa vitesse verticale diminue linéairement avec l'altitude une fois l'altitude optimale dépassée : 135 pour le jetpack et 100 pour le pack hélicoptère.%n%n[note]Les objets lâchés seront repoussés loin de vous, tout comme un hélicoptère repousse ce qui l'entoure, alors soyez prudent dans l'End ou au bord des falaises.[/note]
 
 # Quest: Electric Jetpack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiw.name=Electric Jetpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACiw.desc=Your first electrical jetpack, It can be charged in any LV machine. You need to hit the IC2 mode-switch key to toggle between normal mode and hover mode while holding down the jump key. When descending, remember to shut off hover mode or else you'll drain your jetpack.%n%nThe only limitation is that you can't fly higher than Y-185.%n%nFor charging on the go, you can craft a charging crystal from ic2 charging components. You have to take the backpack out of the armor slot and put it in your hotbar and activate the charger by sneak-clicking.%n%nLater on GT++ charge packs are belts that can charge everything in your inventory including armor. Check NEI for the recipe.%n%nFinally, the GT++ wireless charger will charge everything in your inventory, including the jetpack, from your base at long ranges. A quest is unlocked once you finish your nanosuit. Just remember when you are off world or in the Nether that your jetpack isn't charging!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACiw.desc=Votre premier jetpack électrique. Il peut être rechargé dans n'importe quelle machine LV. Appuyez sur la touche de changement de mode d'IC2 tout en maintenant la touche de saut pour basculer entre le mode normal et le mode stationnaire. Pendant la descente, pensez à couper le mode stationnaire, sinon vous viderez votre jetpack.%n%nSa seule limite : vous ne pouvez pas voler plus haut que Y-185.%n%nPour recharger en déplacement, vous pouvez fabriquer un cristal de charge à partir des composants de charge d'IC2. Il faut retirer le pack de l'emplacement d'armure, le placer dans votre barre d'accès rapide et activer le chargeur avec un clic en étant accroupi.%n%nPlus tard, les Charge Packs de GT++ sont des ceintures capables de recharger tout votre inventaire, armure comprise. Consultez NEI pour la recette.%n%nEnfin, le Wireless Charger de GT++ recharge tout votre inventaire, jetpack compris, depuis votre base et à longue distance. Une quête se débloque une fois votre nanosuit terminée. Souvenez-vous simplement que votre jetpack ne se recharge pas quand vous êtes sur une autre planète ou dans le Nether !
 
 # Quest: Fueled Jetpack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACjA.name=Jetpack à carburant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjA.desc=This jetpack uses IC2 biogas and can fly up to Y-245. You can switch between hover and normal mode using the IC2 mode-switch key.%n%nAn empty jetpack can be (re-)fueled in a fluid tank filled with biogas.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACjA.desc=Ce jetpack utilise le biogaz d'IC2 et peut voler jusqu'à Y-245. Vous pouvez basculer entre le mode stationnaire et le mode normal avec la touche de changement de mode d'IC2.%n%nUn jetpack vide peut être (re)rempli dans un réservoir de fluide rempli de biogaz.
 
 # Quest: Advanced Electric Jetpack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACjQ.name=Advanced Electric Jetpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjQ.desc=The advanced electric jetpack is an upgraded version of the electric jetpack.%nWhile worn in the chest armor slot and charged with EU, it allows the player to fly. It provides no armor protection, but will charge tools being used in the same manner as the advanced lappack from its 3,000,000 EU internal storage.%n%nThe advanced electric jetpack is limited to a maximum flying height of Y-256.%n%n[note]To turn it on, hit the fly key listed under gravisuite. You can then use space to fly up. To activate hover, hit the IC2 mode key while holding space. Will also recharge tools.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACjQ.desc=L'Advanced Electric Jetpack est une version améliorée de l'Electric Jetpack.%nPorté dans l'emplacement de plastron et chargé en EU, il permet au joueur de voler. Il n'offre aucune protection, mais recharge les outils utilisés, à la manière de l'Advanced Lappack, grâce à sa réserve interne de 3,000,000 EU.%n%nL'Advanced Electric Jetpack est limité à une altitude de vol maximale de Y-256.%n%n[note]Pour l'activer, appuyez sur la touche de vol listée sous Gravisuite. Utilisez ensuite Espace pour monter. Pour activer le mode stationnaire, appuyez sur la touche de mode d'IC2 en maintenant Espace. Il recharge aussi les outils.[/note]
 
 # Quest: Row, Row, Row Your Boat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACmg.name=Row, Row, Row Your Boat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACmg.desc=You live close to the water and don't have a boat? Man, get it together.%n%nYou need wooden planks, slabs and a knife to craft one. (This is also quest id 666, be careful, something is going on.)%n%n[note]We here at QuestBook, Inc. do not guarantee the usefulness of boats. The standard worldgen does not include oceans, so their usefulness is heavily curtailed. There are lots of rivers, but horses might be more useful if not on a server.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACmg.name=Bateau, sur l'eau
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACmg.desc=Vous vivez près de l'eau et vous n'avez pas de bateau ? Allez, ressaisissez-vous.%n%nIl vous faut des planches de bois, des dalles et un couteau pour en fabriquer un. (C'est aussi la quête numéro 666, prudence, il se passe quelque chose.)%n%n[note]Chez QuestBook, Inc., nous ne garantissons pas l'utilité des bateaux. La génération de monde standard ne comporte pas d'océans, leur utilité est donc fortement réduite. Il y a beaucoup de rivières, mais les chevaux seront sans doute plus utiles si vous n'êtes pas sur un serveur.[/note]
 
 # Quest: Trainspotting
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACmw.name=Trainspotting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACmw.desc=The wooden tracks can be made without any machine, though always check NEI for assembler recipes for discounts. Functionally equivalent to normal rails, but with a lower maximum speed (for safety reasons).%n%n[note]Hint: You can use your wooden rails for Steve's Carts farms.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACmw.desc=Les rails en bois peuvent être fabriqués sans machine, mais consultez toujours NEI pour les recettes de l'Assembler, moins coûteuses. Ils fonctionnent comme des rails normaux, mais avec une vitesse maximale plus faible (pour des raisons de sécurité).%n%n[note]Astuce : vous pouvez utiliser vos rails en bois pour les fermes de Steve's Carts.[/note]
 
 # Quest: Rubber Boat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnA.name=Rubber Boat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnA.desc=The rubber dinghy requires only a few rubber plates. Like the vanilla wooden boat, it will break and dismantle whenever it hits a surface, however instead of returning sticks and planks, it will return a damaged rubber dinghy, which can be re-crafted with two pieces of rubber back into a usable rubber dinghy!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnA.name=Bateau en caoutchouc
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnA.desc=Le canot en caoutchouc ne nécessite que quelques plaques de Caoutchouc. Comme le bateau en bois vanilla, il se brise et se démonte dès qu'il heurte une surface ; mais au lieu de rendre des bâtons et des planches, il rend un canot en caoutchouc endommagé, qui peut être réparé avec deux morceaux de Caoutchouc pour redevenir utilisable !
 
 # Quest: Inflatable Boot
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.name=Inflatable Boot
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.desc=I meant to say boat... The inflatable boat is the first boat that doesn't break on impact with a solid block.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.name=Botte gonflable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.desc=Je voulais dire bateau... Le Canot pneumatique est le premier bateau qui ne se brise pas en heurtant un bloc solide.
 
 # Quest: Carbon Fiber Boat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.name=Carbon Fiber Boat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.desc=Unlike all other boats, this amazing carbon fiber canoe is COMPLETELY INDESTRUCTIBLE!* This means that you can smash it into as many beaches, lily pads and alligators as you like, the carbon fiber canoe won't take a scratch!%n%nWarning: We are not held responsible for any damage caused by riding the carbon fiber canoe into a lava lake or the Void.%n%n*Therefore, warranty is NOT included.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.name=Bateau en fibre de carbone
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.desc=Contrairement à tous les autres bateaux, ce formidable canoë en fibre de carbone est TOTALEMENT INDESTRUCTIBLE !* Vous pouvez donc l'écraser contre autant de plages, de nénuphars et d'alligators que vous voulez, le canoë en fibre de carbone n'aura pas une égratignure !%n%nAvertissement : nous déclinons toute responsabilité pour les dommages causés en pilotant le canoë en fibre de carbone dans un lac de lave ou dans le Vide.%n%n*Par conséquent, la garantie n'est PAS incluse.
 
 # Quest: Electric Boat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.name=Electric Boat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.desc=The electric boat works mostly like a vanilla boat, chugging through the water at a decent pace. It will hopefully drop itself once you crash, which is slightly nicer than the usual sticks. That's all well and good, but what if we utilize the electric engine? Wearing an energy storage device in your chestplate slot, like a batpack or energypack, will cause the boat to drain energy from it and propel you forward at supersonic speed! Doing this will consume about 100 EU per block traveled, so even a decent batpack won't last long!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.name=Bateau électrique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.desc=Le bateau électrique fonctionne en grande partie comme un bateau vanilla, avançant sur l'eau à une allure correcte. En cas d'accident, il devrait normalement se lâcher lui-même, ce qui est un peu plus agréable que les habituels bâtons. Tout cela est bien beau, mais si l'on utilisait le moteur électrique ? Porter un appareil de stockage d'énergie dans l'emplacement de plastron, comme un Batpack ou un Energy Pack, permet au bateau d'y puiser de l'énergie et de vous propulser à une vitesse supersonique ! Cela consomme environ 100 EU par bloc parcouru, alors même un bon Batpack ne tiendra pas longtemps !
 
 # Quest: Boat Shape?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.name=Boat Shape?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=Really? Yes for the more advanced boats you need a new shape form.%n%nYou need to make an Extruder first to progress further.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.name=Forme de bateau ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=Vraiment ? Oui, pour les bateaux plus avancés, il vous faut une nouvelle forme.%n%nVous devez d'abord fabriquer un Extruder pour aller plus loin.
 
 # Quest: Wooden Rail Variants
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.name=Wooden Rail Variants
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.desc=The wooden junction, wye and switch tracks need an assembling machine to craft. They allow you to join and switch to tracks going to different locations.%n%nNEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.name=Variantes de rails en bois
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.desc=Les rails en bois de jonction, en Y et d'aiguillage nécessitent un Assembler pour être fabriqués. Ils vous permettent de relier des voies et d'aiguiller vers des voies menant à différents endroits.%n%nNEI n'affiche pas la bonne recette sur la première page. Parcourez un peu les recettes pour trouver la bonne.
 
 # Quest: Switch Lever
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACow.name=Switch Lever
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACow.desc=The switch lever is the manual version of the switch motor, requiring a player to operate it instead of a redstone signal.%n%nIt is used in various signaling systems, mainly to change the way switch tracks and wye tracks work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACow.desc=Le Switch Lever est la version manuelle du Switch Motor : il doit être actionné par un joueur au lieu d'un signal de redstone.%n%nIl est utilisé dans divers systèmes de signalisation, principalement pour changer le fonctionnement des rails d'aiguillage et des rails en Y.
 
 # Quest: Crowbar
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACpA.name=Crowbar
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpA.desc=The crowbar comes in a Railcraft (and thaumcraft versions of RC) and a gregtech variant. It is used to manipulate machines from railcraft, remove plates and any other covers (pumps, conveyor modules, etc.) from gregtech pipes and machines as well as breaking certain objects faster, such as tracks. This tool is also used to access certain inventories from Railcraft.%n%nHold a crowbar and shift-right-click to attach carts. Click the starting cart then continue to click to add more carts to the link. Carts will act slower the more connections are made.%n%nThe crowbar can be used as a weapon, though it costs twice as much durability on attack (just like any other non weapon tool...).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACpA.desc=Le pied-de-biche existe en version Railcraft (ainsi qu'en versions Thaumcraft de RC) et en version GregTech. Il sert à manipuler les machines de Railcraft, à retirer les plaques et autres covers (pompes, modules de convoyeur, etc.) des tuyaux et machines GregTech, ainsi qu'à casser plus vite certains objets, comme les rails. Cet outil sert aussi à accéder à certains inventaires de Railcraft.%n%nTenez un pied-de-biche et faites Maj + clic droit pour atteler des wagonnets. Cliquez sur le wagonnet de départ, puis continuez à cliquer pour ajouter d'autres wagonnets au convoi. Plus il y a de liaisons, plus les wagonnets sont lents.%n%nLe pied-de-biche peut servir d'arme, mais il perd deux fois plus de durabilité en attaquant (comme tout autre outil qui n'est pas une arme...).
 
 # Quest: Minecart
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.name=Minecart
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.desc=After you craft your first cart the journey can begin...%n%nWell, not really. You will need some kind of tracks first.%n%n[note]We here at QuestBook, Inc. do not guarantee the usefulness of minecarts or trains in any way. Especially since you can mine out a vein in a single session once you have a hammer and backpacks.[/note]%n%n[warn]WARNING: Unprotected carts can be knocked off their rails by lightning. Cover the area with blocks to prevent carts from disappearing.[/warn]%n%n[warn]Also, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate.[/warn]%n%n[note]You should only make these if you want to have fun with them, as anything they can do is better done by other methods, including the Long Distance Fluid Pipeline. Excessive minecart and train use on servers may cause lag and you may be asked to switch later anyway.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.name=Wagonnet
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.desc=Une fois votre premier wagonnet fabriqué, le voyage peut commencer...%n%nEnfin, pas vraiment. Il vous faudra d'abord des rails.%n%n[note]Chez QuestBook, Inc., nous ne garantissons en aucun cas l'utilité des wagonnets ou des trains. D'autant plus que vous pouvez vider un filon en une seule session une fois que vous avez un marteau et des sacs à dos.[/note]%n%n[warn]ATTENTION : les wagonnets non protégés peuvent être éjectés de leurs rails par la foudre. Couvrez la zone avec des blocs pour éviter que les wagonnets ne disparaissent.[/warn]%n%n[warn]Veillez aussi à garder votre wagonnet dans un seul chunk, ou utilisez des chunkloaders couvrant toute la zone où il circule. Le chargement/déchargement des chunks peut faire disparaître ou dupliquer les wagonnets.[/warn]%n%n[note]Ne les fabriquez que si vous voulez vous amuser avec, car tout ce qu'ils peuvent faire est mieux fait par d'autres moyens, notamment le Long Distance Fluid Pipeline. Un usage excessif de wagonnets et de trains sur un serveur peut causer du lag, et on pourra de toute façon vous demander d'y renoncer plus tard.[/note]
 
 # Quest: The Transcontinental Railroad
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.name=The Transcontinental Railroad
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.desc=All the different mining veins that have been found seem to be really far apart. One way to shorten the travel time is to create a railroad from your base to the different mines. Sadly this requires a large amount of both iron and creosote. Let's not forget to place the last symbolic rivet on one of your new train lines.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.name=Le chemin de fer transcontinental
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.desc=Les différents filons que vous avez trouvés semblent très éloignés les uns des autres. Une façon de réduire le temps de trajet est de construire un chemin de fer entre votre base et les différentes mines. Malheureusement, cela demande une grande quantité de Fer et de Créosote. N'oublions pas de poser le dernier rivet symbolique sur l'une de vos nouvelles lignes.
 
 # Quest: Jetpack v.0.1 Alpha
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADag.name=Jetpack v.0.1 Alpha
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADag.desc=Do you like flying? Ok then, make a slimy bouncepad and enjoy the view.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADag.desc=Vous aimez voler ? Très bien, alors fabriquez un tremplin gluant et profitez de la vue.
 
 # Quest: Minecart with Tank, Workbench or Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEnQ.name=Minecart with Tank, Workbench or Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEnQ.desc=Want to transport oil or other fluids, have a portable crafting table or a portable chest? Then you need to craft some minecarts with tanks, chests or crafting tables.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEnQ.name=Wagonnet avec réservoir, établi ou four
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEnQ.desc=Vous voulez transporter du Pétrole ou d'autres fluides, avoir un établi portable ou un coffre portable ? Alors il vous faut fabriquer des wagonnets avec réservoir, coffre ou établi.
 
 # Quest: Fluid Loader and Unloader
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEng.name=Fluid Loader and Unloader
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEng.desc=If you plan to automate the oil transport from your oil field far away, you need a fluid loader and unloader. A locking track will stop the train as long as oil is loaded or unloaded.%n%n[note]PS: You should probably use the Long Distance Fluid Pipeline once you can make it in LV unless you really love trains.[/note]%n%nFull details on how to use these may require online research (GTNH changes the recipes, not normal Railcraft functionality), but here is a simple list of things to do:%n%n1. Make a loop of track from your base to the oil well.%n2. Place a locking track near the well, and put a fluid loader two blocks above it. The track should be in Locking Mode - use a crowbar to change it.%n3. Use the tank car on the filter in the loader and set it to Immediate mode.%n4. Connect the well to the loader as normal.%n5. Put a fluid unloader under a locking track at your base, and set it the same as the loader.%n6. Automate the locomotive similarly - a fluid loader above a steam locomotive set to manual and filtered to the locomotive.%n%nEither you got it working, you need to do more research, you realized it moves 32 buckets a trip and decided to just walk, or you can go to Discord and ask why anyone would build a train.%n%nItem loaders also exist, but the main use for them may be to refuel your locomotive.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEng.name=Fluid Loader et Fluid Unloader
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEng.desc=Si vous comptez automatiser le transport du Pétrole depuis votre lointain gisement, il vous faut un Fluid Loader et un Fluid Unloader. Un rail de verrouillage arrêtera le train le temps que le Pétrole soit chargé ou déchargé.%n%n[note]PS : vous devriez probablement utiliser le Long Distance Fluid Pipeline dès que vous pouvez le fabriquer en LV, à moins d'adorer vraiment les trains.[/note]%n%nLe détail de leur utilisation peut demander des recherches en ligne (GTNH modifie les recettes, pas le fonctionnement normal de Railcraft), mais voici une liste simple des étapes :%n%n1. Faites une boucle de rails entre votre base et le puits de pétrole.%n2. Placez un rail de verrouillage près du puits, et mettez un Fluid Loader deux blocs au-dessus. Le rail doit être en mode Locking ; utilisez un pied-de-biche pour le changer.%n3. Utilisez le wagon-citerne sur le filtre du loader et réglez-le en mode Immediate.%n4. Reliez le puits au loader comme d'habitude.%n5. Placez un Fluid Unloader sous un rail de verrouillage à votre base, et réglez-le comme le loader.%n6. Automatisez la locomotive de la même façon : un Fluid Loader au-dessus d'une Steam Locomotive réglée en manuel et filtré sur la locomotive.%n%nSoit ça marche, soit il vous faut faire plus de recherches, soit vous avez réalisé qu'il transporte 32 seaux par trajet et décidé de marcher, soit vous pouvez aller demander sur Discord pourquoi diable quelqu'un construirait un train.%n%nIl existe aussi des Item Loaders, mais leur usage principal sera sans doute de ravitailler votre locomotive.
 
 # Quest: Locomotive 0.1 Alpha
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEnw.name=Locomotive 0.1 Alpha
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEnw.desc=The furnace cart is a cheap locomotive. Click with coal or charcoal on the cart and it will start moving.%n%nThis is a curiosity, and probably you will use the steam locomotive from the next quest for an actual train.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEnw.desc=Le wagonnet motorisé (Furnace Cart) est une locomotive bon marché. Cliquez dessus avec du charbon ou du charbon de bois et il se mettra en mouvement.%n%nC'est une curiosité, et vous utiliserez probablement la Steam Locomotive de la quête suivante pour un vrai train.
 
 # Quest: Steam Locomotive
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEoA.name=Steam Locomotive
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEoA.desc=The steam locomotive is much better than the furnace cart. You can control the speed and the direction the locomotive will move. You need to put water and coal inside to make steam to power the locomotive.%n%nYou can use a water tank or other water source to refill this locomotive by placing a Fluid Loader above it at a stop. The loader can be placed either directly above the track, or a block higher to give you clearance when riding the train. (You can't actually ride a train unless you sit in a normal minecart.)%n%nThis locomotive runs on any fuel you can burn in a steam boiler, perhaps you will want to use compressed coal blocks or similar. You can use an Item Loader to refuel it.%n%nOnce you have stable electricity in MV, you will likely move to the Electric Locomotive.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEoA.desc=La Steam Locomotive est bien meilleure que le wagonnet motorisé. Vous pouvez contrôler la vitesse et la direction de la locomotive. Il faut y mettre de l'eau et du charbon pour produire la vapeur qui l'alimente.%n%nVous pouvez utiliser un réservoir d'eau ou une autre source d'eau pour la remplir en plaçant un Fluid Loader au-dessus d'elle à un arrêt. Le loader peut être placé directement au-dessus du rail, ou un bloc plus haut pour laisser de la place quand vous êtes à bord. (Vous ne pouvez en fait monter dans un train qu'en vous asseyant dans un wagonnet normal.)%n%nCette locomotive fonctionne avec n'importe quel combustible utilisable dans une chaudière à vapeur ; vous voudrez peut-être utiliser des blocs de charbon compressé ou similaires. Vous pouvez utiliser un Item Loader pour la ravitailler.%n%nUne fois que vous aurez une production d'électricité stable en MV, vous passerez sans doute à l'Electric Locomotive.
 
 # Quest: Electric Locomotive
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEoQ.name=Electric Locomotive
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEoQ.desc=Electric Locomotives are much better than steam ones. You need electric rail for it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEoQ.desc=Les Electric Locomotives sont bien meilleures que les locomotives à vapeur. Il leur faut des rails électriques.
 
 # Quest: Boost Your Speed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEog.name=Boost Your Speed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEog.desc=If you decide to not use a locomotive and drive with one or two carts only, you can use some booster tracks. Activate them with a lever or a redstone torch. You can also use them to slow down, especially when doing corners!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEog.name=Boostez votre vitesse
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEog.desc=Si vous décidez de vous passer de locomotive et de rouler avec un ou deux wagonnets seulement, vous pouvez utiliser des rails d'accélération. Activez-les avec un levier ou une torche de redstone. Vous pouvez aussi vous en servir pour ralentir, surtout dans les virages !
 
 # Quest: The Transcontinental Railroad - High-Speed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEow.name=The Transcontinental Railroad - High-Speed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEow.desc=Did you ever dream of driving in a railcart at high speeds? Well your dreams can come true with the high speed tracks. Be careful though; you need to lower the speed when your rails change direction or when the track ends.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEow.name=Le chemin de fer transcontinental - Grande vitesse
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEow.desc=Vous avez toujours rêvé de rouler en wagonnet à grande vitesse ? Votre rêve peut devenir réalité avec les rails à grande vitesse. Attention toutefois : il faut réduire la vitesse quand vos rails changent de direction ou quand la voie se termine.
 
 # Quest: The Transcontinental Railroad - Creeper-Proof
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpA.name=The Transcontinental Railroad - Creeper-Proof
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpA.desc=Railroads in the nether are dangerous. The reinforced tracks are blast proof. Hopefully you're blast proof too?%n%nYou can move 25%% faster than with normal tracks.%n%nNEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpA.name=Le chemin de fer transcontinental - Anti-Creeper
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpA.desc=Les voies ferrées dans le Nether sont dangereuses. Les rails renforcés résistent aux explosions. Espérons que vous aussi ?%n%nVous pouvez aller 25%% plus vite qu'avec des rails normaux.%n%nNEI n'affiche pas la bonne recette sur la première page. Parcourez un peu les recettes pour trouver la bonne.
 
 # Quest: The Transcontinental Railroad - Electric
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpQ.name=The Transcontinental Railroad - Electric
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpQ.desc=Electrical tracks are used together with your electric locomotive. You need to power the rails with energy.%n%nNEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.%n%n[note]Alternatively you can use the search bar to search for a specific name, in this case electric tracks![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpQ.name=Le chemin de fer transcontinental - Électrique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpQ.desc=Les rails électriques s'utilisent avec votre Electric Locomotive. Vous devez alimenter les rails en énergie.%n%nNEI n'affiche pas la bonne recette sur la première page. Parcourez un peu les recettes pour trouver la bonne.%n%n[note]Vous pouvez aussi utiliser la barre de recherche pour chercher un nom précis, ici Electric Track ![/note]
 
 # Quest: Electric Feeder Unit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpg.name=Electric Feeder Unit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpg.desc=To get your tracks electrified you need an electric feeding unit, shunting wires and some support frames. You can use an MFE or a transformer to get GT energy into the feeder unit.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEpg.desc=Pour électrifier vos rails, il vous faut une Electric Feeder Unit, des câbles d'alimentation (Shunting Wire) et quelques supports (Support Frame). Vous pouvez utiliser un MFE ou un transformateur pour faire entrer l'énergie GT dans la Feeder Unit.
 
 # Quest: Travelocity!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5Q.name=Travelocity!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5Q.desc=A staff of traveling can get you really moving around your base. Hold shift and right-click to teleport in that direction. If you've got travel anchors, just right-clicking will send you to them. The range is 16 blocks for normal TP, 128 to an anchor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5Q.name=Travelocity !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5Q.desc=Un Staff of Traveling peut vraiment vous faire circuler dans votre base. Maintenez Maj et faites un clic droit pour vous téléporter dans cette direction. Si vous avez des Travel Anchors, un simple clic droit vous y enverra. La portée est de 16 blocs pour une téléportation normale, et de 128 vers une ancre.
 
 # Quest: Works like in anime!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFPw.name=Works like in anime!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFPw.desc=You want to fly. Badly. So go and ductape wings!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFPw.name=Comme dans les animés !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFPw.desc=Vous voulez voler. À tout prix. Alors allez scotcher des ailes !
 
 # Quest: Angel Wings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQA.name=Angel Wings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQA.desc=Since you have access to better materials than cardboard now, you wanted to make wings. Angel wings.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQA.name=Ailes d'ange
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQA.desc=Puisque vous avez désormais accès à de meilleurs matériaux que le carton, vous vouliez fabriquer des ailes. Des ailes d'ange.
 
 # Quest: Secret-Angel-Assasin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQQ.name=Secret-Angel-Assasin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQQ.desc=Infusing your Wings with nano technology seems to be the next step, to further improve them and combine magic and technology.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQQ.name=Ange-Assassin-Secret
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFQQ.desc=Imprégner vos ailes de nanotechnologie semble être l'étape suivante, pour les améliorer encore et allier magie et technologie.
 
 # Quest: Angel Wings - Ultra Force!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSw.name=Angel Wings - Ultra Force!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSw.desc=From ore to ingot, from nano to quantum, as you progress, your technology level increases, so should your wings as well.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSw.name=Ailes d'ange - Ultra Force !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSw.desc=Du minerai au lingot, du nano au quantique : à mesure que vous progressez, votre niveau technologique augmente, et vos ailes devraient suivre.
 
 # Quest: Cart With Chunkloader
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYw.name=Cart With Chunkloader
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYw.desc=When transporting oil from long distances, a train is going to need a chunk loader. Craft one, and I'll give you a second one for free.%n%n[note]This quest might not be completable in MP?[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYw.name=Wagonnet avec chunkloader
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFYw.desc=Pour transporter du Pétrole sur de longues distances, un train aura besoin d'un chunkloader. Fabriquez-en un, et je vous en offre un second.%n%n[note]Cette quête n'est peut-être pas réalisable en multijoueur ?[/note]
 
 # Quest: Step Assistant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8w.name=Step Assistant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8w.desc=The Piston Boots are a bouncy pair of shoes for adventurers.%n%nIt functions as a piece of armor for the foot slot that gives a fun jump boost! They let the wearer jump up to THREE blocks in height and increase run speed. They also grant a Step-Up enchantment to allow the wearer to step up a single block without jumping while sprinting. You can repair them with leather using an anvil.%n%nBasically, make them ASAP.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8w.name=Assistance à la marche
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG8w.desc=Les Bottes à piston sont une paire de chaussures rebondissantes pour aventuriers.%n%nElles s'équipent dans l'emplacement des pieds et donnent un amusant bonus de saut ! Elles permettent de sauter jusqu'à TROIS blocs de haut et augmentent la vitesse de course. Elles accordent aussi un enchantement Step-Up qui permet de monter d'un bloc sans sauter en sprintant. Vous pouvez les réparer avec du cuir sur une enclume.%n%nBref, fabriquez-les au plus vite.
 
 # Quest: Boost Your Speed v2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEg.name=Boost Your Speed v2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEg.desc=High speed transition and booster tracks get your carts moving at really ridiculous speeds. Do not use normal track without several transition tracks or else your cart will explode. Do not try turning at high speed or, you guessed it, your cart will explode.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEg.name=Boostez votre vitesse v2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHEg.desc=Les rails de transition et d'accélération à grande vitesse font filer vos wagonnets à des vitesses vraiment ridicules. N'utilisez pas de rails normaux sans plusieurs rails de transition, sinon votre wagonnet explosera. N'essayez pas de tourner à grande vitesse, sinon, vous l'avez deviné, votre wagonnet explosera.
 
 # Quest: So Much Nicer Than Ladders
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwQ.name=So Much Nicer Than Ladders
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwQ.desc=Elevators are great for fast transportation vertically in your base. Leaving a tinted elevator will stop at the same color elevator. Use some Malisis doors for a nice "real" elevator effect.%nThe rotating elevator will turn the player as they go up or down to face a specific direction. Handy if your elevator shaft is on one side at a floor and a different side at another floor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwQ.name=Tellement mieux que les échelles
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHwQ.desc=Les Elevators sont parfaits pour se déplacer rapidement à la verticale dans votre base. En quittant un Elevator teinté, vous vous arrêterez à un Elevator de la même couleur. Utilisez quelques portes de Malisis' Doors pour un bel effet de « vrai » ascenseur.%nLe Rotating Elevator fait pivoter le joueur pendant la montée ou la descente pour qu'il fasse face à une direction précise. Pratique si votre cage d'ascenseur est d'un côté à un étage et d'un autre côté à un autre étage.
 
 # Quest: Better Boots with a little pizzazz
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1A.name=Better Boots with a little pizzazz
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1A.desc=Electric Boots of the Traveller grant you a 2%% Vis Discount along with all the benefits of the regular Boots of the Traveller.%n%nIn addition, they come with a wide variety of new features thanks to our amazing magic devs:%n%n- Configurable Jump Boost: You can choose between 0%%, 25%%, 50%%, 75%%, or a 100%% jump boost.%n%n- Configurable Speed Boost: Similar to the jump boost, you can adjust the speed boost percentage to your preference.%n%n- Flight Inertia: When toggled on, this feature cancels inertia while flying, allowing for precise movement even when traveling at high speeds.%n%n- Omnidirectional Movement: This toggle lets you decide whether your speed boost applies in all directions or only while running straight ahead.%n%n[note]None of these keybinds are set by default. The easiest way to configure them is to go into Options -> Controls, turn on the "Category" button, and type "Thaumic Boots." Then, assign keys for the features as needed.[/note]%n%n[note]If you want to advance in the dark arts you can also make them voidwalker boots.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1A.name=De meilleures bottes, avec un peu de panache
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1A.desc=Les Electric Boots of the Traveller vous accordent une réduction de Vis de 2%% en plus de tous les avantages des Boots of the Traveller classiques.%n%nDe plus, elles offrent une grande variété de nouvelles fonctionnalités grâce à nos formidables développeurs de magie :%n%n- Bonus de saut configurable : vous pouvez choisir un bonus de saut de 0%%, 25%%, 50%%, 75%% ou 100%%.%n%n- Bonus de vitesse configurable : comme pour le saut, vous pouvez régler le pourcentage du bonus de vitesse à votre convenance.%n%n- Inertie de vol : une fois activée, cette fonction annule l'inertie en vol, ce qui permet des mouvements précis même à grande vitesse.%n%n- Déplacement omnidirectionnel : cette option vous permet de choisir si votre bonus de vitesse s'applique dans toutes les directions ou seulement en courant tout droit.%n%n[note]Aucune de ces touches n'est assignée par défaut. Le plus simple pour les configurer est d'aller dans Options -> Contrôles, d'activer le bouton « Catégorie » et de taper « Thaumic Boots ». Assignez ensuite des touches aux fonctions voulues.[/note]%n%n[note]Si vous voulez progresser dans les arts obscurs, vous pouvez aussi en faire des Boots of the Voidwalker.[/note]
 
 # Quest: Walk all over you
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1Q.name=Walk all over you
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1Q.desc=Nanosuit Boots of the Traveller provide all the benefits of the Nanosuit, plus a massive speed boost, higher jump, and improved Vis Discount. These are the perfect boots for the master magical engineer.%n%n[note]If you want to advance in the dark arts you can also make them voidwalker boots.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1Q.name=Marcher sur tout le monde
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1Q.desc=Les Nanosuit Boots of the Traveller offrent tous les avantages de la nanosuit, plus un énorme bonus de vitesse, un saut plus haut et une meilleure réduction de Vis. Ce sont les bottes parfaites pour le maître ingénieur en magie.%n%n[note]Si vous voulez progresser dans les arts obscurs, vous pouvez aussi en faire des Boots of the Voidwalker.[/note]
 
 # Quest: Walking across the stars
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1g.name=Walking across the stars
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1g.desc=Quantum Boots of the Traveller, for when you really need to run as fast as the wind. Might cause you some problems standing still!%n%n[note]If you want to advance in the dark arts you can also make them voidwalker boots.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1g.name=Marcher parmi les étoiles
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI1g.desc=Les Quantum Boots of the Traveller, pour quand vous avez vraiment besoin de courir aussi vite que le vent. Rester immobile risque de vous poser quelques problèmes !%n%n[note]Si vous voulez progresser dans les arts obscurs, vous pouvez aussi en faire des Boots of the Voidwalker.[/note]
 
 # Quest: Flying Like....Mary Poppins?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDA.name=Flying Like....Mary Poppins?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDA.desc=The Thaumostatic Harness grants you flight, using up Potentia from a jar. The speed isn't great though, so perhaps further research will yield some results.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDA.name=Voler comme... Mary Poppins ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDA.desc=Le Thaumostatic Harness vous permet de voler en consommant du Potentia contenu dans un bocal. La vitesse n'est pas terrible, cependant ; peut-être que des recherches plus poussées donneront quelque chose.
 
 # Quest: Flying With the Greatest of Ease
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDQ.name=Flying With the Greatest of Ease
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDQ.desc=Ahh, that's better. With this girdle you can really fly around like a true wizard. It does take a little extra potentia to use though, so keep an eye on your flying time.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDQ.name=Voler avec la plus grande aisance
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDQ.desc=Ahh, c'est mieux. Avec cette ceinture, vous pouvez vraiment voler comme un vrai magicien. Elle consomme toutefois un peu plus de Potentia, alors gardez un œil sur votre temps de vol.
 
 # Quest: Working While Flying?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDg.name=Working While Flying?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDg.desc=With these devices you can now fly and work at the same time without penalty. They can be found in the Witching Gadgets tab of the book. You'll need a Swiftness potion for this device.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDg.name=Travailler en volant ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDg.desc=Avec ces appareils, vous pouvez désormais voler et travailler en même temps sans pénalité. Vous les trouverez dans l'onglet Witching Gadgets du livre. Il vous faudra une potion de Rapidité pour cet appareil.
 
 # Quest: Long Distance Power Delivery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDw.name=Long Distance Power Delivery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDw.desc=No mage wants to be restricted to short flying times. With this spire from the Automagy discipline you can transmit magical energy directly to your flying harness. To get the correct Thaumium block, compress 9 ingots to get the GT Thaumium block and then chisel that block to get the correct type.%n%nThis multiblock requires centi-vis to operate. You can use 2-6 Thaumostatic Pylons, with additional pylons extending the range. Provide the construct Aer centi-vis to operate, and it will accept Potentia essentia to transfer to flyers. The construct will also accept Aer and Volatus essentia to increase the range and rate of transfer, respectively. Right-click the sides of the controller to control which type of essentia each side will accept.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDw.name=Transport d'énergie longue distance
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIDw.desc=Aucun mage ne veut être limité à de courtes durées de vol. Avec cette flèche de la discipline Automagy, vous pouvez transmettre de l'énergie magique directement à votre harnais de vol. Pour obtenir le bon bloc de Thaumium, compressez 9 lingots pour obtenir le bloc de Thaumium GT, puis ciselez ce bloc pour obtenir le bon type.%n%nCe multibloc a besoin de centi-vis pour fonctionner. Vous pouvez utiliser de 2 à 6 Thaumostatic Pylons, les pylônes supplémentaires augmentant la portée. Fournissez au dispositif des centi-vis d'Aer pour le faire fonctionner, et il acceptera de l'essentia Potentia à transférer aux joueurs en vol. Il accepte aussi de l'essentia Aer et Volatus pour augmenter respectivement la portée et le débit de transfert. Faites un clic droit sur les côtés du contrôleur pour choisir quel type d'essentia chaque côté accepte.
 
 # Quest: Flying Like a Eag - I Mean Raven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEg.name=Flying Like a Eag - I Mean Raven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEg.desc=This cloak is a nice substitute for the Glider. There are plenty of other magical items worth a look in the Witching Gadgets tab.%nIf you want to toggle gliding with a key - configure binding for "Hotkey for activating some worn items" in control settings.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEg.name=Voler comme un aigl... euh, un corbeau
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIEg.desc=Cette cape remplace avantageusement le planeur. Il y a bien d'autres objets magiques qui valent le coup d'œil dans l'onglet Witching Gadgets.%nSi vous voulez activer le vol plané avec une touche, configurez la touche « Hotkey for activating some worn items » dans les paramètres de contrôle.
 
 # Quest: 'Easy' Teleportation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnQ.name='Easy' Teleportation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnQ.desc=They may be a pain to craft, but teleposers are very useful for teleporting. Use the Teleposition Focus to set the first Teleposer location and put it in the second. Apply a redstone signal, and it'll teleport you at the cost of LP. It can also move items or entities, with the size increasing with better foci.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnQ.name=Téléportation « facile »
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJnQ.desc=Ils sont peut-être pénibles à fabriquer, mais les Teleposers sont très utiles pour se téléporter. Utilisez le Teleposition Focus pour enregistrer l'emplacement du premier Teleposer, puis placez-le dans le second. Envoyez un signal de redstone et il vous téléportera en échange de LP. Il peut aussi déplacer des objets ou des entités, sur une zone d'autant plus grande que le focus est meilleur.
 
 # Quest: Flippers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALUw.name=Flippers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALUw.desc=Maybe you were lucky and found some Flippers in a loot chest or dungeon.%n%nFlippers allow the player to swim at the same speed as walking. The only problem is that it has 0 armor protection.%n%nIf you're doing underwater construction, or digging out some clay or gravel, you may find them useful.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALUw.name=Palmes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALUw.desc=Vous avez peut-être eu la chance de trouver des Palmes dans un coffre au trésor ou un donjon.%n%nLes Palmes permettent au joueur de nager aussi vite qu'il marche. Le seul problème : elles offrent 0 point d'armure.%n%nSi vous faites de la construction sous-marine, ou si vous extrayez de l'argile ou du gravier, elles pourraient vous être utiles.
 
 # Quest: Travelocity²
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3Q.name=Travelocity²
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3Q.desc=Why walk when you can teleport? This upgrade to the staff of traveling can move you even further, even faster, and will never run out of energy.%n%nRight-click:%n * If targeting a travel anchor: teleport to it, 2048 range%n * If looking at a block: teleport to it, 512 range%n * If no block in range: teleport forward, 64 range%n * If looking at a block within 4 range: teleport to the other side of a wall, 16 range%n * No cooldown%n%nShift-right-click:%n * Same as right-click, but ignoring travel anchors%n * Travel anchors will be hidden from view while holding shift%n%n[note]Tip: You won't be able to see travel anchors that are far away, but can still teleport to them if they are in range and chunk-loaded. Try using JourneyMap waypoints to mark anchors![/note]%n%n[note]Note: The right-click and shift-right-click actions are fully configurable. Check the EnderIO Staff Settings configs!%nConfig action values:%n 0: Do nothing%n 1: Teleport to look / forward%n 2: Teleport to anchor%n 3: Teleport to anchor, or to look / forward if no anchor[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM3Q.desc=Pourquoi marcher quand on peut se téléporter ? Cette amélioration du Staff of Traveling vous emmène encore plus loin, encore plus vite, et ne tombe jamais à court d'énergie.%n%nClic droit :%n * En visant une Travel Anchor : téléportation vers elle, portée 2048%n * En regardant un bloc : téléportation vers lui, portée 512%n * Si aucun bloc à portée : téléportation vers l'avant, portée 64%n * En regardant un bloc à 4 blocs ou moins : téléportation de l'autre côté d'un mur, portée 16%n * Aucun temps de recharge%n%nMaj + clic droit :%n * Comme le clic droit, mais en ignorant les Travel Anchors%n * Les Travel Anchors sont masquées tant que vous maintenez Maj%n%n[note]Astuce : vous ne verrez pas les Travel Anchors éloignées, mais vous pouvez quand même vous y téléporter si elles sont à portée et chargées (chunk-loaded). Essayez d'utiliser des waypoints JourneyMap pour marquer vos ancres ![/note]%n%n[note]Remarque : les actions du clic droit et de Maj + clic droit sont entièrement configurables. Consultez la configuration EnderIO Staff Settings !%nValeurs d'action de la configuration :%n 0 : ne rien faire%n 1 : se téléporter vers le regard / vers l'avant%n 2 : se téléporter vers une ancre%n 3 : se téléporter vers une ancre, ou vers le regard / l'avant s'il n'y a pas d'ancre[/note]
 
 # Quest: Let's Go Lava Surfing!
-betterquesting.quest.BC7LS6iHTYW_U0-SuIA4Sg.name=Let's Go Lava Surfing!
-betterquesting.quest.BC7LS6iHTYW_U0-SuIA4Sg.desc=The Thaumium Boat is an upgraded version of your Greatwood Boat. The experience you have gained from manufacturing boats made of magical materials allows you to create a boat that can go even faster. Additionally, the Thaumium coating allows it to sail not only in rivers but also lava streams! Take it with you on your vacation in the Nether and enjoy.
+betterquesting.quest.BC7LS6iHTYW_U0-SuIA4Sg.name=Allons surfer sur la lave !
+betterquesting.quest.BC7LS6iHTYW_U0-SuIA4Sg.desc=Le Thaumium Boat est une version améliorée de votre Greatwood Boat. L'expérience acquise en fabriquant des bateaux en matériaux magiques vous permet de créer un bateau encore plus rapide. De plus, le revêtement en Thaumium lui permet de naviguer non seulement sur les rivières, mais aussi sur les coulées de lave ! Emportez-le pour vos vacances dans le Nether et profitez-en.
 
 # Quest: Enhanced Charm of Dislocation
 betterquesting.quest.G7ACOCTJRi-bk6XQxZVtIQ.name=Enhanced Charm of Dislocation
-betterquesting.quest.G7ACOCTJRi-bk6XQxZVtIQ.desc=Very powerful.
+betterquesting.quest.G7ACOCTJRi-bk6XQxZVtIQ.desc=Très puissant.
 
 # Quest: Charm of Dislocation
 betterquesting.quest.SxCNz5_RSym0Q-uKaG2JRA.name=Charm of Dislocation
-betterquesting.quest.SxCNz5_RSym0Q-uKaG2JRA.desc=They have limited durability. So either put them on a pedestal to avoid durability loss, or use a thaumic restorer.
+betterquesting.quest.SxCNz5_RSym0Q-uKaG2JRA.desc=Ils ont une durabilité limitée. Alors placez-les sur un piédestal pour éviter de perdre de la durabilité, ou utilisez un Thaumic Restorer.
 
 # Quest: Planar Gateways
-betterquesting.quest.U6wfKJSxTiyYvcz-f-76EA.name=Planar Gateways
-betterquesting.quest.U6wfKJSxTiyYvcz-f-76EA.desc=A planar gateway from Thaumic Horizons lets you travel to a pocket dimension. Setting up multiple gateways (up to 4) to the pocket dimension even allows for travel to other dimensions!
+betterquesting.quest.U6wfKJSxTiyYvcz-f-76EA.name=Portails planaires
+betterquesting.quest.U6wfKJSxTiyYvcz-f-76EA.desc=Un Planar Gateway de Thaumic Horizons vous permet de voyager vers une dimension de poche. Installer plusieurs portails (jusqu'à 4) vers la dimension de poche permet même de voyager vers d'autres dimensions !
 
 # Quest: Chaos Locator
 betterquesting.quest._D1VyrEFSICL70afdVd1YQ.name=Chaos Locator
-betterquesting.quest._D1VyrEFSICL70afdVd1YQ.desc=This device is fashioned to greatly accelerate the hunt for chaos shards, by teleporting you straight to them! %n%nSimply enter any number from -1000 to 1000 in the coordinate fields, click the button and you will be teleported directly to a chaos island, even across dimensions. %nHow convenient!%n%n[note]You will still have to fight the chaos guardian though, this isn't a cosmic superweapon.[/note]
+betterquesting.quest._D1VyrEFSICL70afdVd1YQ.desc=Cet appareil est conçu pour accélérer grandement la chasse aux Chaos Shards, en vous téléportant directement jusqu'à eux ! %n%nIl suffit d'entrer n'importe quel nombre de -1000 à 1000 dans les champs de coordonnées, de cliquer sur le bouton, et vous serez téléporté directement sur une île du chaos, même à travers les dimensions. %nComme c'est pratique !%n%n[note]Il vous faudra quand même combattre le gardien du chaos, ce n'est pas une super-arme cosmique.[/note]
 
 # Quest: Speed up with the Sash
-betterquesting.quest.aXAQD7T1SnGCAu0L4iV64w.name=Speed up with the Sash
-betterquesting.quest.aXAQD7T1SnGCAu0L4iV64w.desc=The Sashes from Botania improves your speed passively along with a jump boost and provide Step assist all while fitting in your belt slot, how convenient is that?%n%nYou will need a method of powering them with either the mana tablet or the mana mirror linked to a pool.%n%nThe Soujourner Sash provides the basic speed boost, jump boost and step assist while the Globetrotter provides double the jump height and speed boost.%n%nThe Planestrider is special since it provides a slowly increasing speed boost as long as you are moving. You can even reach up to 11 times the Soujourner Sash speed boost!%n%n[note]You only need to make one Sash to complete the quest.[/note]
+betterquesting.quest.aXAQD7T1SnGCAu0L4iV64w.name=Accélérez avec l'écharpe
+betterquesting.quest.aXAQD7T1SnGCAu0L4iV64w.desc=Les écharpes (Sashes) de Botania augmentent passivement votre vitesse, avec un bonus de saut et une assistance à la marche, le tout dans votre emplacement de ceinture. Pratique, non ?%n%nIl vous faudra un moyen de les alimenter, soit avec la Mana Tablet, soit avec le Mana Mirror relié à un bassin.%n%nLa Soujourner's Sash offre le bonus de vitesse de base, le bonus de saut et l'assistance à la marche, tandis que la Globetrotter's Sash double la hauteur de saut et le bonus de vitesse.%n%nLa Planestrider's Sash est spéciale : elle donne un bonus de vitesse qui augmente lentement tant que vous êtes en mouvement. Vous pouvez même atteindre jusqu'à 11 fois le bonus de vitesse de la Soujourner's Sash !%n%n[note]Vous n'avez besoin de fabriquer qu'une seule écharpe pour terminer la quête.[/note]
 
 # Quest: Alternative to blasting off!?
-betterquesting.quest.iWmU5h_ZSPqAcObmxgW5bw.name=Alternative to blasting off!?
-betterquesting.quest.iWmU5h_ZSPqAcObmxgW5bw.desc=Are you sick and tired of using the rocket to blast off every time and want an alternative and faster method? The EnderIO Telepad is a 3x3x1 structure that when powered with RF will teleport the player to a set coordinate.%n%nTo set the Coordinate you will need a Coordinate selector tool to mark an area by shift-right-clicking to mark. Then shift-right-click the middle of the EnderIO Telepad pad to set the desired location.%n%nThen stand on the pad and click teleport to be sent in style.
+betterquesting.quest.iWmU5h_ZSPqAcObmxgW5bw.name=Une alternative au décollage !?
+betterquesting.quest.iWmU5h_ZSPqAcObmxgW5bw.desc=Vous en avez assez de devoir décoller en fusée à chaque fois et vous voulez une méthode alternative plus rapide ? Le Telepad d'EnderIO est une structure de 3x3x1 qui, alimentée en RF, téléporte le joueur vers des coordonnées définies.%n%nPour définir les coordonnées, il vous faut un Coordinate Selector pour marquer une zone avec Maj + clic droit. Faites ensuite Maj + clic droit au centre du Telepad d'EnderIO pour définir la destination.%n%nPuis tenez-vous sur le pad et cliquez sur Téléporter pour partir avec classe.
 
 # Quest: Teleporter
 betterquesting.quest.tJdwTeS6TOOFACQhNuUvEw.name=Teleporter
-betterquesting.quest.tJdwTeS6TOOFACQhNuUvEw.desc=The IndustrialCraft2 Teleporter allows for teleportation between 2 connected teleporters.%nIt requires energy storing block right next to it due to the massive power demand.%n%n[note]The energy required is determined by the distance between the teleporters and amount of items in the inventory.[/note]%n%n[note]The teleporter is quite buggy according to the official wiki.[/note]
+betterquesting.quest.tJdwTeS6TOOFACQhNuUvEw.desc=Le Teleporter d'IndustrialCraft2 permet de se téléporter entre 2 Teleporters reliés.%nIl a besoin d'un bloc de stockage d'énergie juste à côté, à cause de son énorme consommation.%n%n[note]L'énergie requise dépend de la distance entre les Teleporters et du nombre d'objets dans l'inventaire.[/note]%n%n[note]D'après le wiki officiel, le Teleporter est assez buggé.[/note]
 
 # Quest: Spare Battery
-betterquesting.quest.vv296Z3mSUqkQEaiJqQcOw.name=Spare Battery
-betterquesting.quest.vv296Z3mSUqkQEaiJqQcOw.desc=The Electric Jetpack may be useful for flight, but it doesn't seem to last very long. %n%nIf only there was an integrated upgradable battery pack you could keep on your player to extend it's range...%n%nOh wait, there is!%n%nThe §5§lCharge Pack§r can be used as a battery pack for charging items both in your hotbar and armor equip to your person. Simply place it in the belt bauble slot and it should be fully functional! The HV one should serve you nicely for now.%n%n[note]You can upgrade the Charge Pack as you unlock items that require higher voltages for charging. The Charge Pack will charge anything of-tier or lower- but not higher.[/note]
+betterquesting.quest.vv296Z3mSUqkQEaiJqQcOw.name=Batterie de rechange
+betterquesting.quest.vv296Z3mSUqkQEaiJqQcOw.desc=L'Electric Jetpack est peut-être utile pour voler, mais il ne semble pas tenir très longtemps. %n%nSi seulement il existait un pack de batteries intégré et améliorable à garder sur vous pour augmenter son autonomie...%n%nOh, attendez, il existe !%n%nLe §5§lCharge Pack§r peut servir de pack de batteries pour recharger les objets de votre barre d'accès rapide et l'armure que vous portez. Placez-le simplement dans l'emplacement de ceinture (Baubles) et il devrait être pleinement fonctionnel ! Celui de niveau HV devrait bien vous servir pour le moment.%n%n[note]Vous pouvez améliorer le Charge Pack à mesure que vous débloquez des objets qui demandent des tensions plus élevées pour se recharger. Le Charge Pack recharge tout ce qui est de son tier ou inférieur, mais pas supérieur.[/note]
 
 
 ## Quest Line: ...Without Dying
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.name=...Without Dying
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.desc=In order to not die constantly, you'll need weapons and armor. There's also utility stuff adventure backpacks and static defenses for your base.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.name=...sans mourir
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.desc=Pour ne pas mourir sans arrêt, il vous faudra des armes et des armures. Vous trouverez aussi des objets utilitaires, des Adventure Backpacks et des défenses fixes pour votre base.
 
 # Quest: Protect Your Base: Tier 4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=§a§lProtect Your Base: Tier 4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=The small parts for the powerful turrets.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=§a§lProtégez votre base : Tier 4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Les petites pièces des tourelles puissantes.
 
 # Quest: Make Love, Not War
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=§a§lMake Love, Not War
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.desc=For those who don't want to kill things. Just teleport them away, however this takes a large amount of power.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=§a§lFaites l'amour, pas la guerre
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.desc=Pour ceux qui ne veulent pas tuer. Téléportez-les simplement ailleurs ; cela demande toutefois beaucoup d'énergie.
 
 # Quest: Why Grenades...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.name=§a§lWhy Grenades...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.desc=...when you can use rockets? Yes, rockets! They search and destroy, and go off with a huge boom.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.name=§a§lPourquoi des grenades...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.desc=...quand on peut utiliser des roquettes ? Oui, des roquettes ! Elles traquent et détruisent leur cible, et explosent dans un énorme boum.
 
 # Quest: Tier 4 Fence and Walls
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=§a§lTier 4 Fence and Walls
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=Another upgrade for your walls. One more to go!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=§a§lClôtures et murs Tier 4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=Encore une amélioration pour vos murs. Plus qu'une !
 
 # Quest: Almost Unbreakable
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.name=§b§lAlmost Unbreakable
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.desc=Probably not required any more, but you've made so many walls already. So why not get the best ones?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.name=§b§lPresque incassable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.desc=Ce n'est sans doute plus nécessaire, mais vous avez déjà construit tellement de murs. Alors pourquoi ne pas prendre les meilleurs ?
 
 # Quest: Protect Your Base: Tier 5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=§b§lProtect Your Base: Tier 5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=Tough materials, for tough weapons. Railguns, and lasers, and... stuff. I assume you want a lot of those soon.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=§b§lProtégez votre base : Tier 5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=Des matériaux résistants pour des armes redoutables. Des railguns, des lasers, et... des trucs. Je suppose que vous allez bientôt en vouloir beaucoup.
 
 # Quest: Turret Base Tier 5
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.name=§b§lTurret Base Tier 5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.desc=The last one, I promise. Used for the most powerful turrets available. You wonder if they might help you take out some more... "Dangerous" enemies?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.desc=La dernière, promis. Elle sert aux tourelles les plus puissantes disponibles. Vous vous demandez si elles pourraient vous aider à éliminer quelques ennemis plus... « dangereux » ?
 
 # Quest: PewPew!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3g.name=§b§lPewPew!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3g.desc=Requires no ammo, but still does a ton of damage. All you need to do is feed it power, a lot of power.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3g.name=§b§lPiou piou !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3g.desc=Aucune munition requise, et pourtant d'énormes dégâts. Il vous suffit de l'alimenter en énergie, beaucoup d'énergie.
 
 # Quest: Railguns, What Else
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.name=§b§lRailguns, What Else
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.desc=Massive power, and a wonderful sound when they fire. I recommend to use upgrades to increase range and damage.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.name=§b§lDes railguns, quoi d'autre ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.desc=Une puissance colossale, et un son merveilleux quand ils tirent. Je recommande d'utiliser des améliorations pour augmenter la portée et les dégâts.
 
 # Quest: Protect Your Base: Tier 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=§5§lProtect Your Base: Tier 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=One needs proper protection for ones home. So why not get some turrets for safety? At the moment, 2 Turrets are available: "Potato" and "disposable item". I assume you can guess what they do and how they work...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=§5§lProtégez votre base : Tier 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=Il faut bien protéger son chez-soi. Alors pourquoi ne pas installer quelques tourelles pour plus de sécurité ? Pour l'instant, 2 tourelles sont disponibles : « Potato » et « Disposable Item ». Je suppose que vous devinez ce qu'elles font et comment elles fonctionnent...
 
 # Quest: Passive Defence
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeQ.name=§5§lPassive Defence
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeQ.desc=A more "passive" approach to base defense are walls and fences. But seriously, where's the fun in that?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeQ.name=§5§lDéfense passive
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeQ.desc=Les murs et les clôtures sont une approche plus « passive » de la défense de base. Mais sérieusement, où est le plaisir là-dedans ?
 
 # Quest: Turret Base
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeg.name=§5§lTurret Base
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeg.desc=Turrets must be placed on top of a turret base. Only the player who initially placed the base can access and configure the turret. So don't worry about people taking your ammunition.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeg.desc=Les tourelles doivent être placées sur une Turret Base. Seul le joueur qui a posé la base peut accéder à la tourelle et la configurer. Pas d'inquiétude, donc, personne ne vous volera vos munitions.
 
 # Quest: Who Needs That Dirt Anyway
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAew.name=§5§lWho Needs That Dirt Anyway
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAew.desc=You probably have a ton of items floating around in your base. So why not use them to kill your enemies?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAew.name=§5§lDe toute façon, qui a besoin de cette terre ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAew.desc=Vous avez sûrement une tonne d'objets qui traînent dans votre base. Alors pourquoi ne pas vous en servir pour tuer vos ennemis ?
 
 # Quest: Don't Play With Your Food!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfA.name=§5§lDon't Play With Your Food!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfA.desc=Use it to kill zombies instead. Does only a little damage, but hey, who cares?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfA.name=§5§lOn ne joue pas avec la nourriture !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfA.desc=Servez-vous-en plutôt pour tuer des zombies. Ça ne fait que peu de dégâts, mais bon, qui s'en soucie ?
 
 # Quest: Upgrading Intensifies
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfQ.name=§5§lUpgrading Intensifies
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfQ.desc=Your turrets probably need more space to hold more ammunition, so why not get an upgrade for that?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfQ.name=§5§lAmélioration intensifiée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfQ.desc=Vos tourelles ont sans doute besoin de plus de place pour stocker davantage de munitions, alors pourquoi ne pas leur offrir une amélioration pour ça ?
 
 # Quest: Luke, I'm Your Father
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=Luke, I'm Your Father
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.desc=With that dark steel you got, you may now craft yourself a new set of armor. While pretty basic at first, it can be upgraded later to unlock powerful features.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=Luke, je suis ton père
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.desc=Avec le Dark Steel que vous avez obtenu, vous pouvez désormais vous fabriquer une nouvelle armure. Plutôt basique au départ, elle peut être améliorée plus tard pour débloquer de puissantes fonctionnalités.
 
 # Quest: Harder, Stronger, Faster
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmw.name=§6§lHarder, Stronger, Faster
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmw.desc=No, actually not faster. But more durable than tier 1.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmw.name=§6§lPlus dur, plus fort, plus rapide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmw.desc=Non, en fait, pas plus rapide. Mais plus durable que le tier 1.
 
 # Quest: Protect Your Base: Tier 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=§6§lProtect Your Base: Tier 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=Slightly better protection. Now with a real gun. No more wasting food.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=§6§lProtégez votre base : Tier 2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=Une protection un peu meilleure. Désormais avec une vraie arme à feu. Fini le gaspillage de nourriture.
 
 # Quest: Tier 2 Turret Base
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnQ.name=§6§lTier 2 Turret Base
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnQ.desc=Nothing to see here. Proceed...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnQ.desc=Rien à voir ici. Circulez...
 
 # Quest: Sometimes, a Bullet Will Do
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAng.name=§6§lSometimes, a Bullet Will Do
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAng.desc=They hit hard. You have been warned.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAng.name=§6§lParfois, une balle suffit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAng.desc=Elles frappent fort. Vous voilà prévenu.
 
 # Quest: Burn Them. Burn Them All!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnw.name=§6§lBurn Them. Burn Them All!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnw.desc=Hmmm, crispy bacon. What would happen if you enable neutral mobs as targeting...?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnw.name=§6§lBrûlez-les. Brûlez-les tous !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnw.desc=Hmmm, du bacon croustillant. Que se passerait-il si vous activiez le ciblage des créatures neutres... ?
 
 # Quest: Almost Like Steel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqw.name=§9§lAlmost Like Steel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqw.desc=Next-gen protection against nasty zombies, creepers and other "stuff".
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqw.name=§9§lPresque comme l'acier
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqw.desc=Une protection nouvelle génération contre les méchants zombies, creepers et autres « trucs ».
 
 # Quest: Protect Your Base: Tier 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArA.name=§9§lProtect Your Base: Tier 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArA.desc=Now we're talking: Grenades! The next in big badda boom hardware.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArA.name=§9§lProtégez votre base : Tier 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArA.desc=Là, on parle : des grenades ! La nouveauté en matière de matériel qui fait gros boum.
 
 # Quest: Tier 3 Base
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.name=§9§lTier 3 Base
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.desc=More storage, more power, and a lot more slots for possible upgrades.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.name=§9§lBase Tier 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.desc=Plus de stockage, plus d'énergie, et beaucoup plus d'emplacements pour d'éventuelles améliorations.
 
 # Quest: This is Relatively Useful
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArg.name=§9§lThis is Relatively Useful
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArg.desc=For... some things... maybe... At least it's fun to watch?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArg.name=§9§lC'est relativement utile
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArg.desc=Pour... certaines choses... peut-être... Au moins, c'est amusant à regarder ?
 
 # Quest: Fire in the Hole
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.name=§9§lFire in the Hole
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.desc=Ah, there's nothing like an explosion and the certainty that your enemies have been blasted into tiny pieces.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.name=§9§lAttention, ça va péter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.desc=Ah, rien ne vaut une explosion et la certitude que vos ennemis ont été réduits en miettes.
 
 # Quest: Turret Base Tier 4
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.name=§a§lTurret Base Tier 4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=Even more range, power and upgrade slots.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=Encore plus de portée, d'énergie et d'emplacements d'amélioration.
 
 # Quest: Iron Shields
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkA.name=§2§lIron Shields
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkA.desc=You've been using your hide shield long enough. After you make your first tools, grab a bit of iron ore and make a nice iron shield.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACkA.name=§2§lBoucliers en fer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACkA.desc=Vous utilisez votre bouclier en peau depuis assez longtemps. Après avoir fabriqué vos premiers outils, récupérez un peu de minerai de Fer et fabriquez-vous un beau bouclier en fer.
 
 # Quest: Stone spear
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkQ.name=§2§lStone spear
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkQ.desc=Upgrade your wooden spear with a stone arrowhead and iron screws to a stone spear.%nThis spear has better durability than the wooden one.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACkQ.name=§2§lLance en pierre
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACkQ.desc=Améliorez votre lance en bois avec une pointe de flèche en pierre et des vis en Fer pour obtenir une lance en pierre.%nCette lance est plus durable que celle en bois.
 
 # Quest: Iron Spear
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkg.name=§3§lIron Spear
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkg.desc=Upgrade your wooden spear with an iron arrowhead and two steel screws to an iron spear.%n%nThe iron spear has better durability than the stone variant.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACkg.name=§3§lLance en fer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACkg.desc=Améliorez votre lance en bois avec une pointe de flèche en fer et deux vis en Acier pour obtenir une lance en fer.%n%nLa lance en fer est plus durable que la variante en pierre.
 
 # Quest: Diamond Spear
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkw.name=§6§lDiamond Spear
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkw.desc=At MV Tier you can upgrade your iron spear to a diamond one. Get a diamond arrowhead, two stainless steel screws and a wooden spear.%n%nThis spear has superior durability.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACkw.name=§6§lLance en diamant
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACkw.desc=Au tier MV, vous pouvez améliorer votre lance en fer en lance en diamant. Procurez-vous une pointe de flèche en diamant, deux vis en Acier inoxydable et une lance en bois.%n%nCette lance a une durabilité supérieure.
 
 # Quest: Diamond Shield
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=§6§lDiamond Shield
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=Your iron shield is old and worn out. With a shield made from diamond plates you can maintain block for up to 5 seconds.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=§6§lBouclier en diamant
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=Votre bouclier en fer est vieux et usé. Avec un bouclier fait de plaques de Diamant, vous pouvez maintenir le blocage jusqu'à 5 secondes.
 
 # Quest: Bow, Arrows and Quiver
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=§5§lBow, Arrows and Quiver
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=Wow, your first handmade §oehm§r machine made bow. Now it's time to make a quiver and maybe some arrows.%n%nTo place arrows in the quiver, put the quiver and the stack of arrows in a crafting grid. Make sure the Gameplay key Special doesn't conflict with other keybinds. By default, it is Z. When you have the bow selected, use Z to swap arrow slots in the quiver.%n%nWhile it seems like these might be worthless, these arrows do have special uses. You really want to share a cookie with friends, don't you?%n%nLet's go hunt a bit.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=§5§lArc, flèches et carquois
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=Waouh, votre premier arc fait main §oeuh§r fait à la machine. Il est temps de fabriquer un carquois et peut-être quelques flèches.%n%nPour mettre des flèches dans le carquois, placez le carquois et la pile de flèches dans une grille de fabrication. Vérifiez que la touche Gameplay « Special » n'entre pas en conflit avec d'autres raccourcis. Par défaut, c'est Z. Quand l'arc est sélectionné, utilisez Z pour changer d'emplacement de flèches dans le carquois.%n%nMême si elles semblent inutiles, ces flèches ont des usages particuliers. Vous voulez vraiment partager un cookie avec vos amis, non ?%n%nAllons chasser un peu.
 
 # Quest: Wet Dirt Armor?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqw.name=Wet Dirt Armor?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqw.desc=If you don't have any armor, "mud armor" is better than nothing. Mud can be found in some wet biomes, or crafted from dirt and water.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACqw.name=Armure en terre mouillée ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACqw.desc=Si vous n'avez aucune armure, une « armure de boue » vaut mieux que rien. La boue se trouve dans certains biomes humides, ou se fabrique avec de la terre et de l'eau.
 
 # Quest: Wooden Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACrA.name=Wooden Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACrA.desc=If you can't find mud you can make very poor armor out of wood. Cutting down a few trees to make a set should do. You will need a soft mallet too, so save a few logs for that.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACrA.name=Armure en bois
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACrA.desc=Si vous ne trouvez pas de boue, vous pouvez fabriquer une très médiocre armure en bois. Abattre quelques arbres devrait suffire pour un ensemble complet. Il vous faudra aussi un maillet souple (Soft Mallet), alors gardez quelques bûches pour lui.
 
 # Quest: Armor 2.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACrQ.name=Armor 2.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACrQ.desc=Iron armor is much better than the leather armor. Especially when you have to go outside during the night.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACrQ.name=Armure 2.0
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACrQ.desc=L'armure en fer est bien meilleure que l'armure en cuir. Surtout quand vous devez sortir la nuit.
 
 # Quest: Leather Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACrg.name=Leather Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACrg.desc=Killing some cows will give you enough leather to craft a complete set of leather armor.%n%nHint: You are able to dye this armor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACrg.name=Armure en cuir
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACrg.desc=Tuer quelques vaches vous donnera assez de cuir pour fabriquer une armure en cuir complète.%n%nAstuce : vous pouvez teindre cette armure.
 
 # Quest: Bronze armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACrw.name=Bronze armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACrw.desc=Bronze armor has the same abilities as iron armor. Same durability, same protection and same enchantment capability.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACrw.name=Armure en bronze
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACrw.desc=L'armure en Bronze a les mêmes caractéristiques que l'armure en fer : même durabilité, même protection et même capacité d'enchantement.
 
 # Quest: "Nice to Have" Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACsA.name="Nice to Have" Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACsA.desc=The gold armor is a "nice to have" armor. The durability is very low but you look expensive when you wear it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACsA.name=Armure « sympa à avoir »
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACsA.desc=L'armure en or est une armure « sympa à avoir ». Sa durabilité est très faible, mais vous avez l'air riche quand vous la portez.
 
 # Quest: "Ooo, Shiny" Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACsQ.name="Ooo, Shiny" Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACsQ.desc=Diamond armor is the best armor in Vanilla Minecraft, but over here there are much better armors available.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACsQ.name=Armure « Ooh, ça brille »
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACsQ.desc=L'armure en diamant est la meilleure armure de Minecraft vanilla, mais ici, il existe des armures bien meilleures.
 
 # Quest: Fancy Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACsg.name=Fancy Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACsg.desc=Not really better but fancier. The chain mail armor is made out of steel rings.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACsg.name=Armure chic
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACsg.desc=Pas vraiment meilleure, mais plus chic. La cotte de mailles est faite d'anneaux en Acier.
 
 # Quest: Armor 2.5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACsw.name=Armor 2.5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACsw.desc=The steel armor has more durability than the iron/bronze or chainmail armor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACsw.name=Armure 2.5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACsw.desc=L'armure en Acier est plus durable que l'armure en fer, en bronze ou que la cotte de mailles.
 
 # Quest: Composite Vest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACtA.name=Composite Vest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACtA.desc=Combining the strength of advanced alloy plates with the steel chestplate makes your vest very hard. Now you have double the durability and increased armor points by 1.5.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACtA.desc=Allier la résistance des plaques d'Advanced Alloy au plastron en acier rend votre gilet très dur. Vous avez maintenant deux fois plus de durabilité et 1.5 fois plus de points d'armure.
 
 # Quest: Dark Steel Armor Basic Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3w.name=Dark Steel Armor Basic Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3w.desc=In order to upgrade one armor item with basic upgrades, you need a vibrant crystal and 10 XP levels. Some upgrades can be applied directly, but more advanced ones will require empowering the armor first.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3w.name=Améliorations de base de l'armure en Dark Steel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD3w.desc=Pour appliquer une amélioration de base à une pièce d'armure, il vous faut un Vibrant Crystal et 10 niveaux d'XP. Certaines améliorations peuvent être appliquées directement, mais les plus avancées nécessitent d'abord de renforcer (empower) l'armure.
 
 # Quest: Dark Steel Armor Advanced Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD5Q.name=Dark Steel Armor Advanced Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAD5Q.desc=Your Dark Steel armor can be upgraded in various ways by combining it with various other items. You will need an anvil and a lot of XP.%n%nMake sure when making the potions to only do three at a time, so the NBT data matches.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD5Q.name=Améliorations avancées de l'armure en Dark Steel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAD5Q.desc=Votre armure en Dark Steel peut être améliorée de diverses manières en la combinant avec divers autres objets. Il vous faudra une enclume et beaucoup d'XP.%n%nQuand vous préparez les potions, n'en faites que trois à la fois, pour que les données NBT correspondent.
 
 # Quest: Carbon Parts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.name=Carbon Parts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.desc=These are the first parts you will need for your beloved nano armor.%n%n[note]To actually complete the nano armor you will need EV circuits and nano crystals (see Storing and Transforming EU).[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.name=Pièces en carbone
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.desc=Ce sont les premières pièces dont vous aurez besoin pour votre chère armure nano.%n%n[note]Pour terminer réellement l'armure nano, il vous faudra des circuits EV et des nano-cristaux (voir l'onglet Stocker et transformer les EU).[/note]
 
 # Quest: Seeing Things Brighter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCA.name=Seeing Things Brighter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCA.desc=The nano helmet is a bit special. It will provide you with night vision as long as you have energy!%n%n[note]If you got these from a lootbag, hold these in your hand after completing the "Carbon Parts" quest to skip this quest.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCA.name=Voir les choses plus clairement
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCA.desc=Le casque nano est un peu spécial. Il vous offre la vision nocturne tant que vous avez de l'énergie !%n%n[note]Si vous les avez obtenus dans un sac de butin, tenez-les en main après avoir terminé la quête « Pièces en carbone » pour passer cette quête.[/note]
 
 # Quest: Carbon Skin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCw.name=Carbon Skin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCw.desc=You can stop worrying about some mobs for now. This will help you survive a bit and will give you some of that SWAG. Your journey doesn't stop here traveller, as quantum armor awaits you!%n%n[note]PS: The nano suit also acts as hazmat gear.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCw.name=Peau de carbone
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCw.desc=Vous pouvez arrêter de vous inquiéter de certains monstres pour le moment. Ceci vous aidera à survivre un peu et vous donnera un certain STYLE. Votre voyage ne s'arrête pas là, voyageur : l'armure quantique vous attend !%n%n[note]PS : la nanosuit sert aussi de tenue de protection contre les matières dangereuses (hazmat).[/note]
 
 # Quest: Sensor Lens
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.name=Sensor Lens
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.desc=The night vision goggles need special sensor lenses to work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.desc=Les lunettes de vision nocturne ont besoin de lentilles de capteur spéciales (Sensor Lens) pour fonctionner.
 
 # Quest: Advanced Heat Exchanger
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHQ.name=Advanced Heat Exchanger
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHQ.desc=The night vision goggles need advanced heat exchangers to work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHQ.desc=Les lunettes de vision nocturne ont besoin d'Advanced Heat Exchangers pour fonctionner.
 
 # Quest: Don't Try to Dive With It
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHw.name=Don't Try to Dive With It
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHw.desc=Combining a scuba helmet with a nano helmet in an assembling machine will give you a nano scuba helmet. You'd better not try to dive with it because you can't. It is a part of the new quantum suit helmet.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHw.name=N'essayez pas de plonger avec
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHw.desc=Combiner un casque de plongée avec un casque nano dans un Assembler vous donne un casque de plongée nano. Mieux vaut ne pas essayer de plonger avec, car c'est impossible. C'est une pièce du nouveau casque de la combinaison quantique.
 
 # Quest: Plated Leggings - Better Not Try to Wear It
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=Plated Leggings - Better Not Try to Wear It
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=Combining stainless steel platings with some nano leggings in the assembler gives you nano plated leggings. Better not try to wear them because you can't. They are part of the new quantum suit leggings.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=Jambières plaquées - Mieux vaut ne pas essayer de les porter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=Combiner des plaquages en Acier inoxydable avec des jambières nano dans l'Assembler vous donne des jambières nano plaquées. Mieux vaut ne pas essayer de les porter, car c'est impossible. Elles font partie des nouvelles jambières de la combinaison quantique.
 
 # Quest: Don't Try to Walk With It
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIQ.name=Don't Try to Walk With It
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIQ.desc=Combining some rubber boots with nano boots in the Assembler gives you Nano Rubber Boots. Better not try to put them on because you can't. They are part of the new quantum suit boots.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIQ.name=N'essayez pas de marcher avec
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIQ.desc=Combiner des bottes en caoutchouc avec des bottes nano dans l'Assembler vous donne des Nano Rubber Boots. Mieux vaut ne pas essayer de les enfiler, car c'est impossible. Elles font partie des nouvelles bottes de la combinaison quantique.
 
 # Quest: Iridium Plated
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIg.name=Iridium Plated
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIg.desc=Plating all your armor parts with iridium alloy casings gives them a better durability. Before you can wear these quantum armor parts you need to activate them with some quantum crystals.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIg.name=Plaqué Iridium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIg.desc=Plaquer toutes vos pièces d'armure avec des Iridium Alloy Casings améliore leur durabilité. Avant de pouvoir porter ces pièces d'armure quantique, vous devez les activer avec des cristaux quantiques.
 
 # Quest: Quantum Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIw.name=Quantum Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIw.desc=The quantum armor is a high tier and very durable armor with a lot of features like night vision, fall damage reduction and running very fast.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIw.name=Armure quantique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIw.desc=L'armure quantique est une armure de haut niveau très durable, avec de nombreuses fonctionnalités comme la vision nocturne, la réduction des dégâts de chute et une course très rapide.
 
 # Quest: Better Bolts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9A.name=§6§lBetter Bolts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9A.desc=Now that you are in MV and have an EBF, you can make new bolts with vanadiumsteel-tipped magnalium. Your enemies will tremble at your might.%n%nCheck "fletching" under NEI for fletching options.%n%nGood hunting!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9A.name=§6§lDe meilleurs carreaux
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9A.desc=Maintenant que vous êtes en MV et que vous avez un EBF, vous pouvez fabriquer de nouveaux carreaux en Magnalium à pointe en Acier au Vanadium. Vos ennemis trembleront devant votre puissance.%n%nCherchez « fletching » dans NEI pour les options d'empennage.%n%nBonne chasse !
 
 # Quest: Best Bolts?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9Q.name=§a§lBest Bolts?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9Q.desc=That meteoric iron you found on the moon, when sent through the EBF, turns into this amazing meteoric steel, able to keep a fine edge. Put some on an Energetic Alloy tool rod to make an awesome bolt. Your next bolt you'll have to figure out yourself.%n%nUse whatever fletching you want.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9Q.name=§a§lLes meilleurs carreaux ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9Q.desc=Le Fer Météorique que vous avez trouvé sur la Lune devient, une fois passé dans l'EBF, cet extraordinaire Acier Météorique, capable de garder un tranchant parfait. Montez-en sur une tige d'outil en Energetic Alloy pour obtenir un carreau formidable. Pour votre prochain carreau, à vous de trouver.%n%nUtilisez l'empennage que vous voulez.
 
 # Quest: Best Crossbow?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9g.name=§9§lBest Crossbow?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9g.desc=Energetic alloy has proven to be an amazing material. Its light weight and high stiffness makes it perfect for a crossbow limb. It is slightly slower to draw but still has amazing stopping power with its very high bolt speed. Durability is much improved over a carbon limb.%n%nThe material would also make an excellent bolt body. Perhaps you will find a suitable tip to match?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9g.name=§9§lLa meilleure arbalète ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF9g.desc=L'Energetic Alloy s'est révélé être un matériau extraordinaire. Sa légèreté et sa grande rigidité en font le matériau parfait pour une branche d'arbalète. Elle est un peu plus lente à armer, mais garde un pouvoir d'arrêt impressionnant grâce à la très grande vitesse de ses carreaux. Sa durabilité est bien meilleure que celle d'une branche en carbone.%n%nCe matériau ferait aussi un excellent corps de carreau. Peut-être trouverez-vous une pointe assortie ?
 
 # Quest: Electrogoggles
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRQ.name=Electrogoggles
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRQ.desc=As you wander with your Goggles of Revealing you noticed that they tend to break easy. So craft yourself some electric ones that just need to be charged again!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRQ.desc=En vous promenant avec vos Goggles of Revealing, vous avez remarqué qu'elles ont tendance à se casser facilement. Alors fabriquez-vous-en une version électrique, qu'il suffit de recharger !
 
 # Quest: Nano Goggles
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRg.name=Nano Goggles
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRg.desc=The #1 product for spies and wanna-be-spies. Nano-Goggles. Don't you want one of these too? But they are sold out? Craft some!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRg.desc=Le produit n°1 des espions et des apprentis espions : les Nano-Goggles. Vous n'en voudriez pas une paire, vous aussi ? Mais elles sont en rupture de stock ? Fabriquez-en !
 
 # Quest: Quantum Goggles
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRw.name=Quantum Goggles
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRw.desc=As you continue to progress, you notice that your black goggles don't match your nice white and shiny armor. You decide to get a pair of white ones.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFRw.desc=En continuant à progresser, vous remarquez que vos lunettes noires ne vont pas avec votre belle armure blanche et brillante. Vous décidez de vous procurer une paire blanche.
 
 # Quest: Goggles > 9000
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSA.name=Goggles > 9000
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSA.desc=This special pair of goggles recharges itself while you wander in sunlight. How convenient.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSA.name=Lunettes > 9000
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFSA.desc=Cette paire de lunettes spéciale se recharge toute seule quand vous vous promenez au soleil. Bien pratique.
 
 # Quest: Compressed Steel Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFog.name=Compressed Steel Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFog.desc=The compressed steel armor has more durability than the steel armor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFog.name=Armure en Acier compressé
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFog.desc=L'armure en Acier compressé est plus durable que l'armure en Acier.
 
 # Quest: Compressed Desh Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFow.name=Compressed Desh Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFow.desc=The compressed desh armor has more durability than the compressed steel armor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFow.name=Armure en Desh compressé
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFow.desc=L'armure en Desh compressé est plus durable que l'armure en Acier compressé.
 
 # Quest: Compressed Titanium Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFpA.name=Compressed Titanium Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFpA.desc=The compressed titanium armor has more durability than the compressed steel armor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFpA.name=Armure en Titane compressé
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFpA.desc=L'armure en Titane compressé est plus durable que l'armure en Acier compressé.
 
 # Quest: Traveller's Wings Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG-A.name=Traveller's Wings Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG-A.desc=Your wings can be equipped with a few modifications such as feather falling and double jump. Place the wings in the center of a Crafting Station.%n%nFeather Fall allows you to glide down slowly in air.%nDouble Jump means you jump while in the air to jump again.%n%nHint:%nAutorepair can be added to the wings as well.%nEvery Armor part has 3 Slots for modification.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG-A.name=Améliorations des ailes Traveller's Gear
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG-A.desc=Vos ailes peuvent recevoir quelques modifications, comme la chute amortie et le double saut. Placez les ailes au centre d'une Crafting Station.%n%nLa chute amortie vous permet de planer lentement dans les airs.%nLe double saut vous permet de sauter à nouveau alors que vous êtes en l'air.%n%nAstuce :%nLa réparation automatique (Autorepair) peut aussi être ajoutée aux ailes.%nChaque pièce d'armure a 3 emplacements de modification.
 
 # Quest: Traveller's Gloves Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG-Q.name=Traveller's Gloves Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG-Q.desc=Putting redstone on my weapon makes it faster. So why don't I put it on my hands directly!%nThis will increase your mining speed.%n%nHint:%nEvery Armor part has 3 Slots for modification, aside from gloves, which have 5.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG-Q.name=Améliorations des gants Traveller's Gear
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG-Q.desc=Mettre de la redstone sur mon arme la rend plus rapide. Alors pourquoi ne pas en mettre directement sur mes mains !%nCela augmentera votre vitesse de minage.%n%nAstuce :%nChaque pièce d'armure a 3 emplacements de modification, sauf les gants, qui en ont 5.
 
 # Quest: Traveller's Gear
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAG9Q.name=Traveller's Gear
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG9Q.desc=The goggles, wings, shoes, vest, belt and boots itself are not really special.%n%nYou can zoom with the googles, have an extra inventory hotbar with the belt, step-up assist with the shoes, jump boost with the wings and faster swimming ability with the vest.%n%nYou get protection like with normal armor too.%n%nLater on you can upgrade your items to become more powerful ones.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG9Q.desc=Les lunettes, les ailes, les chaussures, le gilet, la ceinture et les bottes n'ont en soi rien de vraiment spécial.%n%nVous pouvez zoomer avec les lunettes, avoir une barre d'accès rapide supplémentaire avec la ceinture, une assistance à la marche avec les chaussures, un bonus de saut avec les ailes et une nage plus rapide avec le gilet.%n%nVous bénéficiez aussi d'une protection comme avec une armure normale.%n%nPlus tard, vous pourrez améliorer vos objets pour les rendre plus puissants.
 
 # Quest: Traveller's Goggles Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG9g.name=Traveller's Goggles Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG9g.desc=Nightvision is very useful. If you combine your Goggles with a night vision potion (3:00, make sure to make 3 at a time), a golden carrot, and a flint and steel inside the Tinkers Crafting Station you get Night Vision Goggles. Place the Goggles in the Center of the Crafting Station.%n%nHint: Autorepair can be added to the goggles as well.%n%nEvery Armor has 3 slots for modification.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG9g.name=Améliorations des lunettes Traveller's Gear
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG9g.desc=La vision nocturne est très utile. Si vous combinez vos lunettes avec une potion de vision nocturne (3:00, pensez à en faire 3 à la fois), une carotte dorée et un briquet dans la Crafting Station de Tinkers, vous obtenez des lunettes de vision nocturne. Placez les lunettes au centre de la Crafting Station.%n%nAstuce : la réparation automatique (Autorepair) peut aussi être ajoutée aux lunettes.%n%nChaque armure a 3 emplacements de modification.
 
 # Quest: Traveller's Vest Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG9w.name=Traveller's Vest Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG9w.desc=Your vest can be equipped with a few modifications like perfect dodge and stealth.%nPerfect dodge mean you're harder to hit and can be stacked up to 3 times.%nStealth turns you invisible while sneaking. Place the vest in the center of a Tinker's Crafting Station.%n%nHint:%nAutorepair can be added to the vest as well.%nEvery Armor part has 3 Slots for modification.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG9w.name=Améliorations du gilet Traveller's Gear
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG9w.desc=Votre gilet peut recevoir quelques modifications, comme l'esquive parfaite et la discrétion.%nL'esquive parfaite vous rend plus difficile à toucher et peut être cumulée jusqu'à 3 fois.%nLa discrétion vous rend invisible quand vous êtes accroupi. Placez le gilet au centre d'une Crafting Station de Tinkers.%n%nAstuce :%nLa réparation automatique (Autorepair) peut aussi être ajoutée au gilet.%nChaque pièce d'armure a 3 emplacements de modification.
 
 # Quest: "Oh, Magic" Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLw.name="Oh, Magic" Armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLw.desc=Ironwood Armor is a magic armor with some special enchants. The Helm gives aqua affinity, the shoes feather falling, the plate and the legs extra protection.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLw.name=Armure « Oh, la magie »
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHLw.desc=L'armure en Ironwood est une armure magique dotée d'enchantements spéciaux. Le casque donne Affinité aquatique, les bottes Chute amortie, le plastron et les jambières une protection supplémentaire.
 
 # Quest: Armor of the Dead
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOA.name=Armor of the Dead
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOA.desc=I've found another use for Ectoplasm - making Spectral Iron. An armor made from it is better than diamond and highly enchantable.%n%nIt also will drop healing orbs that will heal the nearest player when picked up.%n%nUnfortunately, a side effect is that you'll become partially transparent. Side effect, I mean bonus feature!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOA.name=L'armure des morts
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHOA.desc=J'ai trouvé une autre utilité à l'Ectoplasm : fabriquer du Spectral Iron. Une armure faite de ce métal est meilleure que le diamant et très enchantable.%n%nElle fait aussi apparaître des orbes de soin qui soignent le joueur le plus proche quand il les ramasse.%n%nMalheureusement, un effet secondaire est que vous deviendrez partiellement transparent. Effet secondaire, je veux dire fonctionnalité bonus !
 
 # Quest: "Oh, Magic" Armor II
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAICQ.name="Oh, Magic" Armor II
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAICQ.name=Armure « Oh, la magie » II
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAICQ.desc=L'armure Feuilleacier est le niveau suivant de l'armure de la Twilight Forest. Elle peut être utile pour se défendre dans le Nether.
 
 # Quest: "Oh, Magic" Armor III
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAICg.name="Oh, Magic" Armor III
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAICg.desc=Knightmetal is the top tier Twilight Forest armor. It doesn't come with any free enchants but it has high durability and high armor rating.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAICg.name=Armure « Oh, la magie » III
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAICg.desc=Le Knightmetal est l'armure de plus haut niveau de la Twilight Forest. Elle n'a aucun enchantement gratuit, mais une grande durabilité et un indice d'armure élevé.
 
 # Quest: Sometimes Life is Scary and Dark - Bring a Backpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQA.name=Sometimes Life is Scary and Dark - Bring a Backpack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQA.desc=Now that you are MV, you can make an Adventure Backpack. This very useful backpack can do many things. It can store 2 tools for quick access, has internal tanks for containing liquids - use the Hose to access them, a built in crafting table, and storage.%n%nWhen placed on your back, it can be accessed using a quick-access key, default is B. Check your controls for details.%n%nWhen placed on the ground, it can be accessed with a right-click. While on the ground, the bedroll can be deployed and used.%n%nThey can also be upgraded to add special abilities. For a full list, visit [url]https://wiki.gtnewhorizons.com/wiki/Adventure_Backpacks[/url].%n%n[note]It uses up the same slot as the Coal Jetpack and the Copterpack, so you'll either need to choose one, or swap them around.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQA.name=Parfois, la vie est effrayante et sombre - Prenez un sac à dos
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQA.desc=Maintenant que vous êtes en MV, vous pouvez fabriquer un Adventure Backpack. Ce sac à dos très utile sait faire beaucoup de choses. Il peut contenir 2 outils pour un accès rapide, possède des réservoirs internes pour stocker des liquides (utilisez le Flexible pour y accéder), un établi intégré et du stockage.%n%nPorté sur le dos, il est accessible avec une touche d'accès rapide, B par défaut. Consultez vos contrôles pour plus de détails.%n%nPosé au sol, il est accessible avec un clic droit. Au sol, le sac de couchage peut être déployé et utilisé.%n%nIl peut aussi être amélioré pour obtenir des capacités spéciales. Pour la liste complète, consultez [url]https://wiki.gtnewhorizons.com/wiki/Adventure_Backpacks[/url].%n%n[note]Il occupe le même emplacement que le Jetpack à charbon et le Pack hélicoptère, il vous faudra donc choisir, ou les alterner.[/note]
 
 # Quest: See Like a ... Bat?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQQ.name=See Like a ... Bat?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQQ.desc=Nightvision is a great backpack ability.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQQ.name=Voir comme une... chauve-souris ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQQ.desc=La vision nocturne est une excellente capacité pour un sac à dos.
 
 # Quest: Swim Like a .... Squid?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQg.name=Swim Like a .... Squid?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQg.desc=If you need to go deep or explore in the water, this is the backpack for you.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQg.name=Nager comme un.... calmar ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQg.desc=Si vous devez plonger profond ou explorer sous l'eau, ce sac à dos est fait pour vous.
 
 # Quest: Walk Through Fire
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQw.name=Walk Through Fire
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQw.desc=The Pigman backpack will make the Nether ezpz with fire resistance. You'll have to figure out a way to get struck by lightning while wearing a Pig backpack to get it...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQw.name=Marcher dans le feu
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIQw.desc=Le sac à dos Pigman rendra le Nether fastoche grâce à la résistance au feu. Il vous faudra trouver un moyen de vous faire frapper par la foudre en portant un sac à dos Cochon pour l'obtenir...
 
 # Quest: Creeper Repellant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRA.name=Creeper Repellant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRA.desc=An ocelot backpack will get those creepers running away from you. Nice protection against those drowning creepers! Don't get too close to them or else their repulsion will be overridden and they'll blow up!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRA.name=Répulsif à Creeper
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRA.desc=Un sac à dos Ocelot fera fuir les creepers. Une belle protection contre ces creepers noyés ! Ne vous approchez pas trop d'eux, sinon leur répulsion sera annulée et ils exploseront !
 
 # Quest: Milk Without the Cow?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRQ.name=Milk Without the Cow?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRQ.desc=A Cow backpack will generate milk from wheat placed in its inventory. Great for a lazy farmer!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRQ.name=Du lait sans la vache ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRQ.desc=Un sac à dos Vache produit du lait à partir du blé placé dans son inventaire. Idéal pour un fermier paresseux !
 
 # Quest: Here There be Dragons
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRg.name=Here There be Dragons
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRg.desc=The Dragon backpack gives you Fire Resistance, Strength, Night Vision and Regeneration.%n%n[note]It may be really good, but also uses up a dragon egg, so be sure you want it, or can craft another.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRg.name=Ici, il y a des dragons
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIRg.desc=Le sac à dos Dragon vous donne Résistance au feu, Force, Vision nocturne et Régénération.%n%n[note]Il est peut-être excellent, mais il consomme un œuf de dragon, alors assurez-vous de le vouloir, ou de pouvoir en fabriquer un autre.[/note]
 
 # Quest: Oink!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWw.name=Oink!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWw.desc=While the Pig backpack is useless on its own, it can be turned into a pretty powerful tool with the right...motivation.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWw.name=Groin !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIWw.desc=Si le sac à dos Cochon est inutile en soi, il peut devenir un outil assez puissant avec la bonne... motivation.
 
 # Quest: Seeing Inside Your Chests
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJhQ.name=Seeing Inside Your Chests
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJhQ.desc=With the Holo Glasses you are able to look into Chests, Barrels and Drawers like a Holographic inventory.%n%n[note]If you lost your free one, you should be capable of making another now.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJhQ.name=Voir à l'intérieur de vos coffres
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJhQ.desc=Avec les Lunettes Holographiques, vous pouvez voir le contenu des coffres, tonneaux et tiroirs sous forme d'inventaire holographique.%n%n[note]Si vous avez perdu celles qu'on vous a offertes, vous devriez maintenant pouvoir en fabriquer d'autres.[/note]
 
 # Quest: Armor Molds
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMAw.name=Armor Molds
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMAw.desc=Why use plates when you can make your armor pieces out of molten metal?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMAw.name=Moules d'armure
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMAw.desc=Pourquoi utiliser des plaques quand vous pouvez fabriquer vos pièces d'armure à partir de métal en fusion ?
 
 # Quest: Quantum Chestplate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRw.name=Quantum Chestplate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRw.desc=QuantumSuit Bodyarmor allows for flight just like its predecessor, but when you hold shift+space instead of going down you will go slightly up.%nThe next tier - GraviChestPlate - will get rid of this problem altogether.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRw.name=Plastron quantique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRw.desc=Le QuantumSuit Bodyarmor permet de voler comme son prédécesseur, mais quand vous maintenez Maj + Espace, au lieu de descendre, vous montez légèrement.%nLe tier suivant, le GraviChestPlate, éliminera complètement ce problème.
 
 # Quest: Mob Repellators
 betterquesting.quest.tgH86mIERWKIh8OAleKrSw.name=Mob Repellators
-betterquesting.quest.tgH86mIERWKIh8OAleKrSw.desc=First available in LV, the Mob Repellator prevents mobs from spawning in its radius. It works without power, but with it has a higher range.%n%n[note]You only need one to complete the quest.[/note]
+betterquesting.quest.tgH86mIERWKIh8OAleKrSw.desc=Disponible dès le LV, le Mob Repellator empêche l'apparition de monstres dans son rayon d'action. Il fonctionne sans énergie, mais sa portée est plus grande lorsqu'il est alimenté.%n%n[note]Vous n'en avez besoin que d'un pour terminer la quête.[/note]
 
 
 ## Quest Line: Building Better Bases
