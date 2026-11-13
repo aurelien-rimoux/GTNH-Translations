@@ -11094,688 +11094,688 @@ betterquesting.quest.t4W99zCeT8qQIqbNyaCE_Q.desc=Les machines Genetics de Binnie
 
 
 ## Quest Line: Be(e) Breeding
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Be(e) Breeding
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Breeding Bees for Better Bling (experimental, may cause honey leakage)
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Élevage d'abeilles
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Élever des abeilles pour un butin plus brillant (expérimental, risque de fuite de miel)
 
 # Quest: Barren
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.name=Barren
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=The Barren Bee. Not much better.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=L'abeille Barren. Pas vraiment mieux.
 
 # Quest: Naquadria
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.name=Naquadria
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.desc=A naquadria bee. It's a bit tricky to obtain. And before you ask, yes you will still need the naquadria production line to refine it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.desc=Une abeille Naquadria. Elle est un peu délicate à obtenir. Et avant que vous ne posiez la question : oui, il vous faudra quand même la chaîne de production du Naquadria pour la raffiner.
 
 # Quest: Manganese
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABXw.name=Manganese
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXw.desc=A manganese bee. Not very useful but one step closer to some more interesting bees.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABXw.desc=Une abeille Manganese. Pas très utile, mais c'est un pas de plus vers des abeilles plus intéressantes.
 
 # Quest: Tungsten
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.name=Tungsten
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.desc=Let's breed a tungsten bee. It is particularly interesting because you can make pure tungsten from its combs and not just tungstate or scheelite.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.desc=Élevons une abeille Tungsten. Elle est particulièrement intéressante, car ses rayons permettent d'obtenir du Tungstène pur, et pas seulement du Tungstate ou de la Scheelite.
 
 # Quest: Iridium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.name=Iridium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.desc=An iridium bee. You can actually get small amounts of pure osmium and iridium from its combs.%n%n[note]With these combs and the uranium ones you can now make climate control units for modules in your industrial apiary![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.desc=Une abeille Iridium. Ses rayons donnent même de petites quantités d'Osmium et d'Iridium purs.%n%n[note]Avec ces rayons et ceux d'Uranium, vous pouvez désormais fabriquer des unités de contrôle climatique (Climate Control Module) pour les modules de votre Industrial Apiary ![/note]
 
 # Quest: Enderium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.name=Enderium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.desc=An enderium bee. In particularly interesting for the blinding speed trait!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.desc=Une abeille Enderium. Particulièrement intéressante pour son trait de vitesse Blinding !
 
 # Quest: Neutronium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.name=Neutronium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.desc=You made it all the way to the Neutronium Bee! Wow!%n%nThe Neutronium Combs can not just lighten the burden on your smelting setup, you can also use them to finally make the Advanced Mutatron.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.desc=Vous êtes arrivé jusqu'à l'abeille Neutronium ! Bravo !%n%nLes rayons de Neutronium ne se contentent pas d'alléger la charge de votre installation de fonte : ils vous permettent aussi de fabriquer enfin l'Advanced Mutatron.
 
 # Quest: Arid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.name=Arid
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.desc=The Arid Bee species. Useless you say?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.desc=L'espèce Arid. Inutile, dites-vous ?
 
 # Quest: Thorium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.name=Thorium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.desc=A thorium bee.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.desc=Une abeille Thorium.
 
 # Quest: Naquadah
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.name=Naquadah
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.desc=A naquadah bee. It doesn't let you avoid the naquadah line, but if you have sufficient technology you can make a Mutatron now!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.desc=Une abeille Naquadah. Elle ne vous dispense pas de la chaîne du Naquadah, mais si votre technologie est suffisante, vous pouvez maintenant fabriquer un Mutatron !
 
 # Quest: Decaying
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.name=Decaying
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.desc=The Decaying Bee is not any more useful than the previous three. But now it should be clear, we are on our way to the Lutetium Bee!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.desc=L'abeille Decaying n'est pas plus utile que les trois précédentes. Mais maintenant, ça devrait être clair : nous sommes en route vers l'abeille Lutetium !
 
 # Quest: Desolate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.name=Desolate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.desc=The Desolate species. Maybe you can see where this is going?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.desc=L'espèce Desolate. Vous voyez peut-être où l'on veut en venir ?
 
 # Quest: Lutetium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.name=Lutetium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.desc=Lutetium is extremely useful if you are in ZPM. You will need quite a bit and bees can help you with that.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.desc=Le Lutétium est extrêmement utile en ZPM. Il vous en faudra pas mal, et les abeilles peuvent vous y aider.
 
 # Quest: Americium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.name=Americium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.desc=A remarkable bee. If you thought americium can only be obtained from fusion you would be wrong.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.desc=Une abeille remarquable. Si vous pensiez que l'Américium ne pouvait s'obtenir que par fusion, vous aviez tort.
 
 # Quest: Gassy Bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.name=Gassy Bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.desc=There is whole swarm of gas producing bees. Let's breed just one of them here. Check out NEI to see all the options you can aim for.%n%n[note]The Xenon Bee might be the most useful one. You can use it for Void Miners and potentially smelting time reductions.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.name=Abeilles gazeuses
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.desc=Il existe tout un essaim d'abeilles productrices de gaz. Élevons-en une seule ici. Consultez NEI pour voir toutes les options que vous pouvez viser.%n%n[note]L'abeille Xenon est peut-être la plus utile. Vous pouvez l'utiliser pour les Void Miners et, potentiellement, pour réduire les temps de fonte.[/note]
 
 # Quest: Naga
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=Naga
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=You don't like fighting bosses or you play on peaceful for whatever reason? Well you can still get Naga drops with this bee!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=Vous n'aimez pas combattre les boss, ou vous jouez en mode paisible pour une raison quelconque ? Eh bien, vous pouvez quand même obtenir les butins de la Naga avec cette abeille !
 
 # Quest: Lich
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.name=Lich
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.desc=Lich bones without a boss fight.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.desc=Des os de Liche sans combat de boss.
 
 # Quest: Hydra
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbw.name=Hydra
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbw.desc=These make fiery blood.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbw.desc=Celles-ci produisent du sang ardent (Fiery Blood).
 
 # Quest: Ur-Ghast
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.name=Ur-Ghast
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.desc=Need a lot of magical wood? Well, this bee produces carminite.%n%n[note]This bee requires a Thaumcraft Thaumium block below the apiary to be bred. To get the correct one, chisel a GT Thaumium block[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.desc=Besoin de beaucoup de bois magique ? Eh bien, cette abeille produit de la Carminite.%n%n[note]Pour élever cette abeille, il faut un bloc de Thaumium de Thaumcraft sous l'apiary. Pour obtenir le bon, ciselez un bloc de Thaumium GT.[/note]
 
 # Quest: Snow Queen
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABcQ.name=Snow Queen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcQ.desc=I don't know why you would need a lot of Snow Queen blood. But this is the way to do it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABcQ.desc=Je ne sais pas pourquoi vous auriez besoin de beaucoup de sang de Snow Queen. Mais voici comment faire.
 
 # Quest: Steel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABcg.name=Acier
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcg.desc=It's not much steel, but it doesn't cause pollution.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABcg.desc=Ce n'est pas beaucoup d'Acier, mais ça ne pollue pas.
 
 # Quest: Stainless Steel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABcw.name=Acier inoxydable
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcw.desc=Not particularly strong to be honest.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABcw.desc=Pas particulièrement solide, pour être honnête.
 
 # Quest: End Dust
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdA.name=End Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdA.desc=A bit of a misnamed bee. What it really gives you is Ender Goo and End Powder.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdA.desc=Une abeille au nom un peu trompeur. Ce qu'elle vous donne réellement, c'est de l'Ender Goo et de l'End Powder.
 
 # Quest: Indium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.name=Indium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.desc=This bee multiplies all sources of Indium by 3x.%nThe Indium bee is available in LuV, or in IV with the help of magic.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.desc=Cette abeille multiplie par 3 toutes les sources d'Indium.%nL'abeille Indium est disponible en LuV, ou en IV avec l'aide de la magie.
 
 # Quest: Osmium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABhw.name=Osmium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhw.desc=Quite the interesting bee. Maybe integrate it into your osmium processing?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABhw.desc=Une abeille plutôt intéressante. Pourquoi ne pas l'intégrer à votre traitement de l'Osmium ?
 
 # Quest: Dragon Blood
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.name=Dragon Blood
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.desc=The Dragon Blood Bee is a lot of effort to obtain but quite handy for hypogen in late game.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.desc=L'abeille Dragon Blood demande beaucoup d'efforts pour être obtenue, mais elle est bien pratique pour l'Hypogen en fin de partie.
 
 # Quest: Firestone
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.name=Firestone
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=Don't burn yourself.%n%n[note]It's also possible to get Firestone from the Sulfur Bee, though it has a notably smaller comb output.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=Ne vous brûlez pas.%n%n[note]On peut aussi obtenir de la Firestone avec l'abeille Sulfur, mais ses rayons sont nettement moins productifs.[/note]
 
 # Quest: Explosive
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJA.name=Explosive
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADJA.desc=Ideal for your Implosion Compressor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADJA.desc=Idéale pour votre Implosion Compressor.
 
 # Quest: Breed some cultivated bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXA.name=Breed some cultivated bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXA.desc=Common Princess and Forest Drone can be bred to cultivated bees.%n%nCultivated bees have the shortest lifespan - this means they make great princesses to breed with your newly bred drones. The queen will die quickly, quickly giving genetic material to work with. Make sure the traits you want are kept!%n%nThey are also a Fast production bee, which means lots of honey combs for powering your Beealyzer or Treealyzer.%n%nCultivated Bees produce Honey Combs every 0.9 minutes. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time.%n%nMake sure your cultivated bees are pure with a Beealyzer or GT scanner.%n%nThe main bee breeding quests will require pure bees but you can use Ignoble or Pristine princesses.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXA.name=Élevez des abeilles Cultivated
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXA.desc=Une princesse Common et un faux-bourdon Forest peuvent donner des abeilles Cultivated.%n%nLes abeilles Cultivated ont la durée de vie la plus courte : elles font donc d'excellentes princesses à croiser avec vos faux-bourdons fraîchement obtenus. La reine meurt vite et fournit donc rapidement du matériel génétique avec lequel travailler. Veillez à conserver les traits que vous voulez !%n%nCe sont aussi des abeilles à production Fast, ce qui signifie beaucoup de Honey Combs pour alimenter votre Beealyzer ou votre Treealyzer.%n%nLes abeilles Cultivated produisent des Honey Combs toutes les 0,9 minute. Notez que les temps de production sont une approximation basée sur la vitesse de production de base de l'abeille et la rareté du produit. Ils ne reflètent pas le temps de production réel.%n%nVérifiez que vos abeilles Cultivated sont pures avec un Beealyzer ou un scanner GT.%n%nLes principales quêtes d'élevage exigeront des abeilles pures, mais vous pouvez utiliser des princesses Ignoble ou Pristine.
 
 # Quest: Breed some common bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXQ.name=Breed some common bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXQ.desc=To cross breed bees you need two different species of bees. One drone and one princess from different naturally-generating hives (Meadows and Forest as an example).%n%nBee Houses do not allow crossbreeding. You need an Apiary to cross-breed them to a new species. Certain frames will help this process. Shortening their lifespan means faster crosses. Increasing the mutation rate means getting mutations and thus rare bees quicker.%n%nCommon Bees produce Honey Combs every 2.2 minutes. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time.%n%nMake sure your bees are pure by checking their genetics with a Beealyzer or GT scanner.%n%n[note]Breeder's Notes:%n%nRiiiight from the start, they have a trick for you. The Common bee is bred from most mundane species smashed into each other. The problem is the Cultivated species, which is next in line, is bred with most mundane species along with Common. Noble and Diligent then are crossed from Common and Cultivated. You could start with two mundane bees, have the results loop back unattended, and run that whole progression. Here's an example active:inactive mix you could get on a princess over time:%n%nMeadows:Forest%nMeadows:Common (Yay!)%nCommon:Meadows (Double yay! Active trait!)%nCultivated:Common (Boo!)%n. . . some time passes . . .%nDiligent:Noble (Wait, what?!)%n%nMeanwhile, this quest would still be sitting there, waiting for you to submit Common bees. Whoops!%n%nIf Cultivated starts to show up, just stuff any princesses and drones involved into a chest and act like that didn't happen for now. You can use them when you complete this quest to jumpstart the Cultivated species.%n%nNow, if you don't have any way to speed up breeding and don't want to stand around to micromanage, you can try filtering, or just checking on the result from time to time. Either way, maybe don't leave it going overnight if you're on a server.%n[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXQ.name=Élevez des abeilles Common
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXQ.desc=Pour croiser des abeilles, il vous faut deux espèces différentes : un faux-bourdon et une princesse provenant de ruches sauvages naturelles différentes (Meadows et Forest par exemple).%n%nLes Bee Houses ne permettent pas le croisement. Il vous faut un Apiary pour croiser les abeilles et obtenir une nouvelle espèce. Certains cadres (frames) facilitent ce processus. Raccourcir leur durée de vie accélère les croisements. Augmenter le taux de mutation permet d'obtenir plus vite des mutations, et donc des abeilles rares.%n%nLes abeilles Common produisent des Honey Combs toutes les 2,2 minutes. Notez que les temps de production sont une approximation basée sur la vitesse de production de base de l'abeille et la rareté du produit. Ils ne reflètent pas le temps de production réel.%n%nVérifiez que vos abeilles sont pures en contrôlant leur génétique avec un Beealyzer ou un scanner GT.%n%n[note]Notes de l'éleveur :%n%nDèèès le départ, elles vous jouent un tour. L'abeille Common s'obtient en croisant entre elles la plupart des espèces ordinaires. Le problème, c'est que l'espèce Cultivated, la suivante dans la lignée, s'obtient en croisant la plupart des espèces ordinaires avec Common. Noble et Diligent s'obtiennent ensuite en croisant Common et Cultivated. Vous pourriez partir de deux abeilles ordinaires, laisser les résultats boucler sans surveillance et dérouler toute cette progression. Voici un exemple de mélange actif:inactif que vous pourriez obtenir sur une princesse au fil du temps :%n%nMeadows:Forest%nMeadows:Common (Youpi !)%nCommon:Meadows (Double youpi ! Trait actif !)%nCultivated:Common (Bouh !)%n. . . un peu de temps passe . . .%nDiligent:Noble (Attendez, quoi ?!)%n%nPendant ce temps, cette quête serait toujours là, à attendre que vous lui remettiez des abeilles Common. Oups !%n%nSi des Cultivated commencent à apparaître, rangez toutes les princesses et tous les faux-bourdons concernés dans un coffre et faites comme si de rien n'était pour l'instant. Vous pourrez vous en servir une fois cette quête terminée pour lancer l'espèce Cultivated.%n%nSi vous n'avez aucun moyen d'accélérer l'élevage et que vous ne voulez pas rester planté là à tout gérer, vous pouvez essayer de filtrer, ou simplement vérifier le résultat de temps en temps. Dans tous les cas, évitez peut-être de laisser tourner toute la nuit si vous êtes sur un serveur.%n[/note]
 
 # Quest: Breed some noble bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXg.name=Breed some noble bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXg.desc=Cross breeding common and cultivated bees can result in noble bees.%n%nNoble bees produce dripping combs every 3.8 minutes and honeydew. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time.%n%nYou've heard of a drunk beekeeper saying he has perfected a method of creating proven frames using Honeydew and a little magic. It might be worth your time to try experimenting yourself.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXg.name=Élevez des abeilles Noble
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXg.desc=Croiser des abeilles Common et Cultivated peut donner des abeilles Noble.%n%nLes abeilles Noble produisent des Dripping Combs toutes les 3,8 minutes, ainsi que du Honeydew. Notez que les temps de production sont une approximation basée sur la vitesse de production de base de l'abeille et la rareté du produit. Ils ne reflètent pas le temps de production réel.%n%nVous avez entendu un apiculteur ivre prétendre avoir mis au point une méthode pour créer des Proven Frames avec du Honeydew et un peu de magie. Ça vaut peut-être le coup de faire vos propres expériences.
 
 # Quest: Dripping Combs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXw.name=Dripping Combs
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXw.desc=Your noble bees produce some dripping combs.%nA good source for honey, and if you have a magical mind, honeydew for proven frames.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEXw.desc=Vos abeilles Noble produisent des Dripping Combs.%nUne bonne source de miel et, si vous avez l'esprit porté sur la magie, de Honeydew pour les Proven Frames.
 
 # Quest: Breed some majestic bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYA.name=Breed some majestic bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYA.desc=Cross breeding noble and cultivated bees can result in majestic bees.%n%nIf you didn't get it from Wintry bees already, Majestic bees have a very important attribute - high fertility. They will leave 4 drones when they die. This means lots of genetic material for the next generation to work with.%n%nMajestic bees produce dripping combs every 1.5 minutes. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYA.name=Élevez des abeilles Majestic
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYA.desc=Croiser des abeilles Noble et Cultivated peut donner des abeilles Majestic.%n%nSi vous ne l'avez pas déjà obtenu avec les abeilles Wintry, les abeilles Majestic ont un attribut très important : une fertilité élevée. Elles laissent 4 faux-bourdons en mourant. Cela fait beaucoup de matériel génétique pour la génération suivante.%n%nLes abeilles Majestic produisent des Dripping Combs toutes les 1,5 minute. Notez que les temps de production sont une approximation basée sur la vitesse de production de base de l'abeille et la rareté du produit. Ils ne reflètent pas le temps de production réel.
 
 # Quest: Breed some imperial bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYQ.name=Breed some imperial bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYQ.desc=Cross breeding noble and majestic bees can result in imperial bees.%n%nThese bees produce a Regeneration buff in their active area. You can probably find a use for this in case of...accidents.%n%nImperial bees produce dripping combs every 3.8 minutes and royal jelly every 5.1 minutes. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time.%n%nRoyal jelly is needed in making scented paneling for an Alveary - the third tier bee housing.%n%nYou can now start working towards the Master Registry in the How to Be(e) tab.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYQ.name=Élevez des abeilles Imperial
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYQ.desc=Croiser des abeilles Noble et Majestic peut donner des abeilles Imperial.%n%nCes abeilles produisent un effet de Régénération dans leur zone d'action. Vous lui trouverez sûrement une utilité en cas... d'accident.%n%nLes abeilles Imperial produisent des Dripping Combs toutes les 3,8 minutes et de la Royal Jelly toutes les 5,1 minutes. Notez que les temps de production sont une approximation basée sur la vitesse de production de base de l'abeille et la rareté du produit. Ils ne reflètent pas le temps de production réel.%n%nLa Royal Jelly sert à fabriquer le Scented Paneling de l'Alveary, le troisième tier de logement pour abeilles.%n%nVous pouvez maintenant commencer à progresser vers le Master Registry dans l'onglet Comment être (abeille).
 
 # Quest: Royal Jelly
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYg.name=Royal Jelly
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYg.desc=Royal jelly is a honey bee secretion that is used in the nutrition of larvae, as well as adult queens. It is only produced by the imperial bee. Its production can be increased with proven frames or any other kind of frames except for the soul frame. Royal jelly is also useful because it can craft ambrosia, which fills 8 hunger points (4 full food icons) and gives Regeneration I for 40 seconds. Royal jelly is used to craft scented paneling which are required in the creation of alveary blocks.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEYg.desc=La Royal Jelly (gelée royale) est une sécrétion des abeilles mellifères qui sert à nourrir les larves ainsi que les reines adultes. Elle n'est produite que par l'abeille Imperial. Sa production peut être augmentée avec des Proven Frames ou tout autre type de cadre, sauf le Soul Frame. La Royal Jelly est aussi utile pour fabriquer de l'Ambrosia, qui restaure 8 points de faim (4 cuisses entières) et donne Régénération I pendant 40 secondes. La Royal Jelly sert à fabriquer le Scented Paneling, nécessaire à la création des blocs d'Alveary.
 
 # Quest: Aromatic Lump
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI0g.name=Aromatic Lump
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI0g.desc=Aromatic Lumps are twice as effective as Royal Jelly in an Alveary Swarmer. You'll need Enchanting Drops from Arcane bees and Pollen Clusters from Industrious bees.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI0g.desc=Les Aromatic Lumps sont deux fois plus efficaces que la Royal Jelly dans un Swarmer d'Alveary. Il vous faudra des Enchanting Drops des abeilles Arcane et des Pollen Clusters des abeilles Industrious.
 
 # Quest: Magenta
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI3Q.name=Magenta
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI3Q.desc=Magenta bees are also Fastest production, but come with +- 3 Climate. Breed them from Pink and Blue.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI3Q.desc=Les abeilles Magenta ont elles aussi une production Fastest, mais avec une tolérance climatique de +- 3. Obtenez-les en croisant Pink et Blue.
 
 # Quest: Pink
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI3g.name=Pink
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI3g.desc=Pink princesses provide pink dye. They also have Fastest production and +-3 Humidity. Breed them from Red and White.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI3g.desc=Les princesses Pink fournissent de la teinture rose. Elles ont aussi une production Fastest et une tolérance d'humidité de +-3. Obtenez-les en croisant Red et White.
 
 # Quest: White
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI3w.name=White
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI3w.desc=White bees provide white dye. Breed them from Wintry and Diligent.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI3w.desc=Les abeilles White fournissent de la teinture blanche. Obtenez-les en croisant Wintry et Diligent.
 
 # Quest: Red
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4A.name=Red
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4A.desc=Dye bees obviously provide dyes, but some of them are also useful for their traits. There are many dye bees, these are just a sample. They can be useful for the hard to find dye colors from flowers. Breed Red from Common and Diligent.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4A.desc=Les abeilles à teinture fournissent évidemment des teintures, mais certaines sont aussi utiles pour leurs traits. Il existe de nombreuses abeilles à teinture, celles-ci n'en sont qu'un échantillon. Elles peuvent être utiles pour les couleurs de teinture difficiles à obtenir à partir de fleurs. Obtenez Red en croisant Common et Diligent.
 
 # Quest: Blue
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4Q.name=Blue
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4Q.desc=Blue princesses will provide a handy source of blue dye. Breed them from Forest and Diligent.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4Q.desc=Les princesses Blue vous fourniront une source pratique de teinture bleue. Obtenez-les en croisant Forest et Diligent.
 
 # Quest: Batty
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4g.name=Batty
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4g.desc=Batty bees will spawn firebats. So prepare for battle. Their specialty is Gunpowder. Breed them from Skulking and Windy.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4g.desc=Les abeilles Batty font apparaître des chauves-souris de feu (firebats). Préparez-vous donc au combat. Leur spécialité est la poudre à canon. Obtenez-les en croisant Skulking et Windy.
 
 # Quest: Ghastly
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4w.name=Ghastly
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4w.desc=Ghastly bees will spawn Ghasts, so beeee careful. Their specialty is Ghast Tears. They only have 1 fertility so you want to make sure you breed the drones with your master template princess. Breed them from Batty and Ethereal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI4w.desc=Les abeilles Ghastly font apparaître des Ghasts, alors faites bien attention à l'abeille. Leur spécialité est la larme de Ghast. Elles n'ont qu'une fertilité de 1 : veillez donc à croiser les faux-bourdons avec votre princesse modèle. Obtenez-les en croisant Batty et Ethereal.
 
 # Quest: Smouldering
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5A.name=Smouldering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5A.desc=Smouldering drones will spawn blazes, and make Blaze Rods as their specialty. Breed the drones with your template princesses so you can prevent the harmful effects from destroying your base. Also, their Hellish temperature and Normal humidity requirements are interesting - use an Acclimatiser from Genetics to make the bee tolerant or other methods to adjust the biome. Must be bred in the Nether. Breed them from Ghastly and Hateful.%n%nTo get their Blaze Rod drop, however, you'll need to place them in a biome that matches their default requirements. Sorry.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5A.desc=Les faux-bourdons Smouldering font apparaître des Blazes et produisent des bâtons de Blaze comme spécialité. Croisez les faux-bourdons avec vos princesses modèles pour éviter que leurs effets néfastes ne détruisent votre base. De plus, leurs exigences de température Hellish et d'humidité Normal sont intéressantes : utilisez un Acclimatiser de Genetics pour rendre l'abeille tolérante, ou d'autres méthodes pour ajuster le biome. Elles doivent être élevées dans le Nether. Obtenez-les en croisant Ghastly et Hateful.%n%nPour obtenir leurs bâtons de Blaze, en revanche, il faudra les placer dans un biome qui correspond à leurs exigences par défaut. Désolé.
 
 # Quest: Refined
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5Q.name=Refined
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5Q.desc=Ah, here it is. This bee has been known to power whole civilizations. Placed in a top tier bee housing like an Alveary or Industrial Apiary, with appropriate frames, it can produce oil faster than some wells. In addition, you will get small amounts of Diesel fuel as well! Breed them from Oily and Distilled.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5Q.desc=Ah, la voici. On dit que cette abeille a alimenté des civilisations entières. Placée dans un logement de haut niveau comme une Alveary ou un Industrial Apiary, avec les cadres appropriés, elle peut produire du pétrole plus vite que certains puits. En plus, vous obtiendrez aussi de petites quantités de Diesel ! Obtenez-les en croisant Oily et Distilled.
 
 # Quest: Distilled
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5g.name=Distilled
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5g.desc=What's this? A step back you say! Yes, the Distilled bee doesn't make anything of use, but the potential is there. Breed them from Oily and Industrious.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5g.desc=Qu'est-ce que c'est ? Un retour en arrière, dites-vous ! Oui, l'abeille Distilled ne produit rien d'utile, mais le potentiel est là. Obtenez-les en croisant Oily et Industrious.
 
 # Quest: Oily
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5w.name=Oily
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5w.desc=Finally, the Oily bee! Its combs produce the most oil, but its output isn't that thrilling...yet. Breed them from Primeval and Ocean. As an alternative, you can breed them from Primeval and Frugal if you can't find an Ocean biome or used up all your Beekeeper coins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI5w.desc=Enfin, l'abeille Oily ! Ses rayons produisent le plus de pétrole, mais sa production n'a rien de très excitant... pour l'instant. Obtenez-les en croisant Primeval et Ocean. À défaut, vous pouvez les obtenir en croisant Primeval et Frugal si vous ne trouvez pas de biome océanique ou si vous avez dépensé toutes vos pièces d'apiculteur (Beekeeper coins).
 
 # Quest: Primeval
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6A.name=Primeval
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6A.desc=Primeval. The next step. Breed them from Ancient and Secluded.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6A.desc=Primeval. L'étape suivante. Obtenez-les en croisant Ancient et Secluded.
 
 # Quest: Ancient
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6Q.name=Ancient
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6Q.desc=Ancient bees are the first step to the best oil bees in the game. Breed them from Diligent and Noble.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6Q.desc=Les abeilles Ancient sont la première étape vers les meilleures abeilles à pétrole du jeu. Obtenez-les en croisant Diligent et Noble.
 
 # Quest: Ocean
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6g.name=Ocean
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6g.desc=The Ocean bee is bred from Diligent and Water in an ocean-type biome. Note that this doesn't mean literally an ocean. It is any biome that has the OCEAN tag. The stock terrain generator does not generate oceans in The Overworld, but there are a few biomes that carry the tag.%n%nSkipping The Overworld, you might have luck trying in a Twilight Forest lake - you'll know you are in the right biome if you see Water Creepers!%n%nYou can dump the biome data in NEI by clicking on the NEI options button (the wrench), then the Tools button, then the Data Dumps button, and finally the Dump button in the biomes category. This creates a "dumps" directory in the root folder of the modpack with a biome.csv file inside of it. Try anything that has OCEAN tagged to it. You can feed these biomes into a Nature's Compass and see if there are any nearby.%n%nSome examples: Shield, Tropics, Twilight Lake, and Lush Swamp.%n%nIf you have trouble locating an appropriate spot, you can also purchase Ocean bees from the Vending Machine. Breed them from Diligent and Water.%n%n[note]You get more than one princess per purchase, so it's a useful way to get a few extra pristine princesses.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6g.desc=L'abeille Ocean s'obtient en croisant Diligent et Water dans un biome de type océan. Notez que cela ne veut pas dire littéralement un océan : il s'agit de n'importe quel biome portant le tag OCEAN. Le générateur de terrain par défaut ne génère pas d'océans dans l'Overworld, mais quelques biomes portent ce tag.%n%nEn dehors de l'Overworld, vous pourriez avoir de la chance en essayant dans un lac de la Twilight Forest : vous saurez que vous êtes dans le bon biome si vous voyez des Water Creepers !%n%nVous pouvez exporter les données des biomes dans NEI en cliquant sur le bouton des options NEI (la clé à molette), puis sur le bouton Tools, puis sur Data Dumps, et enfin sur le bouton Dump de la catégorie biomes. Cela crée un dossier « dumps » à la racine du modpack contenant un fichier biome.csv. Essayez tout ce qui porte le tag OCEAN. Vous pouvez entrer ces biomes dans un Nature's Compass pour voir s'il y en a à proximité.%n%nQuelques exemples : Shield, Tropics, Twilight Lake et Lush Swamp.%n%nSi vous avez du mal à trouver un endroit adapté, vous pouvez aussi acheter des abeilles Ocean au Vending Machine. Obtenez-les en croisant Diligent et Water.%n%n[note]Vous obtenez plus d'une princesse par achat : c'est donc un moyen pratique de récupérer quelques princesses Pristine supplémentaires.[/note]
 
 # Quest: Resinous
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6w.name=Resinous
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6w.desc=Well at least you can get a couple of Sticky Resin from this otherwise boring bee. Breed them from Miry and Primeval.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI6w.desc=Au moins, vous pouvez obtenir un peu de Sticky Resin de cette abeille par ailleurs ennuyeuse. Obtenez-les en croisant Miry et Primeval.
 
 # Quest: Miry
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI7A.name=Miry
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI7A.desc=Miry bees aren't too useful yet. They'll open up the Boggy branch for you. You'll need to find a biome with Warm/Damp to cause their mutation. Use your Nature's Compass and Habitat Locator to find them. An easy one to find is Rainforest. Breed them from Marshy and Noble.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI7A.desc=Les abeilles Miry ne sont pas encore très utiles. Elles vous ouvriront la branche Boggy. Il vous faudra trouver un biome Warm/Damp pour provoquer leur mutation. Utilisez votre Nature's Compass et votre Habitat Locator pour en trouver. La Rainforest est facile à trouver. Obtenez-les en croisant Marshy et Noble.
 
 # Quest: Elastic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI7Q.name=Elastic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI7Q.desc=Finally! A useful bee from the Boggy branch. The Elastic bee will actually produce rubber bars for you! No more smelly Sulfur! Breed them from Distilled and Resinous.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI7Q.desc=Enfin ! Une abeille utile dans la branche Boggy. L'abeille Elastic produit carrément des barres de caoutchouc pour vous ! Fini le Soufre qui sent mauvais ! Obtenez-les en croisant Distilled et Resinous.
 
 # Quest: Agrarian
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI7w.name=Agrarian
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI7w.desc=Agrarian bees are supposed to help crops nearby grow. The effect isn't really that noticeable, is it? You'll have to be in a Plains-like biome for these to appear. Breed them from Farmerly and Industrious.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI7w.desc=Les abeilles Agrarian sont censées aider les cultures voisines à pousser. L'effet n'est pas vraiment flagrant, si ? Il faudra être dans un biome de type Plaines pour qu'elles apparaissent. Obtenez-les en croisant Farmerly et Industrious.
 
 # Quest: Farmerly
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8A.name=Farmerly
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8A.desc=Like most farmers, these bees seem to spend all their time complaining about the neighbors or the weather instead of actually doing much. They'll need a Plains-like biome. Breed them from Unweary and Rural.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8A.desc=Comme la plupart des agriculteurs, ces abeilles semblent passer leur temps à se plaindre des voisins ou de la météo au lieu de vraiment travailler. Il leur faudra un biome de type Plaines. Obtenez-les en croisant Unweary et Rural.
 
 # Quest: Sandwich
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8Q.name=Sandwich
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8Q.desc=sudo make me a sandwich. Or a bee that makes sandwich parts anyways. Breed them from Batty and Agrarian.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8Q.desc=sudo fais-moi un sandwich. Ou au moins une abeille qui fabrique des ingrédients de sandwich. Obtenez-les en croisant Batty et Agrarian.
 
 # Quest: Fertilizer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8g.name=Fertilizer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8g.desc=The Fertilizer bee will make your crop empire purr — or grow, anyways. They are a good source of Fastest production and Faster pollination as well. Breed them from Apatite and Ash.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8g.desc=L'abeille Fertilizer fera ronronner votre empire agricole — ou du moins pousser. C'est aussi une bonne source de production Fastest et de pollinisation Faster. Obtenez-les en croisant Apatite et Ash.
 
 # Quest: Apatite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8w.name=Apatite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8w.desc=The Apatite bee requires an Apatite Block beneath it to breed. Its Seedy comb will make seed oil as well. Breed them from Ash and Coal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI8w.desc=L'abeille Apatite a besoin d'un bloc d'Apatite sous elle pour être élevée. Son rayon Seedy produira aussi de l'Huile Végétale. Obtenez-les en croisant Ash et Coal.
 
 # Quest: Ash
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9A.name=Ash
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9A.desc=A bee to make ashes? What insanity is this? At least you can get Large territory from them. You'll need to pay the Nether a visit. Breed them from Clay and Coal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAI9A.desc=Une abeille qui fait des cendres ? Quelle est cette folie ? Au moins, elles peuvent vous apporter un territoire Large. Il vous faudra faire un tour dans le Nether. Obtenez-les en croisant Clay et Coal.
 
 # Quest: Fruity bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaQ.name=Fruity bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaQ.desc=Fruity bees will make your Forestry trees ripen their fruit faster. Breed them using a Sweetened and Thriving.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaQ.name=Abeilles Fruity
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaQ.desc=Les abeilles Fruity font mûrir plus vite les fruits de vos arbres Forestry. Obtenez-les en croisant Sweetened et Thriving.
 
 # Quest: Sweetened
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIag.name=Sweetened
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIag.desc=Sweetened bees can make you sugar. Breed them from Valiant and Diligent.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIag.desc=Les abeilles Sweetened peuvent vous fournir du sucre. Obtenez-les en croisant Valiant et Diligent.
 
 # Quest: Thriving
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaw.name=Thriving
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaw.desc=Thriving bees don't have an effect, but are a necessary step for Fruity. Breed them from Growing and Unweary.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIaw.desc=Les abeilles Thriving n'ont pas d'effet, mais elles sont une étape nécessaire vers Fruity. Obtenez-les en croisant Growing et Unweary.
 
 # Quest: Diligent
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbA.name=Diligent
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbA.desc=Diligent bees are a core breeding stock bee. Breed them from Common and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbA.desc=Les abeilles Diligent sont une base essentielle de l'élevage. Obtenez-les en croisant Common et Cultivated.
 
 # Quest: Unweary
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbQ.name=Unweary
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbQ.desc=Unweary bees are key to a couple of breeding lines. Breed them with Diligent and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbQ.desc=Les abeilles Unweary sont la clé de plusieurs lignées d'élevage. Obtenez-les en croisant Diligent et Cultivated.
 
 # Quest: Growing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbg.name=Growing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbg.desc=Growing bees are the start of the Fruity specific breeding tree. Breed them from Forest and Diligent.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIbg.desc=Les abeilles Growing sont le point de départ de l'arbre d'élevage propre à Fruity. Obtenez-les en croisant Forest et Diligent.
 
 # Quest: Copper
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcg.name=Cuivre
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcg.desc=The Copper bee is the first of the metal lines. There are too many metal breeding lines to cover here, but by now you should be able to use NEI to figure out how to breed more bee types. Copper bees require a copper block beneath the bee housing. Breed them from Majestic and Clay.%n%nThe Copper Combs have a strong chance of centrifuging into copper dust, but you'll also see a Chemical Reactor recipe to use hydrochloric acid to get a 1:1 exchange. You have some bee options for getting chlorine so you should think about a sustained hydrochloric acid production line soon. You'll eventually §lhave to §ruse hydrochloric acid and won't have the Centrifuge option for later combs.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcg.desc=L'abeille Cuivre est la première des lignées de métaux. Il y a trop de lignées de métaux pour toutes les couvrir ici, mais vous devriez maintenant savoir utiliser NEI pour trouver comment élever d'autres types d'abeilles. Les abeilles Cuivre ont besoin d'un bloc de Cuivre sous leur logement. Obtenez-les en croisant Majestic et Clay.%n%nLes rayons de Cuivre ont de fortes chances de donner de la poudre de Cuivre à la centrifugeuse, mais vous verrez aussi une recette de Chemical Reactor qui utilise de l'Acide Chlorhydrique pour un échange 1:1. Vous avez quelques options apicoles pour obtenir du Chlore : pensez donc bientôt à une ligne de production durable d'Acide Chlorhydrique. Vous §ldevrez §rtôt ou tard utiliser de l'Acide Chlorhydrique et n'aurez plus l'option de la Centrifuge pour les rayons suivants.
 
 # Quest: Clay
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcw.name=Clay
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcw.desc=To breed a Clay bee, you must put a Clay block beneath the housing. Clay bees are the bedrock of many important bee lines. Breed them from Industrious and Diligent.%n%n[note]Breeder's Notes:%n%nThis bee is an ancestor for a diverse group of species. A lot of them have incompatible biome requirements--especially the humidity. While breeding, you'll find that you have to alter the biome from cycle to cycle. You probably want to just earmark a spot that is NORMAL/DAMP right now if your only option for handling this is to run around with your breeding setup.%n%nYou're probably on your way to more interesting production bees, but don't forget that clay dust can be electrolyzed into some useful stuff!%n[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIcw.desc=Pour élever une abeille Clay, vous devez placer un bloc d'Argile sous le logement. Les abeilles Clay sont le socle de nombreuses lignées importantes. Obtenez-les en croisant Industrious et Diligent.%n%n[note]Notes de l'éleveur :%n%nCette abeille est l'ancêtre d'un groupe d'espèces très varié. Beaucoup d'entre elles ont des exigences de biome incompatibles, surtout pour l'humidité. Pendant l'élevage, vous constaterez qu'il faut modifier le biome d'un cycle à l'autre. Si votre seule solution est de vous déplacer avec votre installation d'élevage, mieux vaut sans doute réserver dès maintenant un endroit NORMAL/DAMP.%n%nVous êtes sans doute en route vers des abeilles de production plus intéressantes, mais n'oubliez pas que la poudre d'Argile peut être électrolysée en des choses utiles !%n[/note]
 
 # Quest: Industrious
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdA.name=Industrious
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdA.desc=Industrious bees produce pollen clusters, a key ingredient to the Alveary. They're also used for breeding many other bees. Their pollination speed is Fast, better than most bees. Breed them from Diligent and Unweary.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdA.desc=Les abeilles Industrious produisent des Pollen Clusters, un ingrédient clé de l'Alveary. Elles servent aussi à élever beaucoup d'autres abeilles. Leur vitesse de pollinisation est Fast, meilleure que celle de la plupart des abeilles. Obtenez-les en croisant Diligent et Unweary.
 
 # Quest: Slimeball
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdQ.name=Slimeball
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdQ.desc=Slimeballs aren't super useful, but you can easily breed this bee to make them. It's a necessary step on the way to Oil though. You will need a Congealed Slime Block beneath the bee housing. Breed them from Clay and Marshy.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdQ.desc=Les boules de slime ne sont pas super utiles, mais vous pouvez facilement élever cette abeille pour en produire. C'est en tout cas une étape nécessaire vers Oil. Il vous faudra un Congealed Slime Block sous le logement. Obtenez-les en croisant Clay et Marshy.
 
 # Quest: Sticky Resin
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdg.name=Sticky Resin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdg.desc=Never having to use a treetap again? Sign me up! You'll need to put a Rubber Wood log beneath the bee housing. Breed them from Slimeball and Peat.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdg.desc=Ne plus jamais avoir à utiliser de Treetap ? J'en suis ! Il vous faudra placer une bûche de Rubber Wood sous le logement. Obtenez-les en croisant Slimeball et Peat.
 
 # Quest: Oil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdw.name=Oil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdw.desc=Finally, Black Gold. The Oil bee, with proper... encouragement... can take care of all your power and chemical needs for quite some time. An alternate bee, Oily, requires less processing to get oil but has a longer breeding chain. It is below the Magical bees. Breed them from Coal and Sticky Resin.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIdw.desc=Enfin, l'or noir. L'abeille Oil, avec les... encouragements adéquats... peut couvrir tous vos besoins énergétiques et chimiques pendant un bon moment. Une abeille alternative, Oily, demande moins de traitement pour obtenir du pétrole, mais sa chaîne d'élevage est plus longue. Elle se trouve plus bas, après les abeilles magiques. Obtenez-les en croisant Coal et Sticky Resin.
 
 # Quest: Coal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeA.name=Coal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeA.desc=Ah yes, Coal is King indeed, but Coal Bees are matriarchal. A great bee, giving you Coal to use to power your industry. This will require a Coal Block under your bee housing. This bee will also have the first really dangerous effect - it will apply a creeper explosion to you if you are not wearing your Apiarist suit. Breed them from Peat and Industrious.%n%n[note]Breeder's Notes:%n%nThis is a major prerequisite ancestor species to a lot of other bee species in this chapter, and they're advanced ones too. The problem is the Coal species is long-lived, so it takes a long time for the queen to drop down to a princess and two drones (assuming the Coal species default of 2x fertility). Consider using some lifetime-reducing frames to accelerate that so you can get a Coal drone stock more quickly and start on those other species.%n[/note]%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeA.desc=Ah oui, le charbon est roi, mais les abeilles Coal sont matriarcales. Une super abeille qui vous donne du Charbon pour alimenter votre industrie. Il faudra un bloc de Charbon sous votre logement. Cette abeille a aussi le premier effet vraiment dangereux : elle vous inflige une explosion de creeper si vous ne portez pas votre combinaison d'apiculteur. Obtenez-les en croisant Peat et Industrious.%n%n[note]Notes de l'éleveur :%n%nC'est un ancêtre indispensable à beaucoup d'autres espèces de ce chapitre, et des espèces avancées en plus. Le problème, c'est que l'espèce Coal vit longtemps : il faut donc longtemps pour que la reine laisse une princesse et deux faux-bourdons (en supposant la fertilité par défaut de 2x de l'espèce Coal). Pensez à utiliser des cadres qui réduisent la durée de vie pour accélérer tout ça, afin de constituer plus vite un stock de faux-bourdons Coal et d'attaquer ces autres espèces.%n[/note]%n
 
 # Quest: Peat
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeQ.name=Peat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeQ.desc=Peat from these bees can be used in furnaces and boilers. Free fuel is free, right? Breed them from Rural and Clay.%n%n[note]Breeder's Notes:%n%nYou probably are only doing this because it's a prerequisite for other breeds (especially Coal), but this is a really productive bee! Its peat should be able to pull off a little side hustle somewhere.%n%nNow, its §omulch§o§r is useful for growth medium with the Genetics tool line. If you're going that way, you might as well put this bee to work for it because you're already invested in bees.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeQ.desc=La Tourbe de ces abeilles peut servir dans les fours et les chaudières. Un combustible gratuit, c'est gratuit, non ? Obtenez-les en croisant Rural et Clay.%n%n[note]Notes de l'éleveur :%n%nVous faites sans doute ça uniquement parce que c'est un prérequis pour d'autres espèces (surtout Coal), mais c'est une abeille vraiment productive ! Sa Tourbe devrait pouvoir vous rapporter un petit complément quelque part.%n%nAu passage, son §omulch§o§r est utile pour le milieu de croissance de la gamme d'outils Genetics. Si vous allez dans cette direction, autant mettre cette abeille au travail pour ça, puisque vous êtes déjà investi dans les abeilles.[/note]
 
 # Quest: Rural
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeg.name=Rural
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeg.desc=Rural bees like to live out in the country - you'll have to relocate to a Plains-type biome for these. Breed them from Diligent and Meadows.%n%nThey produce Wheaten Combs, which make . . . wheat. Hey, it ain't nothing! Still, this bee is more of a speed bump on the way to bigger projects.%n%n[note]They will take any biome with the PLAINS tag. You can dump the biome data in NEI by clicking on the NEI options button (the wrench), then the Tools button, then the Data Dumps button, and finally the Dump button in the biomes category. This creates a "dumps" directory in the root folder of the modpack with a biome.csv inside of it. Any listed biome that has the PLAINS tag is fair game. You can feed these biomes into a Nature's Compass and see if there are any nearby.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIeg.desc=Les abeilles Rural aiment vivre à la campagne : il faudra vous installer dans un biome de type Plaines pour les obtenir. Obtenez-les en croisant Diligent et Meadows.%n%nElles produisent des Wheaten Combs, qui donnent... du blé. Hé, c'est toujours ça ! Cela dit, cette abeille est plutôt un ralentisseur sur la route de projets plus ambitieux.%n%n[note]N'importe quel biome portant le tag PLAINS leur convient. Vous pouvez exporter les données des biomes dans NEI en cliquant sur le bouton des options NEI (la clé à molette), puis sur le bouton Tools, puis sur Data Dumps, et enfin sur le bouton Dump de la catégorie biomes. Cela crée un dossier « dumps » à la racine du modpack contenant un fichier biome.csv. Tout biome listé avec le tag PLAINS fait l'affaire. Vous pouvez entrer ces biomes dans un Nature's Compass pour voir s'il y en a à proximité.[/note]
 
 # Quest: Blooming
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIew.name=Blooming
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIew.desc=A Blooming bee will bonemeal nearby saplings. This can definitely help your log and sapling production rate. They also provide the fastest pollination. Breed them from Industrious and Thriving.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIew.desc=Une abeille Blooming applique de la poudre d'os sur les pousses voisines. Cela peut vraiment aider votre production de bûches et de pousses. Elles offrent aussi la pollinisation la plus rapide. Obtenez-les en croisant Industrious et Thriving.
 
 # Quest: Diamond
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfA.name=Diamant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfA.desc=Ah finally, a girl... I mean Queen's best friend. Will require a block of Diamond. Breed from Certus and Coal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfA.desc=Ah, enfin, le meilleur ami de la femme... pardon, de la Reine. Il faudra un bloc de Diamant. Obtenez-la en croisant Certus et Coal.
 
 # Quest: Certus
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfQ.name=Certus
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfQ.desc=The Certus Quartz bee. Hmm, does it have any breeding requirements? I can't see to remember. Maybe try a block of Certus Quartz? Breed it from Lapis and Hermitic.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfQ.desc=L'abeille Certus Quartz. Hmm, a-t-elle des exigences d'élevage ? Je n'arrive pas à m'en souvenir. Essayez peut-être un bloc de Quartz Certus ? Obtenez-la en croisant Lapis et Hermitic.
 
 # Quest: Lapis
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfg.name=Lapis
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfg.desc=Finally, a bee with some real promise. The Lapis bee will require a block of lapis to breed. Breed them from Demonic and Imperial.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfg.desc=Enfin, une abeille vraiment prometteuse. L'abeille Lapis aura besoin d'un bloc de Lapis pour être élevée. Obtenez-les en croisant Demonic et Imperial.
 
 # Quest: Hermitic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfw.name=Hermitic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfw.desc=Hermitic bees have the same no-entities requirement as Secluded, but they solve that problem themselves. They are so repugnant they repel mobs near them. Breed them from Secluded and Monastic.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIfw.desc=Les abeilles Hermitic ont la même exigence d'absence d'entités que les Secluded, mais elles règlent le problème elles-mêmes : elles sont si répugnantes qu'elles repoussent les monstres autour d'elles. Obtenez-les en croisant Secluded et Monastic.
 
 # Quest: Demonic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgA.name=Demonic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgA.desc=Better be careful with this one! It will set you on fire. In addition to combs, this bee can produce Glowstone Dust. It will require Nether to breed. Breed them from Sinister and Fiendish.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgA.desc=Faites attention avec celle-ci ! Elle va vous mettre le feu. En plus des rayons, cette abeille peut produire de la poudre de Pierre lumineuse. Il faudra l'élever dans le Nether. Obtenez-les en croisant Sinister et Fiendish.
 
 # Quest: Sinister
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgQ.name=Sinister
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgQ.desc=Sinister bees will hurt nearby mobs and players. Make sure to wear your suit. They will require breeding in the Nether. Breed them from Modest and Cultivated.%n%nTheir Simmering Combs are no joke! You can centrifuge them down to get Phosphor, which you can then squeeze to get lava. Lava!%n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgQ.desc=Les abeilles Sinister blessent les monstres et les joueurs à proximité. Pensez à porter votre combinaison. Il faudra les élever dans le Nether. Obtenez-les en croisant Modest et Cultivated.%n%nLeurs Simmering Combs ne sont pas une blague ! Vous pouvez les centrifuger pour obtenir du Phosphor, que vous pouvez ensuite presser pour obtenir de la lave. De la lave !%n%n
 
 # Quest: Fiendish
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgg.name=Fiendish
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgg.desc=Just like Sinister, Fiendish requires the Nether and a protective bee suit. Breed them from Sinister and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgg.desc=Tout comme Sinister, Fiendish a besoin du Nether et d'une combinaison de protection. Obtenez-les en croisant Sinister et Cultivated.
 
 # Quest: Secluded
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgw.name=Secluded
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgw.desc=Secluded bees are real loners. There must not be any entities within their territory for them to produce their combs. The Mellow combs can produce Nether quartz. Breed them from Monastic and Austere.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIgw.desc=Les abeilles Secluded sont de vraies solitaires. Il ne doit y avoir aucune entité dans leur territoire pour qu'elles produisent leurs rayons. Les Mellow Combs peuvent produire du Quartz du Nether. Obtenez-les en croisant Monastic et Austere.
 
 # Quest: Austere
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhA.name=Austere
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhA.desc=Another bee that requires an attentive beekeeper. Without an Apiarist suit, this bee will inflict creeper explosions on you. Watch out! It will require a hot or hellish biome with Arid humidity. Breed them from Modest and Frugal.%n%n[note]Breeder's Notes:%n%nAustere may want a hellish biome, but that doesn't mean this species wants to be in The Nether. By default, they need to see the sky. You will either have to use an alveary with climate modifications to appease them, or alter an Overworld biome to their tastes. Something like the Potion of Shifting Seasons can put a little bit of a nether biome like Boneyard in the Overworld. You could get lucky and find an Overworld biome scorching hot enough to make them happy, but that's some serious luck.%n%nThe creeper explosions are usually just a bit annoying, but we once had an apiarist in steel armor and full, §agreen§r hearts get turned into a gravestone in §oone hit.§o §rThey were prepping to gear up into their apiarist suit, but they happened to be in its territory. Don't mess around with this species![/note]%n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhA.desc=Encore une abeille qui demande un apiculteur attentif. Sans combinaison d'apiculteur, cette abeille vous infligera des explosions de creeper. Attention ! Il lui faudra un biome Hot ou Hellish avec une humidité Arid. Obtenez-les en croisant Modest et Frugal.%n%n[note]Notes de l'éleveur :%n%nAustere veut peut-être un biome Hellish, mais ça ne veut pas dire que cette espèce veut être dans le Nether. Par défaut, elle a besoin de voir le ciel. Il faudra soit utiliser une Alveary avec des modifications climatiques pour la satisfaire, soit modifier un biome de l'Overworld à son goût. Une Potion of Shifting Seasons, par exemple, peut placer un petit bout de biome du Nether comme le Boneyard dans l'Overworld. Vous pourriez avoir de la chance et trouver un biome de l'Overworld assez brûlant pour la rendre heureuse, mais il faudrait une sacrée chance.%n%nLes explosions de creeper sont en général juste un peu agaçantes, mais nous avons déjà vu un apiculteur en armure d'acier, avec tous ses cœurs §averts§r, se transformer en pierre tombale en §oun seul coup.§o §rIl s'apprêtait à enfiler sa combinaison d'apiculteur, mais il se trouvait par malheur dans son territoire. Ne plaisantez pas avec cette espèce ![/note]%n%n
 
 # Quest: Frugal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhQ.name=Frugal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhQ.desc=The Frugal bee doesn't have much direct use, but is part of many breeding lines. It will require a hot or hellish biome and arid humidity. Breed them from Modest and Sinister.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhQ.desc=L'abeille Frugal n'a pas beaucoup d'utilité directe, mais elle fait partie de nombreuses lignées d'élevage. Il lui faudra un biome Hot ou Hellish et une humidité Arid. Obtenez-les en croisant Modest et Sinister.
 
 # Quest: Redstone Alloy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhg.name=Redstone Alloy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhg.desc=Obviously, a block of Redstone Alloy is required, right? Breed them from Red Alloy and Redstone.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhg.desc=Évidemment, il faut un bloc d'Alliage de Redstone, non ? Obtenez-les en croisant Red Alloy et Redstone.
 
 # Quest: Red Alloy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhw.name=Red Alloy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhw.desc=The Red Alloy princess will require a block of Red Alloy. Breed them from Redstone and Copper.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIhw.desc=La princesse Red Alloy aura besoin d'un bloc d'Alliage Rouge. Obtenez-les en croisant Redstone et Cuivre.
 
 # Quest: Redstone
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIiA.name=Redstone
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIiA.desc=The Redstone princess will require a block of Redstone. Breed them from Industrious and Demonic.%n%n[note]Breeder's Notes:%n%nThe stock versions of Industrious and Demonic have incompatible climates:%n%nDemonic:%n  * HELLISH down 2 (to WARM)%n  * ARID zero tolerance%nIndustrious:%n  * NORMAL temperature, zero tolerance%n  * NORMAL humidity, zero tolerance%n%nYou will probably have to do something to make it work, which can include just running around a lot between apiaries in different places depending on the queen you get on any cycle.%n%nWhen the Redstone species starts to appear, it'll probably also want NORMAL/NORMAL with zero tolerance, but will need nether pollination.%n%n[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIiA.desc=La princesse Redstone aura besoin d'un bloc de Redstone. Obtenez-les en croisant Industrious et Demonic.%n%n[note]Notes de l'éleveur :%n%nLes versions de base d'Industrious et de Demonic ont des climats incompatibles :%n%nDemonic :%n  * HELLISH, tolérance 2 vers le bas (jusqu'à WARM)%n  * ARID, aucune tolérance%nIndustrious :%n  * température NORMAL, aucune tolérance%n  * humidité NORMAL, aucune tolérance%n%nIl faudra probablement faire quelque chose pour que ça marche, ce qui peut consister simplement à beaucoup courir entre des apiaries situés à différents endroits selon la reine obtenue à chaque cycle.%n%nQuand l'espèce Redstone commencera à apparaître, elle voudra probablement aussi NORMAL/NORMAL sans tolérance, mais aura besoin d'une pollinisation du Nether.%n%n[/note]
 
 # Quest: Monastic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIiQ.name=Monastic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIiQ.desc=Monastic bees aren't found in hives or bred. Instead, you will need to find a Beekeeper villager and trade with them for it. There are various ways to make more villagers, so do some research.%n%n[note]Trader's Notes:%n%nBeekeeper villagers spawn in houses that have a fenced back yard with apiaries. If the apiaries are missing, the villager didn't spawn. Or, well, a player already came along and looted the apiaries. They might have abducted the beekeeper too. The beekeeper should be wearing an apiarist outfit. Their initial trades probably don't have this bee. You will have to work up to this by trading what is available. If they require a princess for a trade, an ignoble one is fine. Honorable mention goes to the trade of some logs for an apiary. That's so much easier than having to make them yourself! If trades lock up, one trade of the "rightmost" trade should unlock preceding ones so you can keep trying to get this trade to pop up.%n%nYou can make a golden lasso at LV tier and run off with the villager. If you do, prepare a heavily-fortified spot. Even single-block-wide walls won't keep all zombies away. Consider just keeping the beekeeper in the lasso when you're not using them.%n%nBeekeeper's Notes:%n%nThe base fertility for a Monastic bee is 1x. That's really annoying. When each cycle ends, you get a princess and a drone. That's it. You don't get surplus stock for carrying on breeding. If you can't just straight up alter the genome, then you can try to convert an arctic princess (or something else with a high fertility) with monastic drones in a way that gives you a higher fertility.%n%nOn the flip side, their long life is useful to try to get into production bees so you don't quickly clog up your bee product inventories with drones.%n%nThe "monastic line" of bees have other quirks. They'll take stuff like wheat and bookshelves as pollination sources. They can have some nasty aggression habits. They are long-lived, so you want something that cuts their life cycle for breeding--like an oblivion frame. You will start out here with a bee that likes average temperatures and humidity, but that'll drift to outright hellish and arid (but not The Nether!) for descendant species.%n[/note]%n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIiQ.desc=Les abeilles Monastic ne se trouvent pas dans des ruches sauvages et ne s'obtiennent pas par croisement. Il vous faudra plutôt trouver un villageois apiculteur (Beekeeper) et faire du commerce avec lui pour l'obtenir. Il existe plusieurs façons de produire plus de villageois : renseignez-vous.%n%n[note]Notes du marchand :%n%nLes villageois apiculteurs apparaissent dans des maisons dotées d'un jardin clôturé avec des apiaries. S'il n'y a pas d'apiaries, c'est que le villageois n'est pas apparu. Ou bien qu'un joueur est déjà passé par là et a pillé les apiaries. Il a peut-être même enlevé l'apiculteur. L'apiculteur devrait porter une tenue d'apiculteur. Ses échanges initiaux ne proposent sans doute pas cette abeille : il faudra y arriver progressivement en faisant les échanges disponibles. Si un échange demande une princesse, une princesse Ignoble fait l'affaire. Mention honorable pour l'échange de quelques bûches contre un apiary : c'est tellement plus simple que de les fabriquer soi-même ! Si les échanges se bloquent, un échange de l'offre la plus « à droite » devrait débloquer les précédentes, pour que vous puissiez continuer à tenter de faire apparaître cet échange.%n%nVous pouvez fabriquer un Golden Lasso au tier LV et partir avec le villageois. Si vous le faites, préparez un endroit très bien fortifié. Même des murs d'un seul bloc d'épaisseur ne tiendront pas tous les zombies à distance. Envisagez simplement de garder l'apiculteur dans le lasso quand vous ne vous en servez pas.%n%nNotes de l'apiculteur :%n%nLa fertilité de base d'une abeille Monastic est de 1x. C'est vraiment agaçant. À la fin de chaque cycle, vous obtenez une princesse et un faux-bourdon. C'est tout. Pas de surplus pour poursuivre l'élevage. Si vous ne pouvez pas modifier directement le génome, vous pouvez essayer de convertir une princesse Arctic (ou une autre à fertilité élevée) avec des faux-bourdons Monastic de façon à obtenir une fertilité plus élevée.%n%nEn revanche, leur longue durée de vie est utile pour en faire des abeilles de production, afin de ne pas encombrer rapidement vos inventaires de produits apicoles avec des faux-bourdons.%n%nLa « lignée Monastic » a d'autres particularités. Elle accepte des choses comme le blé et les bibliothèques comme sources de pollinisation. Elle peut avoir de vilaines habitudes agressives. Ces abeilles vivent longtemps : il vous faudra donc quelque chose qui raccourcisse leur cycle de vie pour l'élevage, comme un Oblivion Frame. Vous commencerez ici avec une abeille qui aime une température et une humidité moyennes, mais cela dérivera vers du carrément Hellish et Arid (mais pas le Nether !) pour les espèces descendantes.%n[/note]%n%n
 
 # Quest: Vibrant Alloy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIig.name=Vibrant Alloy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIig.desc=Finally. It was a long, hazardous road, but you can now get Vibrant Alloy directly from a bee. Great job. You'll need a Block of Vibrant Alloy. Breed them from Energetic Alloy and Phantasmal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIig.desc=Enfin. La route a été longue et périlleuse, mais vous pouvez maintenant obtenir du Vibrant Alloy directement d'une abeille. Beau travail. Il vous faudra un Block of Vibrant Alloy. Obtenez-les en croisant Alliage énergétique et Phantasmal.
 
 # Quest: Energetic Alloy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIiw.name=Alliage énergétique
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIiw.desc=Energetic Alloy will require a block of Energetic Alloy, of course. Breed them from Redstone Alloy and Demonic.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIiw.desc=L'abeille Alliage énergétique aura besoin d'un bloc d'Energetic Alloy, évidemment. Obtenez-les en croisant Redstone Alloy et Demonic.
 
 # Quest: Phantasmal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjA.name=Phantasmal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjA.desc=Phantasmal bees are similar to Spectral, except they cause the other drops to reanimate, like ghasts, spiders, creepers, endermen, or even Ender Dragons if their drops are lying around. Breed them from Spectral and Ender.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjA.desc=Les abeilles Phantasmal ressemblent aux Spectral, sauf qu'elles font réapparaître d'autres butins, comme ceux des ghasts, des araignées, des creepers, des endermen, voire des Ender Dragons si leurs butins traînent dans le coin. Obtenez-les en croisant Spectral et Ender.
 
 # Quest: Spectral
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjQ.name=Spectral
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjQ.desc=Spectral bees will require Ender bees to breed. This will test the ability of even the toughest beekeeper - don't forget your apiarist suit. To work in a bee housing, there must be a Dragon Egg nearby. Don't drop any bones, blaze rods or rotten meat! This bee will cause those to come back to life! Perhaps you can find a use for this ability. Breed them from Ender and Hermitic.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjQ.desc=Les abeilles Spectral ont besoin d'abeilles Ender pour être élevées. Cela mettra à l'épreuve même le plus coriace des apiculteurs : n'oubliez pas votre combinaison d'apiculteur. Pour fonctionner dans un logement, il faut un œuf de dragon à proximité. Ne laissez traîner ni os, ni bâtons de Blaze, ni chair putréfiée ! Cette abeille les ramène à la vie ! Vous trouverez peut-être une utilité à cette capacité. Obtenez-les en croisant Ender et Hermitic.
 
 # Quest: Fluix
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjg.name=Fluix
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjg.desc=If you go deep into AE2, you'll want cheap sources of Fluix from these bees. Breeding will require a block of Fluix. Breed them from Lapis and Redstone.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjg.desc=Si vous allez loin dans AE2, vous voudrez des sources bon marché de Fluix grâce à ces abeilles. L'élevage demande un bloc de Fluix. Obtenez-les en croisant Lapis et Redstone.
 
 # Quest: Ruby
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjw.name=Ruby
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjw.desc=For early Chrome, a Ruby bee is a great source. It will require a block of Ruby. Breed them from Redstone and Diamond.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIjw.desc=Pour obtenir du Chrome tôt, l'abeille Ruby est une excellente source. Elle aura besoin d'un bloc de Rubis. Obtenez-les en croisant Redstone et Diamant.
 
 # Quest: Tin
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkA.name=Tin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkA.desc=Tin is a great early bee to get, it can save time you'd otherwise spend looking for Cassiterite Sand. You'll need a Tin block. Breed them from Clay and Diligent.%n%nThe Tin Combs have a strong chance of centrifuging into tin dust, but you'll also see a Chemical Reactor recipe to use hydrochloric acid to get a 1:1 exchange. You have some bee options for getting chlorine so you should think about a sustained hydrochloric acid production line soon. You'll eventually §lhave to §ruse hydrochloric acid and won't have Centrifuge recipes for later combs.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkA.desc=L'abeille Tin est une excellente abeille à obtenir tôt : elle peut vous épargner le temps passé à chercher du Sable de Cassitérite. Il vous faudra un bloc d'Étain. Obtenez-les en croisant Clay et Diligent.%n%nLes rayons d'Étain ont de fortes chances de donner de la poudre d'Étain à la centrifugeuse, mais vous verrez aussi une recette de Chemical Reactor qui utilise de l'Acide Chlorhydrique pour un échange 1:1. Vous avez quelques options apicoles pour obtenir du Chlore : pensez donc bientôt à une ligne de production durable d'Acide Chlorhydrique. Vous §ldevrez §rtôt ou tard utiliser de l'Acide Chlorhydrique et n'aurez plus de recettes de Centrifuge pour les rayons suivants.
 
 # Quest: Iron
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkQ.name=Fer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkQ.desc=Iron bees as a resource isn't that big a deal, so much stuff makes iron anyways, but they are a key breeding species. They will need an Iron block. Breed them from Copper and Tin.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkQ.desc=Les abeilles Fer ne sont pas une ressource si importante, tant de choses produisent déjà du fer, mais c'est une espèce clé pour l'élevage. Il leur faudra un bloc de Fer. Obtenez-les en croisant Cuivre et Tin.
 
 # Quest: Nickel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkg.name=Nickel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkg.desc=Nickel bees provide a pretty useful resource. You'll need a block of Nickel. Breed them from Iron and Copper.%n%nNickel Combs cannot be centrifuged. You now need to use a Chemical Reactor with some hydrochloric acid.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkg.desc=Les abeilles Nickel fournissent une ressource plutôt utile. Il vous faudra un bloc de Nickel. Obtenez-les en croisant Fer et Cuivre.%n%nLes rayons de Nickel ne peuvent pas être centrifugés. Vous devez désormais utiliser un Chemical Reactor avec un peu d'Acide Chlorhydrique.
 
 # Quest: Zinc
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkw.name=Zinc
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkw.desc=Zinc makes great early game item pipes when mixed into brass. Also, these bees have a small chance of producing Gallium combs, which is very useful for players needing to make circuits or SMD devices. These bees will require a Zinc block. Breed them from Tin and Iron.%n%nZinc Combs cannot be centrifuged. You now need to use a Chemical Reactor with some hydrochloric acid.%n%n[note]Breeder's Notes:%n%nYou probably only bred this as a stepping stone into the other metals. Nonetheless, that gallium is no joke! The queen will need to be jubilant for you to get those, so you need to match up its temperature and humidity band exactly. Your HUD will have a note when you are pointed at the apiary about if it's not jubilant. The default band is just NORMAL/NORMAL so any old plain/prairie kind of place will probably do.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIkw.desc=Le Zinc, mélangé en Laiton, donne d'excellents tuyaux à objets en début de partie. De plus, ces abeilles ont une petite chance de produire des rayons de Gallium, très utiles pour les joueurs qui doivent fabriquer des circuits ou des composants SMD. Ces abeilles auront besoin d'un bloc de Zinc. Obtenez-les en croisant Tin et Fer.%n%nLes rayons de Zinc ne peuvent pas être centrifugés. Vous devez désormais utiliser un Chemical Reactor avec un peu d'Acide Chlorhydrique.%n%n[note]Notes de l'éleveur :%n%nVous ne l'avez sans doute élevée que comme tremplin vers les autres métaux. N'empêche, ce Gallium n'est pas une blague ! La reine devra être jubilante pour que vous en obteniez : il faut donc faire correspondre exactement sa plage de température et d'humidité. Votre HUD affichera une note quand vous visez l'apiary si elle n'est pas jubilante. La plage par défaut est simplement NORMAL/NORMAL, donc n'importe quel endroit de type plaine ou prairie devrait faire l'affaire.[/note]
 
 # Quest: Lead
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlA.name=Lead
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlA.desc=Lead will be necessary in large quantities once you start making nuclear reactors. You'll need a block of Lead for these. Breed them from Copper and Coal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlA.desc=Le Plomb deviendra nécessaire en grandes quantités dès que vous commencerez à fabriquer des réacteurs nucléaires. Il vous faudra un bloc de Plomb pour celles-ci. Obtenez-les en croisant Cuivre et Coal.
 
 # Quest: Silver
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlQ.name=Silver
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlQ.desc=Silver is key metal at HV and up with the amount of Electrum you will need. Requires a block of Silver. Breed them from Lead and Tin.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlQ.desc=L'Argent est un métal clé à partir du HV, vu la quantité d'Électrum dont vous aurez besoin. Nécessite un bloc d'Argent. Obtenez-les en croisant Lead et Tin.
 
 # Quest: Aluminium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlg.name=Aluminium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlg.desc=Aluminium isn't necessary until MV, but when you want it, you'll want lots. Requires block of Aluminium. Breed them from Nickel and Zinc.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlg.desc=L'Aluminium n'est pas nécessaire avant le MV, mais quand vous en voudrez, vous en voudrez beaucoup. Nécessite un bloc d'Aluminium. Obtenez-les en croisant Nickel et Zinc.
 
 # Quest: Olivine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlw.name=Olivine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlw.desc=An otherwise mostly useless bee, Olivine is required for breeding better bees. I guess if you need Magnesium? Breed them from Ender and Certus.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIlw.desc=Abeille par ailleurs à peu près inutile, Olivine est nécessaire pour élever de meilleures abeilles. Peut-être si vous avez besoin de Magnésium ? Obtenez-les en croisant Ender et Certus.
 
 # Quest: Emerald
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAImA.name=Emerald
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAImA.desc=Ah yes, a very useful bee. Emeralds are used for many upgrades, and trading with villagers. Will require a block of Emerald. Breed them from Olivine and Diamond.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAImA.desc=Ah oui, une abeille très utile. Les émeraudes servent à de nombreuses améliorations et au commerce avec les villageois. Il faudra un bloc d'Émeraude. Obtenez-les en croisant Olivine et Diamant.
 
 # Quest: Titanium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAImQ.name=Titanium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAImQ.desc=Titanium from bees will make getting those LCRs and distillation towers a breeze. Hey, I rhymed! You'll need a block of Titanium for this bee. Breed them from Aluminium and Redstone.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAImQ.desc=Grâce au Titane des abeilles, LCR et Distillation Towers se feront sans peine et sans veille. Hé, ça rime ! Il vous faudra un bloc de Titane pour cette abeille. Obtenez-les en croisant Aluminium et Redstone.
 
 # Quest: Chrome
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAImg.name=Chrome
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAImg.desc=Chrome, a necessary ingredient for Stainless Steel. Better to get it directly instead of having to deal with Rubies or Garnets. This bee will require a block of Chrome to breed. Breed them from Titanium and Ruby.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAImg.desc=Le Chrome, ingrédient indispensable de l'Acier inoxydable. Mieux vaut l'obtenir directement que de devoir passer par les Rubis ou les Grenats. Cette abeille aura besoin d'un bloc de Chrome pour être élevée. Obtenez-les en croisant Titanium et Ruby.
 
 # Quest: Platinum
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAImw.name=Platinum
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAImw.desc=The Platinum bee! Useful as a decent aid to your platline as well as a slow source of pure platinum. Requires a block of Platinum. Breed them from Diamond and Chrome.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAImw.desc=L'abeille Platinum ! Une aide correcte pour votre ligne du Platine, et une source lente de Platine pur. Nécessite un bloc de Platine. Obtenez-les en croisant Diamant et Chrome.
 
 # Quest: Uranium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAInA.name=Uranium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAInA.desc=All that hatred had a purpose - to create this bee, capable of producing enormous power. As before, keep away from everything. This bee will require a block of Uranium. Breed them from Avenging and Platinum.%n%nTo actually get the combs you need to either find a biome with cold temperature and normal humidity or emulated these conditions.%n%n[note]With these combs and the iridium ones you can now make climate control units for modules in your industrial apiary![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAInA.desc=Toute cette haine avait un but : créer cette abeille, capable de produire une énergie colossale. Comme précédemment, tenez-la à l'écart de tout. Cette abeille aura besoin d'un bloc d'Uranium. Obtenez-les en croisant Avenging et Platinum.%n%nPour obtenir réellement les rayons, vous devez soit trouver un biome à température froide et humidité normale, soit reproduire ces conditions.%n%n[note]Avec ces rayons et ceux d'Iridium, vous pouvez désormais fabriquer des unités de contrôle climatique (Climate Control Module) pour les modules de votre Industrial Apiary ![/note]
 
 # Quest: Plutonium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAInQ.name=Plutonium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAInQ.desc=A metal that represents the epitome of technology. Never existing in the universe before man. Destroying everything around it. This bee will require a block of Plutonium. Breed them from Uranium and Emerald.%n%n[note]Plutonium Combs are also used in a few crafting recipes![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAInQ.desc=Un métal qui représente l'apogée de la technologie. Qui n'avait jamais existé dans l'univers avant l'homme. Qui détruit tout autour de lui. Cette abeille aura besoin d'un bloc de Plutonium. Obtenez-les en croisant Uranium et Emerald.%n%n[note]Les rayons de Plutonium servent aussi dans quelques recettes de fabrication ![/note]
 
 # Quest: Avenging
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIng.name=Avenging
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIng.desc=Hatred distilled into its most violent form. Keep away from everything. Breed them from Vengeful and Vindictive.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIng.desc=La haine distillée sous sa forme la plus violente. Tenez-la à l'écart de tout. Obtenez-les en croisant Vengeful et Vindictive.
 
 # Quest: Vengeful
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAInw.name=Vengeful
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAInw.desc=Hatred. Of all things, living and solid. Keep bee housing away from anything valuable, or even not valuable. Breed them from Monastic and Vindictive.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAInw.desc=La haine. De toute chose, vivante ou solide. Gardez leur logement loin de tout ce qui a de la valeur, ou même de ce qui n'en a pas. Obtenez-les en croisant Monastic et Vindictive.
 
 # Quest: Vindictive
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIoA.name=Vindictive
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIoA.desc=Beware. These bees not only hate everything, they even hate blocks. Put their bee housing far away from everything. Breed them from Demonic and Monastic.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIoA.desc=Prudence. Non seulement ces abeilles détestent tout, mais elles détestent même les blocs. Placez leur logement loin de tout. Obtenez-les en croisant Demonic et Monastic.
 
 # Quest: Arcane
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpA.name=Arcane
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpA.desc=Enchanting drops from Arcane bees are used to create Aromatic Lumps for use in the Swarmer. It has a higher chance of success than normal Royal Jelly. These bees are the other bedrock of the Magic Bees branch. Breed them from Esoteric and Mysterious.%n%n[note]Thaumaturge's Notes:%n%nIf you are playing with disabled Thaumcraft research, and instead pay for research with aspects, then review descendants of this line. You can cross with Monastic bees, working your way to Pupil, and then on to Savant. Savant queens will produce lore fragments that you can combine into knowledge shards. That will help you stock up on aspects that you can put towards all the Praecantatio the alternate research mode requires.%n%nIt doesn't get its own quest progression because that's a pretty niche use. On the other hand, those ... academic bees also produce Paper Combs that can be centrifuged into paper.%n[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpA.desc=Les Enchanting Drops des abeilles Arcane servent à créer des Aromatic Lumps à utiliser dans le Swarmer. Elles ont plus de chances de succès que la Royal Jelly normale. Ces abeilles sont l'autre pilier de la branche Magic Bees. Obtenez-les en croisant Esoteric et Mysterious.%n%n[note]Notes du thaumaturge :%n%nSi vous jouez avec la recherche Thaumcraft désactivée et payez plutôt la recherche avec des aspects, examinez les descendants de cette lignée. Vous pouvez les croiser avec des abeilles Monastic, progresser jusqu'à Pupil, puis jusqu'à Savant. Les reines Savant produisent des fragments de savoir (lore fragments) que vous pouvez combiner en éclats de connaissance (knowledge shards). Cela vous aidera à faire des réserves d'aspects à consacrer à tout le Praecantatio qu'exige le mode de recherche alternatif.%n%nCette lignée n'a pas sa propre progression de quêtes, car c'est un usage assez marginal. En revanche, ces abeilles... studieuses produisent aussi des Paper Combs qui peuvent être centrifugés en papier.%n[/note]
 
 # Quest: Eldritch
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpQ.name=Eldritch
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpQ.desc=Eldritch are the start of the magic bee family. Breed them from Mystical and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpQ.desc=Les Eldritch sont le point de départ de la famille des abeilles magiques. Obtenez-les en croisant Mystical et Cultivated.
 
 # Quest: Supernatural
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpg.name=Supernatural
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpg.desc=What have those two brothers gotten into now? The Supernatural bee is a keystone of the Magical branch of bees. Check NEI for details on the best lunar phase for breeding. Breed it from Charmed and Enchanted.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpg.desc=Dans quoi ces deux frères se sont-ils encore fourrés ? L'abeille Supernatural est une pierre angulaire de la branche magique des abeilles. Consultez NEI pour connaître la meilleure phase lunaire pour l'élevage. Obtenez-la en croisant Charmed et Enchanted.
 
 # Quest: Enchanted
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpw.name=Enchanted
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpw.desc=Enchanted is the next step in the progression. Breed them from Charmed and Eldritch.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIpw.desc=Enchanted est l'étape suivante de la progression. Obtenez-les en croisant Charmed et Eldritch.
 
 # Quest: Charmed
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqA.name=Charmed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqA.desc=The power of three! Charmed bees are your next step up the magic bee tree. Breed them from Eldritch and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqA.desc=Le pouvoir des trois ! Les abeilles Charmed sont votre prochaine étape dans l'arbre des abeilles magiques. Obtenez-les en croisant Eldritch et Cultivated.
 
 # Quest: Mysterious
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqQ.name=Mysterious
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqQ.desc=Just your mysterious stranger... Breed them from Eldritch and Esoteric.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqQ.desc=Votre mystérieux inconnu habituel... Obtenez-les en croisant Eldritch et Esoteric.
 
 # Quest: Esoteric
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqg.name=Esoteric
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqg.desc=Another basic Magic branch bee. Breed them from Eldritch and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqg.desc=Encore une abeille de base de la branche magique. Obtenez-les en croisant Eldritch et Cultivated.
 
 # Quest: Ethereal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqw.name=Ethereal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqw.desc=Ethereal bees are critical for all the magical aspect bees. Breed them from Arcane and Supernatural.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIqw.desc=Les abeilles Ethereal sont indispensables pour toutes les abeilles d'aspects magiques. Obtenez-les en croisant Arcane et Supernatural.
 
 # Quest: Aqua
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrA.name=Aqua
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrA.desc=Aqua requires a Water Crystal Cluster. It will produce Water infused dust. Staying nearby will clear potion effects, like drinking a bucket of milk. Might be useful for the clever industrial engineer! Breed them from two Watery.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrA.desc=Aqua nécessite un Water Crystal Cluster. Elle produit de la poudre infusée d'Eau. Rester à proximité dissipe les effets de potion, comme boire un seau de lait. Ça pourrait servir à l'ingénieur industriel astucieux ! Obtenez-les en croisant deux Watery.
 
 # Quest: Firey
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrQ.name=Firey
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrQ.desc=Firey bees must be bred on top of Lava. Breed them from Ethereal and Supernatural.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrQ.desc=Les abeilles Firey doivent être élevées sur de la lave. Obtenez-les en croisant Ethereal et Supernatural.
 
 # Quest: Earthen
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrg.name=Earthen
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrg.desc=Earthen bees must be bred on top of Bricks. Breed them from Supernatural and Ethereal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrg.desc=Les abeilles Earthen doivent être élevées sur des briques. Obtenez-les en croisant Supernatural et Ethereal.
 
 # Quest: Windy
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrw.name=Windy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrw.desc=Windy bees must be bred on top of Oak leaves. Breed them using Ethereal and Supernatural.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIrw.desc=Les abeilles Windy doivent être élevées sur des feuilles de chêne. Obtenez-les en croisant Ethereal et Supernatural.
 
 # Quest: Aer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsA.name=Aer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsA.desc=For Aer bees to appear, you must put an Air Crystal Cluster beneath the bee housing. They will produce Aer infused dust for you. Being nearby will grant a Swiftness buff. Breed them from two Windy.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsA.desc=Pour que les abeilles Aer apparaissent, vous devez placer un Air Crystal Cluster sous le logement. Elles vous produiront de la poudre infusée d'Air. Être à proximité confère un effet de Rapidité. Obtenez-les en croisant deux Windy.
 
 # Quest: Solum
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsQ.name=Solum
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsQ.desc=Solum bees require Earth Crystal Clusters. They can produce Earth infused dust. It will also give you a mining speed boost. Breed them from two Earthen.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsQ.desc=Les abeilles Solum ont besoin d'Earth Crystal Clusters. Elles peuvent produire de la poudre infusée de Terre. Elles vous donnent aussi un bonus de vitesse de minage. Obtenez-les en croisant deux Earthen.
 
 # Quest: Ignis
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsg.name=Ignis
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsg.desc=Ignis bees require Fire Crystal Clusters beneath the bee housing. They will produce Fire infused dust. Watch out! They will set nearby entities on fire! Breed them from two Firey.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsg.desc=Les abeilles Ignis ont besoin de Fire Crystal Clusters sous le logement. Elles produisent de la poudre infusée de Feu. Attention ! Elles mettent le feu aux entités proches ! Obtenez-les en croisant deux Firey.
 
 # Quest: Watery
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsw.name=Watery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsw.desc=Watery bees must be bred over water. Breed them from Ethereal and Supernatural.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIsw.desc=Les abeilles Watery doivent être élevées au-dessus de l'eau. Obtenez-les en croisant Ethereal et Supernatural.
 
 # Quest: Aware
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAItA.name=Aware
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAItA.desc=Not much to say about this bee. Breed them from Ethereal and Attuned.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAItA.desc=Pas grand-chose à dire sur cette abeille. Obtenez-les en croisant Ethereal et Attuned.
 
 # Quest: Spirit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAItQ.name=Spirit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAItQ.desc=The Spirit bee is the first bee to give you Soul Combs, necessary for Soulful Wax, used in many magical frames. Breed them from Aware and either Ethereal or Attuned.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAItQ.desc=L'abeille Spirit est la première à vous donner des Soul Combs, nécessaires au Soulful Wax utilisé dans de nombreux cadres magiques. Obtenez-les en croisant Aware et Ethereal ou Attuned.
 
 # Quest: Soul
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAItg.name=Soul
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAItg.desc=The Soul bee has the highest chance of making Soul Combs, 20 percent. Well, except for Dreaming bees. Anyway, breed them from Aware and Spirit.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAItg.desc=L'abeille Soul a la plus grande chance de produire des Soul Combs : 20 pour cent. Enfin, à part les abeilles Dreaming. Bref, obtenez-les en croisant Aware et Spirit.
 
 # Quest: Chaotic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAItw.name=Chaotic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAItw.desc=Chaotic bees require an Entropy Crystal Cluster. They will produce Entropy Infused Dust. Breed them from Ethereal and Supernatural.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAItw.desc=Les abeilles Chaotic ont besoin d'un Entropy Crystal Cluster. Elles produisent de la poudre infusée d'Entropie. Obtenez-les en croisant Ethereal et Supernatural.
 
 # Quest: Ordered
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIuA.name=Ordered
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIuA.desc=Ordered bees require Ordered Crystal Clusters. They can produce Order Infused Dust. Breed them from Arcane and Ethereal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIuA.desc=Les abeilles Ordered ont besoin d'Order Crystal Clusters. Elles peuvent produire de la poudre infusée d'Ordre. Obtenez-les en croisant Arcane et Ethereal.
 
 # Quest: Vis
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIuQ.name=Vis
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIuQ.desc=Vis bees lead to some of the most powerful bees in the whole pack. They require a node within 75m of the bee housing. Make sure the lunar phase matches the requirements. Breed them from Ethereal and Infernal.%n%n[note]Astronomer's Notes: The waxing and waning phases happen on alternating days. The moon starts its next phase at sunrise and will keep to the same phase all day and all night. You want to prepare the day before, get to bed to start the next day, and immediately get to work. Also, congratulations if you just learned that the moon in Minecraft has phases!%n%nBreeder's Notes: Just because this bee only mutates around specific lunar phases doesn't mean you can't work on them in other phases. To get the mutations to show up at all, yes, you need correct lunar phases. However, you will need a spare Infernal or Ethereal princess to get started, and you can prep that any day. Also, once the Vis species trait shows up in some drones and/or a princess, it's just regular cross-breeding to get a pure princess and pure drone. That can be done any day too.%n%nDespite the focus on moon phases, you do not need to breed at night to trigger the mutation.%n%nThe Ethereal and Infernal bees are a rough combination. Since you'll need a new princess for this bee, consider using a pristine princess that isn't aggressive and is closer to your Ethereal bees' climate. If you get lucky, you may breed out the aggression and produce hybrid Infernals that don't need to live in an oven to function. You will probably need your apiarist suit if the bred queen gets a dominant Infernal trait for a few cycles.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIuQ.desc=Les abeilles Vis mènent à certaines des abeilles les plus puissantes du pack. Elles ont besoin d'un nœud à moins de 75 m du logement. Assurez-vous que la phase lunaire correspond aux exigences. Obtenez-les en croisant Ethereal et Infernal.%n%n[note]Notes de l'astronome : les phases croissantes et décroissantes alternent d'un jour à l'autre. La lune entre dans sa phase suivante au lever du soleil et garde la même phase tout le jour et toute la nuit. Préparez-vous la veille, allez vous coucher pour démarrer le jour suivant, et mettez-vous immédiatement au travail. Et félicitations si vous venez d'apprendre que la lune de Minecraft a des phases !%n%nNotes de l'éleveur : ce n'est pas parce que cette abeille ne mute que pendant certaines phases lunaires que vous ne pouvez pas y travailler pendant les autres. Pour que les mutations apparaissent, oui, il faut les bonnes phases lunaires. Mais il vous faudra une princesse Infernal ou Ethereal de rechange pour commencer, et vous pouvez la préparer n'importe quel jour. De plus, une fois que le trait d'espèce Vis apparaît chez quelques faux-bourdons et/ou une princesse, il ne reste qu'un croisement classique pour obtenir une princesse pure et un faux-bourdon pur. Ça aussi, ça peut se faire n'importe quel jour.%n%nMalgré l'importance des phases de la lune, il n'est pas nécessaire d'élever de nuit pour déclencher la mutation.%n%nLes abeilles Ethereal et Infernal forment une combinaison difficile. Comme il vous faudra une nouvelle princesse pour cette abeille, pensez à utiliser une princesse Pristine non agressive et plus proche du climat de vos abeilles Ethereal. Avec de la chance, vous éliminerez l'agressivité et produirez des Infernal hybrides qui n'ont pas besoin de vivre dans un four pour fonctionner. Il vous faudra sans doute votre combinaison d'apiculteur si la reine obtenue hérite d'un trait Infernal dominant pendant quelques cycles.[/note]
 
 # Quest: Rejuvenating
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIug.name=Rejuvenating
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIug.desc=Rejuvenating bees must be bred within 25m of a node. They will slowly charge the nearest node. Breed them from Vis and Attuned.%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIug.desc=Les abeilles Rejuvenating doivent être élevées à moins de 25 m d'un nœud. Elles rechargent lentement le nœud le plus proche. Obtenez-les en croisant Vis et Attuned.%n
 
 # Quest: Empowering
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIuw.name=Empowering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIuw.desc=The Empowering bee will randomly add aspects to nearby nodes, allowing enormous power to build up. The best chance to breed them is during a full moon. Breed them from Rejuvenating and Vis.%n%n[note]The maximum node size was capped for a few versions, but that cap is now removed! Maybe go on the GTNH discord and praise Runakai for that. :)[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIuw.desc=L'abeille Empowering ajoute aléatoirement des aspects aux nœuds voisins, ce qui permet d'accumuler une puissance énorme. La meilleure chance de l'obtenir est pendant la pleine lune. Obtenez-les en croisant Rejuvenating et Vis.%n%n[note]La taille maximale des nœuds a été plafonnée pendant quelques versions, mais ce plafond a maintenant été supprimé ! Passez peut-être sur le discord GTNH remercier Runakai pour ça. :)[/note]
 
 # Quest: Edenic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvA.name=Edenic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvA.desc=The Edenic bee has the remarkable effect of giving experience points to players nearby. Breed it from Exotic and Tropical.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvA.desc=L'abeille Edenic a l'effet remarquable de donner des points d'expérience aux joueurs proches. Obtenez-la en croisant Exotic et Tropical.
 
 # Quest: Exotic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvQ.name=Exotic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvQ.desc=Watch out, just like its parent the Exotic bee will poison you. But it is also a source of silk wisps. Breed them from Austere and Tropical.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvQ.desc=Attention : tout comme son parent, l'abeille Exotic vous empoisonnera. Mais c'est aussi une source de Silk Wisps. Obtenez-les en croisant Austere et Tropical.
 
 # Quest: Thaumium Dust
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvg.name=Thaumium Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvg.desc=Thaumium is pretty easy to make, but with this bee you can automate and get enormous quantities. It requires a block of Thaumium. Breed them from Edenic and Ignis.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvg.desc=Le Thaumium est assez facile à fabriquer, mais avec cette abeille vous pouvez automatiser sa production et en obtenir d'énormes quantités. Elle nécessite un bloc de Thaumium. Obtenez-les en croisant Edenic et Ignis.
 
 # Quest: Skulking
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvw.name=Skulking
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvw.desc=Skulking bees are the core of the various mob bees. Check out the rest of the recipes in NEI, there are too many to show here. Breed them using Eldritch and Modest.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIvw.desc=Les abeilles Skulking sont le cœur des différentes abeilles à monstres. Consultez le reste des recettes dans NEI, il y en a trop pour les montrer ici. Obtenez-les en croisant Eldritch et Modest.
 
 # Quest: Spidery
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIwA.name=Spidery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIwA.desc=Watch out, the effect from this bee will attract spiders. But it has one nice trait - a large working area. Perfect for breeding into your fast pollinators or for providing useful effects. Breed it from Skulking and Tropical.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIwA.desc=Attention, l'effet de cette abeille attire les araignées. Mais elle a un trait sympathique : une grande zone de travail. Parfaite à intégrer par croisement à vos pollinisatrices rapides ou pour fournir des effets utiles. Obtenez-la en croisant Skulking et Tropical.
 
 # Quest: Thaumic Shards
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIwQ.name=Thaumic Shards
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIwQ.desc=The Thaumic Shards bee has a chance of giving you any shard propolis. It will require a Magical Forest biome. Breed them from Thaumium Dust and Aqua.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIwQ.desc=L'abeille Thaumic Shards a une chance de vous donner n'importe quelle propolis à éclats. Elle a besoin d'un biome Magical Forest. Obtenez-les en croisant Thaumium Dust et Aqua.
 
 # Quest: Salis Mundus
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIwg.name=Salis Mundus
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIwg.desc=Tired of all the effort it takes to make Salis Mundus? After hours of breeding you can now do magic trouble free with this bee making all the Salis Mundus you need. It requires a Magical Forest Biome. Breed them from Thaumic Shards and Thaumium Dust.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIwg.desc=Fatigué de tous les efforts nécessaires pour fabriquer du Salis Mundus ? Après des heures d'élevage, vous pouvez désormais pratiquer la magie sans souci grâce à cette abeille qui produit tout le Salis Mundus dont vous avez besoin. Elle a besoin d'un biome Magical Forest. Obtenez-les en croisant Thaumic Shards et Thaumium Dust.
 
 # Quest: Heroic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIww.name=Heroic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIww.desc=This one takes a little luck. You'll have to find Steadfast drones in chests classified as dungeon chests. Note that doesn't mean the chests have to be in a dungeon! You could find one in the middle of some Thaumcraft obsidian pillars right on the surface of The Overworld. %n%nHeroic bees have the pleasant effect of causing damage to hostile mobs. Breed them from Steadfast and Valiant.%n%n[note]Breeder's Notes:%n%nSpecifically, you'll only ever find Steadfast drones in the chests. §nNo princesses.§r You'll have to convert a princess if you want to make a stock of them. Heroic is the only thing you can use them for, but you'll have a better time of it if you have more than a handful of drones. So if you play your cards well and use a high-fertility starter princess, you could take one or two Steadfast drones and multiply them into something safer before trying this mutation.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIww.desc=Celle-ci demande un peu de chance. Il vous faudra trouver des faux-bourdons Steadfast dans des coffres classés comme coffres de donjon. Notez que cela ne veut pas dire que les coffres doivent se trouver dans un donjon ! Vous pourriez en trouver un au milieu de piliers d'obsidienne de Thaumcraft, en pleine surface de l'Overworld. %n%nLes abeilles Heroic ont l'effet agréable d'infliger des dégâts aux monstres hostiles. Obtenez-les en croisant Steadfast et Valiant.%n%n[note]Notes de l'éleveur :%n%nPrécisément, vous ne trouverez jamais que des faux-bourdons Steadfast dans les coffres. §nPas de princesses.§r Il vous faudra convertir une princesse si vous voulez en constituer un stock. Heroic est la seule chose pour laquelle vous pouvez les utiliser, mais ce sera plus facile si vous avez plus qu'une poignée de faux-bourdons. Donc, si vous jouez bien vos cartes et utilisez une princesse de départ à forte fertilité, vous pourriez transformer un ou deux faux-bourdons Steadfast en quelque chose de plus sûr avant de tenter cette mutation.[/note]
 
 # Quest: Nameless
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxA.name=Nameless
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxA.desc=Nameless bees are required to get Draconic bees. They are also where you can get Amnesiac Wax. Breed them from Oblivion and Ethereal. Oblivion bees can be purchased with coins, or found in The End.%n%n[note]Breeder's Notes:%n%nThe Oblivion bees are going to be the main problem here if you haven't reached The End yet. You can try to cross-breed without that access, but you're stuck when the mating pair creates an Oblivion Queen that needs End pollinators.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxA.desc=Les abeilles Nameless sont nécessaires pour obtenir les abeilles Draconic. C'est aussi grâce à elles que vous pouvez obtenir de l'Amnesiac Wax. Obtenez-les en croisant Oblivion et Ethereal. Les abeilles Oblivion peuvent s'acheter avec des pièces, ou se trouver dans l'End.%n%n[note]Notes de l'éleveur :%n%nLes abeilles Oblivion seront le principal problème si vous n'avez pas encore atteint l'End. Vous pouvez essayer de croiser sans cet accès, mais vous serez bloqué quand le couple donnera une reine Oblivion qui a besoin de pollinisateurs de l'End.[/note]
 
 # Quest: Abandoned
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxQ.name=Abandoned
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxQ.desc=Abandoned are the next step up. Breed them from Oblivion and Nameless.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxQ.desc=Les Abandoned sont l'étape suivante. Obtenez-les en croisant Oblivion et Nameless.
 
 # Quest: Draconic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxg.name=Draconic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxg.desc=The Draconic bee is required in order to get the dusts needed to recreate the Dragon Egg using magic. It must be bred in the End. Breed them from Imperial and Abandoned.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxg.desc=L'abeille Draconic est nécessaire pour obtenir les poudres permettant de recréer l'œuf de dragon par la magie. Elle doit être élevée dans l'End. Obtenez-les en croisant Imperial et Abandoned.
 
 # Quest: Wither
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxw.name=Wither
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxw.desc=The Wither bee will let you generate Wither skulls and small amounts of Nether star dust. It requires a block of Nether Star, and must be bred in the End. Breed them from Withering and Draconic.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIxw.desc=L'abeille Wither vous permet de produire des crânes de Wither et de petites quantités de poudre d'Étoile du Nether. Elle a besoin d'un bloc d'Étoile du Nether et doit être élevée dans l'End. Obtenez-les en croisant Withering et Draconic.
 
 # Quest: Withering
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyA.name=Withering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyA.desc=Inflicts Withering all those who come near. Must be bred in the Nether. Chances are going to be low, so now would be the time to look for frames that increase mutation rates. Breed them from Demonic and Spiteful.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyA.desc=Inflige le Wither à tous ceux qui s'en approchent. Doit être élevée dans le Nether. Les chances seront faibles : c'est donc le moment de chercher des cadres qui augmentent le taux de mutation. Obtenez-les en croisant Demonic et Spiteful.
 
 # Quest: Spiteful
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyQ.name=Spiteful
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyQ.desc=The sheer disdain this bee shows you is awe inspiring. Must be bred in the Nether. Don't walk around it without proper protection, it seems to laugh when you think about that. Breed them from Hateful and Infernal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyQ.desc=Le mépris absolu que cette abeille vous témoigne force l'admiration. Doit être élevée dans le Nether. Ne vous promenez pas autour d'elle sans protection adaptée : elle semble ricaner quand vous y pensez. Obtenez-les en croisant Hateful et Infernal.
 
 # Quest: Hateful
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyg.name=Hateful
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyg.desc=You can feel the waves of hate radiating out of her eyes. Don't even think about getting close without an Apiarist Suit. Must be bred in the Nether. Breed them from Eldritch and Infernal.%n%n[note]Breeder's Notes: Infernal bees are used to make both this species and Spiteful, which is next in line from Hateful. That means you'll probably start winding up with Spitefuls while trying to make this species. Since this is a progression to more interesting species, you could say it doesn't matter, but:%n%n1. Skipping straight to Spiteful means not getting this quest done and then losing your progression.%n2. Maybe you want to do a Smoldering bee, which needs this one.%n%nWhat we recommend is tucking away any Spitefuls you get and just act like that didn't happen until you finish this bee. If the princess starts turning Spiteful and you don't want to just start a new one, you'd want to pump it with Infernal or Eldritch (pick one!) until you've cleaned out the Spiteful trait.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyg.desc=Vous sentez les vagues de haine qui rayonnent de ses yeux. N'envisagez même pas de vous approcher sans Apiarist Suit. Doit être élevée dans le Nether. Obtenez-les en croisant Eldritch et Infernal.%n%n[note]Notes de l'éleveur : les abeilles Infernal servent à obtenir à la fois cette espèce et Spiteful, qui vient juste après Hateful. Vous allez donc sans doute commencer à obtenir des Spiteful en essayant de produire cette espèce. Comme il s'agit d'une progression vers des espèces plus intéressantes, vous pourriez dire que ça n'a pas d'importance, mais :%n%n1. Passer directement à Spiteful signifie ne pas terminer cette quête et donc perdre votre progression.%n2. Vous voudrez peut-être faire une abeille Smouldering, qui a besoin de celle-ci.%n%nNous vous recommandons de mettre de côté les Spiteful obtenues et de faire comme si de rien n'était jusqu'à ce que vous ayez terminé cette abeille. Si la princesse commence à virer Spiteful et que vous ne voulez pas tout recommencer avec une nouvelle, croisez-la à répétition avec de l'Infernal ou de l'Eldritch (choisissez-en un !) jusqu'à avoir éliminé le trait Spiteful.[/note]
 
 # Quest: Excited
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyw.name=Excited
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyw.desc=You might be thinking to yourself, huh this sure is an easy bee to give redstone....well, it also gives destructive lightning strikes. You might want to place them far from you. Or set them up in a Creeper spawner to make charged creepers for...experiments. Breed them from Valiant and Cultivated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIyw.desc=Vous vous dites peut-être : tiens, voilà une abeille bien facile pour obtenir de la Redstone... eh bien, elle provoque aussi des éclairs destructeurs. Mieux vaut peut-être les placer loin de vous. Ou les installer près d'un spawner de Creepers pour fabriquer des creepers chargés pour... des expériences. Obtenez-les en croisant Valiant et Cultivated.
 
 # Quest: Celebratory
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIzA.name=Celebratory
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIzA.desc=%nThis fun bee doesn't have any useful products, but it does produce a fun effect - constant fireworks! You can breed the effect into other lines, and the color of the fireworks will match the bee. Make the bees require sky and you can disable the effects by covering them up with a piston. Great for a celebration! Breed them from Austere and Excited.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIzA.desc=%nCette abeille amusante n'a aucun produit utile, mais elle a un effet sympa : des feux d'artifice en continu ! Vous pouvez transmettre cet effet à d'autres lignées par croisement, et la couleur des feux d'artifice correspondra à l'abeille. Faites en sorte que les abeilles aient besoin du ciel, et vous pourrez désactiver l'effet en les couvrant avec un piston. Parfait pour une fête ! Obtenez-les en croisant Austere et Excited.
 
 # Quest: Arsenic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIzg.name=Arsenic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIzg.desc=This deadly little princess will get you Arsenic, perfect for use in your circuits. Requires a Block of Arsenic. Breed them from Silver and Zinc.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIzg.desc=Cette petite princesse mortelle vous fournira de l'Arsenic, parfait pour vos circuits. Nécessite un bloc d'Arsenic. Obtenez-les en croisant Silver et Zinc.
 
 # Quest: D-O-B
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM1g.name=D-O-B
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM1g.desc=It is not the psychedelic drug kicking in. The NEI page is actually correct. You can get a lot of different stuff from this comb.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM1g.desc=Non, ce n'est pas la drogue psychédélique qui fait effet. La page NEI est bien correcte. Vous pouvez obtenir énormément de choses différentes à partir de ce rayon.
 
 # Quest: Ender Shard
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4Q.name=Ender Shard
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4Q.desc=Critical for your Ichor production.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4Q.desc=Indispensable pour votre production d'Ichor.
 
 # Quest: Nether Shard
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4g.name=Nether Shard
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4g.desc=Critical for your Ichor production.%n%n[note]You will need to breed through a bunch of elemental bees that don't have quests to actually get to it.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM4g.desc=Indispensable pour votre production d'Ichor.%n%n[note]Il vous faudra passer par tout un tas d'abeilles élémentaires qui n'ont pas de quête pour y arriver.[/note]
 
 # Quest: Space Bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpg.name=Space Bees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpg.desc=Breed an industrious with a heroic bee to obtain a space bee. You need the temperature to be icy for that.%n%nJust one small step for you, but a giant leap for beekind.%n%n[note]This is the starting point for many space related bees. Maybe check out NEI to see what you can aim for.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpg.name=Abeilles de l'espace
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMpg.desc=Croisez une abeille Industrious avec une Heroic pour obtenir une abeille Space. Il faut pour cela une température Icy.%n%nUn petit pas pour vous, mais un bond de géant pour l'abeillité.%n%n[note]C'est le point de départ de nombreuses abeilles liées à l'espace. Consultez NEI pour voir ce que vous pouvez viser.[/note]
 
 # Quest: Energium
 betterquesting.quest.B0XRo_S1RveAsKZSXms9vg.name=Energium
-betterquesting.quest.B0XRo_S1RveAsKZSXms9vg.desc=Are you tired of making Energium Dust by mixing Ruby and Redstone Dust? This bee offers a way to acquire it directly - how convenient is that? To breed it, you'll need to place some Hot Coolant below the hive while inside a Boneyard found in the Nether.%n%nUnlike its parents, this bee won't burn down your base—but it will set you on fire if you're not wearing your apiarist suit!
+betterquesting.quest.B0XRo_S1RveAsKZSXms9vg.desc=Vous en avez assez de fabriquer de l'Energium Dust en mélangeant de la poudre de Rubis et de Redstone ? Cette abeille offre un moyen de l'obtenir directement : pratique, non ? Pour l'élever, il vous faudra placer du Hot Coolant sous la ruche, dans un biome Boneyard du Nether.%n%nContrairement à ses parents, cette abeille ne brûlera pas votre base, mais elle vous mettra le feu si vous ne portez pas votre combinaison d'apiculteur !
 
 # Quest: Attuned
 betterquesting.quest.EM4Z9io4QGSBNdSnymJNmg.name=Attuned
-betterquesting.quest.EM4Z9io4QGSBNdSnymJNmg.desc=You're now getting into Magic Bees, and one of its mundane bee species is the Attuned species. These are scooped out of Deep Hives that you can find in the Overworld. These hives are a pain to find, so you should consider just buying hives with coins until you get a princess and a drone. However, if you are a real masochist or completionist try-hard, then here's some information about where they spawn:%n%n* From Y=1 to Y=25%n* In stone, surrounded on 5 sides. Not just vanilla stone.%n* In biomes tagged with one or more of:%n   * MOUNTAINS: Actual mountains may not count. It's the biome type that counts.%n      * Example: Canyon.%n   * HILLS: Again, actual hills don't count.%n      * Example: Snowy Coniferous Forest.%n   * MAGICAL: Unlike the others, they do have some ethereal aspect.%n      * Examples: Magical Forest is obvious, but also Cherry Blossom Grove counts.%n* Surrounded by a small redstone vein. This often fills any open space around them.%n%nThey also like to just kind of show up whatever-what-the-heck in other biomes. Our beekeeping intern found a Deep Hive in a Lush Desert:%n%nLush Desert [HOT, DRY, SAVANNA, LUSH, SANDY]%n%nYou can dump the biome data in NEI by clicking on the NEI options button (the wrench), then the Tools button, then the Data Dumps button, and finally the Dump button in the biomes category. This creates a "dumps" directory in the root folder of the modpack with a biome.csv inside of it. Any listed biome that has the tags of HILLS, MOUNTAINS, and/or MAGICAL can generate Deep Hives. You can feed these biomes into a Nature's Compass and see if there are any nearby.%n%nProspector's Scanners will pick up the little ore pockets for these (traces, small samples). If you had one of those end-game ones with a display, it would come up as a few red pixels. Larger ones are probably just regular ore veins. The ore finding wand doesn't do a good job from the surface. Chasing lava veins and tunnels helps. Ore veins filled with redstone will saturate either tool.%n%nOf course, just buying hives is the low-effort way.%n%n[note]Beekeeper's Notes:%n%nIf you get real bad luck and wind up with an ignoble princess, then just get a bunch of drones out of it and convert some other pristine princess afterwards. However, using base princesses will compel the bees to turn into the Common species. There are two choices:%n%n1. Use an Alveary with an Alveary Stabilizer to block mutations.%n2. Create a princess that doesn't line up with the Attuned species' breeding possibilities before starting.[/note]
+betterquesting.quest.EM4Z9io4QGSBNdSnymJNmg.desc=Vous entrez maintenant dans Magic Bees, et l'une de ses espèces ordinaires est l'espèce Attuned. Elles se récoltent au filet dans des Deep Hives, que l'on trouve dans l'Overworld. Ces ruches sont pénibles à trouver : envisagez plutôt d'acheter des ruches avec des pièces jusqu'à obtenir une princesse et un faux-bourdon. Mais si vous êtes un vrai masochiste ou un complétionniste acharné, voici quelques informations sur les endroits où elles apparaissent :%n%n* De Y=1 à Y=25%n* Dans la pierre, entourées sur 5 côtés. Pas seulement de la pierre vanilla.%n* Dans les biomes portant un ou plusieurs de ces tags :%n   * MOUNTAINS : les vraies montagnes ne comptent pas forcément. C'est le type de biome qui compte.%n      * Exemple : Canyon.%n   * HILLS : là encore, les vraies collines ne comptent pas.%n      * Exemple : Snowy Coniferous Forest.%n   * MAGICAL : contrairement aux autres, ceux-ci ont bien un aspect éthéré.%n      * Exemples : la Magical Forest, évidemment, mais la Cherry Blossom Grove compte aussi.%n* Entourées d'un petit filon de Redstone, qui remplit souvent tout l'espace libre autour d'elles.%n%nElles ont aussi tendance à apparaître n'importe comment dans d'autres biomes. Notre stagiaire apiculteur a trouvé une Deep Hive dans un Lush Desert :%n%nLush Desert [HOT, DRY, SAVANNA, LUSH, SANDY]%n%nVous pouvez exporter les données des biomes dans NEI en cliquant sur le bouton des options NEI (la clé à molette), puis sur le bouton Tools, puis sur Data Dumps, et enfin sur le bouton Dump de la catégorie biomes. Cela crée un dossier « dumps » à la racine du modpack contenant un fichier biome.csv. Tout biome listé portant les tags HILLS, MOUNTAINS et/ou MAGICAL peut générer des Deep Hives. Vous pouvez entrer ces biomes dans un Nature's Compass pour voir s'il y en a à proximité.%n%nLes Prospector's Scanners détectent les petites poches de minerai associées (traces, petits échantillons). Avec l'un de ceux de fin de partie dotés d'un écran, elles apparaîtraient comme quelques pixels rouges. Les plus grandes sont probablement de simples filons. La baguette de détection de minerai ne fait pas du bon travail depuis la surface. Suivre les veines de lave et les tunnels aide. Les filons remplis de Redstone saturent l'un comme l'autre outil.%n%nBien sûr, acheter des ruches reste la méthode la moins fatigante.%n%n[note]Notes de l'apiculteur :%n%nSi vous n'avez vraiment pas de chance et vous retrouvez avec une princesse Ignoble, tirez-en simplement un tas de faux-bourdons puis convertissez ensuite une autre princesse Pristine. Cependant, utiliser des princesses de base poussera les abeilles à se transformer en espèce Common. Deux possibilités :%n%n1. Utiliser une Alveary avec un Alveary Stabiliser pour bloquer les mutations.%n2. Créer au préalable une princesse dont l'espèce ne correspond à aucune des possibilités de croisement de l'espèce Attuned.[/note]
 
 # Quest: Salt
 betterquesting.quest.N0ZqNLJfSmaBKTNU7TbIAQ.name=Salt
-betterquesting.quest.N0ZqNLJfSmaBKTNU7TbIAQ.desc=At this point, you may have noticed that these higher-tier metal combs can't be extracted with a centrifuge. Instead, you need to pass them through a chemical reactor with some hydrochloric acid. This will leave you in a pickle. Here you are, trying to reach post-scarcity, and now you're limited by chlorine.%n%nSpeaking of pickles, hydrochloric acid is kind of like a pickle, right? After all, you make both with salt! The salt bee is perfect for this. Well, the apatite bee line can get you some salt and also some phosphorus for phosphoric acid, but you have to start on ash bees first. Meanwhile, you'll likely take care of the salt bee's pre-requisites on your way through getting all the major ores.%n%nBreed them from clay and aluminium bees on top of a block of salt.%n%nThey will produce salt combs, borax dust, slag combs, and trace lithium combs. The salt combs will require at least an MV-tier centrifuge, but at least it doesn't require processing with acid in a chemical reactor!%n%n[note]Breeder's Notes:%n%nThere are two challenges with this bee:%n%n1. The 5%% chance of mutation. You may consider trying the escritoire minigame to get a boost to this chance. If so, favor aluminium drones because you're probably on your way to the other bees derived from aluminium ancestry, and they all only have a 5%% chance anyways. They could all use a little boost.%n%n2. The humidity swing between clay and aluminium species. Clay bees want it wet, and both aluminium and salt bees want it completely arid. If you can't manipulate the climate or the tolerances of any of the bees, consider starting by plugging clay drones into a modest princess. This has a good chance to get you a clay princess that prefers a dryer climate. You can then do all your breeding exclusively in an arid biome.%n%n[/note]
+betterquesting.quest.N0ZqNLJfSmaBKTNU7TbIAQ.desc=À ce stade, vous avez peut-être remarqué que ces rayons de métaux de plus haut tier ne peuvent pas être extraits à la centrifugeuse. Il faut plutôt les passer dans un Chemical Reactor avec un peu d'Acide Chlorhydrique. Vous voilà dans le pétrin : vous êtes là, à essayer d'atteindre l'abondance, et voilà que le Chlore vous limite.%n%nEn parlant de cornichons, l'Acide Chlorhydrique, c'est un peu comme un cornichon, non ? Après tout, on fait les deux avec du sel ! L'abeille Salt est parfaite pour ça. Bon, la lignée de l'abeille Apatite peut vous fournir un peu de Sel et aussi du Phosphore pour l'acide phosphorique, mais il faut d'abord commencer par les abeilles Ash. En attendant, vous remplirez sans doute les prérequis de l'abeille Salt en chemin, en obtenant tous les minerais principaux.%n%nObtenez-les en croisant des abeilles Clay et Aluminium sur un bloc de Sel.%n%nElles produisent des rayons de Sel, de la poudre de Borax, des rayons de scories et un peu de rayons de Lithium. Les rayons de Sel nécessitent au moins une Centrifuge de tier MV, mais au moins, ils ne demandent pas de traitement à l'acide dans un Chemical Reactor !%n%n[note]Notes de l'éleveur :%n%nCette abeille pose deux difficultés :%n%n1. La chance de mutation de 5%%. Vous pouvez essayer le mini-jeu de l'Escritoire pour augmenter cette chance. Si c'est le cas, privilégiez les faux-bourdons Aluminium, car vous êtes sans doute en route vers les autres abeilles issues de la lignée Aluminium, et elles n'ont toutes que 5%% de chance de toute façon. Un petit coup de pouce ne leur ferait pas de mal.%n%n2. L'écart d'humidité entre les espèces Clay et Aluminium. Les abeilles Clay aiment l'humidité, alors que les abeilles Aluminium et Salt veulent un climat complètement Arid. Si vous ne pouvez manipuler ni le climat ni les tolérances des abeilles, commencez par croiser des faux-bourdons Clay avec une princesse Modest. Vous aurez de bonnes chances d'obtenir une princesse Clay qui préfère un climat plus sec. Vous pourrez alors faire tout votre élevage exclusivement dans un biome Arid.%n%n[/note]
 
 # Quest: Glowstone
 betterquesting.quest.NzynzD7HQrmEAf7BFd2A2w.name=Glowstone
-betterquesting.quest.NzynzD7HQrmEAf7BFd2A2w.desc=The Glowstone Princess isn't as picky as her peers. There are no breeding requirements besides the species being Gold and Redstone. Hooray!
+betterquesting.quest.NzynzD7HQrmEAf7BFd2A2w.desc=La princesse Glowstone est moins difficile que ses pairs. Aucune exigence d'élevage à part le croisement des espèces Gold et Redstone. Hourra !
 
 # Quest: Infernal
 betterquesting.quest.SlWASRc9TkKi7H0KiDPAlQ.name=Infernal
-betterquesting.quest.SlWASRc9TkKi7H0KiDPAlQ.desc=Infernal bees are mundane: you get them from hives, and they have no ancestors.%n%nInfernal hives are in The Nether, surrounded by nether quartz. Avoid large nether quartz blobs in ore chunks. Instead, look for little pockets of nether quartz. Any ghast-infested, open area will show a few dabs of them. Alternately, if you're tunneling around, you'll inevitably bump into some of these small pockets.%n%nZombie pigmen will get mad if they spot you nibbling on their quartz, so consider just breaking away the netherrack around the quartz to see that it's a solid cluster that could surround a hive. If so, you are just one or two mining hammer swings away from a likely infernal hive.%n%nThere's another way to get these hives: §obuy them with coins! Ka-ching!%n§o§r%nTheir molten combs are nice for a mundane bee. They centrifuge down to refractory wax, which can be used for fireproof wood and refractory capsules.%n%n[warn]Infernal bees have an aggressive trait, so they'll damage entities--namely, you--when you are within their territory. You want an apiarist's suit before you start working with them. Alternately, if you set them up in an isolated spot, you can just run real fast. This isn't sustainable for all types of aggressive bees, by the way.[/warn]%n%n[note]Breeder's Notes: You can run these bees in the Overworld if you can find a hot/arid climate. When in doubt, place an apiary and look at what it claims the climate is in the upper right of its GUI. Even if the bee isn't jubilant, but you can get drones out of them for breeding. Then you don't have to run back and forth to The Nether to run a cycle with a fussy queen while cross-breeding.%n%nUse nether wart to keep them happy, and don't forget some soul sand!%n%nThey don't cross breed with other mundane bees into stuff like Common and Cultivated bees, so you can convert another mundane princess to an Infernal princess if you have the drones. Just take some care with this. For example, if you try this with an Arctic princess, you could wind up with an Infernal princess that needs a scorching/arid climate, but also needs snow to pollinate.%n[/note]
+betterquesting.quest.SlWASRc9TkKi7H0KiDPAlQ.desc=Les abeilles Infernal sont des abeilles ordinaires : elles s'obtiennent dans des ruches sauvages et n'ont pas d'ancêtres.%n%nLes ruches Infernal se trouvent dans le Nether, entourées de Quartz du Nether. Évitez les gros amas de Quartz du Nether dans les chunks de minerai. Cherchez plutôt de petites poches de Quartz du Nether. N'importe quelle zone dégagée infestée de ghasts en montrera quelques touches. Sinon, si vous creusez des tunnels, vous tomberez forcément sur quelques-unes de ces petites poches.%n%nLes Zombie Pigmen s'énervent s'ils vous surprennent à grignoter leur quartz : envisagez donc de simplement casser le netherrack autour du quartz pour vérifier qu'il s'agit d'un amas compact qui pourrait entourer une ruche. Si c'est le cas, vous n'êtes qu'à un ou deux coups de marteau de minage d'une probable ruche Infernal.%n%nIl y a un autre moyen d'obtenir ces ruches : §oles acheter avec des pièces ! Kaching !%n§o§r%nLeurs rayons en fusion (Molten Combs) sont sympas pour une abeille ordinaire. Ils se centrifugent en Refractory Wax, qui sert au bois ignifugé et aux Refractory Capsules.%n%n[warn]Les abeilles Infernal ont un trait agressif : elles blessent donc les entités, à savoir vous, quand vous êtes dans leur territoire. Procurez-vous une combinaison d'apiculteur avant de commencer à travailler avec elles. Sinon, si vous les installez dans un endroit isolé, vous pouvez simplement courir très vite. Au passage, ce n'est pas viable pour tous les types d'abeilles agressives.[/warn]%n%n[note]Notes de l'éleveur : vous pouvez faire tourner ces abeilles dans l'Overworld si vous trouvez un climat Hot/Arid. Dans le doute, posez un apiary et regardez le climat qu'il indique en haut à droite de son interface. Même si l'abeille n'est pas jubilante, vous pouvez en tirer des faux-bourdons pour l'élevage. Vous n'avez alors pas à faire des allers-retours dans le Nether pour faire tourner un cycle avec une reine capricieuse pendant vos croisements.%n%nUtilisez des verrues du Nether pour les garder contentes, et n'oubliez pas un peu de Sable des Âmes !%n%nElles ne se croisent pas avec les autres abeilles ordinaires pour donner des choses comme les abeilles Common et Cultivated : vous pouvez donc convertir une autre princesse ordinaire en princesse Infernal si vous avez les faux-bourdons. Faites juste attention. Par exemple, si vous essayez avec une princesse Arctic, vous pourriez vous retrouver avec une princesse Infernal qui a besoin d'un climat Scorching/Arid, mais aussi de neige pour polliniser.%n[/note]
 
 # Quest: Sunnarium
 betterquesting.quest.VoQgq6UvTZmo3tpUIZs4Rg.name=Sunnarium
-betterquesting.quest.VoQgq6UvTZmo3tpUIZs4Rg.desc=Not only does this bee produce more Glowstone than its parent species, but it's also capable of producing Sunnarium. However, this requires some technical progress: to breed this bee, you will need to place a Superconducting Coil Block beneath it.
+betterquesting.quest.VoQgq6UvTZmo3tpUIZs4Rg.desc=Non seulement cette abeille produit plus de Pierre lumineuse que son espèce parente, mais elle peut aussi produire du Sunnarium. Cela demande toutefois quelques progrès techniques : pour élever cette abeille, il vous faudra placer un Superconducting Coil Block sous elle.
 
 # Quest: Pyrotheum
-betterquesting.quest.YVlqGPZBS8qCkkHlu1BDpg.name=Pyrotheum
-betterquesting.quest.YVlqGPZBS8qCkkHlu1BDpg.desc=Blazing Pyrotheum is needed in large quantities to satisfy the unquenchable thirst of your Volcani. This Bee produces Pyrotheum Dust directly - all you need to do is fluid-extract it (after reaching this point in the breeding chain, of course).%n%nBreed these bees from Energy and Redstone Bees. They aren't picky about conditions, requiring only Hellish temperature. Yay!
+betterquesting.quest.YVlqGPZBS8qCkkHlu1BDpg.name=Pyrothéum
+betterquesting.quest.YVlqGPZBS8qCkkHlu1BDpg.desc=Il faut du Blazing Pyrotheum en grandes quantités pour étancher la soif insatiable de votre Volcanus. Cette abeille produit directement de la poudre de Pyrothéum : il ne vous reste qu'à en extraire le fluide (une fois arrivé à ce stade de la chaîne d'élevage, bien sûr).%n%nObtenez ces abeilles en croisant des abeilles Energy et Redstone. Elles ne sont pas difficiles sur les conditions et n'exigent qu'une température Hellish. Youpi !
 
 # Quest: Gold
 betterquesting.quest.jvKBzB6tRpCQGlnboQxSAA.name=Gold
-betterquesting.quest.jvKBzB6tRpCQGlnboQxSAA.desc=There are a plethora of ways to acquire gold, but here's one more for the dedicated apiarist. This breeding chain will eventually allow you to reach Sunnarium. You'll need a Block of Gold and a biome with a hot temperature. Breed them from Copper and Lead.
+betterquesting.quest.jvKBzB6tRpCQGlnboQxSAA.desc=Il existe une pléthore de façons d'obtenir de l'Or, mais en voici une de plus pour l'apiculteur dévoué. Cette chaîne d'élevage vous permettra à terme d'atteindre le Sunnarium. Il vous faudra un bloc d'Or et un biome à température chaude. Obtenez-les en croisant Cuivre et Lead.
 
 # Quest: Essentia
 betterquesting.quest.noSgUClGTO6zMgENR9pwtw.name=Essentia
-betterquesting.quest.noSgUClGTO6zMgENR9pwtw.desc=This bee produces nothing directly but instead sacrifices its lifetime to generate liquid essentia for all your magical needs. To do so, however, it requires an Apimancer's Drainer beneath its housing.%n%nThe speed at which the bee produces essentia is affected by its production speed. You have to right-click the drainer with a filled phial of the desired essentia to lock it to that type.%n%nYou can breed them from chaotic and ordered bees.%n%n§3You can also place up to 9 drainers beneath a single alveary as long as the blocks at the bottom are plain alveary blocks.
+betterquesting.quest.noSgUClGTO6zMgENR9pwtw.desc=Cette abeille ne produit rien directement : elle sacrifie plutôt sa durée de vie pour générer de l'essentia liquide pour tous vos besoins magiques. Pour cela, il lui faut cependant un Apimancer's Drainer sous son logement.%n%nLa vitesse à laquelle l'abeille produit de l'essentia dépend de sa vitesse de production. Vous devez faire un clic droit sur le drainer avec une fiole remplie de l'essentia voulue pour le verrouiller sur ce type.%n%nVous pouvez les obtenir en croisant des abeilles Chaotic et Ordered.%n%n§3Vous pouvez aussi placer jusqu'à 9 drainers sous une même Alveary, à condition que les blocs du bas soient de simples blocs d'Alveary.
 
 # Quest: Lapotron
 betterquesting.quest.rKrpOyRHRvSF7TeFSskG_A.name=Lapotron
-betterquesting.quest.rKrpOyRHRvSF7TeFSskG_A.desc=This magnificent breed of Bee produces a whole plethora of useful resources, including endless amounts of Lapis, Energium, and Lapotron Dust. However, they are somewhat picky when it comes to breeding; you'll need Energium and Lapis Bees as parents, and the process must take place on the Moon under icy temperatures.
+betterquesting.quest.rKrpOyRHRvSF7TeFSskG_A.desc=Cette magnifique espèce d'abeille produit toute une pléthore de ressources utiles, dont des quantités infinies de Lapis, d'Energium et de Lapotron Dust. Elles sont cependant assez exigeantes pour l'élevage : il vous faudra des abeilles Energium et Lapis comme parents, et le processus doit se dérouler sur la Lune, à une température Icy.
 
 # Quest: Furious
 betterquesting.quest.v-1MbhJWRuiGFBX8KEvsUg.name=Furious
-betterquesting.quest.v-1MbhJWRuiGFBX8KEvsUg.desc=If you want to pursue the breeding path toward Lapotron and Pyrotheum Bees, you'll need to start by breeding some Furious Bees. They can be bred in the nether using Fiendish and Embittered Bees, with the latter found in the wilds of the Nether.%n%nBeware: Furious Bees spawn fire charges downward, so make sure your breeding area is fireproof!
+betterquesting.quest.v-1MbhJWRuiGFBX8KEvsUg.desc=Si vous voulez suivre la voie d'élevage vers les abeilles Lapotron et Pyrothéum, il faudra commencer par élever des abeilles Furious. Elles s'obtiennent dans le Nether en croisant des abeilles Fiendish et Embittered, ces dernières se trouvant à l'état sauvage dans le Nether.%n%nAttention : les abeilles Furious lancent des boules de feu vers le bas, alors assurez-vous que votre zone d'élevage est ignifugée !
 
 # Quest: Volcanic
 betterquesting.quest.ysj8avl1SESH2ibGOS3qjQ.name=Volcanic
-betterquesting.quest.ysj8avl1SESH2ibGOS3qjQ.desc=One step closer to your goal, these bees can be bred from Furious and Demonic Bees while inside the Nether. Just like their Furious counterparts, they will spawn fire charges while working.
+betterquesting.quest.ysj8avl1SESH2ibGOS3qjQ.desc=Un pas de plus vers votre objectif : ces abeilles s'obtiennent en croisant des abeilles Furious et Demonic dans le Nether. Tout comme leurs cousines Furious, elles lancent des boules de feu en travaillant.
 
 
 ## Quest Line: Hardcore End(er) Expansion
