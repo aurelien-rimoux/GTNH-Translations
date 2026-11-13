@@ -13129,372 +13129,372 @@ betterquesting.quest.r3fKz87vRk23Tv2TRGarvg.desc=This flower uses mana to random
 
 
 ## Quest Line: Look to the Edges
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.name=Look to the Edges
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.desc=Granny Weatherwax would approve.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.name=Regardez vers les confins
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.desc=Mémé Ciredutemps approuverait.
 
 # Quest: Fire Burn and...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.name=Fire Burn and...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=In order to get started with your basic witchery needs, you need a Witches Oven.%n%nThe Witches Oven is used to get the most basic ingredients for your recipes - Fumes.%n%nThe oven is able to capture the by-products produced in the cooking process. Activating the oven to show the interface screen, you will see an additional slot to the right of the fuel slot. Clay jars must be placed in this slot. If there are clay jars present when something is cooked, there is a chance a by-product will be captured in one of the jars. These by-products are important ingredients in other recipes. If there are no clay jars in the oven when something is cooked, no by-products will be produced.%n%nUpgrading an Oven%n%nAn oven can be upgraded by placing either a Fume Funnel or a Filtered Fume Funnel to the left and right of it. Each Fume Funnel will increase the cooking speed by an additional 10 percent (over a furnace) and increase the chance of a by-product being produced by an additional 25 percent for a Fume Funnel or 30 percent for a Filtered Fume Funnel.%n%nA fully upgraded oven will therefore cook at 130 percent speed (compared to a furnace) and have a 90 percent chance of producing a by-product.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.name=Feu brûle et...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=Pour couvrir vos besoins de base en sorcellerie, il vous faut un Witches Oven.%n%nLe Witches Oven sert à obtenir les ingrédients les plus élémentaires de vos recettes : les fumées.%n%nLe four est capable de capturer les sous-produits générés pendant la cuisson. En ouvrant son interface, vous verrez un emplacement supplémentaire à droite de celui du combustible. C'est là qu'il faut placer des Clay Jars. S'il y a des Clay Jars lorsque quelque chose cuit, il y a une chance qu'un sous-produit soit capturé dans l'un d'eux. Ces sous-produits sont des ingrédients importants pour d'autres recettes. S'il n'y a aucun Clay Jar dans le four pendant la cuisson, aucun sous-produit ne sera obtenu.%n%nAméliorer un four%n%nUn four peut être amélioré en plaçant un Fume Funnel ou un Filtered Fume Funnel à sa gauche et à sa droite. Chaque Fume Funnel augmente la vitesse de cuisson de 10 pour cent supplémentaires (par rapport à un fourneau) et augmente la chance d'obtenir un sous-produit de 25 pour cent supplémentaires pour un Fume Funnel, ou de 30 pour cent pour un Filtered Fume Funnel.%n%nUn four entièrement amélioré cuira donc à 130 pour cent de la vitesse d'un fourneau et aura 90 pour cent de chances de produire un sous-produit.
 
 # Quest: Offerings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.name=Offerings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=For all your offering needs. And of course, it looks fancy!%n%nAn altar is created by placing six altar blocks in a 2x3 pattern or by placing nine altar blocks in a 3x3 pattern. You will know it's correct when a red cloth appears over the top of the altar.%n%nRight-clicking on it will bring up a screen showing how much power the altar has collected, how much it can collect and its current recharge rate. It is important to check that there is sufficient available power to perform a given rite or use a distillery, or certain kettle or cauldron recipes.%n%nThe maximum amount of power available is determined by how many natural items are in the vicinity of the altar: dirt, grass, trees, plants, etc. all contribute; stone and sand do not. The important thing is to have a diverse mix of different plants, trees and crops (plants from other mods are supported to an extent as well).%n%nCertain objects (or foci) placed on the altar boost its focusing capabilities. This can increase the rate at which the altar replenishes focus, the focus capacity, and the focus range. Only one of each type of item (skull, chalice, etc.) has an effect. There may also be other less savory foci that dark magic practitioners could make use of. %n%n [note]P.S. The 3x3 Altar doesn't provide any practical benefits over its 3x2 counterpart, however enjoy the increased ability to center it within your builds.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.name=Offrandes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=Pour toutes vos offrandes. Et bien sûr, c'est du plus bel effet !%n%nUn autel se construit en plaçant six blocs d'Altar selon un motif 2x3, ou neuf blocs d'Altar selon un motif 3x3. Vous saurez qu'il est correct quand une nappe rouge apparaîtra sur le dessus.%n%nUn clic droit dessus ouvre un écran indiquant la quantité d'énergie accumulée par l'autel, la quantité maximale qu'il peut stocker et sa vitesse de recharge actuelle. Il est important de vérifier qu'il y a assez d'énergie disponible pour accomplir un rite donné ou utiliser une Distillery, ou certaines recettes de Kettle ou de chaudron.%n%nLa quantité maximale d'énergie disponible dépend du nombre d'éléments naturels à proximité de l'autel : terre, herbe, arbres, plantes, etc. y contribuent ; la pierre et le sable non. L'important est d'avoir un mélange varié de plantes, d'arbres et de cultures (les plantes d'autres mods sont aussi prises en charge dans une certaine mesure).%n%nCertains objets (ou focus) posés sur l'autel améliorent ses capacités de concentration. Ils peuvent augmenter la vitesse à laquelle l'autel régénère son énergie, sa capacité et sa portée. Un seul objet de chaque type (crâne, calice, etc.) a un effet. Il existe peut-être aussi d'autres focus moins recommandables dont les adeptes de la magie noire pourraient tirer parti. %n%n [note]P.-S. : l'autel 3x3 n'apporte aucun avantage pratique par rapport à sa version 3x2, mais profitez de la possibilité de mieux le centrer dans vos constructions.[/note]
 
 # Quest: ...Cauldron Bubble
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=...Cauldron Bubble
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=The second thing you'll need is a cauldron. It is used to craft most of the basic items, like mutandis. It requires anointing paste, which you will need an MV mixer to make. It is made by placing a regular Cauldron in the world, and then using Anointing Paste on it.%n%nTo brew a potion, cast a ritual or create an item, the cauldron must first be filled with water. This can be achieved by using three buckets of water on it, pumping water into it using pipes, or by using a Dispenser containing a Brew of Endless Water.%n%nOnce a cauldron is full of water, it must boil. Lighting a fire beneath the cauldron is the only way for this to happen. Using a netherrack block will guarantee the fire does not go out, although if it does go out, it may be set to boil again without any consequences (unlike brewing in a Kettle!).%n%nWhen the water is boiling, ingredients may be added to the Cauldron (one after another), to create the desired effect. The book, Witches' Brews gives a complete overview of all ingredients and what they can do when added to a brew.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=...chaudron bouillonne
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=La deuxième chose dont vous aurez besoin est un chaudron. Il sert à fabriquer la plupart des objets de base, comme le Mutandis. Il nécessite de l'Anointing Paste, qui demande un Mixer MV. On l'obtient en posant un Chaudron ordinaire dans le monde, puis en utilisant de l'Anointing Paste dessus.%n%nPour préparer une potion, lancer un rituel ou créer un objet, le chaudron doit d'abord être rempli d'eau. Vous pouvez y verser trois seaux d'eau, y pomper de l'eau par des tuyaux, ou utiliser un distributeur contenant un Brew of Endless Water.%n%nUne fois le chaudron plein, l'eau doit bouillir. Le seul moyen est d'allumer un feu sous le chaudron. Utiliser un bloc de netherrack garantit que le feu ne s'éteindra pas ; et s'il s'éteint, vous pouvez le rallumer sans conséquence (contrairement à une préparation dans un Kettle !).%n%nQuand l'eau bout, on peut ajouter les ingrédients dans le chaudron (l'un après l'autre) pour obtenir l'effet souhaité. Le livre Witches' Brews donne un aperçu complet de tous les ingrédients et de leurs effets lorsqu'ils sont ajoutés à une préparation.
 
 # Quest: Don't Touch the Needle!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.name=Don't Touch the Needle!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=While having not many recipes by itself, the few it has are rather important for your further witchery progression.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.name=Ne touchez pas l'aiguille !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=Il n'a pas beaucoup de recettes à lui, mais les quelques-unes qu'il possède sont assez importantes pour la suite de votre progression en sorcellerie.
 
 # Quest: Probably Usable For Soup
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.name=Probably Usable For Soup
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.desc=But its main purpose is to brew potions and infusions.%n%nA kettle must be set up in the correct way before it can be used.%n%nFirstly, a fire must be set under the kettle (netherrack is best for this, but wood will do just as well).%n%nNext the kettle must be filled. You can use pipes to automate this.%n%nThirdly, each of the six ingredients for the brew or infusion must be thrown into the kettle, one at a time (the liquid will change color according to the recipe being used).%n%nFinally, a glass bottle must be used on the kettle to bottle the resulting brew, this must be done multiple times depending on the recipe.%n%nIt is important to keep the fire going constantly while the recipe is being prepared, otherwise it will be ruined. Swirls coming from the kettle is a sign all is well, black smoke (and brown liquid) indicates the brew is ruined. When a brew is ruined, the kettle must be emptied with a glass bottle, or just filled with more water, and the whole process repeated.%n%nWhen a brew is complete, the liquid will be the color of the resulting brew and will splutter (in addition to white swirls).%n%nSome recipes will require magical energy from a nearby Altar before they are bottled. If the brew is bottled when insufficient energy is available, the brew will be ruined. Black swirls coming from the Kettle is a good sign there is not enough power. A kettle must be within 14 (to 16) blocks of an Altar in order to obtain power from it (it can obtain power only from a single altar).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.name=Sans doute utilisable pour la soupe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.desc=Mais sa fonction principale est de préparer des potions et des infusions.%n%nUn Kettle doit être correctement installé avant de pouvoir servir.%n%nD'abord, il faut allumer un feu sous le Kettle (le netherrack est idéal, mais le bois fera tout aussi bien l'affaire).%n%nEnsuite, il faut remplir le Kettle. Vous pouvez automatiser cela avec des tuyaux.%n%nTroisièmement, chacun des six ingrédients de la préparation ou de l'infusion doit être jeté dans le Kettle, un par un (le liquide change de couleur selon la recette utilisée).%n%nEnfin, il faut utiliser une fiole sur le Kettle pour mettre en bouteille la préparation obtenue, à plusieurs reprises selon la recette.%n%nIl est important d'entretenir le feu en permanence pendant la préparation de la recette, sinon elle sera gâchée. Des volutes s'échappant du Kettle signifient que tout va bien ; une fumée noire (et un liquide marron) indique que la préparation est ratée. Dans ce cas, il faut vider le Kettle avec une fiole, ou simplement y ajouter de l'eau, et tout recommencer.%n%nQuand une préparation est terminée, le liquide prend la couleur de la préparation obtenue et crépite (en plus des volutes blanches).%n%nCertaines recettes nécessitent l'énergie magique d'un Altar proche avant leur mise en bouteille. Si vous mettez la préparation en bouteille alors que l'énergie disponible est insuffisante, elle sera gâchée. Des volutes noires sortant du Kettle sont un bon signe que l'énergie manque. Un Kettle doit se trouver à moins de 14 (à 16) blocs d'un Altar pour en tirer de l'énergie (il ne peut puiser que dans un seul autel).
 
 # Quest: Don't Shake it Too Much
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Don't Shake it Too Much
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=Unlike nitroglycerin, this stuff doesn't explode. But you still shouldn't shake it too much...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Ne le secouez pas trop
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=Contrairement à la nitroglycérine, ce truc n'explose pas. Mais vous ne devriez quand même pas trop le secouer...
 
 # Quest: Spirit Coin Transfer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.name=Spirit Coin Transfer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.desc=The Potion of Spirit can only be made in the spirit world. Wondering how you can get your stuff like the Kettle, Spinning Wheel or Cauldron to the spirit world? You can transfer a few coins to the spirit world and buy some stuff.%n%n[warn]Don't claim the coins until you've gone to the other side.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.name=Transfert de pièces spirituelles
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.desc=La Potion of Spirit ne peut être préparée que dans le monde des esprits. Vous vous demandez comment y emporter votre matériel, comme le Kettle, le Spinning Wheel ou le chaudron ? Vous pouvez transférer quelques pièces vers le monde des esprits et y acheter du matériel.%n%n[warn]Ne récupérez pas les pièces avant d'être passé de l'autre côté.[/warn]
 
 # Quest: Circle Magic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.name=Circle Magic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.desc=For circle magic, you need... a circle, obviously. There are 4 types of chalk you can use, and you'll need all of them to proceed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.name=Magie des cercles
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.desc=Pour la magie des cercles, il vous faut... un cercle, évidemment. Il existe 4 types de craie, et vous aurez besoin de tous pour progresser.
 
 # Quest: Portable Power Source
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.name=Portable Power Source
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.desc=By infusing a stone with fiery magic you can create an "Attuned Stone". These stones can be used to link non-magical devices to the magical currents present...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.name=Source d'énergie portable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.desc=En imprégnant une pierre de magie ardente, vous pouvez créer une « Attuned Stone ». Ces pierres permettent de relier des appareils non magiques aux courants magiques présents...
 
 # Quest: Flying OINKment
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.name=Flying OINKment
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.desc=You tried, it doesn't fly. And it also doesn't make any OINK sounds, sadly. But there might be some use for it...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.name=OINKguent volant
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.desc=Vous avez essayé, il ne vole pas. Et il ne fait pas non plus « OINK », hélas. Mais il pourrait bien servir à quelque chose...
 
 # Quest: Nimbus 1999
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.name=Nimbus 1999
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.desc=Not as good as its successor, the 2000'ish model, but still "somehow" useful...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.desc=Pas aussi bon que son successeur, le modèle 2000 et quelques, mais quand même « plus ou moins » utile...
 
 # Quest: Bloodlust: Ghast Tear
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.name=Bloodlust: Ghast Tear
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.desc=If you can't pin down a ghast but still want to make refined evil.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.name=Soif de sang : larme de Ghast
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.desc=Si vous n'arrivez pas à coincer un ghast mais que vous voulez quand même fabriquer du Refined Evil.
 
 # Quest: Bloodlust: Witches Hand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.name=Bloodlust: Witches Hand
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.desc=In case you don't like the infernal witches...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.name=Soif de sang : Witches Hand
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.desc=Au cas où vous n'aimeriez pas les sorcières infernales...
 
 # Quest: Seeping Shoes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.name=Seeping Shoes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.desc=Who needs an antidote? Now with free fertilizer!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.desc=Qui a besoin d'un antidote ? Maintenant avec de l'engrais gratuit !
 
 # Quest: Poppets
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.name=Poppets
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.desc=Get a poppet and make the type you like with it to protect you against that thing. We recommend the death protection one.%n%nConsider making the poppet shelf so you don't need to carry a bunch of them around with you. It needs to be chunkloaded to work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.desc=Procurez-vous un Poppet et fabriquez-en le type de votre choix pour vous protéger contre ce danger-là. Nous vous recommandons celui de protection contre la mort.%n%nPensez à fabriquer la Poppet Shelf pour ne pas avoir à en transporter une pile sur vous. Elle doit être chunkloadée pour fonctionner.
 
 # Quest: Bloodlust: Wool of Bat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=Bloodlust: Wool of Bat
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=In case you just can't get it to drop.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=Soif de sang : Wool of Bat
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=Au cas où vous n'arriveriez vraiment pas à l'obtenir en butin.
 
 # Quest: Bloodlust: "Cain" Sword
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXA.name=Bloodlust: "Cain" Sword
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXA.desc=Serves 2 purposes: Style. And... ah, yeah... Something useful for vampires.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABXA.name=Soif de sang : l'épée « Cain »
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABXA.desc=Elle sert à 2 choses : le style. Et... ah oui... un truc utile pour les vampires.
 
 # Quest: Be a Vampire; Dress Like a Fancy Person
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXQ.name=Be a Vampire; Dress Like a Fancy Person
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXQ.desc=Sometimes it can be troublesome to get fancy clothing. However, if you prove yourself worthy, you get a set for free.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABXQ.name=Soyez un vampire ; habillez-vous comme un dandy
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABXQ.desc=Il est parfois difficile de se procurer des vêtements chics. Mais si vous vous montrez digne, vous obtenez un ensemble gratuitement.
 
 # Quest: Exhale of the Horned One
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGEg.name=Exhale of the Horned One
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGEg.desc=Exhale of the Horned One is an ingredient used in many recipes. It is acquired with a random chance when burning Oak saplings in an oven.%n%nYou'll also get Wood Ash when burning saplings. It's useful, don't toss it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGEg.desc=L'Exhale of the Horned One est un ingrédient utilisé dans de nombreuses recettes. On l'obtient aléatoirement en faisant brûler des pousses de Chêne dans un four.%n%nVous obtiendrez aussi du Wood Ash en brûlant des pousses. C'est utile, ne le jetez pas.
 
 # Quest: Mutate Your Saplings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGEw.name=Mutate Your Saplings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGEw.desc=Mutandis is a mutagen that is used by witches and warlocks to mutate plants into other species. Simply use Mutandis on small plants, grass, flowers, saplings, etc. and it will be randomly converted to another plant. Mutandis cannot mutate multi-stage plants like wheat and cactus.%n%nMutating plants is the only way to acquire Rowan, Hawthorn and Alder saplings.%n%nMutandis has another interesting property when crafted with raw meat. It seems to mutate it into another type of raw meat. It even seems to have an effect on Rotten Flesh.%n%nSome recipes require Mutandis as an ingredient.%n%nMutandis can be upgraded to Mutandis Extremis to have an effect on a wider variety of plants.%n%nMutandis is made in a Witches' Cauldron using Mandrake Root, Exhale of the Horned One and an Egg.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGEw.name=Faites muter vos pousses
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGEw.desc=Le Mutandis est un mutagène employé par les sorcières et les sorciers pour transformer des plantes en d'autres espèces. Utilisez simplement du Mutandis sur de petites plantes, de l'herbe, des fleurs, des pousses, etc. et elles seront converties aléatoirement en une autre plante. Le Mutandis ne peut pas faire muter les plantes à plusieurs stades de croissance, comme le blé ou le cactus.%n%nFaire muter des plantes est le seul moyen d'obtenir des pousses de Rowan, d'Hawthorn et d'Alder.%n%nLe Mutandis a une autre propriété intéressante lorsqu'on le combine à de la viande crue : il semble la transformer en un autre type de viande crue. Il paraît même avoir un effet sur la chair putréfiée.%n%nCertaines recettes demandent du Mutandis comme ingrédient.%n%nLe Mutandis peut être amélioré en Mutandis Extremis pour agir sur une plus grande variété de plantes.%n%nLe Mutandis se prépare dans un Witch's Cauldron avec de la Mandrake Root, de l'Exhale of the Horned One et un œuf.
 
 # Quest: Use Some Mouthwash of Olympus!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFA.name=Use Some Mouthwash of Olympus!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFA.desc=The Breath of the Goddess is an ingredient used in many recipes. It is acquired with a random chance when burning Birch saplings in an oven.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFA.name=Prenez un bain de bouche de l'Olympe !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFA.desc=Le Breath of the Goddess est un ingrédient utilisé dans de nombreuses recettes. On l'obtient aléatoirement en faisant brûler des pousses de Bouleau dans un four.
 
 # Quest: Mutated Saplings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFQ.name=Mutated Saplings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFQ.desc=These saplings can initially be acquired only by using Mutandis on a valid block, such as a sapling, grass, etc.%n%nYou can cook them in the oven for unique fume types:%nRowan: Whiff of Magic%nHawthorn: Odour of Purity%nAlder: Reek of Misfortune%n%nRowan trees drop Rowan Berries, and you'll need to get some Alder Wood for your altar.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFQ.name=Pousses mutées
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFQ.desc=Au départ, ces pousses ne peuvent être obtenues qu'en utilisant du Mutandis sur un bloc valide, comme une pousse, de l'herbe, etc.%n%nVous pouvez les cuire au four pour obtenir des fumées uniques :%nRowan : Whiff of Magic%nHawthorn : Odour of Purity%nAlder : Reek of Misfortune%n%nLes Rowan donnent des Rowan Berries, et il vous faudra de l'Alder Wood pour votre autel.
 
 # Quest: Whiff of Magic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFg.name=Whiff of Magic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFg.desc=A Whiff of Magic is an ingredient used in many recipes. It is acquired with a random chance when burning Rowan saplings in an oven.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFg.desc=Le Whiff of Magic est un ingrédient utilisé dans de nombreuses recettes. On l'obtient aléatoirement en faisant brûler des pousses de Rowan dans un four.
 
 # Quest: Odour of Purity
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFw.name=Odour of Purity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFw.desc=Odour of Purity is an ingredient used in many recipes. It is acquired with a random chance when burning Hawthorn saplings in an oven.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGFw.desc=L'Odour of Purity est un ingrédient utilisé dans de nombreuses recettes. On l'obtient aléatoirement en faisant brûler des pousses d'Hawthorn dans un four.
 
 # Quest: Purified Milk
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGGQ.name=Purified Milk
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGGQ.desc=Purified Milk is an antidote in a similar way to normal milk, although it only has a chance of working and will only remove a single status effect. It is advantageous because it can stack to 64 items.%n%nPurified Milk is an ingredient in the Brew of Sleeping.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGGQ.desc=Le Purified Milk est un antidote, un peu comme le lait normal, mais il n'a qu'une chance de fonctionner et ne retire qu'un seul effet de statut. Son avantage est qu'il s'empile par 64.%n%nLe Purified Milk est un ingrédient du Brew of Sleeping.
 
 # Quest: Brew of Love
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGGg.name=Brew of Love
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGGg.desc=The Brew of Love is a throwable potion that causes farm animals and villagers to get their luvin' on. When used on animals the effect is the same as if all hit animals were fed and their breeding cooldown is reset.%n%nIn the case of villagers, two (or more) must be hit by the same brew.%n%nThe Brew of Love may be thrown at a group of two or more enthralled zombies (created with a Brew of Raising or enthralled with the Infernal Infusion power), which will cause pairs of them to produce a baby zombie. It will also cause them to become zombie villagers. Zombie villagers can be turned back to villagers either using the normal method, or by casting a Rite of Fertility.%n%nThe Brew of Love is created in a kettle using the recipe found in the book Witchcraft: Brews & Infusions. Into the pot, throw a Rose, a Golden Carrot, Whiff of Magic, a Lily Pad, a Water Artichoke Globe and Cocoa Beans.%n%nWear a Witches Hat (and/or robes) while brewing to get more brews than just three.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGGg.desc=Le Brew of Love est une potion jetable qui pousse les animaux de ferme et les villageois à se faire des câlins. Sur les animaux, l'effet est le même que si tous les animaux touchés avaient été nourris, et leur délai de reproduction est réinitialisé.%n%nPour les villageois, il faut en toucher deux (ou plus) avec la même potion.%n%nLe Brew of Love peut être lancé sur un groupe d'au moins deux zombies asservis (créés avec un Brew of Raising ou asservis grâce au pouvoir Infernal Infusion), ce qui fera naître un bébé zombie par paire. Ils deviendront aussi des zombies villageois. Ceux-ci peuvent redevenir des villageois par la méthode habituelle, ou en accomplissant un Rite of Fertility.%n%nLe Brew of Love se prépare dans un Kettle selon la recette du livre Witchcraft: Brews & Infusions. Jetez dans la marmite une rose, une carotte dorée, du Whiff of Magic, un nénuphar, un Water Artichoke Globe et des fèves de cacao.%n%nPortez un Witches' Hat (et/ou les Witches Robes) pendant la préparation pour obtenir plus de trois potions.
 
 # Quest: Sleep Well!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGGw.name=Sleep Well!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGGw.desc=The Brew of Sleeping is the normal way for a Witch to enter the Spirit World.%n%nNeedless to say an unprepared witch will almost always experience a nightmare when they head to the spirit world this way.%n%nThe witch must drink the brew and then will fall into a deep sleep, leaving their body and items behind and entering the world of spirits.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGGw.name=Dormez bien !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGGw.desc=Le Brew of Sleeping est le moyen habituel pour une sorcière d'entrer dans le monde des esprits.%n%nInutile de dire qu'une sorcière mal préparée fera presque toujours un cauchemar en s'y rendant de cette façon.%n%nLa sorcière doit boire la potion, puis elle sombre dans un profond sommeil, laissant derrière elle son corps et ses objets pour pénétrer dans le monde des esprits.
 
 # Quest: The Spirit World - Nightmare
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHA.name=The Spirit World - Nightmare
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHA.desc=The spirit world is an alternate reality that mirrors the Overworld in topography. When people dream they often end up in the spirit world without realizing it (often appearing as one of its many denizens). Powerful witches can create Brews of Sleeping that allow them to pass their still awake consciousness into the Spirit World, leaving their bodies and gear behind.%n%nThe Spirit World is the only source of Wispy Cotton, Disturbed Cotton, and Mellifluous Hunger - the materials needed to make Dream Weavers. Also Brews of Flowing Spirit can only be made in the Spirit World.%n%nVery few things can pass into, or return from the Spirit World - keep this in mind when heading there (Icy Needle always stay in the inventory). Wispy Cotton, Disturbed Cotton, Mellifluous Hunger and Brews of Flowing Spirit can pass from the Spirit World to the Real World but not the other way.%n%nTwo important things to note: Circle magic does not function in the Spirit World; and Endermen cannot enter the Spirit World.%n%n[note]If you got the Dream version instead of nightmare, collect at least 16 Wispy Cotton for later.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHA.name=Le monde des esprits - Cauchemar
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHA.desc=Le monde des esprits est une réalité alternative dont la topographie reflète celle de l'Overworld. Quand les gens rêvent, ils s'y retrouvent souvent sans s'en rendre compte (apparaissant souvent sous la forme de l'un de ses nombreux habitants). Les sorcières puissantes savent préparer des Brews of Sleeping qui leur permettent d'y transférer leur conscience encore éveillée, en laissant derrière elles leur corps et leur équipement.%n%nLe monde des esprits est la seule source de Wispy Cotton, de Disturbed Cotton et de Mellifluous Hunger, les matériaux nécessaires pour fabriquer des Dream Weavers. De plus, les Brews of Flowing Spirit ne peuvent être préparés que dans le monde des esprits.%n%nTrès peu de choses peuvent entrer dans le monde des esprits ou en revenir : gardez cela en tête avant d'y aller (l'Icy Needle reste toujours dans l'inventaire). Le Wispy Cotton, le Disturbed Cotton, le Mellifluous Hunger et les Brews of Flowing Spirit peuvent passer du monde des esprits au monde réel, mais pas dans l'autre sens.%n%nDeux points importants : la magie des cercles ne fonctionne pas dans le monde des esprits, et les Endermen ne peuvent pas y entrer.%n%n[note]Si vous êtes tombé sur la version Rêve au lieu de la version Cauchemar, récoltez au moins 16 Wispy Cotton pour plus tard.[/note]
 
 # Quest: Early Bird Gets the...Nightmare?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHg.name=Early Bird Gets the...Nightmare?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHg.desc=You woke up very early because of the nightmares following you in the dream world.%n%nYou weren't prepared for it, so let get some stuff together first and enter a second time to get some wispy/disturbed cotton.%n%nIf you haven't unlocked your Brewing stand yet, you have to do it first. Look in the Novice Thaumaturge tab for the quest.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHg.name=L'avenir appartient à ceux qui... cauchemardent tôt ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHg.desc=Vous vous êtes réveillé très tôt à cause des cauchemars qui vous poursuivaient dans le monde des rêves.%n%nVous n'étiez pas préparé, alors rassemblons d'abord un peu de matériel, puis entrez une seconde fois pour récupérer du Wispy Cotton et du Disturbed Cotton.%n%nSi vous n'avez pas encore débloqué votre alambic, vous devez d'abord le faire. Cherchez la quête dans l'onglet Thaumaturgie novice.
 
 # Quest: Wake Up Early
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHw.name=Wake Up Early
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHw.desc=Your second visit hopefully went a little better. With night vision and the flight potion you should have found a few disturbed cotton.%n%nDisturbed Cotton can be spun into Tormented Twine. It cannot be replanted.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHw.name=Réveil matinal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGHw.desc=Votre deuxième visite s'est sans doute un peu mieux passée. Avec la vision nocturne et la potion de vol, vous avez dû trouver un peu de Disturbed Cotton.%n%nLe Disturbed Cotton peut être filé en Tormented Twine. Il ne peut pas être replanté.
 
 # Quest: Attuned Stone
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIA.name=Attuned Stone
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIA.desc=An attuned stone is a Mana Diamond that has been further infused with natural magic in a fiery medium. Attuned stones can be used to link non-magical devices to the magical currents present in the world, and are one of the main ingredients in crafting distilleries, kettles, altar foci and poppet shelves.%n%nThe other main use of attuned stones is to act as a portable power source for circle magic rites, when a nearby altar is not available. To act in such a way, the attuned stone must first be charged with a Rite of Charging.%n%n[note]If you haven't yet obtained a Mana Diamond, checkout the Flower Power tab for more information![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIA.desc=Une Attuned Stone est un Mana Diamond davantage imprégné de magie naturelle dans un milieu ardent. Les Attuned Stones permettent de relier des appareils non magiques aux courants magiques présents dans le monde, et sont l'un des principaux ingrédients des Distilleries, des Kettles, des focus d'autel et des Poppet Shelves.%n%nL'autre usage principal des Attuned Stones est de servir de source d'énergie portable pour les rites de magie des cercles, quand aucun autel n'est disponible à proximité. Pour cela, l'Attuned Stone doit d'abord être chargée avec un Rite of Charging.%n%n[note]Si vous n'avez pas encore obtenu de Mana Diamond, consultez l'onglet Flower Power pour plus d'informations ![/note]
 
 # Quest: Reek of Misfortune
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIQ.name=Reek of Misfortune
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIQ.desc=Reek of Misfortune is an ingredient used in many recipes. It is acquired with a random chance when burning Alder saplings in an oven.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIQ.desc=Le Reek of Misfortune est un ingrédient utilisé dans de nombreuses recettes. On l'obtient aléatoirement en faisant brûler des pousses d'Alder dans un four.
 
 # Quest: Tormented Twine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIg.name=Tormented Twine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIg.desc=Tormented Twine is spun from Disturbed Cotton using a Spinning Wheel. It is an ingredient used to make Dream Catchers.%n%nIt is made in a Spinning Wheel using Disturbed Cotton, Blood Burned String and Reek of Misfortune.%n%n[warn]You need a T2 BM Blood Altar to make the string, so go over to the BM tab if you want to continue and haven't done that yet.[/warn]%n%nAn Altar must be nearby to power the spinning wheel.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIg.desc=Le Tormented Twine est filé à partir de Disturbed Cotton dans un Spinning Wheel. C'est un ingrédient servant à fabriquer des attrape-rêves (Dream Weavers).%n%nOn le fabrique dans un Spinning Wheel avec du Disturbed Cotton, de la Blood Burned String et du Reek of Misfortune.%n%n[warn]Il vous faut un Blood Altar BM de T2 pour fabriquer la ficelle : allez voir l'onglet Payer le prix fort si vous voulez continuer et que ce n'est pas encore fait.[/warn]%n%nUn Altar doit se trouver à proximité pour alimenter le Spinning Wheel.
 
 # Quest: Distillery
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIw.name=Distillery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIw.desc=A distillery used by a witch is a construct used for distilling magical ingredients. It is unlike a normal distillery, because it heats itself using energy obtained from a nearby altar. The distillery must be within about 14 - 16 blocks of an altar to draw power from it - a small icon is shown in the interface if no power is available.%n%nOne or two ingredients are distilled together and will result in up to four resulting materials. A supply of clay jars is also needed to capture some or all of the distillates.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGIw.desc=La Distillery d'une sorcière est une construction servant à distiller des ingrédients magiques. Elle diffère d'une distillerie normale car elle se chauffe elle-même grâce à l'énergie tirée d'un autel proche. La Distillery doit se trouver à environ 14 - 16 blocs d'un autel pour y puiser de l'énergie ; une petite icône s'affiche dans l'interface si aucune énergie n'est disponible.%n%nUn ou deux ingrédients sont distillés ensemble et donnent jusqu'à quatre produits. Il faut aussi une réserve de Clay Jars pour capturer tout ou partie des distillats.
 
 # Quest: Nightmare Protection
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJA.name=Nightmare Protection
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJA.desc=The Dream Weaver of Nightmares has two effects, firstly it will add a short weakness effect to a player when they wake up from a good nights sleep. Secondly, it will corrupt all other nearby dream weavers so that they have the opposite effect. If the dream weaver is itself corrupted by another nearby Dream Weaver of Nightmares, it will add a short blindness effect instead of nausea.%n%nThe Dream Weaver of Nightmares can also be used to fend off nightmares when a Brew of Sleeping is drunk. Having the Dream Weaver nearby will reduce the chance of a nightmare to 50 percent (this can be decreased further by other means!).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJA.name=Protection contre les cauchemars
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJA.desc=Le Dream Weaver of Nightmares a deux effets : d'abord, il inflige un bref effet de faiblesse au joueur qui se réveille après une bonne nuit de sommeil. Ensuite, il corrompt tous les autres Dream Weavers proches pour qu'ils aient l'effet inverse. Si le Dream Weaver est lui-même corrompu par un autre Dream Weaver of Nightmares proche, il inflige un bref effet de cécité au lieu de la nausée.%n%nLe Dream Weaver of Nightmares peut aussi servir à repousser les cauchemars lorsqu'on boit un Brew of Sleeping. Avoir le Dream Weaver à proximité réduit la probabilité de cauchemar à 50 pour cent (elle peut être encore réduite par d'autres moyens !).
 
 # Quest: Oil of Vitriol
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJQ.name=Oil of Vitriol
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJQ.desc=Oil of Vitriol is an ingredient produced in a distillery by using Foul Fume and Quicklime.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJQ.desc=L'Oil of Vitriol est un ingrédient produit dans une Distillery à partir de Foul Fume et de Quicklime.
 
 # Quest: Diamond Vapor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJg.name=Diamond Vapor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJg.desc=Diamond vapor is an ingredient made by distilling diamond in a distillery according to the recipe in the book, Witchcraft: Distilling, using a Diamond and Oil of Vitriol.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJg.desc=Le Diamond Vapor est un ingrédient obtenu en distillant du diamant dans une Distillery selon la recette du livre Witchcraft: Distilling, avec un diamant et de l'Oil of Vitriol.
 
 # Quest: Foul Fume
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJw.name=Foul Fume
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJw.desc=A foul fume (commonly known as sulfur dioxide) is an ingredient used in many recipes. It is acquired with a random chance when cooking vanilla food items (such as bread or raw meats) or jungle saplings in an oven.%n%n[warn]Food and Wood burning in the oven is currently broken, use saplings instead.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGJw.desc=Le Foul Fume (plus connu sous le nom de dioxyde de soufre) est un ingrédient utilisé dans de nombreuses recettes. On l'obtient aléatoirement en cuisant des aliments vanilla (comme du pain ou des viandes crues) ou des pousses d'Acajou dans un four.%n%n[warn]La cuisson de nourriture et de bois dans le four est actuellement cassée, utilisez plutôt des pousses.[/warn]
 
 # Quest: The Spirit World - Dream
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKA.name=The Spirit World - Dream
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKA.desc=Placing your Dream Weaver of Nightmares close to where you sleep and entering the Dream World again, you have a 50%% chance now that it be will be Daylight. Try a few times if necessary.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKA.name=Le monde des esprits - Rêve
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKA.desc=En plaçant votre Dream Weaver of Nightmares près de l'endroit où vous dormez et en retournant dans le monde des rêves, vous avez maintenant 50%% de chances qu'il fasse jour. Essayez plusieurs fois si nécessaire.
 
 # Quest: Wake Me Up Later
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKQ.name=Wake Me Up Later
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKQ.desc=In the daytime you can find a few wispy cotton, which are needed for further progression. There are no mobs in the Dream version, so hang out if you like.%n%nIt can be collected and replanted, but will only spread if planted in the Spirit World, on Dirt or Grass that is next to a pool of Flowing Spirit.%n%nPlanting Wispy Cotton nearby when using a Brew of Sleeping near to a Dream Weaver of Nightmares will further reduce the chance of a nightmare by 10 percent for each cotton plant (up to 2).%n%nWispy Cotton will remain in a players inventory when they return from the Spirit World.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKQ.name=Réveillez-moi plus tard
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKQ.desc=En journée, vous pouvez trouver un peu de Wispy Cotton, nécessaire pour la suite. Il n'y a pas de monstres dans la version Rêve, alors restez-y un moment si vous le souhaitez.%n%nIl peut être récolté et replanté, mais ne se propage que s'il est planté dans le monde des esprits, sur de la terre ou de l'herbe à côté d'un bassin de Flowing Spirit.%n%nPlanter du Wispy Cotton à proximité quand vous utilisez un Brew of Sleeping près d'un Dream Weaver of Nightmares réduit encore la probabilité de cauchemar de 10 pour cent par plant de coton (jusqu'à 2).%n%nLe Wispy Cotton reste dans l'inventaire du joueur quand il revient du monde des esprits.
 
 # Quest: Fanciful Thread
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKg.name=Fanciful Thread
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKg.desc=Fanciful Thread is spun from Wispy Cotton using a Spinning Wheel. It is an ingredient used to make Dream Catchers.%n%nIt is made in a Spinning Wheel using Wispy Cotton, String and Odour of Purity.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKg.desc=Le Fanciful Thread est filé à partir de Wispy Cotton dans un Spinning Wheel. C'est un ingrédient servant à fabriquer des attrape-rêves (Dream Weavers).%n%nOn le fabrique dans un Spinning Wheel avec du Wispy Cotton, de la ficelle et de l'Odour of Purity.
 
 # Quest: Better Nightmare Protection
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKw.name=Better Nightmare Protection
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKw.desc=The Charm of Fanciful Thinking is the only way to protect oneself from some of the worst effects a nightmare can throw at you. It just needs to be in a player's inventory for it to function.%n%nA Charm of Fanciful Thinking is crafted using Sticks and Fanciful Thread.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKw.name=Meilleure protection contre les cauchemars
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGKw.desc=Le Charm of Fanciful Thinking est le seul moyen de se protéger de certains des pires effets qu'un cauchemar peut vous infliger. Il suffit qu'il soit dans l'inventaire du joueur pour fonctionner.%n%nUn Charm of Fanciful Thinking se fabrique avec des bâtons et du Fanciful Thread.
 
 # Quest: Digging Faster!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLA.name=Digging Faster!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLA.desc=The Dream Weaver of Iron Arm will add a mining speed boost to a player when they wake up from a good nights sleep. If the dream weaver is corrupted by a nearby Dream Weaver of Nightmares, the weaver will instead add a mining speed slowdown effect to the player.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLA.name=Creusez plus vite !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLA.desc=Le Dream Weaver of Iron Arm donne au joueur un bonus de vitesse de minage quand il se réveille après une bonne nuit de sommeil. Si le Dream Weaver est corrompu par un Dream Weaver of Nightmares proche, il inflige à la place un effet de ralentissement du minage.
 
 # Quest: Moving Faster!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLQ.name=Moving Faster!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLQ.desc=The Dream Weaver of Fleet Foot will add a speed boost to a player when they wake up from a good night's sleep.%n%nIf the dream weaver is corrupted by a nearby Dream Weaver of Nightmares, the weaver will instead add a slowdown effect to the player.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLQ.name=Bougez plus vite !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLQ.desc=Le Dream Weaver of Fleet Foot donne au joueur un bonus de vitesse quand il se réveille après une bonne nuit de sommeil.%n%nSi le Dream Weaver est corrompu par un Dream Weaver of Nightmares proche, il inflige à la place un effet de lenteur au joueur.
 
 # Quest: Hunger No More!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLg.name=Hunger No More!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLg.desc=The Dream Weaver of Fasting will add a boost to the saturation of a player when they wake up from a good nights sleep, essentially meaning they will not get hungry for the duration of the effect. If the dream weaver is corrupted by a nearby Dream Weaver of Nightmares, the weaver will instead add a hunger effect to the player.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLg.name=Fini la faim !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLg.desc=Le Dream Weaver of Fasting augmente la saturation du joueur quand il se réveille après une bonne nuit de sommeil, ce qui signifie qu'il n'aura pas faim pendant toute la durée de l'effet. Si le Dream Weaver est corrompu par un Dream Weaver of Nightmares proche, il inflige à la place un effet de faim au joueur.
 
 # Quest: Mellifluous Hunger
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLw.name=Mellifluous Hunger
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLw.desc=Mellifluous Hunger is an ingredient used in other recipes. It is dropped when a Nightmare is killed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGLw.desc=Le Mellifluous Hunger est un ingrédient utilisé dans d'autres recettes. Il est lâché par les Nightmares quand on les tue.
 
 # Quest: Brew of Flowing Spirit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMA.name=Brew of Flowing Spirit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMA.desc=The Brew of Flowing Spirit captures the essence of the Spirit World in liquid form. It can only be brewed in the Spirit World!%n%nThe Brew can be thrown at the ground and the liquid will burst out (the source block can later be picked up in a bucket). Standing in the liquid will have a minor healing effect for most creatures. Demonic or undead creatures will be weakened. Nightmares standing in the liquid will lose their invulnerability effect!%n%nHaving a pool of flowing spirit near a Dream Weaver of Nightmares will decrease the chance of a nightmare by 10 percent for each source block (up to 3).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMA.desc=Le Brew of Flowing Spirit capture l'essence du monde des esprits sous forme liquide. Il ne peut être préparé que dans le monde des esprits !%n%nLa potion peut être lancée au sol et le liquide s'en déversera (le bloc source peut ensuite être récupéré dans un seau). Se tenir dans le liquide a un léger effet de soin sur la plupart des créatures. Les créatures démoniaques ou mortes-vivantes seront affaiblies. Les Nightmares qui se tiennent dans le liquide perdent leur invulnérabilité !%n%nAvoir un bassin de Flowing Spirit près d'un Dream Weaver of Nightmares réduit la probabilité de cauchemar de 10 pour cent par bloc source (jusqu'à 3).
 
 # Quest: We Need Another Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMQ.name=We Need Another Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMQ.desc=First of all you can't visit any other dim to get materials. Not the Twilight Forest, not the Nether or the End. Let's start with crafting a new oven and a stack of jars to start with some basic ingredients.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMQ.name=Il nous faut un autre four
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMQ.desc=Avant tout, vous ne pouvez visiter aucune autre dimension pour obtenir des matériaux. Ni la Twilight Forest, ni le Nether, ni l'End. Commençons par fabriquer un nouveau four et une pile de Clay Jars pour obtenir quelques ingrédients de base.
 
 # Quest: Dream Distillery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMg.name=Dream Distillery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMg.desc=You probably want a Distillery too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMg.name=Distillerie des rêves
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMg.desc=Vous voudrez sans doute aussi une Distillery.
 
 # Quest: Another Cauldron
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMw.name=Another Cauldron
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMw.desc=After we have enough coins we can craft the cauldron and transfer it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMw.name=Un autre chaudron
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGMw.desc=Une fois qu'on a assez de pièces, on peut fabriquer le chaudron et le transférer.
 
 # Quest: Nightmares
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNA.name=Nightmares
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNA.desc=Need more coins? Kill demons for coins. The world is better off without them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNA.name=Cauchemars
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNA.desc=Besoin de plus de pièces ? Tuez des démons pour en obtenir. Le monde se portera mieux sans eux.
 
 # Quest: Wispy Cotton
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNQ.name=Wispy Cotton
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNQ.desc=Need more coins? Selling wispy cotton for coins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNQ.desc=Besoin de plus de pièces ? Vendez du Wispy Cotton contre des pièces.
 
 # Quest: Dreaming Mutandis
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNg.name=Dreaming Mutandis
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNg.desc=Go and find some chicken and eggs, brew some Exhale of the Horned One in your oven and plant some mandrake. Make a stack of mutandis to get some witchery tree saplings. Gravel hoes are good enough for planting stuff.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNg.name=Mutandis rêveur
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNg.desc=Allez trouver des poules et des œufs, produisez de l'Exhale of the Horned One dans votre four et plantez de la Mandrake. Fabriquez une pile de Mutandis pour obtenir des pousses d'arbres de Witchery. Des houes en gravier suffisent pour planter.
 
 # Quest: Exhale of the Dreaming Horned One
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNw.name=Exhale of the Dreaming Horned One
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNw.desc=For later use do a few Exhale of the Horned One.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGNw.desc=Produisez un peu d'Exhale of the Horned One pour plus tard.
 
 # Quest: Offerings in Your Dreams
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOA.name=Offerings in Your Dreams
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOA.desc=For all your offerings you'll need an altar too. The spinning wheel needs it also.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOA.name=Des offrandes dans vos rêves
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOA.desc=Pour toutes vos offrandes, il vous faudra aussi un autel. Le Spinning Wheel en a besoin également.
 
 # Quest: Kettle for the Spirit World
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOQ.name=Kettle for the Spirit World
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOQ.desc=A kettle is needed in the spirit world too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOQ.name=Un Kettle pour le monde des esprits
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOQ.desc=Il faut aussi un Kettle dans le monde des esprits.
 
 # Quest: Spinning Your Dreams
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOg.name=Spinning Your Dreams
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOg.desc=You need the spinning wheel for the fanciful thread to finally make the Potion of Flowing Spirit.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOg.name=Filez vos rêves
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOg.desc=Il vous faut le Spinning Wheel pour le Fanciful Thread afin de pouvoir enfin préparer la Potion of Flowing Spirit.
 
 # Quest: Fanciful Thread
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOw.name=Fanciful Thread
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOw.desc=Fanciful Thread is spun from Wispy Cotton using a Spinning Wheel. It is an ingredient used to make the Potion of Flowing Spirit. This can be brewed only in the spirit world.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGOw.desc=Le Fanciful Thread est filé à partir de Wispy Cotton dans un Spinning Wheel. C'est un ingrédient servant à préparer la Potion of Flowing Spirit, qui ne peut être préparée que dans le monde des esprits.
 
 # Quest: Odour of Purity in Dreams
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPA.name=Odour of Purity in Dreams
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPA.desc=For later use do a few Odour of Purity.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPA.name=Odour of Purity en rêve
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPA.desc=Produisez un peu d'Odour of Purity pour plus tard.
 
 # Quest: More Power Now!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPQ.name=More Power Now!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPQ.desc=The Dream Weaver of Intensity has two effects, firstly it will add a very short night vision effect (or blindness if corrupted by a nightmare) to a player when they wake up from a good nights sleep. Secondly, it will intensify all other nearby dream weavers so that they have either a stronger (but shorter lasting) effect or their duration is increased.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPQ.name=Plus de puissance, tout de suite !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPQ.desc=Le Dream Weaver of Intensity a deux effets : d'abord, il donne un très bref effet de vision nocturne (ou de cécité s'il est corrompu par un cauchemar) au joueur qui se réveille après une bonne nuit de sommeil. Ensuite, il intensifie tous les autres Dream Weavers proches, de sorte que leur effet soit plus fort (mais plus court) ou que leur durée soit allongée.
 
 # Quest: Now I Feel Bad...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbQ.name=Now I Feel Bad...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbQ.desc=...that I know creepers have hearts. Extract a few with your Arthana. You might want to add a few levels of Looting to get more drops.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbQ.name=Maintenant, je me sens mal...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbQ.desc=...de savoir que les creepers ont un cœur. Extrayez-en quelques-uns avec votre Arthana. Vous voudrez peut-être ajouter quelques niveaux de Butin pour obtenir plus de butin.
 
 # Quest: Rumplestiltskin!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbg.name=Rumplestiltskin!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbg.desc=Spinning hay into gold sounds like a fairy tale, but with your new magical spinning wheel you too can try tricking a queen into giving you their firstborn child.%n%nYou will need three for your witchwear, and can turn extra into gold nuggets in a furnace.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbg.name=Tracassin !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbg.desc=Filer de la paille en or, ça ressemble à un conte de fées, mais avec votre nouveau Spinning Wheel magique, vous aussi pouvez essayer de duper une reine pour qu'elle vous cède son premier-né.%n%nIl vous en faut trois pour votre tenue de sorcière, et vous pouvez transformer le surplus en pépites d'Or dans un fourneau.
 
 # Quest: Leather Goddess of Robe-us
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbw.name=Leather Goddess of Robe-us
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbw.desc=To make appropriate witchwear, you'll need to make some impregnated leather with your diamond vapor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbw.name=La déesse du cuir et de la robe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGbw.desc=Pour fabriquer une tenue de sorcière digne de ce nom, il vous faudra de l'Impregnated Leather, obtenu avec votre Diamond Vapor.
 
 # Quest: The Witch is Back...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcA.name=The Witch is Back...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcA.desc=...and you're going to be in trouble.%n%nDress for success in your new Witches Hat and Robes. A girl has to look her best, so I'll give you a nice bag as reward.%n%nCheck NEI uses for impregnated leather for other accessories to your outfit.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcA.name=La sorcière est de retour...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcA.desc=...et vous allez avoir des ennuis.%n%nHabillez-vous pour réussir avec votre nouveau Witches' Hat et vos Witches Robes. Une fille se doit d'être à son avantage, alors je vous offre un joli sac en récompense.%n%nConsultez les usages de l'Impregnated Leather dans NEI pour d'autres accessoires assortis à votre tenue.
 
 # Quest: Books Are For Nerds...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcQ.name=Books Are For Nerds...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcQ.desc=...And sexy male librarians. And also smart witches who want to learn their way around. Craft the first group of Witchery books, or find them in a village.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcQ.name=Les livres, c'est pour les intellos...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcQ.desc=...et les bibliothécaires sexy. Et aussi les sorcières futées qui veulent apprendre à s'y retrouver. Fabriquez la première série de livres de Witchery, ou trouvez-les dans un village.
 
 # Quest: Going to Need a Big Hat...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcg.name=Going to Need a Big Hat...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcg.desc=...to fit all this knowledge. Get some more books!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcg.name=Il va falloir un grand chapeau...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcg.desc=...pour contenir tout ce savoir. Procurez-vous d'autres livres !
 
 # Quest: A Dark Path to Travel Down...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcw.name=A Dark Path to Travel Down...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcw.desc=...but a path laden with power beyond imagination. Behold mortal, and be terrified!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcw.name=Un sombre chemin à emprunter...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGcw.desc=...mais un chemin chargé d'un pouvoir inimaginable. Contemple, mortel, et sois terrifié !
 
 # Quest: Demonic Contract
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHg.name=Demonic Contract
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHg.desc=A Demonic Contract is written on parchment made from the resurrected flesh of the dead. The contract is signed in the blood of the individual to whom it pertains.%n%nA plain demonic contract is used to make a deal with Flame Imps. The basic contract is crafted with a Taglock Kit containing the blood of the witch (or warlock).%n%nWhen performing Imp Magic, a plain contract is first crafted with reagents pertaining to the spell effect, and then signed in the blood of the target by crafting it with a Taglock Kit containing the targets blood.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHg.desc=Un Demonic Contract est rédigé sur un parchemin fait de la chair ressuscitée des morts. Le contrat est signé avec le sang de la personne qu'il concerne.%n%nUn Demonic Contract vierge sert à conclure un marché avec les Flame Imps. Le contrat de base se fabrique avec un Taglock Kit contenant le sang de la sorcière (ou du sorcier).%n%nPour la magie des Imps, on fabrique d'abord un contrat vierge avec les réactifs liés à l'effet du sort, puis on le signe avec le sang de la cible en le combinant à un Taglock Kit contenant son sang.
 
 # Quest: Taglock Kit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHw.name=Taglock Kit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHw.desc=Taglock Kits are used to collect taglocks from other players or creatures. Taglocks, such as locks of hair, fingernail clippings or blood, are used in various recipes to create a link between the creature and the magic.%n%nUse a taglock kit on a creature, or the used bed of a player, to collect some taglocks from that being. Repeated use on the same bed will cycle taglocks for each player who has used that bed. The kit can also be used on a Leech Chest to collect taglocks from users who have opened the chest or on a Blood Rose to collect the taglock of the player that walked over it.%n%nShift-clicking on any bed will fill the kit with the current players taglocks.%n%nCollecting taglocks by using the kit on a player has a chance of failing and informing the other player what you were trying to do. To increase the chance of collecting a taglock from a player, sneak, and prefer approaching from behind.%n%nTaglocks can only be collected from players who are logged into the same world.%n%nTaglock kits are made by crafting a Glass Bottle with a Bone Needle.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJHw.desc=Les Taglock Kits servent à prélever des taglocks sur d'autres joueurs ou créatures. Les taglocks, comme des mèches de cheveux, des rognures d'ongles ou du sang, sont utilisés dans diverses recettes pour créer un lien entre la créature et la magie.%n%nUtilisez un Taglock Kit sur une créature, ou sur le lit utilisé par un joueur, pour prélever des taglocks de cet être. Des utilisations répétées sur le même lit font défiler les taglocks de chaque joueur ayant utilisé ce lit. Le kit peut aussi être utilisé sur un Leech Chest pour prélever les taglocks des joueurs qui l'ont ouvert, ou sur une Blood Poppy pour prélever le taglock du joueur qui a marché dessus.%n%nMaj + clic sur n'importe quel lit remplit le kit avec les taglocks du joueur actuel.%n%nPrélever des taglocks en utilisant le kit sur un joueur a une chance d'échouer et d'avertir l'autre joueur de ce que vous tentiez de faire. Pour augmenter vos chances de réussite sur un joueur, accroupissez-vous et approchez-le de préférence par derrière.%n%nOn ne peut prélever des taglocks que sur des joueurs connectés au même monde.%n%nLes Taglock Kits se fabriquent en combinant une fiole et une Bone Needle.
 
 # Quest: Mutandis Extremis
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIA.name=Mutandis Extremis
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIA.desc=Mutandis Extremis is an upgraded version of Mutandis that is used by witches and warlocks to mutate plants into other species. Mutandis Extremis has all the same properties as basic Mutandis but it can even be used on multi-stage plants like wheat, cactus, etc. and can also mutate cooked meat.%n%nIf Mutandis Extremis is used on a Grass block there is a chance it will mutate it into Mycelium and vice versa.%n%nIf Mutandis Extremis is used on an underwater dirt block there is a chance it will mutate it (and nearby dirt) into clay blocks.%n%nMutating plants is the only way to acquire Rowan, Hawthorn and Alder saplings.%n%nSome recipes require Mutandis Extremis as an ingredient.%n%nMutandis is crafted using Mutandis and Nether Wart.%n%n[note]Some cauldron recipes require altar power. This is one of them; it requires 8000. Make sure you read the Witches' Brews book for information on Altar requirements.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIA.desc=Le Mutandis Extremis est une version améliorée du Mutandis, utilisée par les sorcières et les sorciers pour transformer des plantes en d'autres espèces. Il possède toutes les propriétés du Mutandis de base, mais il peut même être utilisé sur les plantes à plusieurs stades comme le blé, le cactus, etc., et peut aussi faire muter la viande cuite.%n%nUtilisé sur un bloc d'herbe, le Mutandis Extremis a une chance de le transformer en mycélium, et inversement.%n%nUtilisé sur un bloc de terre immergé, il a une chance de le transformer (ainsi que la terre voisine) en blocs d'argile.%n%nFaire muter des plantes est le seul moyen d'obtenir des pousses de Rowan, d'Hawthorn et d'Alder.%n%nCertaines recettes demandent du Mutandis Extremis comme ingrédient.%n%nLe Mutandis Extremis se fabrique avec du Mutandis et des verrues du Nether.%n%n[note]Certaines recettes de chaudron nécessitent de l'énergie d'autel. C'est le cas de celle-ci : elle en demande 8000. Lisez bien le livre Witches' Brews pour connaître les besoins en énergie d'autel.[/note]
 
 # Quest: Mandrake Noise Protection
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIQ.name=Mandrake Noise Protection
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIQ.desc=Where would a Herbologist be without a trusty pair of Earmuffs? As soon as it comes time to harvest a crop of Mandrake, the farmer has two choices, either do it at night (and risk the typical nightly terrors), or don a pair of Earmuffs, and harvest away without fear of the Mandrake's screams. Indeed, Earmuffs are so effective at what they do, the wearer is unlikely to hear pretty much anything. This property may have benefits when dealing with Banshees too.%n%nEarmuffs count as leather armor in terms of protection and durability.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIQ.name=Protection contre le cri des Mandrakes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIQ.desc=Que serait un herboriste sans une bonne paire d'Earmuffs ? Au moment de récolter des Mandrakes, le cultivateur a deux options : le faire de nuit (et affronter les terreurs nocturnes habituelles), ou enfiler une paire d'Earmuffs et récolter sans craindre les hurlements des Mandrakes. Les Earmuffs sont d'ailleurs si efficaces que celui qui les porte n'entend à peu près plus rien. Cette propriété pourrait aussi être utile face aux Banshees.%n%nLes Earmuffs comptent comme une armure en cuir en termes de protection et de durabilité.
 
 # Quest: Ent Twig
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIg.name=Ent Twig
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIg.desc=An Ent Twig is dropped when an Ent is killed, which can be used to craft Mutating Sprigs and Mystic Branches.%n%nEnts will appear occasionally when trees such as Rowan, Hawthorn and Alder are felled in large quantities.%n%nThey are rather hard to kill by normal means, but they do have a healthy hatred of certain tools for some reason or another.%n%nThey can also drop a Twilight Forest Moss Patch or Biomes O' Plenty Moss.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIg.desc=Une Ent Twig est lâchée par un Ent quand on le tue ; elle sert à fabriquer des Mutating Sprigs et des Mystic Branches.%n%nDes Ents apparaissent de temps en temps quand on abat en grande quantité des arbres comme le Rowan, l'Hawthorn et l'Alder.%n%nIls sont assez difficiles à tuer par des moyens normaux, mais ils ont une sainte horreur de certains outils, pour une raison ou une autre.%n%nIls peuvent aussi lâcher un Moss Patch de la Twilight Forest ou de la Moss de Biomes O' Plenty.
 
 # Quest: Redstone Soup?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIw.name=Redstone Soup?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIw.desc=Redstone soup is a witches brew that forms the base for all infusions, although it does have other uses.%n%nFilling a chalice with redstone soup will increase its magical affinity and upgrade it to a filled chalice, doubling its effectiveness.%n%nDrinking redstone soup will boost the health of the drinker for a few minutes.%n%nRedstone Soup is made in a kettle. Into the pot, throw Redstone, Drop of Luck, Wool of Bat, Tongue of Dog, Belladonna and Mandrake Root.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIw.name=De la soupe de redstone ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJIw.desc=La Redstone Soup est une préparation de sorcière qui sert de base à toutes les infusions, même si elle a d'autres usages.%n%nRemplir un Chalice de Redstone Soup augmente son affinité magique et l'améliore en Chalice (Filled), doublant son efficacité.%n%nBoire de la Redstone Soup augmente la santé de celui qui la boit pendant quelques minutes.%n%nLa Redstone Soup se prépare dans un Kettle. Jetez dans la marmite de la redstone, un Drop of Luck, du Wool of Bat, du Tongue of Dog, de la Belladonna et de la Mandrake Root.
 
 # Quest: Chalice
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJA.name=Chalice
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJA.desc=The chalice is an upgrade for an altar that improves the maximum amount of power an altar can hold. The chalice will increase the maximum power by 1x the base power rate.%n%nThe chalice upgrades to the Filled Chalice. Only one chalice upgrade will have an effect on an altar.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJA.desc=Le Chalice est une amélioration d'autel qui augmente la quantité maximale d'énergie qu'il peut contenir. Le Chalice augmente l'énergie maximale de 1x le taux d'énergie de base.%n%nLe Chalice s'améliore en Chalice (Filled). Une seule amélioration de type Chalice a un effet sur un autel.
 
 # Quest: Arthana
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJQ.name=Arthana
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJQ.desc=An Arthana is a ritualistic knife use by witches and warlocks to both collect special ingredients and to perform some rites. It has the same general properties as a golden sword (damage, enchantability, etc.), although it has the durability of an iron sword. It is repaired with a Gold Ingot.%n%nThe main purpose of the dagger is to collect specialist ingredients used in witchcraft, and to this end it will dramatically improve the chance of a mob dropping such ingredients (e.g. Wool of Bat, Tongue of Dog, etc.). It also gives a small chance of undead dropping Spectral Dust.%n%nWhen only using vanilla Minecraft with Witchery (and no other mods), an Arthana dagger is the only way to get a skull to drop when a skeleton is killed, the drop chance is about 5%% (the skull is a key upgrade for an altar). The dagger even gives a very small probability for other head drops (from mobs and players). All drop chances are increased with the Looting enchantment.%n%nAn Arthana does not change the drop chance for Wither Skeleton Skulls, that will require the Looting enchantment as usual.%n%nSome Circle Magic rites use an Arthana as a focus, the Arthana is not consumed in the process.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJQ.desc=Un Arthana est un couteau rituel utilisé par les sorcières et les sorciers, à la fois pour récolter des ingrédients spéciaux et pour accomplir certains rites. Il a les mêmes propriétés générales qu'une épée en or (dégâts, enchantabilité, etc.), mais la durabilité d'une épée en fer. Il se répare avec un lingot d'Or.%n%nLa fonction principale de la dague est de récolter les ingrédients spécifiques à la sorcellerie : elle augmente considérablement la chance qu'un monstre lâche ces ingrédients (par ex. Wool of Bat, Tongue of Dog, etc.). Elle donne aussi une petite chance que les morts-vivants lâchent de la Spectral Dust.%n%nEn jouant uniquement à Minecraft vanilla avec Witchery (sans autre mod), la dague Arthana est le seul moyen d'obtenir un crâne en tuant un squelette ; la chance de butin est d'environ 5%% (le crâne est une amélioration clé de l'autel). La dague donne même une très faible probabilité d'obtenir d'autres têtes (de monstres et de joueurs). Toutes les chances de butin sont augmentées par l'enchantement Butin.%n%nUn Arthana ne change pas la chance d'obtenir des crânes de squelette wither ; pour cela, il faudra l'enchantement Butin comme d'habitude.%n%nCertains rites de magie des cercles utilisent un Arthana comme focus ; il n'est pas consommé.
 
 # Quest: Happenstance Oil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJg.name=Happenstance Oil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJg.desc=Happenstance Oil is an ingredient used in the production of a Crystal Ball and the Seer Stone.%n%nIt's created in a kettle using Redstone Soup, Potion of Night Vision (8:00), Eye of Ender, Golden Carrot, Spider Eye and Mandrake Root.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJg.desc=L'Happenstance Oil est un ingrédient servant à fabriquer une Crystal Ball et la Seer Stone.%n%nOn la prépare dans un Kettle avec de la Redstone Soup, une potion de vision nocturne (8:00), un Oeil de l'Ender, une carotte dorée, un œil d'araignée et de la Mandrake Root.
 
 # Quest: Quartz Sphere
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJw.name=Quartz Sphere
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJw.desc=A Quartz Sphere is a component used in the production of a Crystal Ball and the Seer Stone for summoning coven witches.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJJw.desc=Une Quartz Sphere est un composant servant à fabriquer une Crystal Ball et la Seer Stone, qui permet d'invoquer les sorcières du coven.
 
 # Quest: Seer Stone or Summon the Witches
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKA.name=Seer Stone or Summon the Witches
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKA.desc=A Seer Stone is a variation of a Crystal Ball, that allows witches to communicate with one another over great distances. It is mostly used by one witch to summon other members of their coven either to help out in a fight, or to help perform a ritual. The seer stone may also be used on another player to reveal if they are afflicted by a curse.%n%nTo summon a coven witch for aid, use the Seer Stone while held. Holding for longer summons more coven members.%n%nIf near a Witches' Cauldron, the summoned witches will circle it ready for a ritual.%n%nTo call the entire coven to perform a rite, start the rite normally while holding the Seer Stone.%n%nTo determine if another player is cursed, to find out if they have a coven or familiar, and how much time they can manifest for, use the Seer Stone on them when they are within 3 blocks distance. Sneak-using the stone will show the same information for the bearer of the Stone.%n%nA Seer Stone is created by infusing a Quartz Sphere with Obsidian and Happenstance Oil using a Rite of Infusion.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKA.name=Seer Stone, ou invoquer les sorcières
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKA.desc=Une Seer Stone est une variante de la Crystal Ball qui permet aux sorcières de communiquer entre elles sur de grandes distances. Elle sert surtout à une sorcière pour appeler d'autres membres de son coven, soit pour l'aider dans un combat, soit pour l'aider à accomplir un rituel. La Seer Stone peut aussi être utilisée sur un autre joueur pour révéler s'il est frappé d'une malédiction.%n%nPour appeler à l'aide une sorcière du coven, utilisez la Seer Stone en la tenant en main. Plus vous maintenez longtemps, plus vous invoquez de membres du coven.%n%nÀ proximité d'un Witch's Cauldron, les sorcières invoquées se placeront en cercle autour, prêtes pour un rituel.%n%nPour appeler tout le coven afin d'accomplir un rite, lancez le rite normalement en tenant la Seer Stone.%n%nPour savoir si un autre joueur est maudit, s'il a un coven ou un familier, et combien de temps il peut se manifester, utilisez la Seer Stone sur lui quand il se trouve à moins de 3 blocs. Utiliser la pierre accroupi affiche les mêmes informations pour son porteur.%n%nOn crée une Seer Stone en infusant une Quartz Sphere avec de l'obsidienne et de l'Happenstance Oil grâce à un Rite of Infusion.
 
 # Quest: Flame Imp
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKw.name=Flame Imp
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKw.desc=Flame Imps are demons strongly associated with fiery magic.%n%nNot as physically strong as their dimmer cousins, Flame Imps are mischievous creatures who are very easily swayed with the promise of personal gain. They may even be bound into the service of a witch (or warlock) if the offer is good enough.%n%nFlame Imps are summoned using a Rite of Summoning, and they are most likely to attack the first person they see. It is advisable to make a deal with them quickly.%n%nMaking a deal%n%nTo bind a Flame Imp into service, a witch must write the agreement into a Demonic Contract and sign it with their own blood (craft with a Taglock Kit).%nThis contract must then be given to the Flame Imp, who will require a down-payment of Experience Levels (typically 25).%n%nOnce a deal is struck, the imp will be bound to the location of the deal, not able to wander too far away. The Imp will attack anyone hostile to its master.%n%nImps like receiving valuable gifts, once suitably impressed an imp may be prepared to perform various flame related spells at the request of their master.%n%nSpells take the form of contracts describing what must be done and to whom.%nSimply craft a Demonic Contract with the necessary components and then the resulting contract with a taglock.%nThen give the contract to the Imp. So long as the creature is in the same dimension, the magic will take hold.%n%nA Flame imp may also occasionally give a gift in return for being given valuable things. These have been known to include the souls of demons that can be consumed to allow a witch to cast demonic spells.%n%nA very well treated Flame Imp may even yield knowledge to summon a Lord of Torment.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJKw.desc=Les Flame Imps sont des démons étroitement liés à la magie du feu.%n%nMoins robustes que leurs cousins plus bêtes, les Flame Imps sont des créatures espiègles, très facilement influençables par la promesse d'un gain personnel. On peut même les lier au service d'une sorcière (ou d'un sorcier) si l'offre est assez intéressante.%n%nLes Flame Imps s'invoquent avec un Rite of Summoning, et ils attaqueront très probablement la première personne qu'ils verront. Il est conseillé de conclure un marché avec eux rapidement.%n%nConclure un marché%n%nPour lier un Flame Imp à son service, une sorcière doit rédiger l'accord dans un Demonic Contract et le signer de son propre sang (en le combinant avec un Taglock Kit).%nCe contrat doit ensuite être remis au Flame Imp, qui exigera un acompte en niveaux d'expérience (en général 25).%n%nUne fois le marché conclu, l'Imp est lié au lieu de l'accord et ne peut pas trop s'en éloigner. L'Imp attaquera quiconque est hostile à son maître.%n%nLes Imps aiment recevoir des cadeaux de valeur ; une fois suffisamment impressionné, un Imp peut être disposé à lancer divers sorts liés au feu à la demande de son maître.%n%nLes sorts prennent la forme de contrats décrivant ce qui doit être fait et à qui.%nFabriquez simplement un Demonic Contract avec les composants nécessaires, puis combinez le contrat obtenu avec un taglock.%nDonnez ensuite le contrat à l'Imp. Tant que la créature se trouve dans la même dimension, la magie fera effet.%n%nUn Flame Imp peut aussi, de temps en temps, faire un cadeau en échange d'objets de valeur. On sait que ces cadeaux incluent des âmes de démons, qui peuvent être consommées pour permettre à une sorcière de lancer des sorts démoniaques.%n%nUn Flame Imp très bien traité peut même transmettre le savoir permettant d'invoquer un Lord of Torment.
 
 # Quest: Lord of Torment
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLA.name=Lord of Torment
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLA.desc=A Lord of Torment is a mighty demonic being that is able to create prisons to Torment its victims.%n%nThose foolish enough to summon one of these creatures must prepare for an arduous fight.%n%nA Lord of Torment may only be summoned using the Ritual outlined in a Torment Scroll.%nThese scrolls are hard to come by, but it is rumored that well treated Flame Imps have occasionally given them up.%n%nConsuming the Soul of a Torment Demon grants the ability to Torment others.%n%nIf you are very unlucky and the Lord of Torment disappears when entering the Torment dimension, use the Egg and spawn another one.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJLA.desc=Un Lord of Torment est un puissant être démoniaque capable de créer des prisons pour tourmenter ses victimes.%n%nCeux qui sont assez fous pour invoquer l'une de ces créatures doivent se préparer à un combat ardu.%n%nUn Lord of Torment ne peut être invoqué qu'avec le rituel décrit dans un Torment Scroll.%nCes parchemins sont difficiles à trouver, mais la rumeur dit que des Flame Imps bien traités en ont parfois cédé.%n%nConsommer le Soul of Torment Demon confère la capacité de tourmenter les autres.%n%nSi vous n'avez vraiment pas de chance et que le Lord of Torment disparaît en entrant dans la dimension Torment, utilisez l'œuf pour en faire apparaître un autre.
 
 # Quest: Mutating Sprig
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUw.name=Mutating Sprig
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUw.desc=The Mutating Sprig brings a degree of order to the chaotic nature of Mutandis, allowing more limited, but also more predictable effects. It is a key tool in the creation of plant-based devices such as the Leech Chest.%n%nThe Mutating Sprig is crafted in the Witch's Cauldron using an Ent Twig, Nether Wart and Mutandis Extremis.%n%nGrass - Mutates to Mycelium%nMycellium - Mutates to Grass%nDirt (under water) - Mutates to Clay%n%nWheat in a proper configuration should mutate to wormwood, but because of other mods it doesn't work. You can buy wormwood from the Coins tab instead.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJUw.desc=Le Mutating Sprig apporte un peu d'ordre à la nature chaotique du Mutandis, avec des effets plus limités mais aussi plus prévisibles. C'est un outil clé pour créer des dispositifs à base de plantes, comme le Leech Chest.%n%nLe Mutating Sprig se fabrique dans le Witch's Cauldron avec une Ent Twig, des verrues du Nether et du Mutandis Extremis.%n%nHerbe - Mute en mycélium%nMycélium - Mute en herbe%nTerre (sous l'eau) - Mute en argile%n%nLe blé, dans la bonne configuration, devrait muter en Wormwood, mais à cause d'autres mods, cela ne fonctionne pas. Vous pouvez acheter du Wormwood dans l'onglet Coins à la place.
 
 # Quest: Changing Biomes With Witchery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcQ.name=Changing Biomes With Witchery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcQ.desc=There are two ways to change biomes with Witchery, the easy way or the hard way, choose which one you want to do (or do them both). Remember that you need a Witchery Distillery first!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcQ.name=Changer de biome avec Witchery
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcQ.desc=Il y a deux façons de changer de biome avec Witchery : la facile ou la difficile. Choisissez celle que vous voulez faire (ou faites les deux). N'oubliez pas qu'il vous faut d'abord une Distillery de Witchery !
 
 # Quest: The Easy Way to Change Biomes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcg.name=The Easy Way to Change Biomes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcg.desc=So you want the easy way? Understandable. The only prerequisite is an altar with at least 5,450 power. Try placing many different crops around the altar and a Dragon Egg on top to boost it. Otherwise, the process is as simple as dropping the following items into the Witch's Cauldron §b[warn]IN ORDER[/warn]§r.%n%n  1. Netherwart (+2 Capacity)%n  2. Tear of the Goddess (+2 Capacity)%n  3. Diamond Vapor (+2 Capacity)%n  4. Diamond (+2 Capacity)%n%n§7  5. Optional, Glowstone Dust (+1 Radius)%n  6. Optional, Blaze Rod (+1 Radius)%n  7. Optional, Charged Attuned Stone (+1 Radius)§r%n%n  8. Book of Biomes Page (Chooses Biome; Any Biome OK)%n  9. Gunpowder (Add Splash Effect)%n  10. Collect with Glass Bottle (Requires 5,450 Altar Power)%n%nThe maximum radius is 4 blocks, if all three optional ingredients are included. You may get more than one brew if you are wearing your robes/hat, or have a ton of witchery brewing expertise.%n%nYou can optionally substitute in a §5Nether Star§r for §5+4 Capacity§r in place of the Tear of the Goddess and the Diamond Vapor if you have the extra resources and want to skip the distillery-produced items.%n%n[note]For more detailed info, check out the Witches' Brews book. Click on Brewing, then go to the Brews: Step-by-step page. That should tell you what you need to know. To learn what each of the brews do, see the Effects page.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcg.name=La façon facile de changer de biome
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcg.desc=Vous voulez la méthode facile ? C'est compréhensible. Le seul prérequis est un autel avec au moins 5,450 d'énergie. Essayez de placer beaucoup de cultures différentes autour de l'autel et un œuf de dragon dessus pour le booster. Sinon, le processus consiste simplement à jeter les objets suivants dans le Witch's Cauldron §b[warn]DANS L'ORDRE[/warn]§r.%n%n  1. Verrues du Nether (+2 Capacité)%n  2. Tear of the Goddess (+2 Capacité)%n  3. Diamond Vapor (+2 Capacité)%n  4. Diamant (+2 Capacité)%n%n§7  5. Facultatif, poudre de Pierre lumineuse (+1 Rayon)%n  6. Facultatif, bâton de blaze (+1 Rayon)%n  7. Facultatif, Attuned Stone (Charged) (+1 Rayon)§r%n%n  8. Page du Book of Biomes (choisit le biome ; n'importe lequel convient)%n  9. Poudre à canon (ajoute l'effet de projection)%n  10. Récupérez avec une fiole (nécessite 5,450 d'énergie d'autel)%n%nLe rayon maximal est de 4 blocs si les trois ingrédients facultatifs sont inclus. Vous pouvez obtenir plus d'une potion si vous portez votre robe/chapeau, ou si vous avez une grande expertise en préparations de Witchery.%n%nVous pouvez aussi remplacer la Tear of the Goddess et le Diamond Vapor par une §5étoile du Nether§r pour §5+4 Capacité§r si vous avez les ressources et voulez éviter les objets produits par la Distillery.%n%n[note]Pour des informations plus détaillées, consultez le livre Witches' Brews. Cliquez sur Brewing, puis allez à la page Brews: Step-by-step. Elle devrait vous apprendre tout ce qu'il faut savoir. Pour savoir ce que fait chaque préparation, consultez la page Effects.[/note]
 
 # Quest: The Hard Way to Change Biomes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcw.name=The Hard Way to Change Biomes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcw.desc=Ok, to have a ritual with a size greater than zero, you need to get Coven Witches to acknowledge you and then agree to help you out. To get them to deign to speak with you, you can either infuse yourself or bind a familiar. In this quest line we'll be covering binding a familiar, but for the people who want to do infusion, you just need to make the appropriate item: Ghost of the Light, Soul of the World, Spirit of Otherwhere, or Infernal Animus, and do the appropriate Rite of Infusion. Be sure to have a Death Protection Poppet to protect you, because the ritual kills you. If playing hardcore, definitely test in a separate world first.%n%nTo bind a familiar, first summon a Demon and tear out its heart. No, seriously, go do it. Use an Arthana with Looting III for the best chances. If you don't know how to summon one, refer to page 49/50 of the Circle Magic book for the correct Rite of Summoning.%n%nYou'll need a Mutating Sprig for the next part.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcw.name=La façon difficile de changer de biome
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJcw.desc=Bien, pour qu'un rituel ait une taille supérieure à zéro, vous devez faire en sorte que des Coven Witches vous reconnaissent puis acceptent de vous aider. Pour qu'elles daignent vous adresser la parole, vous pouvez soit vous infuser, soit lier un familier. Dans cette série de quêtes, nous verrons comment lier un familier, mais pour ceux qui veulent passer par l'infusion, il suffit de fabriquer l'objet approprié : Ghost of the Light, Soul of the World, Spirit of Otherwhere ou Infernal Animus, et d'accomplir le Rite of Infusion correspondant. Ayez bien un Death Protection Poppet pour vous protéger, car le rituel vous tue. Si vous jouez en hardcore, testez absolument d'abord dans un monde séparé.%n%nPour lier un familier, invoquez d'abord un Demon et arrachez-lui le cœur. Non, sérieusement, allez-y. Utilisez un Arthana avec Butin III pour maximiser vos chances. Si vous ne savez pas comment en invoquer un, reportez-vous à la page 49/50 du livre Circle Magic pour le bon Rite of Summoning.%n%nIl vous faudra un Mutating Sprig pour la suite.
 
 # Quest: More Hearts for Valentines
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdA.name=More Hearts for Valentines
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdA.desc=If you want to get more hearts, you can try trading with the Demon, but they're more likely to shoot fireballs at you than trade. Unless you have this item that is! First, make the Polynesia Charm that allows you to trade with animals (probably not worth it in this pack), then use the demon heart to make the Devil's Tongue Charm. With this, not only are they a lot less likely to attack, they will even sell their brethren's hearts for a little less.%n%nJust remember that it can only be used a limited number of times, OK? It might also be worthwhile to use the Rite of Protection at the same time as summoning a demon. To do so just put down both circles, and meet the item (and Altar Power) requirements of both. If you're not planning on killing the demon, you should probably send it back when you're done with the Rite of Banishing on page 47/48 of the Circle Magic book.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdA.name=Plus de cœurs pour la Saint-Valentin
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdA.desc=Si vous voulez obtenir plus de cœurs, vous pouvez essayer de commercer avec le Demon, mais il a plus de chances de vous lancer des boules de feu que de commercer. Sauf si vous avez cet objet ! D'abord, fabriquez le Polynesia Charm, qui permet de commercer avec les animaux (sans doute pas très rentable dans ce pack), puis utilisez le Demon Heart pour fabriquer le Devils Tongue Charm. Grâce à lui, non seulement ils sont bien moins susceptibles d'attaquer, mais ils vendront même les cœurs de leurs congénères un peu moins cher.%n%nRappelez-vous juste qu'il ne peut être utilisé qu'un nombre limité de fois, d'accord ? Il peut aussi être utile d'accomplir le Rite of Protection en même temps que l'invocation d'un démon. Pour cela, tracez simplement les deux cercles et réunissez les objets (et l'énergie d'autel) requis par les deux. Si vous ne comptez pas tuer le démon, vous devriez sans doute le renvoyer une fois terminé, avec le Rite of Banishing à la page 47/48 du livre Circle Magic.
 
 # Quest: Are You Grassping What I'm Telling You?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdQ.name=Are You Grassping What I'm Telling You?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdQ.desc=To make Grasspers, first you need to arrange Grass in the cardinal directions around a Chest above a block of water. Then right-click the Chest with your Mutating Sprig.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdQ.name=Vous saisissez l'herbe... euh, l'idée ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdQ.desc=Pour fabriquer des Grasspers, disposez d'abord de l'herbe aux quatre points cardinaux autour d'un coffre placé au-dessus d'un bloc d'eau. Puis faites un clic droit sur le coffre avec votre Mutating Sprig.
 
 # Quest: PETA Approved*
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdg.name=PETA Approved*
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdg.desc=To make Critter Snares, first you need to arrange Alder Saplings in the cardinal directions around a Cobweb above a block of water. Then get a zombie to walk onto it and right-click the Cobweb with your Mutating Sprig.%nThis will change the Saplings into the needed Critter Snares. Do this twice.%n%n[note]* May not be PETA approved[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdg.name=Approuvé par PETA*
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdg.desc=Pour fabriquer des Critter Snares, disposez d'abord des Alder Saplings aux quatre points cardinaux autour d'une toile d'araignée placée au-dessus d'un bloc d'eau. Puis faites marcher un zombie dessus et faites un clic droit sur la toile d'araignée avec votre Mutating Sprig.%nLes pousses se transformeront alors en Critter Snares. Faites-le deux fois.%n%n[note]* Peut-être pas approuvé par PETA[/note]
 
 # Quest: Mad Science is the Best Science
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdw.name=Mad Science is the Best Science
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdw.desc=Next we need to fill our snares up with some critters, specifically Bats and Slimes. For the Bats, just place them beneath you and AFK if your warp is high enough to spawn bats, otherwise...uh, go caving?%n%nFor the Slimes, if you can't find any just use the Maze Slimes from the Minoshroom maze in the Twilight Forest for this. After you get them, also go collect a Wolf and an Ocelot (Lassos or Soul Vials are great for this).%n%nNow we'll be creating new life, specifically Toads and Owls. Arrange a Cobweb above a water block with grasspers at the diagonals and one of the two sets of snares in the cardinal directions. Place Attuned Stone (Charged) in one of the Grasspers, and Mutandis Extremis in the other 3. Then place one of the two animals in the center and right-click with your Mutating Sprig like when making the snares. Use the Wolf with the Bats, and the Ocelot with the Slimes. The tamed versions also work.%n%nCongratulations, you've defied the natural order and created new life! Hopefully they didn't run away because you created them outside. :(%n%nMake sure to breed them for the next part. Use Raw Porkchop or Raw Beef for Owls, and Rotten Flesh for Toads to both tame and breed them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdw.name=La science folle est la meilleure des sciences
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJdw.desc=Ensuite, il faut remplir nos pièges avec des bestioles, plus précisément des chauves-souris et des slimes. Pour les chauves-souris, posez simplement les pièges sous vous et restez AFK si votre warp est assez élevé pour faire apparaître des chauves-souris ; sinon... euh, allez spéléologuer ?%n%nPour les slimes, si vous n'en trouvez pas, utilisez simplement les Maze Slimes du labyrinthe du Minoshroom dans la Twilight Forest. Une fois que vous les avez, allez aussi chercher un loup et un ocelot (les lassos ou les Soul Vials sont parfaits pour ça).%n%nNous allons maintenant créer la vie, plus précisément des Toads et des Owls. Placez une toile d'araignée au-dessus d'un bloc d'eau, avec des Grasspers en diagonale et l'un des deux jeux de pièges aux points cardinaux. Placez une Attuned Stone (Charged) dans l'un des Grasspers, et du Mutandis Extremis dans les 3 autres. Puis placez l'un des deux animaux au centre et faites un clic droit avec votre Mutating Sprig, comme pour fabriquer les pièges. Utilisez le loup avec les chauves-souris, et l'ocelot avec les slimes. Les versions apprivoisées fonctionnent aussi.%n%nFélicitations, vous avez défié l'ordre naturel et créé la vie ! Espérons qu'ils ne se soient pas enfuis parce que vous les avez créés à l'extérieur. :(%n%nPensez à les faire se reproduire pour la suite. Utilisez des côtelettes de porc crues ou du bœuf cru pour les Owls, et de la chair putréfiée pour les Toads, à la fois pour les apprivoiser et pour les faire se reproduire.
 
 # Quest: Finally Binding a Familiar
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJeA.name=Finally Binding a Familiar
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJeA.desc=Now that you have Toads and Owls, you can choose between them and Cats to bind. Why didn't we just bind a Cat earlier? Well, you'll need them both soon anyways, and who doesn't love choices? To carry out the Rite of Binding (P6, Circle Magic), you'll need to distill some Demonic Blood. Do that now, and collect the rest of the items needed.%n%nAfter collecting the items, bind your familiar using them. Make sure you have enough Altar Power. Remember that each has different benefits. See the official wiki for details. You may receive a tiny portion of damage your familiar receives (and vice versa), so park it somewhere safe. Also note that if it dies, so will you (Supposedly). You can resummon it if it dies or was dismissed previously (like if you died). If you're in hardcore mode and don't want to risk having it around, it can be dismissed by right-clicking while sneaking when it's sitting.%n%nNow go murder a few of your new friends and tear of their Owlet's Wings, and cut off their Toe of Frog. Remember to use an Arthana. The next step needs a Seer's Stone.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJeA.name=Enfin lier un familier
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJeA.desc=Maintenant que vous avez des Toads et des Owls, vous pouvez choisir entre eux et les chats comme familier. Pourquoi ne pas avoir simplement lié un chat plus tôt ? Eh bien, vous aurez bientôt besoin des deux de toute façon, et qui n'aime pas avoir le choix ? Pour accomplir le Rite of Binding (P6, Circle Magic), vous devrez distiller du Demonic Blood. Faites-le maintenant, et rassemblez le reste des objets nécessaires.%n%nUne fois les objets réunis, liez votre familier avec. Assurez-vous d'avoir assez d'énergie d'autel. N'oubliez pas que chacun a des avantages différents. Consultez le wiki officiel pour plus de détails. Vous pouvez subir une infime partie des dégâts que subit votre familier (et inversement), alors installez-le en lieu sûr. Notez aussi que s'il meurt, vous mourrez aussi (en théorie). Vous pouvez le réinvoquer s'il meurt ou a été renvoyé auparavant (par exemple si vous êtes mort). Si vous êtes en mode hardcore et ne voulez pas risquer de le garder près de vous, vous pouvez le renvoyer par un clic droit accroupi quand il est assis.%n%nMaintenant, allez massacrer quelques-uns de vos nouveaux amis, arrachez-leur leurs Owlet's Wings et coupez-leur leurs Toe of Frog. N'oubliez pas d'utiliser un Arthana. L'étape suivante nécessite une Seer Stone.
 
 # Quest: Greenhouses on Mountains, Hell on Earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJeQ.name=Greenhouses on Mountains, Hell on Earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJeQ.desc=You're almost there! To actually use the ritual, you need to recruit a coven first. Find some Coven Witches and complete their quests:%nThe means to control the dead -> Necromantic Stone%nThe beating means to master the infernal dimension -> Demon Heart%nI must perform many curses, bring me the necessary brew -> Brew of the Grotesquex5%nI desire to predict the future -> Crystal Ball%nOr just fight something.%n%nOnce completed, they'll disappear until you need them. They will sometimes appear near your spawn point if you walk by it, so don't position it over lava or something, since they CAN die and reduce the number of your coven. You can have 6, with one extra appearing for Cauldron work. Consider keeping some extras around in a dungeon just in case.%n%nAfter you recruit your coven, you just need a few things for the ritual itself: Spider Eye, Toe of Frog, Wool of Bat, Tongue of Dog, Owlet's Wing, Attuned Stone, and Attuned Stone (Charged).%n%nTo specify the biome, look in the Book of Biomes, and find 1) the type (Forest, Plains, etc.), and 2) the number. Type determines the foci used, and number determines the amount of Glowstone Dust used to get that specific biome. Make sure to pack up a ritual circle into a circle talisman so you don't have to redraw it, and bring some cobblestone to make a flat area (15x15, any height). Try not to do it at night unless you like dealing with infernals.%n%nTo actually do the ritual, have the ritual circle on the ground, the items (including the foci and Glowstone) in the circle, and right-click the center with the Seer's Stone.%n%nThe area affected is determined by the number of witches in your coven. It's 16 * (size of coven - 3) radius in a circular area, so 16/32/48 if it doesn't fail.%n%nUnfortunately, sometimes after logging out and back in again, you may find that it didn't work correctly in specific chunks, this is (possibly) due to a lack of chunk updates and it not saving the changed biome ID correctly. Just redoing the ritual doesn't really help, you'll just get patches in the same places, however placing water after the ritual and before logging out may help with this. Or use chickens. Lots of chickens.%n%nAlso, if you already have crops in the area, they'll disappear until a block update or relog.%n%n[note]PS: To pack your circle back up, you need to bring an extra Charged Attuned stone and an extra piece of glowstone to get it back into the circle talisman, as seen on page 3 of Witchraft: Circle Magic.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJeQ.name=Des serres sur les montagnes, l'enfer sur terre
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJeQ.desc=Vous y êtes presque ! Pour vraiment utiliser le rituel, vous devez d'abord recruter un coven. Trouvez des Coven Witches et accomplissez leurs quêtes :%nLe moyen de contrôler les morts -> Necromantic Stone%nLe moyen battant de maîtriser la dimension infernale -> Demon Heart%nJe dois lancer de nombreuses malédictions, apportez-moi la potion nécessaire -> Brew of the Grotesquex5%nJe désire prédire l'avenir -> Crystal Ball%nOu simplement combattre quelque chose.%n%nUne fois leurs quêtes accomplies, elles disparaîtront jusqu'à ce que vous ayez besoin d'elles. Elles apparaîtront parfois près de votre point d'apparition si vous passez à côté, donc ne le placez pas au-dessus de la lave ou d'un truc du genre, car elles PEUVENT mourir et réduire la taille de votre coven. Vous pouvez en avoir 6, plus une supplémentaire qui apparaît pour le travail au chaudron. Pensez à en garder quelques-unes en réserve dans un donjon, au cas où.%n%nUne fois votre coven recruté, il ne vous faut plus que quelques objets pour le rituel lui-même : un œil d'araignée, du Toe of Frog, du Wool of Bat, du Tongue of Dog, une Owlet's Wing, une Attuned Stone et une Attuned Stone (Charged).%n%nPour choisir le biome, consultez le Book of Biomes et trouvez 1) le type (Forest, Plains, etc.) et 2) le numéro. Le type détermine les focus utilisés, et le numéro la quantité de poudre de Pierre lumineuse à utiliser pour obtenir ce biome précis. Pensez à ranger un cercle rituel dans un Circle Talisman pour ne pas avoir à le redessiner, et apportez de la pierre pour aménager une zone plate (15x15, à n'importe quelle hauteur). Évitez de le faire de nuit, sauf si vous aimez affronter des créatures infernales.%n%nPour accomplir le rituel, tracez le cercle rituel au sol, placez les objets (y compris les focus et la Pierre lumineuse) dans le cercle, puis faites un clic droit sur le centre avec la Seer Stone.%n%nLa zone affectée dépend du nombre de sorcières dans votre coven. C'est un rayon de 16 * (taille du coven - 3) en zone circulaire, donc 16/32/48 si ça n'échoue pas.%n%nMalheureusement, il arrive qu'après une déconnexion et une reconnexion, vous constatiez que ça n'a pas fonctionné correctement dans certains chunks. C'est (peut-être) dû à un manque de mises à jour de chunks et au fait que l'ID de biome modifié n'est pas correctement sauvegardé. Refaire le rituel n'aide pas vraiment : vous aurez simplement des taches aux mêmes endroits. En revanche, placer de l'eau après le rituel et avant de vous déconnecter peut aider. Ou utilisez des poules. Beaucoup de poules.%n%nDe plus, si vous avez déjà des cultures dans la zone, elles disparaîtront jusqu'à une mise à jour de bloc ou une reconnexion.%n%n[note]P.-S. : pour ranger à nouveau votre cercle, vous devez apporter une Attuned Stone (Charged) supplémentaire et un morceau de Pierre lumineuse supplémentaire pour le remettre dans le Circle Talisman, comme indiqué à la page 3 de Witchcraft: Circle Magic.[/note]
 
 # Quest: Dreams of Gold
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxw.name=Dreams of Gold
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxw.desc=Just try to dream of gold.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxw.name=Rêves d'or
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMxw.desc=Essayez simplement de rêver d'or.
 
 
 ## Quest Line: Paying the Highest Price
