@@ -1985,27 +1985,27 @@ betterquesting.quest.uNAVBi_eSNy8pRBGcjgHkg.desc=The Conduit Probe is an incredi
 
 ## Quest Line: Tier 3 - HV
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.name=Tier 3 - HV
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.desc=Finally some real power to work with. This tier is all about getting to the moon to gather more rare resources to build even more advanced machines.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.desc=Enfin une vraie puissance avec laquelle travailler. Ce tier consiste à vous rendre sur la Lune pour récolter des ressources plus rares, afin de construire des machines encore plus avancées.
 
 # Quest: SMD Inductors
-betterquesting.quest.3F2OXjxZT-eHWy8E4n1NCg.name=§5§lSMD Inductors
-betterquesting.quest.3F2OXjxZT-eHWy8E4n1NCg.desc=Now that you have Neodymium you can make the last of the SMDs, the SMD inductor. It can replace Small Coils in your circuit crafting.
+betterquesting.quest.3F2OXjxZT-eHWy8E4n1NCg.name=§5§lInducteurs CMS
+betterquesting.quest.3F2OXjxZT-eHWy8E4n1NCg.desc=Maintenant que vous avez du Néodymium, vous pouvez fabriquer le dernier des composants CMS : l'inducteur CMS. Il peut remplacer les petites bobines dans la fabrication de vos circuits.
 
 # Quest: Fluid Heater
-betterquesting.quest.55XTBx8LRN2Ol_42LS6Mwg.name=§5§lFluid Heater
-betterquesting.quest.55XTBx8LRN2Ol_42LS6Mwg.desc=You will need a Fluid Heater for some chemical processes, for the best fries, but also right now to make liquid sodium for NaK coolant. To proceed you will need either an MV or an HV Fluid Heater. Make one of them.%n%nThe HV one can be used later to better process bauxite after you have been to the moon.%n%n[note]If you used sodium sulfate to create liquid sodium instead, you can hold 2 60k NaK coolant cells in your hand to skip over this quest.[/note]
+betterquesting.quest.55XTBx8LRN2Ol_42LS6Mwg.name=§5§lChauffe-fluide
+betterquesting.quest.55XTBx8LRN2Ol_42LS6Mwg.desc=Vous aurez besoin d'un chauffe-fluide pour certains procédés chimiques, pour réussir les meilleures frites, mais aussi dès maintenant pour produire le sodium liquide nécessaire au liquide de refroidissement NaK. Pour progresser, il vous faudra un chauffe-fluide MV ou HV. Fabriquez-en un.%n%nLe modèle HV pourra servir plus tard à mieux traiter la bauxite, une fois que vous serez allé sur la Lune.%n%n[note]Si vous avez plutôt utilisé du sulfate de sodium pour obtenir du sodium liquide, vous pouvez tenir en main 2 cellules de liquide de refroidissement NaK 60k pour passer cette quête.[/note]
 
 # Quest: Personal Dimension
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.name=§5§lPersonal Dimension
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.desc=Tired of mobs in your base? Want to build somewhere... different? Probably in a personal dimension? Then this is your chance. But choose wisely; You can only pick one option.%n%nWhen you first activate the portal, you can configure the world to your liking: it can be a void world, or any superflat world as long as it only consists of blocks such as grass, stone, cobblestone, bedrock, etc.%nBe careful! Once you configure the world, you can only change the cosmetic settings such as sky color by shift-right-clicking the portal.%nEditing world generation settings after the world is created is only possible if a server administrator unlocks it for you via the /pspace allow-worldgen-change DIMID command.%n%n[note]PS: The Last Millenium is also a void dimension you could use.[/note]%n%n§2If you're used to the buggy garden/void dimensions from UtilityWorlds, this is now a new mod that should resolve most of the previously known issues with blood magic, etc.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.name=§5§lDimension personnelle
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.desc=Marre des monstres dans votre base ? Envie de construire quelque part... d'autre ? Peut-être dans une dimension personnelle ? Alors c'est votre chance. Mais choisissez bien : vous ne pouvez prendre qu'une seule option.%n%nLorsque vous activez le portail pour la première fois, vous pouvez configurer le monde à votre convenance : ce peut être un monde vide, ou n'importe quel monde superplat, tant qu'il n'est composé que de blocs comme l'herbe, la roche, la pierre, la bedrock, etc.%nAttention ! Une fois le monde configuré, vous ne pourrez modifier que les paramètres esthétiques, comme la couleur du ciel, en faisant Maj + clic droit sur le portail.%nModifier les paramètres de génération du monde après sa création n'est possible que si un administrateur du serveur vous le débloque via la commande /pspace allow-worldgen-change DIMID.%n%n[note]PS : The Last Millenium est aussi une dimension vide que vous pourriez utiliser.[/note]%n%n§2Si vous avez l'habitude des dimensions jardin/vide buguées d'UtilityWorlds, il s'agit désormais d'un nouveau mod qui devrait résoudre la plupart des problèmes connus auparavant avec Blood Magic, etc.
 
 # Quest: Vibrant Crystals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjQ.name=§5§lVibrant Crystals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjQ.desc=Vibrant capacitor banks need this magical crystal. Armor and tools can be upgraded with it too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjQ.name=§5§lCristaux vibrants
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjQ.desc=Les banques de condensateurs vibrantes ont besoin de ce cristal magique. Il permet aussi d'améliorer les armures et les outils.
 
 # Quest: Automated Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkA.name=§5§lAutomated Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkA.desc=You know, yet another automated crafting solution...%n%nThe left grid sets the recipe. The center box on the left will show the output. The right item grid is where you place resources. The output products will show up on the right center box.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkA.name=§5§lFabrication automatisée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkA.desc=Vous savez, encore une autre solution de fabrication automatisée...%n%nLa grille de gauche définit la recette. La case centrale de gauche affiche le résultat. La grille d'objets de droite est l'endroit où vous placez les ressources. Les produits fabriqués apparaîtront dans la case centrale de droite.
 
 # Quest: Torture Device
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkg.name=§5§lTorture Device
