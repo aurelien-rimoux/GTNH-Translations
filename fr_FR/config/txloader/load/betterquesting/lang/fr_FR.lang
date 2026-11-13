@@ -843,575 +843,575 @@ betterquesting.quest.w00gbWZ4QG60V0neazNERw.desc=Vous pouvez trouver des blocs d
 
 ## Quest Line: Tier 1 - LV
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.name=Tier 1 - LV
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.desc=The first "voltage" tier of this pack. Things should be a little easier with some of the machines you can now make, and almost every type of machine is now available, try not to be overwhelmed. You can get away with using LV machines for automating processing of things like polyethylene or electrolyzing water the whole game, so consider setting that up when you need it.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.desc=Le premier tier « électrique » de ce pack. Les choses devraient devenir un peu plus faciles grâce aux machines que vous pouvez désormais fabriquer, et presque tous les types de machines sont maintenant disponibles : essayez de ne pas vous laisser submerger. Des machines LV peuvent suffire toute la partie pour automatiser certains traitements, comme le polyéthylène ou l'électrolyse de l'eau ; pensez donc à les mettre en place quand vous en aurez besoin.
 
 # Quest: Handle Resources Like a Bo$$ #1
-betterquesting.quest.53iZp0DzRzidBo4-kUsWGg.name=§2§lHandle Resources Like a Bo$$ #1
+betterquesting.quest.53iZp0DzRzidBo4-kUsWGg.name=§2§lGérez vos ressources comme un Bo$$ #1
 betterquesting.quest.53iZp0DzRzidBo4-kUsWGg.desc=Le summum de l'ingénierie humaine à votre disposition!%n%nCette machine vous permet de filtrer par type de recette machine et vous aide à automatiser sans effort. Pour l'utiliser, il suffit de placer une machine de n'importe quel type à l'écran pour créer un Filtre, par exemple, un Broyeur permettra à la machine de n'accepter que les Items qui peuvent être broyés. La même machine peut être utilisée pour créer un Filtre inverse (via un bouton) qui vous permettra d'exclure tous les Items qui peuvent être traités par cette machine. %n%n[note]Serait-il temps d'automatiser le traitement du minerai ?[/note]
 
 # Quest: Certus Quartz Tank
 betterquesting.quest.7S9hEFF5TsW3ud7wK8_wVQ.name=§2§lCertus Quartz Tank
-betterquesting.quest.7S9hEFF5TsW3ud7wK8_wVQ.desc=Finally, a cool looking tank! It can store up to §932,000 L§r, just like the Ultra Low Voltage Fluid Tank or Large Aluminium Fluid Cell, and comes with some nice QoL features:%n%n- They stack up to 64 items per slot, making it possible to store §92,048,000 L§r in a single slot!%n%n- Tanks can be placed on top of each other to form a connected tower. When filling higher tanks, the fluid will automatically flow down. You can also drain fluid from higher tanks even if the fluid is only stored in tanks below.%n%n- You can use an §lEmpty Cell§r, a §lLarge Fluid Cell§r or any other §lfluid container§r to fill or drain a tank on right click. If the fluid container in your hand is not empty, right-click will always try to fill the tank from it.%n%n[warn]Note: The tank keeps its contents only when right-clicked with a wrench. %nBreaking it with a pickaxe will void the stored fluid.[/warn]
+betterquesting.quest.7S9hEFF5TsW3ud7wK8_wVQ.desc=Enfin, un réservoir qui a de l'allure ! Il peut stocker jusqu'à §932,000 L§r, tout comme l'Ultra Low Voltage Fluid Tank ou la Large Aluminium Fluid Cell, et il offre quelques fonctions de confort bien pratiques :%n%n- Ils s'empilent jusqu'à 64 par emplacement, ce qui permet de stocker §92,048,000 L§r dans un seul emplacement !%n%n- Les réservoirs peuvent être posés les uns sur les autres pour former une tour connectée. Quand vous remplissez les réservoirs du haut, le fluide s'écoule automatiquement vers le bas. Vous pouvez aussi vider le fluide depuis les réservoirs du haut, même s'il n'est stocké que dans ceux du bas.%n%n- Vous pouvez utiliser une §lEmpty Cell§r, une §lLarge Fluid Cell§r ou n'importe quel autre §lconteneur de fluide§r pour remplir ou vider un réservoir d'un clic droit. Si le conteneur que vous tenez en main n'est pas vide, le clic droit essaiera toujours de remplir le réservoir avec son contenu.%n%n[warn]Remarque : le réservoir ne conserve son contenu que si vous le récupérez d'un clic droit avec une clé. %nLe casser à la pioche détruira le fluide stocké.[/warn]
 
 # Quest: Welcome to Tier 1, LV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=§3§lBienvenu au Tier 1, le bas-voltage (LV) !
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=Why, hello there! It seems you've made it into the electrical age. Don't be so quick to throw away your steam machines, you'll probably want to keep using them for a while.%n%nTo make your life easier, you'll want to focus on getting a wiremill and bender first... once you suffer through making all the machine components.%n%nAfter that, the polarizer, assembler, lathe, and chemical reactor+fluid solidifier (for rubber) all help make things cheaper.%n%nLV machines are more energy-efficient than their steam counterparts because steam machines convert Steam to Power with 50%% efficiency, when the starting LV Steam Turbine has 85%% efficiency.%n%nULV doesn't exist.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=Tiens, bonjour ! On dirait que vous êtes entré dans l'ère de l'électricité. Ne vous précipitez pas pour jeter vos machines à vapeur, vous voudrez sans doute continuer à les utiliser pendant un moment.%n%nPour vous simplifier la vie, concentrez-vous d'abord sur un Wiremill et un Bending Machine... une fois que vous aurez souffert pour fabriquer tous les composants de machine.%n%nEnsuite, le Polarizer, l'Assembler, le Lathe et le Chemical Reactor + le Fluid Solidifier (pour le caoutchouc) vous aideront tous à réduire les coûts.%n%nLes machines LV sont plus efficaces énergétiquement que leurs équivalents à vapeur, car les machines à vapeur convertissent la Vapeur en énergie avec un rendement de 50%%, alors que la Steam Turbine LV de départ a un rendement de 85%%.%n%nLe ULV n'existe pas.
 
 # Quest: Darn You, Wire Cutter!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.name=§2§lDarn You, Wire Cutter!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=This should be one of your first machines. You get 2 wires for every ingot. You can run them back through to get 4 fine wires each or get them from ingots by changing the circuit.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.name=§2§lMaudite pince coupante !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=Ce devrait être l'une de vos premières machines. Vous obtenez 2 fils par lingot. Vous pouvez les repasser dans la machine pour obtenir 4 fils fins chacun, ou les obtenir directement à partir de lingots en changeant de circuit.
 
 # Quest: You're Gonna Hate This #1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.name=§2§lYou're Gonna Hate This #1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.desc=The first item you'll need a lot of. If you want to pull items out of chests or barrels you'll need one.%n%nIt works well with item pipes or GT machines, adjust with a screwdriver.%n%nYou can access the cover's interface with Shift+RMB.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.name=§2§lVous allez détester ça #1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.desc=Le premier objet dont vous aurez besoin en grande quantité. Si vous voulez extraire des objets de coffres ou de tonneaux, il vous en faudra un.%n%nIl fonctionne bien avec les tuyaux à objets ou les machines GT ; réglez-le avec un tournevis.%n%nVous pouvez accéder à l'interface du cover avec Maj + clic droit.
 
 # Quest: You're Gonna Hate This #4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.name=§2§lYou're Gonna Hate This #4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.desc=The fourth item you'll need a lot of, and is also a pain to craft. The most painful item you need to make lots of.%n%nIt works like a conveyor but can work with selected item slots, adjust with a screwdriver.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.name=§2§lVous allez détester ça #4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.desc=Le quatrième objet dont vous aurez besoin en grande quantité, et en plus il est pénible à fabriquer. L'objet le plus douloureux de tous ceux que vous devrez produire en masse.%n%nIl fonctionne comme un convoyeur, mais peut cibler des emplacements d'objets précis ; réglez-le avec un tournevis.
 
 # Quest: You're Gonna Hate This #2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.name=§2§lYou're Gonna Hate This #2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.desc=The second item you'll need a lot of. When you want to get fluid out of tanks you'll need one.%n%nAttach it to fluid pipes or GT machines/blocks. Adjust the flow direction and redstone behavior with a screwdriver. Place it on the side facing the tank or machine. When looking at a pipe or machine, you can use the grid to place it on a side already touching another thing. You can use the grid with a screwdriver to adjust a cover on that side as well.%n%nWhen a GT pipe or machine has any cover, including a pump cover, wrenching the machine back into an item keeps the cover on that machine. The cover stays with the machine in the same direction when it is placed down again. This way you can arrange pump and conveyor covers on a machine outside a tight spot and place it there. To remove covers, use the crowbar.%n%nIt can also be further upgraded into a fluid regulator that allows precise control of fluid transfer speed.%n%nYou can access covers interface with Shift+RMB.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.name=§2§lVous allez détester ça #2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.desc=Le deuxième objet dont vous aurez besoin en grande quantité. Quand vous voudrez extraire du fluide de réservoirs, il vous en faudra un.%n%nFixez-le sur des tuyaux à fluides ou sur des machines/blocs GT. Réglez le sens du flux et le comportement vis-à-vis de la redstone avec un tournevis. Placez-le sur la face tournée vers le réservoir ou la machine. En regardant un tuyau ou une machine, vous pouvez utiliser la grille pour le placer sur une face qui touche déjà autre chose. Vous pouvez aussi utiliser la grille avec un tournevis pour régler un cover sur cette face.%n%nQuand un tuyau ou une machine GT porte un cover, y compris un cover de pompe, la récupérer à la clé sous forme d'objet conserve le cover sur la machine. Le cover reste sur la machine, dans la même direction, quand vous la reposez. Vous pouvez ainsi disposer des covers de pompe et de convoyeur sur une machine en dehors d'un endroit exigu, puis la placer à sa place. Pour retirer des covers, utilisez le pied-de-biche.%n%nIl peut aussi être amélioré en Fluid Regulator, qui permet de contrôler précisément le débit de fluide.%n%nVous pouvez accéder à l'interface des covers avec Maj + clic droit.
 
 # Quest: Electric Macerator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name=§5§lBroyeur Électrique
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc=It is highly recommended to get one of these, as the efficiency in terms of coal/steam used to macerate something is a lot better when using EU.%n%nYou get the first extra slot at HV, then +1 for EV and IV. The 2nd slot is for more byproducts, and is super §osuper§r useful. The 3rd slot is for ore block dusts. The 4th slot is basically only used for recycling stuff.%n%n[note]You can also consider using the steam multiblock instead if you want.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc=Il est vivement recommandé d'en fabriquer un, car l'efficacité en charbon/vapeur consommés pour broyer quelque chose est bien meilleure avec des EU.%n%nVous obtenez le premier emplacement supplémentaire en HV, puis +1 en EV et en IV. Le 2e emplacement sert à davantage de sous-produits et il est super §osuper§r utile. Le 3e emplacement sert aux poudres des blocs de minerai. Le 4e ne sert quasiment qu'au recyclage.%n%n[note]Vous pouvez aussi envisager d'utiliser plutôt le multibloc à vapeur si vous le souhaitez.[/note]
 
 # Quest: You're Gonna Hate This #3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name=§2§lYou're Gonna Hate This #3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=A piston, but more... "electrical". The third item you're going to craft a lot of in the future.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name=§2§lVous allez détester ça #3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=Un piston, mais en plus... « électrique ». Le troisième objet que vous allez fabriquer en grande quantité à l'avenir.
 
 # Quest: Saving Redstone
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=§2§lSaving Redstone
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=Tired of using 4 redstone for 1 magnetic iron rod? Well, good news for you! The polarizer doesn't need redstone, just a little bit of power. You don't need to attach this machine to a permanent power source, it runs fine on battery power, since it uses so little.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=§2§lÉconomiser la redstone
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=Marre d'utiliser 4 redstone pour 1 tige de Fer magnétique ? Bonne nouvelle ! Le Polarizer n'a pas besoin de redstone, juste d'un peu d'énergie. Inutile de brancher cette machine sur une source d'énergie permanente : elle fonctionne très bien sur batterie, vu le peu qu'elle consomme.
 
 # Quest: Avengers, Assemble!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.name=§5§lAvengers, rassemblement !
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc=An absolute must have for fans of the movie. Oh, and to make all the things, of course. There are a number of recipes that take fewer materials to make in the assembler, or can only be made with it, so make it ASAP!%n%nYou can use the battery slot and the other extra slot in the GUI to store unused configuration circuits.%n%nIf you've completed the Silverwood quest on the first tab, you can go to the Twilight Forest after making your Assembler. See the Novice Thaumaturgy tab for details.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc=Un indispensable pour les fans du film. Ah, et pour fabriquer tout un tas de choses, bien sûr. De nombreuses recettes demandent moins de matériaux dans l'Assembler, ou ne peuvent être réalisées qu'avec lui : fabriquez-le au plus vite !%n%nVous pouvez utiliser l'emplacement de batterie et l'autre emplacement supplémentaire de l'interface pour ranger les circuits de configuration inutilisés.%n%nSi vous avez terminé la quête du Silverwood dans le premier onglet, vous pouvez aller dans la Twilight Forest après avoir fabriqué votre Assembler. Consultez l'onglet Thaumaturgie novice pour plus de détails.
 
 # Quest: No More Filing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=§2§lNo More Filing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=Why waste a full ingot to make a rod by using a tool which loses durability and takes even MORE ingots? With this little device, all your rod-needs shall be fulfilled (for now at least, the MV Extruder is the next step for rods).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=§2§lFini la lime
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=Pourquoi gaspiller un lingot entier pour faire une tige avec un outil qui s'use et coûte encore PLUS de lingots ? Avec ce petit appareil, tous vos besoins en tiges seront comblés (pour l'instant du moins : l'Extruder MV est l'étape suivante pour les tiges).
 
 # Quest: Press All the Things
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=§2§lPress All the Things
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=With the basic forming press you can make different food items, glass arrows and some Project Red components.%n%nAt MV/HV stage you can make rotors, various AE components and make copies of your molds and extruder shapes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=§2§lPressez tout
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=Avec le Forming Press de base, vous pouvez fabriquer différents aliments, des flèches en verre et certains composants de Project Red.%n%nAu stade MV/HV, vous pourrez fabriquer des rotors, divers composants AE et des copies de vos moules et formes d'extrusion.
 
 # Quest: Mjolnir!!!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=§2§lMjolnir!!!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=Not really required, but it is a lot faster than the steam one and it can be automated. If you feel like ore washing is too slow, use this hammer.%n%n[note]You can also consider using the steam multiblock instead if you want.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=Pas vraiment indispensable, mais il est bien plus rapide que celui à vapeur et peut être automatisé. Si vous trouvez que le lavage de minerai est trop lent, utilisez ce marteau.%n%n[note]Vous pouvez aussi envisager d'utiliser plutôt le multibloc à vapeur si vous le souhaitez.[/note]
 
 # Quest: Cutting Things Apart
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=§2§lCutting Things Apart
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=An absolutely mandatory machine to have. It will cut rods into bolts, plates into casings, logs into planks, and all of that will be done with the highest possible efficiency. Totally worth it!%n%nYou can use water, distilled water, or lubricant to run it. Use lubricant if possible, as it's the best.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=§2§lDécouper en morceaux
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=Une machine absolument indispensable. Elle découpe les tiges en boulons, les plaques en casings, les bûches en planches, et tout cela avec le meilleur rendement possible. Ça vaut largement le coup !%n%nVous pouvez la faire fonctionner avec de l'eau, de l'eau distillée ou du lubrifiant. Utilisez du lubrifiant si possible, c'est le meilleur.
 
 # Quest: Getting Ready for Tier 2, MV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.name=§2§lGetting Ready for Tier 2, MV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc=In order to proceed forward, you need to get Raw Aluminum. A lot of it. But for now, 8 is enough to complete this quest.%n%nYour first option is alumina dust. Probably the best source for alumina is clay or hardened clay from canyons, however you need an MV machine for that, so you need to find an alternative until you have enough dust for your initial setup. For now, you can get it by centrifuging various impure piles from your ores or by smelting ruby, sapphire, or green sapphire in an EBF with carbon. Check the EBF quest in the Multiblock Goals.%n%nYou will also need an EBF to turn the alumina into aluminium ingots. For that you need cryolite. Go visit the Twilight Forest for that and find a Cryolite vein. The related quest is "Lead, Galena, Silver and Cryolite" is the Novice Thaumaturgy tab.%n%nYour second option is to use aluminium dust. However, you can not smelt that directly yet, even if you have an EBF. That will require higher heat levels. For now, you will have to either use a Tinker's Smeltery or a GT Compressor to turn the dust into raw aluminium which you can then smelt into ingots in the EBF.%n%nBy the time you've completed this, you'll probably be done with most of the tab, but you'll still need Good Circuits (MV) to actually open up the next tier if you haven't done that yet.%n%nYou might also want to check the Getting Around and Without Dying tabs for new unlocks.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.name=§2§lSe préparer pour le Tier 2, MV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc=Pour avancer, vous devez obtenir de l'Aluminium brut. Beaucoup. Mais pour l'instant, 8 suffisent pour terminer cette quête.%n%nVotre première option est la poudre d'Alumine. La meilleure source d'Alumine est probablement l'argile ou l'argile durcie des canyons, mais il faut une machine MV pour ça ; vous devrez donc trouver une alternative jusqu'à avoir assez de poudre pour votre installation de départ. Pour l'instant, vous pouvez l'obtenir en centrifugeant divers tas de poudre impure issus de vos minerais, ou en faisant fondre du Rubis, du Saphir ou du Saphir vert dans un EBF avec du Carbone. Consultez la quête de l'EBF dans l'onglet Objectifs multiblocs.%n%nVous aurez aussi besoin d'un EBF pour transformer l'Alumine en lingots d'Aluminium. Pour cela, il vous faut de la Cryolite. Allez dans la Twilight Forest et trouvez un filon de Cryolite. La quête correspondante, « Lead, Galena, Silver and Cryolite », se trouve dans l'onglet Thaumaturgie novice.%n%nVotre deuxième option est d'utiliser de la poudre d'Aluminium. Cependant, vous ne pouvez pas encore la faire fondre directement, même avec un EBF : il faut une température plus élevée. Pour l'instant, vous devrez utiliser une Smeltery de Tinker's ou un Compressor GT pour transformer la poudre en Aluminium brut, que vous pourrez ensuite fondre en lingots dans l'EBF.%n%nUne fois cette quête terminée, vous aurez sans doute fini la majeure partie de l'onglet, mais il vous faudra encore des Good Circuits (MV) pour réellement ouvrir le tier suivant, si ce n'est pas déjà fait.%n%nPensez aussi à consulter les onglets Se déplacer... et ...sans mourir pour de nouveaux déblocages.
 
 # Quest: Your Magic Progression
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=§2§lYour Magic Progression
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc=Now that you're able to produce Aluminium, you may dig into magic. If you haven't unlocked basic thaumaturgy, try to find a Silverwood and a Greatwood sapling.%n%nThere is a coin trade that lets you purchase these saplings. If you haven't found any yet, go check it out!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=§2§lVotre progression en magie
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc=Maintenant que vous pouvez produire de l'Aluminium, vous pouvez vous plonger dans la magie. Si vous n'avez pas encore débloqué la thaumaturgie de base, essayez de trouver une pousse de Silverwood et une pousse de Greatwood.%n%nUn échange contre des pièces permet d'acheter ces pousses. Si vous n'en avez pas encore trouvé, allez y jeter un œil !
 
 # Quest: Saving Metal With Bending
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=§2§lSaving Metal With Bending
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=Instead of a 3:2 ratio of ingots to plates, this machine allows for 1:1. This saves an enormous amount of metal, so make it ASAP.%n%nBTW if you want foils, just run the plate back through. There are other circuit modes, but you can discover them later.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=§2§lÉconomiser du métal par le cintrage
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=Au lieu d'un ratio de 3:2 entre lingots et plaques, cette machine permet du 1:1. Cela économise une quantité énorme de métal, alors fabriquez-la au plus vite.%n%nAu passage, si vous voulez des feuilles fines, repassez simplement la plaque dans la machine. Il existe d'autres modes de circuit, mais vous les découvrirez plus tard.
 
 # Quest: Basic Transport Pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.name=§2§lBasic Transport Pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.desc=These pipes are rather simple and won't do anything on their own. But in combination with transfer nodes, you'll soon find out how great they are.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.name=§2§lTuyau de transport de base
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.desc=Ces tuyaux sont plutôt simples et ne font rien tout seuls. Mais combinés à des Transfer Nodes, vous découvrirez vite à quel point ils sont formidables.
 
 # Quest: Basic Transport: Items
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.name=§2§lBasic Transport: Items
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc=In order to transfer items, you need so called "nodes". There are some for pushing items into a pipe system, and later you'll have access to nodes that are able to pull items from attached inventories.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.name=§2§lTransport de base : objets
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc=Pour transférer des objets, il vous faut des « nodes ». Certains servent à pousser des objets dans un réseau de tuyaux, et plus tard, vous aurez accès à des nodes capables d'extraire des objets des inventaires auxquels ils sont reliés.
 
 # Quest: Basic Transport: Fluids
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.name=§2§lBasic Transport: Fluids
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.desc=Just like item nodes, liquid nodes transfer... liquids. But probably the best thing: They can all utilize the same transfer pipe!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.name=§2§lTransport de base : fluides
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.desc=Tout comme les nodes à objets, les nodes à liquides transfèrent... des liquides. Mais le mieux, c'est sans doute qu'ils peuvent tous utiliser le même tuyau de transfert !
 
 # Quest: Alloy Smelter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.name=§2§lAlloy Smelter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=Upgrade your steam alloy smelter to an LV one, or consider using the Steam Fuser instead.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=Remplacez votre Alloy Smelter à vapeur par un modèle LV, ou envisagez plutôt d'utiliser le Steam Fuser.
 
 # Quest: Gotta Catch 'em All
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=§2§lGotta Catch 'em All
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=Sure, you can use wheat/potatoes/carrots to make animals follow you back to your base, but that can be tedious. A golden lasso is a proper solution for animal transportation.%n%nYou can use it for §oany§r passive mob, like for getting villagers back to base, or a horse across a river.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=§2§lAttrapez-les tous
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=Bien sûr, vous pouvez utiliser du blé, des pommes de terre ou des carottes pour que les animaux vous suivent jusqu'à votre base, mais c'est vite fastidieux. Le Golden Lasso est la vraie solution pour transporter les animaux.%n%nVous pouvez l'utiliser sur §on'importe quelle§r créature passive, par exemple pour ramener des villageois à la base, ou faire traverser une rivière à un cheval.
 
 # Quest: Basic Monster Prevention
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.name=§2§lBasic Monster Prevention
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=Monsters spawning in or near your base can be annoying. Especially if you happen to get infernal creepers. Luckily, there's a good way to prevent them from spawning at all.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.name=§2§lPrévention de base contre les monstres
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=Les monstres qui apparaissent dans ou près de votre base peuvent être agaçants. Surtout si vous tombez sur des creepers infernaux. Heureusement, il existe un bon moyen de les empêcher complètement d'apparaître.
 
 # Quest: Chemical Rubber Production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1g.name=§2§lChemical Rubber Production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1g.desc=A much more efficient way to make insulated cables is by making molten rubber in a chemical reactor, which can be applied to a cable in the assembling machine. When you put both machines next to each other you can output the molten rubber directly to the assembling machine by clicking the fluid auto-output button on the chemical reactor. Make sure to set the correct side of the reactor as output side by wrenching it. Also remember to use the right circuit in the assembling machine.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1g.name=§2§lProduction chimique de caoutchouc
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC1g.desc=Une façon bien plus efficace de fabriquer des câbles isolés consiste à produire du caoutchouc en fusion dans un Chemical Reactor, puis à l'appliquer sur un câble dans l'Assembler. Si vous placez les deux machines côte à côte, vous pouvez envoyer directement le caoutchouc en fusion dans l'Assembler en cliquant sur le bouton de sortie automatique des fluides du Chemical Reactor. Veillez à régler la bonne face du réacteur comme face de sortie avec une clé. Pensez aussi à utiliser le bon circuit dans l'Assembler.
 
 # Quest: Glue
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6Q.name=§2§lGlue
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6Q.desc=To make Good Circuit Boards, you need either glue or refined glue.%n%nYou can obtain refined glue either by centrifuging sticky resin or distilling glue. Note that it is GT glue, not Tinkers' Construct glue.%n%nAlternatively, you can extract glue from slime trees that you can obtain from slime islands in the sky.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6Q.name=§2§lColle
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6Q.desc=Pour fabriquer des Good Circuit Boards, il vous faut de la colle ou de la Colle affinée.%n%nVous pouvez obtenir de la Colle affinée en centrifugeant de la résine collante ou en distillant de la colle. Notez qu'il s'agit de la colle GT, pas de celle de Tinkers' Construct.%n%nVous pouvez aussi extraire de la colle des slime trees, que vous trouverez sur les îles de slime dans le ciel.
 
 # Quest: Diodes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.name=§2§lDiodes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.desc=Les bons circuits ont besoin de diodes. Il y a deux façons principales de les fabriquer. Vous pouvez réduire les cristaux d'arséniure de gallium en poussière et les combiner avec de fins fils de cuivre et du verre fondu. Une fois que vous avez obtenu du silicium de qualité solaire, vous pouvez l'utiliser pour fabriquer des galettes de silicium dans votre EBF afin d'en produire encore plus. Notez que les galettes sont beaucoup plus efficaces sur le gallium et l'arsenic, donc même une quantité réduite en vaut la peine.%n%nAssurez-vous de vérifier toutes les recettes de NEI pour les items avancés au lieu d'utiliser simplement la première que vous trouvez. Vous pouvez utiliser des fils de cuivre recuits et du polyéthylène pour augmenter encore votre production. %n
 
 # Quest: Empty Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.name=§2§lEmpty Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.desc=Good circuit boards require wooden pulp and refined glue to make phenolic circuit boards. By adding gold wire you can craft a good circuit board.%n%nThere are more efficient ways to make it if you look in NEI.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.name=§2§lCircuit imprimé vierge
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.desc=Les Good Circuit Boards nécessitent de la pâte de bois et de la Colle affinée pour fabriquer des Phenolic Circuit Boards. En y ajoutant du fil d'Or, vous pouvez fabriquer un Good Circuit Board.%n%nIl existe des façons plus efficaces de le fabriquer si vous fouillez un peu dans NEI.
 
 # Quest: You're Gonna Hate This #5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.name=§2§lYou're Gonna Hate This #5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc=The fifth item you'll need a lot of. For the microwave, the scanner, the precision laser engraver, etc.%n%nThe Emitter and Sensor aren't used as much as the other items, fortunately.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.name=§2§lVous allez détester ça #5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc=Le cinquième objet dont vous aurez besoin en grande quantité. Pour le Microwave, le Scanner, le Precision Laser Engraver, etc.%n%nHeureusement, l'Emitter et le Sensor sont moins utilisés que les autres objets.
 
 # Quest: You're Gonna Hate This #6
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.name=§2§lYou're Gonna Hate This #6
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.desc=The sixth item you'll need a lot of. For the scanner and the seismic prospector.%n%n[note]BTW, there's technically one more, the Field Generator, but you need higher tier circuits to make it, and it isn't used as often until later tiers.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.name=§2§lVous allez détester ça #6
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.desc=Le sixième objet dont vous aurez besoin en grande quantité. Pour le Scanner et le Seismic Prospector.%n%n[note]Au passage, il y en a techniquement un de plus, le Field Generator, mais il faut des circuits de tier supérieur pour le fabriquer, et il ne sert pas si souvent avant les tiers suivants.[/note]
 
 # Quest: Scanning Bees, Crops and Moooooore!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.name=§2§lScanning Bees, Crops and Moooooore!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.desc=Automate your bee, sapling, or crop scanning. For crops, this is the only real way to find the crop's stats until you can craft the Portable Scanner, which needs HV circuits that you can make in the next tier.%n%nLater on, this machine gets very useful for scanning high tier machine parts for the assembly line research data or to fill data orbs with data for UU-Matter production. Data sticks with raw prospecting data need a scanner too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.name=§2§lScanner abeilles, cultures et bien plus encoooooore !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.desc=Automatisez l'analyse de vos abeilles, pousses ou cultures. Pour les cultures, c'est le seul vrai moyen de connaître leurs statistiques tant que vous ne pouvez pas fabriquer le Portable Scanner, qui demande des circuits HV que vous pourrez fabriquer au tier suivant.%n%nPlus tard, cette machine devient très utile pour scanner des pièces de machines de haut tier afin d'obtenir les données de recherche de l'Assembly Line, ou pour remplir des Data Orbs de données pour la production de Matière-UU. Les Data Sticks contenant des données de prospection brutes ont aussi besoin d'un Scanner.
 
 # Quest: Basic Ore Washer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACGg.name=§2§lBasic Ore Washer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACGg.desc=Le broyage des Minerais permet généralement de doubler la production. Si vous en voulez encore PLUUUUUS, fabriquez un Laveur de Minerai et lavez quelques matériaux rares.%n%nNotez qu'ils utilisent tous deux de l'Eau et sont terriblement lents.%n%nMettez-y du Minerai Broyé.
 
 # Quest: Round and Round and Round...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACGw.name=§2§lRound and Round and Round...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACGw.desc=After purification of your ore dust, you can centrifuge it to get even more byproducts out of the dust. On top of that, you can process many items into their more useful byproducts with this machine, such as Sticky Resin.%n%nIt's always useful to check NEI for Centrifuge and Electrolyzer recipes for any item/fluid you may need. It might just be that you can get that from stuff you already have in your base!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACGw.name=§2§lÇa tourne, ça tourne, ça tourne...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACGw.desc=Après avoir purifié votre poudre de minerai, vous pouvez la centrifuger pour en tirer encore plus de sous-produits. En plus de cela, cette machine permet de transformer de nombreux objets en sous-produits plus utiles, comme la résine collante.%n%nIl est toujours utile de consulter NEI pour les recettes de Centrifuge et d'Electrolyzer de tout objet ou fluide dont vous pourriez avoir besoin. Il se peut que vous puissiez l'obtenir à partir de choses que vous avez déjà dans votre base !
 
 # Quest: A Truly Sharp Saw Blade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHA.name=§2§lA Truly Sharp Saw Blade
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHA.desc=Combining cobalt brass and diamond dust makes a really sharp saw blade for your cutting machine.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHA.name=§2§lUne lame de scie vraiment tranchante
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHA.desc=En combinant du Cobalt Laiton et de la poudre de Diamant, vous obtenez une lame de scie vraiment tranchante pour votre Cutting Machine.
 
 # Quest: A New Alloy - Cobalt Brass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHQ.name=§2§lA New Alloy - Cobalt Brass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHQ.desc=If you want to cut diamond blocks into plates, it's time to get a new alloy, Cobalt Brass.%n%nFirst you need to make brass out of zinc (only found in small ores or TiCo Zinc Gravel Ore in the Overworld, in Nether Sphalerite, or as a centrifuge byproduct from tin or tetrahedrite) and copper. Mix it with tin and cobalt dust (you can get it as a byproduct of a couple ores, go searching in the nether, or go to the Twilight Forest for Cobaltite) to get the cobalt brass dust.%n%nNow that you've come this far, we think that you're able to look up the ores that you need by yourself with the help of NEI.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHQ.name=§2§lUn nouvel alliage, le Cobalt Laiton
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHQ.desc=Si vous voulez découper des blocs de Diamant en plaques, il est temps d'obtenir un nouvel alliage : le Cobalt Laiton.%n%nIl vous faut d'abord fabriquer du Laiton à partir de Zinc (qu'on ne trouve que sous forme de petits minerais ou de Zinc Gravel Ore de TiCo dans l'Overworld, dans la Sphalérite du Nether, ou comme sous-produit de centrifugation de l'Étain ou de la Tétrahédrite) et de Cuivre. Mélangez-le avec de l'Étain et de la poudre de Cobalt (que vous pouvez obtenir comme sous-produit de quelques minerais, en fouillant le Nether, ou en allant chercher de la Cobaltite dans la Twilight Forest) pour obtenir de la poudre de Cobalt Laiton.%n%nMaintenant que vous êtes arrivé jusqu'ici, nous pensons que vous êtes capable de trouver par vous-même les minerais dont vous avez besoin, avec l'aide de NEI.
 
 # Quest: Electrically Separating Dusts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHg.name=§2§lElectrically Separating Dusts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHg.desc=Using the power of electricity you can get even more out of your dusts. Somehow. With no catalysts, electrolytes, or anything. Look, don't ask me how it works. §oIt just works§r.%n%nAside from that, this is a very important machine to process some items and fluids into other, more useful items and fluids. A basic example of this is electrolyzing Water, which should be completely free to you, to get both Hydrogen and Oxygen, two very important fluids for your progression.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHg.name=§2§lSéparer les poudres à l'électricité
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHg.desc=Grâce à la puissance de l'électricité, vous pouvez tirer encore plus de vos poudres. Allez savoir comment. Sans catalyseurs, sans électrolytes, sans rien. Écoutez, ne me demandez pas comment ça marche. §oÇa marche, c'est tout§r.%n%nÀ part ça, c'est une machine très importante pour transformer certains objets et fluides en d'autres objets et fluides plus utiles. Un exemple simple : électrolyser de l'Eau, qui ne devrait rien vous coûter, pour obtenir de l'Hydrogène et de l'Oxygène, deux fluides très importants pour votre progression.
 
 # Quest: C9H8O4...NaCl...H2O...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACHw.name=§2§lC9H8O4...NaCl...H2O...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACHw.desc=Want to make some cetane-boosted diesel, plastic or some chemical dyes? Then it's time to craft a chemical reactor.%n%nYou can use the battery slot and the other extra slot in the GUI to store items.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACHw.desc=Envie de fabriquer du Diesel boosté de Cétanes, du plastique ou des teintures chimiques ? Alors il est temps de fabriquer un Chemical Reactor.%n%nVous pouvez utiliser l'emplacement de batterie et l'autre emplacement supplémentaire de l'interface pour ranger des objets.
 
 # Quest: Compact? Or is it?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=§2§lCompact? Or is it?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.desc=It's a compressor but that doesn't mean it's compact...%n%nIt is highly recommended to get one of these electric compressors, as the efficiency in terms of coal/steam used to compress something is a lot better when using EU.%n%n[note]You can also consider using the steam multiblock instead if you want.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=§2§lCompact ? Vraiment ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.desc=C'est un Compressor, mais ça ne veut pas dire qu'il est compact...%n%nIl est vivement recommandé de fabriquer un de ces Compressors électriques, car l'efficacité en charbon/vapeur consommés pour compresser quelque chose est bien meilleure avec des EU.%n%n[note]Vous pouvez aussi envisager d'utiliser plutôt le multibloc à vapeur si vous le souhaitez.[/note]
 
 # Quest: Suction Device... Nice
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=§2§lSuction Device... Nice
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=I hope you're not thinking about what I'm thinking you're thinking about...%n%nIt's highly recommended to get one of these, as the efficiency in terms of coal/steam used to extracting something is a lot better when using EU.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=§2§lAppareil à succion... sympa
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=J'espère que vous ne pensez pas à ce que je pense que vous pensez...%n%nIl est vivement recommandé d'en fabriquer un, car l'efficacité en charbon/vapeur consommés pour extraire quelque chose est bien meilleure avec des EU.
 
 # Quest: Your Oil is Too Crude? Refine it!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=§2§lYour Oil is Too Crude? Refine it!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=Burning oil in the combustion generator is a very inefficient way of producing power. Every bucket/cell of oil only gives you 20,000 EU. Time to refine it.%n%nYou'll need to use a circuit to pick which of the products you want. Later on you can make a Distillation Tower to get all of them, but that's far away for now.%n%nYou can also distill many other fluids! There are two that are useful, but take a long time to distill, so you should set them up in advance:%nLubricant (from Creosote) and Distilled Water (from Water).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=§2§lVotre pétrole est trop brut ? Raffinez-le !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=Brûler du pétrole dans le Combustion Generator est une façon très peu efficace de produire de l'énergie. Chaque seau/cellule de pétrole ne vous donne que 20,000 EU. Il est temps de le raffiner.%n%nVous devrez utiliser un circuit pour choisir le produit que vous voulez. Plus tard, vous pourrez fabriquer une Distillation Tower pour tous les obtenir à la fois, mais c'est encore loin.%n%nVous pouvez aussi distiller beaucoup d'autres fluides ! Deux d'entre eux sont utiles mais longs à distiller, vous devriez donc les mettre en place à l'avance :%nle Lubrifiant (à partir de Créosote) et l'Eau distillée (à partir d'Eau).
 
 # Quest: Sulfuric Light Fuel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.name=§5§lFioul sulfurique léger
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.desc=You can distill your oil into Sulfuric Light Fuel, which has a burn value of 40,000 EU.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.desc=Vous pouvez distiller votre pétrole en Fioul Léger Sulfuré, qui a une valeur de combustion de 40,000 EU.
 
 # Quest: Light Fuel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.name=§5§lFioul léger
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.desc=En ajoutant de l'hydrogène au fioul léger sulfurique dans un réacteur chimique, on peut produire du fioul léger avec une valeur de combustion très élevée de 305 000 EU par cellule. C'est également le principal composant du diesel, un excellent carburant disponible en MV%n%nLe sulfure d'hydrogène restant peut être utilisé pour produire de l'acide sulfurique pour, bien sûr, des tonnes de choses. On n'en a jamais assez ! On peut aussi craquer du combustible léger dans un réacteur chimique et le distiller pour obtenir de l'éthylène, pour le polyéthylène. Mais le gaz de raffinerie est meilleur pour cela.
 
 # Quest: H for Hydrogen... the Rest of the Alphabet is Too Complicated...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=§2§lH for Hydrogen... the Rest of the Alphabet is Too Complicated...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=Centrifuge some brown or yellow limonite dust, or use an Electrolyzer with water to get some hydrogen.%n%nThere are many other ways of obtaining hydrogen which you might want to look into. Some are only available much later.%n%nExamples are: chemical processing or electrolysis of methane obtained from organic sources, electrolysis of water or salt water, mixing sodium with water, or eventually siphoning hydrogen directly from a gas giant.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=§2§lH comme Hydrogène... le reste de l'alphabet est trop compliqué...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=Centrifugez de la poudre de Limonite brune ou de Limonite Jaune, ou utilisez un Electrolyzer avec de l'eau pour obtenir de l'Hydrogène.%n%nIl existe bien d'autres façons d'obtenir de l'Hydrogène, que vous voudrez peut-être explorer. Certaines ne sont disponibles que bien plus tard.%n%nPar exemple : le traitement chimique ou l'électrolyse du Méthane issu de sources organiques, l'électrolyse de l'eau ou de l'Eau Salée, le mélange de Sodium avec de l'eau, ou à terme le siphonnage direct de l'Hydrogène d'une géante gazeuse.
 
 # Quest: Heavy Sulfuric Fuel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=§5§lFioul sulfurique lourd
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=You can distill your oil into Sulfuric Heavy Fuel, which has a burn value of 80,000 EU.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=Vous pouvez distiller votre pétrole en Fioul Lourd Sulfuré, qui a une valeur de combustion de 80,000 EU.
 
 # Quest: Heavy Fuel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.name=§5§lFioul lourd
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.desc=En ajoutant de l'hydrogène au fioul lourd sulfurique dans un réacteur chimique, vous pouvez produire du fioul lourd, avec une valeur de combustion de 240 000 EU par cellule ! En outre, il est également nécessaire pour le diesel, en MV, qui est un meilleur carburant, et il peut également être distillé en trois fluides très utiles : le benzène, le toluène et le phénol.%n%nSi vous voulez utiliser le fioul lourd comme source d'énergie, vous aurez besoin de générateurs semi-fluides, contrairement au fioul léger et au diesel qui utilisent des générateurs à combustion.%n%nIl n'est honnêtement pas très efficace de fabriquer du fioul lourd à partir de pétrole ordinaire. Vous devriez essayer d'obtenir du pétrole lourd pour le fabriquer, par exemple à partir de minerais de sables bitumineux en MV lorsque vous le pouvez. Ensuite, vous l'utiliserez pour fabriquer du diesel.
 
 # Quest: Hey DJ, Mix it!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=§2§lHey DJ, Mix it!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=The mixer is a very useful device. You can mix all kinds of fluids and items. Useful to prevent dust from falling to the ground when crafting - most mixer recipes give a slight boost over hand crafting!%n%nYou get +3 slots in the EV+ versions, this one has 6.%n%nYou can use the battery slot and other extra slots in the GUI to store anything you like!%n%n[note]You can also consider using the steam multiblock instead if you want.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=§2§lHé DJ, mixe-moi ça !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Le Mixer est un appareil très utile. Vous pouvez y mélanger toutes sortes de fluides et d'objets. Pratique pour éviter que de la poudre ne tombe par terre pendant la fabrication : la plupart des recettes du Mixer donnent un léger bonus par rapport à la fabrication à la main !%n%nLes versions EV et supérieures ont +3 emplacements ; celle-ci en a 6.%n%nVous pouvez utiliser l'emplacement de batterie et les autres emplacements supplémentaires de l'interface pour ranger ce que vous voulez !%n%n[note]Vous pouvez aussi envisager d'utiliser plutôt le multibloc à vapeur si vous le souhaitez.[/note]
 
 # Quest: N Like Nitrogen... Hide, the Alphabet Strikes Again!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=§2§lN Like Nitrogen... Hide, the Alphabet Strikes Again!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=You can get some nitrogen by centrifuging... air. This process takes a long time, especially at LV tier.%n%nYou get that air from compressed air cells, which are gotten from running cells through a compressor. Each one contains 2000L, unlike a normal cell that contains 1000L.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=§2§lN comme Azote... cachez-vous, l'alphabet frappe encore !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=Vous pouvez obtenir de l'Azote en centrifugeant... de l'air. Ce procédé est long, surtout au tier LV.%n%nCet air provient de cellules d'air comprimé, obtenues en passant des cellules dans un Compressor. Chacune contient 2000L, contrairement à une cellule normale qui contient 1000L.
 
 # Quest: Molten Redstone?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACQw.name=§2§lMolten Redstone?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACQw.desc=You heard that the carpenter needs some molten redstone for a few recipes. Converting redstone dust into a fluid requires a fluid extractor. Let's build one.%n%nIf you want to get that molten redstone into a cell, you'll need a fluid canner instead of a GT tank. Why? Because Reasons.%n%nFortunately, most fluids work properly, but redstone, cracked fluids, and certain other ones do not. Or just use a universal cell.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACQw.name=§2§lDe la redstone en fusion ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACQw.desc=Vous avez entendu dire que le Carpenter a besoin de redstone en fusion pour quelques recettes. Pour convertir de la poudre de redstone en fluide, il faut un Fluid Extractor. Construisons-en un.%n%nSi vous voulez mettre cette redstone en fusion dans une cellule, il vous faudra un Fluid Canner plutôt qu'un réservoir GT. Pourquoi ? Parce que.%n%nHeureusement, la plupart des fluides fonctionnent correctement, mais pas la redstone, les fluides craqués et quelques autres. Ou utilisez simplement une Universal Cell.
 
 # Quest: Magnetize Your Rods
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACSw.name=§2§lMagnetize Your Rods
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACSw.desc=Magnetic steel rods will §oneed§r a Polarizer to craft. You'll need them later on for MV Motors and MV hatches.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACSw.name=§2§lMagnétisez vos tiges
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACSw.desc=Les tiges d'Acier Magnétique §onécessitent§r un Polarizer pour être fabriquées. Vous en aurez besoin plus tard pour les moteurs MV et les hatches MV.
 
 # Quest: Tetrahedrite, Stibnite and Copper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=§2§lTetrahedrite, Stibnite and Copper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=Maybe you're wondering why you need tetrahedrite or stibnite. Well, antimony can be centrifuged out of it which is very useful for batteries. Batteries store power, so you can have highs and lows in your power production while still outputting stable power.%n%nThe veins can be found between Y level 80-120.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=§2§lTétrahédrite, Stibnite et Cuivre
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=Vous vous demandez peut-être pourquoi il vous faut de la Tétrahédrite ou de la Stibnite. Eh bien, on peut en extraire de l'Antimoine par centrifugation, ce qui est très utile pour les batteries. Les batteries stockent l'énergie : vous pouvez ainsi avoir des hauts et des bas dans votre production tout en fournissant une énergie stable.%n%nOn trouve ces filons entre les niveaux Y 80 et 120.
 
 # Quest: Antimony
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.name=§2§lAntimony
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.desc=The most efficient way to get antimony for batteries is to run stibnite through a BBF or EBF, burning off the impurities (sulfur), and giving you more antimony. You can also centrifuge it if you want to keep the sulfur. You can also centrifuge tetrahedrite dust if you're desperate.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.name=§2§lAntimoine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.desc=Le moyen le plus efficace d'obtenir de l'Antimoine pour les batteries est de passer de la Stibnite dans un BBF ou un EBF, ce qui brûle les impuretés (le Soufre) et vous donne plus d'Antimoine. Vous pouvez aussi la centrifuger si vous voulez garder le Soufre. Et en désespoir de cause, vous pouvez aussi centrifuger de la poudre de Tétrahédrite.
 
 # Quest: Thermal Centrifuge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.name=§2§lThermal Centrifuge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.desc=Une machine pour obtenir différents sous-produits à partir de votre Poudre de Minerai Broyée ou Purifiée. Elle est utile pour obtenir un peu de Gallium à partir du Minerai de Zinc broyé pour les Diodes nécessaires aux Bons Circuits.%n%nLorsque vous avez des Réacteurs Nucléaires IC2 et que vous voulez recycler vos Barres de Combustible appauvrit, c'est le seul moyen de le faire.%n%nSi vous ne pouvez pas produire les 2 A d'énergie LV pour cette machine maintenant, attendez d'être en MV et utilisez des Transformateurs pour alimenter une version LV.%n%nEn LV, vous pouvez obtenir les mêmes sous-produits de Minerais par d'autres méthodes. La Centrifugeuse Thermique ne devient vraiment importante en HV que lorsque vous pouvez la combiner avec le Broyeur HV.%n%n§4Envoyer de l'énergie MV à un appareil LV, même s'il utilise plus de 1 A, provoquera une explosion, donc ne le faites pas.
 
 # Quest: A Lead About Lead That Leads to Lead
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACYA.name=§2§lA Lead About Lead That Leads to Lead
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACYA.desc=The next step of making batteries is to collect some lead. Look at the lead quest in the novice thaumaturgy tab for more info.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACYA.name=§2§lUne piste sur le Plomb qui mène au Plomb
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACYA.desc=L'étape suivante pour fabriquer des batteries consiste à récolter du Plomb. Consultez la quête du Plomb dans l'onglet Thaumaturgie novice pour plus d'informations.
 
 # Quest: Analyzing the Soil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.name=§2§lAnalyzing the Soil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.desc=Tired of looking for ores by hand? Want to find underground oil that will last a long time? A seismic prospector will tell you the ores in the surrounding chunks in a (sorta) handy book you can read, and also the underground fluids beneath you. It doesn't need to be powered.%n%nTo determine which kind of fluid there is in the chunk you need to scan the soil by right-clicking an Advanced Seismic Prospector with 2 Powderbarrels, 4 Glyceryl Trinitate cells, 8 iTNT or 16 TNT. This one doesn't explode the user too on use. Features! There are four types of oil or natural gas for the overworld. See the quest in Tips and Tricks once you've made an oil drill.%n%n1) Right-click explosives.%n2) Use a single Data Stick to extract the data by right-clicking on it after the animation has finished. Each will hold ONE result.%n3) Next you need to put the data stick in a GT scanner to have it analyzed.%n4) Place the analyzed data stick in the bottom right slot of a printer and add 3 paper in the top left slot and make sure you have at least 144L squid ink in it.%n5) Take the printed pages and combine it with a piece of leather in an assembling machine filled with at least 20 mb of refined glue.%n%n[note]TADA![/note] Now you have a book with detailed info about the chunks you scanned. Visual Prospecting adds the information to your map the moment you make the book.%n%n§2Data Sticks are not easy (or possible) to make right now, so do not lose them.§r You can put it in a crafting table to erase it when done.%n%nOre locations are given as the center of the chunk. Ores that are marginal in that chunk may not be found in the center but on an edge. Look at where ores are located and determine the center of the vein. At higher tiers, it scans more chunks for ores. If you just want to know about fluids, use the lower tier version so the book isn't as long.%n%nEach underground fluid field is 8x8 chunks. This starts at 0,0 and continues for 8 chunks east and south, containing 64 chunks. Not all fields have anything in them though. Within the field the amount can vary +/- 25 percent. The amount reported in the book is the minimum and maximum per field across all chunks in the field. The prospector reports on 3x3 fields (as in, 9 fields of 8x8 chunks) at all tiers with the center field where the seismic prospector is located. Fluid extraction rate depends on many factors, check the wiki for details. In general, anything above 300 is really good. The total amount in the chunk is complicated.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.name=§2§lAnalyser le sol
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.desc=Marre de chercher des minerais à la main ? Envie de trouver du pétrole souterrain qui durera longtemps ? Un Seismic Prospector vous indiquera les minerais des chunks environnants dans un livre (plus ou moins) pratique à lire, ainsi que les fluides souterrains sous vos pieds. Il n'a pas besoin d'être alimenté.%n%nPour déterminer quel type de fluide se trouve dans le chunk, vous devez sonder le sol en faisant un clic droit sur un Advanced Seismic Prospector avec 2 Powderbarrels, 4 cellules de Glyceryl Trinitate, 8 iTNT ou 16 TNT. Celui-ci ne fait même pas exploser son utilisateur. C'est une fonctionnalité ! Il existe quatre types de pétrole ou de gaz naturel dans l'Overworld. Consultez la quête de l'onglet Trucs et astuces une fois que vous aurez fabriqué une foreuse pétrolière.%n%n1) Faites un clic droit avec les explosifs.%n2) Utilisez un seul Data Stick pour récupérer les données en faisant un clic droit sur le prospecteur une fois l'animation terminée. Chaque Data Stick contient UN résultat.%n3) Ensuite, placez le Data Stick dans un Scanner GT pour le faire analyser.%n4) Placez le Data Stick analysé dans l'emplacement en bas à droite d'un Printer, ajoutez 3 papiers dans l'emplacement en haut à gauche et vérifiez qu'il contient au moins 144L d'encre de calmar.%n5) Prenez les pages imprimées et combinez-les avec un morceau de cuir dans un Assembler rempli d'au moins 20 mb de Colle affinée.%n%n[note]TADAM ![/note] Vous avez maintenant un livre contenant des informations détaillées sur les chunks sondés. Visual Prospecting ajoute ces informations à votre carte dès que vous fabriquez le livre.%n%n§2Les Data Sticks ne sont pas faciles (voire pas possibles) à fabriquer pour l'instant, alors ne les perdez pas.§r Vous pouvez les placer dans un établi pour les effacer une fois terminé.%n%nL'emplacement des minerais est donné au centre du chunk. Les minerais marginaux dans ce chunk peuvent ne pas se trouver au centre mais en bordure. Regardez où se trouvent les minerais et déduisez-en le centre du filon. Aux tiers supérieurs, le prospecteur sonde davantage de chunks pour les minerais. Si seuls les fluides vous intéressent, utilisez la version de tier inférieur pour que le livre soit moins long.%n%nChaque champ de fluide souterrain fait 8x8 chunks. Les champs commencent en 0,0 et s'étendent sur 8 chunks vers l'est et le sud, soit 64 chunks. Tous les champs ne contiennent pas forcément quelque chose. À l'intérieur d'un champ, la quantité peut varier de +/- 25 pour cent. La quantité indiquée dans le livre est le minimum et le maximum par champ, sur l'ensemble de ses chunks. Le prospecteur rend compte de 3x3 champs (soit 9 champs de 8x8 chunks) à tous les tiers, le champ central étant celui où se trouve le Seismic Prospector. Le débit d'extraction des fluides dépend de nombreux facteurs, consultez le wiki pour les détails. En général, tout ce qui dépasse 300 est vraiment bon. La quantité totale dans le chunk, c'est compliqué.
 
 # Quest: Mercury
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaA.name=§2§lMercury
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaA.desc=Mercury can be centrifuged out of redstone. If you find some cinnabar ore in a redstone vein or one of the infused stone veins you can use that too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACaA.name=§2§lMercure
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACaA.desc=Le Mercure peut être extrait de la redstone par centrifugation. Si vous trouvez du minerai de Cinabre dans un filon de redstone ou dans l'un des filons de pierre infusée, vous pouvez aussi l'utiliser.
 
 # Quest: Sulfuric Acid
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACag.name=§2§lSulfuric Acid
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACag.name=§2§lAcide Sulfurique
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACag.desc=En combinant le trioxyde de soufre et l'eau dans le réacteur chimique, vous obtiendrez de l'acide sulfurique pour vos piles acides à usage unique. D'un autre côté, si vous avez fabriqué du fioul léger, vous aurez du sulfure d'hydrogène en réserve que vous pourrez également transformer en acide sulfurique (après quelques étapes), et si vous l'avez automatisé, vous vous noierez dedans, honnêtement. Une fois que vous pouvez fabriquer un LCR, vous pouvez passer directement de HS à SA en une seule étape. Gardez à l'esprit que vous aurez alors besoin de tout cet acide pour fabriquer des objets plutôt que pour des piles à usage unique.
 
 # Quest: IC2 Battery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACbA.name=§2§lIC2 Battery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACbA.desc=A few recipes require IC2 batteries. Fill your small battery hull with some molten redstone and you'll get an RE-Battery.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACbA.name=§2§lBatterie IC2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACbA.desc=Quelques recettes nécessitent des batteries IC2. Remplissez votre Small Battery Hull de redstone en fusion et vous obtiendrez une RE-Battery.
 
 # Quest: How to Get Sodium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACbQ.name=§2§lHow to Get Sodium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACbQ.desc=A second source for sodium is glauconite ore or glauconite sand. This type of ore vein can be found at Y level 20-50.%n%nSoapstone and talc can be used for lubricant.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACbQ.name=§2§lComment obtenir du Sodium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACbQ.desc=Une deuxième source de Sodium est le minerai de Glauconite ou le Sable de Glauconite. Ce type de filon se trouve entre les niveaux Y 20 et 50.%n%nLa Pierre à Savon et le Talc peuvent servir à produire du Lubrifiant.
 
 # Quest: How to Get Sodium and Lithium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACbg.name=§2§lHow to Get Sodium and Lithium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACbg.desc=Salt ore mixes can be found in the Overworld between Y 50-70.%n%nSalt isn't only used to get sodium, it's an important ingredient in many Pam's HarvestCraft food recipes.%n%nLepidolite and spodumene are good sources of lithium for your batteries. Later on you can get a lot more in different ways.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACbg.name=§2§lComment obtenir du Sodium et du Lithium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACbg.desc=On trouve des filons mixtes de minerai de Sel dans l'Overworld, entre Y 50 et 70.%n%nLe Sel ne sert pas qu'à obtenir du Sodium : c'est un ingrédient important de nombreuses recettes de Pam's HarvestCraft.%n%nLa Lépidolite et le Spodumène sont de bonnes sources de Lithium pour vos batteries. Plus tard, vous pourrez en obtenir bien plus par d'autres moyens.
 
 # Quest: Cadmium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACbw.name=§2§lCadmium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACbw.desc=You can get Cadmium from Sphalerite (centrifuge or thermal centrifuge). Later on you can use GT++ Ore processing chains to get Cadmium from Rare Earths. I don't care how you get it, just get some Cadmium.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACbw.desc=Vous pouvez obtenir du Cadmium à partir de Sphalérite (Centrifuge ou Thermal Centrifuge). Plus tard, vous pourrez utiliser les chaînes de traitement de minerai de GT++ pour obtenir du Cadmium à partir des Terres Rares. Peu m'importe comment vous l'obtenez, procurez-vous simplement du Cadmium.
 
 # Quest: Basic Canner
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.name=§2§lBasic Canner
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.desc=The canning machine is used to fill batteries, fill or empty containers with fluids or ocassionally dusts, or to fill tin cans with any kind of food (HV+).%n%nAt LV-HV tier you can make batteries with sodium, cadmium, or lithium.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.desc=Le Canner sert à remplir des batteries, à remplir ou vider des conteneurs de fluides ou parfois de poudres, ou à remplir des boîtes de conserve avec n'importe quel aliment (HV+).%n%nDu LV au HV, vous pouvez fabriquer des batteries au Sodium, au Cadmium ou au Lithium.
 
 # Quest: Portable Mob Spawners...? Cool!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=§2§lPortable Mob Spawners...? Cool!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=Do you want to move a spawner around and build a cool mob farm? That will be no problem if you get the diamond dolly. You can move 6 spawners before the durability runs out, which is probably more than you'll need right now.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=§2§lDes spawners portables... ? Génial !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=Vous voulez déplacer un spawner pour construire une super ferme à monstres ? Aucun problème si vous vous procurez le Diable en diamant. Vous pouvez déplacer 6 spawners avant que sa durabilité ne s'épuise, ce qui est sans doute plus que ce dont vous aurez besoin pour l'instant.
 
 # Quest: Sulfuric Naphtha
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfw.name=§2§lSulfuric Naphtha
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfw.desc=Another distillate you can make out of oil is Sulfuric Naphtha which has a burn value of 40,000 EU per cell in the gas turbine.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfw.name=§2§lNaphta Sulfuré
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfw.desc=Un autre distillat que vous pouvez tirer du pétrole est le Naphta Sulfuré, qui a une valeur de combustion de 40,000 EU par cellule dans la Gas Turbine.
 
 # Quest: LPG
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgA.name=§2§lLPG
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgA.desc=Centrifuging Butane or Propane gives you LPG with a burn value of 320,000 EU.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgA.name=§2§lGPL
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgA.desc=Centrifuger du Butane ou du Propane vous donne du GPL, qui a une valeur de combustion de 320,000 EU.
 
 # Quest: Naphtha
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.name=§2§lNaphtha
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.name=§2§lNaphte
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.desc=Vous pouvez transformer le naphta sulfurique en naphta fluide, qui a une valeur de combustion de 320 000 EU dans une turbine à gaz. Le naphta peut être utilisé pour obtenir de l'éthylène pour le polyéthylène, mais il partage cette utilisation avec le gaz de raffinage et le carburant léger, alors décidez vous-même lequel vous voulez utiliser. Si vous choisissez de fabriquer de l'essence à indice d'octane élevé à partir de EV, vous aurez besoin de beaucoup de naphta. Vous pouvez également fabriquer du polycaprolactame (Nylon), qui n'a pas encore d'utilité, mais qui pourrait en avoir dans un avenir proche.
 
 # Quest: Sulfuric Gas
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=§2§lSulfuric Gas
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Another distillate for your gas turbine you can make out of oil is Sulfuric Gas which has a burn value of 25,000 EU per cell.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=§2§lGaz Sulfurique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Un autre distillat que vous pouvez tirer du pétrole pour votre Gas Turbine est le Gaz Sulfurique, qui a une valeur de combustion de 25,000 EU par cellule.
 
 # Quest: Refinery Gas
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=§5§lGaz de Raffinerie
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Raffinez votre gaz dans un Réacteur Chimique avec de l'Hydrogène pour lui donner un meilleur taux de combustion de 160 000 EU. C'était autrefois la coupe pétrolière la moins utile, mais il est désormais possible de la distiller en de grand volume d'Éthylène si vous réalisez le vapocraquage de Gaz de Raffinerie au préalable.%n%nSi tôt, vous devrez utiliser un Réacteur Chimique pour le casser, mais plus tard il existe un multi-blocs dédié à cette utilisation, le Craqueur. Pour davantage d'Éthylène, vous devez augmenter le degré de vapocraquage, vous aurez aussi beaucoup de Méthane.
 
 # Quest: Methane
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.name=§2§lMethane
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.desc=Distilling some "refinery gases" gives you some methane gas. There are many more (and probably better) ways to get methane.%n%nYou will need this in later tiers, for PTFE as an example.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.name=§2§lMéthane
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.desc=Distiller du « Gaz de Raffinerie » vous donne du Méthane. Il existe bien d'autres façons (et sans doute de meilleures) d'obtenir du Méthane.%n%nVous en aurez besoin aux tiers suivants, par exemple pour le PTFE.
 
 # Quest: Electrotine Battery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=§2§lElectrotine Battery
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=The electrotine battery is exclusively used in project red machines and the jetpack. Electrotine is made by mixing redstone and electrum dust in a mixer, or mined from the Nether.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=§2§lBatterie d'Electrotine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=La batterie d'Electrotine sert exclusivement aux machines de Project Red et au jetpack. L'Electrotine se fabrique en mélangeant de la poudre de redstone et d'Électrum dans un Mixer, ou s'extrait dans le Nether.
 
 # Quest: Basic Arc Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClg.name=§2§lBasic Arc Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClg.desc=La Fournaise à Arc est une alternative au broyage en Poudre des matériaux, et permet de fabriquer du Fer Forgé, du Cuivre Recuit, et du Verre (en MV). Le recyclage permet d'obtenir des Lingots et parfois des matériaux différents de ceux que l'on obtient avec un Broyeur. Vous disposez également des 4 emplacements en LV. Les recettes utilisent de l'Oxygène et 3 A de puissance.%n%nIl suffit d'ignorer celle du plasma.%n%nEt §4non§r, vous ne pouvez pas simplement envoyer 1 A de MV. Cela la ferait exploser.
 
 # Quest: Faster Steel Production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClw.name=§2§lFaster Steel Production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClw.desc=A faster alternative to Steel production is to use the arc furnace and smelt Iron Ingots (or dust) into Cast Iron Ingots. Then macerate them to dust and smelt them very fast in the EBF to Steel.%n%nOf course, you'll need enough Carbon/Coal/Charcoal dust to do so.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClw.name=§2§lProduction d'Acier plus rapide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClw.desc=Une alternative plus rapide pour produire de l'Acier consiste à utiliser l'Arc Furnace pour fondre des lingots (ou de la poudre) de Fer en lingots de Cast Iron. Broyez-les ensuite en poudre et faites-les fondre très rapidement en Acier dans l'EBF.%n%nBien sûr, il vous faudra assez de poudre de Carbone, de Charbon ou de Charbon de Bois pour cela.
 
 # Quest: LV Extruder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACoQ.name=§2§lLV Extruder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACoQ.desc=The extruder is not very useful in LV. But it will extrude your next tier of boat, get you extra fluid cells, or make §osome§r Tinkers Construct tool parts.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACoQ.name=§2§lExtruder LV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACoQ.desc=L'Extruder n'est pas très utile en LV. Mais il vous permettra d'extruder votre bateau du tier suivant, d'obtenir des cellules de fluide supplémentaires ou de fabriquer §ocertaines§r pièces d'outils de Tinkers Construct.
 
 # Quest: Process Some Certus Quartz
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.name=§2§lProcess Some Certus Quartz
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.desc=For the emitter and the sensor you'll need to get some certus quartz.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.name=§2§lTraitez du Quartz Certus
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.desc=Pour l'Emitter et le Sensor, il vous faudra du Quartz Certus.
 
 # Quest: Good Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.name=§2§lGood Circuits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.desc=Good circuits are an improvement on basic circuits. They're an MV-tier circuit, which is a component of all MV gregtech machines.%n%nTo open MV, you still need to make an EBF and do the Aluminium quest if you haven't already, since §oeverything§r needs aluminium.%n%nThis quest also opens the Project Red quests - one of the early automation options.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.name=§2§lBons circuits
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.desc=Les Good Circuits sont une amélioration des circuits de base. Ce sont des circuits de tier MV, un composant de toutes les machines GregTech MV.%n%nPour ouvrir le MV, il vous faut encore fabriquer un EBF et faire la quête de l'Aluminium si ce n'est pas déjà fait, car §otout§r nécessite de l'Aluminium.%n%nCette quête débloque aussi les quêtes de Project Red, l'une des premières options d'automatisation.
 
 # Quest: Dust to Crystals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.name=§2§lDust to Crystals
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.desc=Use the autoclave to crystallize your dust. You can also make Raw Carbon Fiber out of Carbon Dust, and do other things.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.name=§2§lDe la poudre aux cristaux
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.desc=Utilisez l'Autoclave pour cristalliser vos poudres. Vous pouvez aussi fabriquer de la Raw Carbon Fiber à partir de poudre de Carbone, entre autres choses.
 
 # Quest: Basic Circuit Assembler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.name=§2§lBasic Circuit Assembler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.desc=Advanced (HV) circuits require an LV circuit assembling machine. Basic (LV) and Good (MV) ones can also be made much more efficiently with this machine.%n%nHowever, all circuit assemblers need higher tier circuits than the other machines of their tier. This means you have to use MV circuits instead of the LV ones you've been using until now. I know you want it, so make it already!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.desc=Les circuits avancés (HV) nécessitent un Circuit Assembler LV. Les circuits de base (LV) et Good (MV) peuvent aussi être fabriqués bien plus efficacement avec cette machine.%n%nCependant, tous les Circuit Assemblers demandent des circuits d'un tier supérieur à celui des autres machines de leur tier. Vous devez donc utiliser des circuits MV au lieu des circuits LV que vous utilisiez jusqu'ici. Je sais que vous le voulez, alors fabriquez-le donc !
 
 # Quest: Gallium Arsenide Crystal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.name=§2§lGallium Arsenide Crystal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.desc=The diode requires gallium arsenide, and you may be wondering how to get gallium or arsenic this early in the game.%n%nSphalerite and zinc are the primary sources of gallium at this tier.%n%nYou can find sphalerite in sulfur veins at Y 5-20, and the small zinc ores in the Overworld or the Nether at Y 80-210. You won't find much on the Overworld because of obvious reasons. To get additional zinc crushed ore drops, use a Tinker's Construct tool with the Luck (Fortune) enchant on it, probably the best use for all that lapis you got while looking for calcite. Or use a miner, if you don't mind how slow it is.%n%n- Sphalerite can be electrolyzed for a small chance of a gallium dust. Better put in a lot or you might get unlucky.%n- Zinc crushed ore can be washed and then thermal centrifuged or forge hammered and then centrifuged. But you don't always get the crushed ore as a drop, the impure dust doesn't give gallium.%n%nYou can get arsenic from realgar small ores in the Nether at Y 15-85. Centrifuge the dusts in a centrifuge.%n%nOther sources are Tinker's Construct cobalt ore in the nether and cobaltite ore in the Twilight Forest. You can use your EBF for that. You also need to level up your pickaxe to ardite or make an Ironwood Pickaxe or LV Miner to harvest cobalt ore.%n%nAnother way to get gallium and arsenic is with XP buckets in a crafting grid if you're really desperate.%n%nWith your EBF you can combine these two dusts to make a Gallium Arsenide Crystal.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.name=§2§lCristal d'Arséniure de Gallium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.desc=La diode nécessite de l'Arséniure de Gallium, et vous vous demandez peut-être comment obtenir du Gallium ou de l'Arsenic si tôt dans la partie.%n%nLa Sphalérite et le Zinc sont les principales sources de Gallium à ce tier.%n%nVous trouverez de la Sphalérite dans les filons de Soufre entre Y 5 et 20, et des petits minerais de Zinc dans l'Overworld ou le Nether entre Y 80 et 210. Vous n'en trouverez pas beaucoup dans l'Overworld, pour des raisons évidentes. Pour obtenir davantage de minerai de Zinc broyé, utilisez un outil de Tinker's Construct enchanté avec Luck (Fortune) ; c'est sans doute le meilleur usage de tout ce lapis que vous avez récolté en cherchant de la calcite. Ou utilisez un Miner, si sa lenteur ne vous dérange pas.%n%n- La Sphalérite peut être électrolysée pour une petite chance d'obtenir de la poudre de Gallium. Mieux vaut en mettre beaucoup, sinon vous risquez de ne pas avoir de chance.%n- Le minerai de Zinc broyé peut être lavé puis passé à la Thermal Centrifuge, ou concassé au Forge Hammer puis centrifugé. Mais vous n'obtenez pas toujours le minerai broyé en drop, et la poudre impure ne donne pas de Gallium.%n%nVous pouvez obtenir de l'Arsenic à partir des petits minerais de Realgar dans le Nether, entre Y 15 et 85. Centrifugez les poudres dans une Centrifuge.%n%nD'autres sources sont le minerai de Cobalt de Tinker's Construct dans le Nether et le minerai de Cobaltite dans la Twilight Forest. Vous pouvez utiliser votre EBF pour cela. Il vous faudra aussi faire monter votre pioche au niveau Ardite, ou fabriquer une Ironwood Pickaxe ou un Miner LV, pour récolter le minerai de Cobalt.%n%nAutre moyen d'obtenir du Gallium et de l'Arsenic : des seaux d'XP dans une grille de fabrication, si vous êtes vraiment désespéré.%n%nAvec votre EBF, vous pouvez combiner ces deux poudres pour fabriquer un cristal d'Arséniure de Gallium.
 
 # Quest: Handle Tiny Piles Like a K1ng
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.name=§2§lHandle Tiny Piles Like a K1ng
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.desc=Don't you hate having to manually compress all those tiny piles? Well, let me show you how to automate that. A combination of type filter, chest buffer (or super buffer in HV) and packager frees you from that annoying task. The chest buffer can hold up to 9 stacks of tiny piles and the super buffer can hold 256 stacks of tiny dusts, which is more than enough. You can set its mode with a screwdriver on the output side. Set it to 9 to export 9 tiny piles at a time and let the packager compress these into regular dusts.%n%n[note]When you unlock them, Super buffers can be lag sources, so be careful to keep them as empty as possible. If you end up using a multiblock packager, be sure to change the buffer from Stocking mode to Transfer Size mode.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.name=§2§lGérez les petits tas comme un K1ng
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.desc=Vous ne détestez pas devoir compresser à la main tous ces petits tas de poudre ? Laissez-moi vous montrer comment automatiser ça. Une combinaison de Type Filter, de Chest Buffer (ou de Super Buffer en HV) et de Packager vous libère de cette corvée. Le Chest Buffer peut contenir jusqu'à 9 piles de petits tas et le Super Buffer 256 piles de petits tas de poudre, ce qui est largement suffisant. Vous pouvez régler son mode avec un tournevis sur la face de sortie. Réglez-le sur 9 pour exporter 9 petits tas à la fois, et laissez le Packager les compresser en poudres normales.%n%n[note]Quand vous les débloquerez, sachez que les Super Buffers peuvent être des sources de lag : veillez à les garder aussi vides que possible. Si vous finissez par utiliser un Packager multibloc, pensez à passer le buffer du mode Stocking au mode Transfer Size.[/note]
 
 # Quest: Butane and Propane
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.name=§2§lButane and Propane
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.name=§2§lButane et Propane
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.desc=Vous pouvez craquer et distiller un grand nombre de fluides différents à partir de vos produits déjà distillés, tels que le butane, le butène, le butadiène, le benzène, l'éthane, l'éthylène, l'hélium, l'hydrogène, le méthane, l'octane, le propane, le propène, le toluène, et même d'autres fiouls légers, fiouls lourds ou naphtas. Il est parfois possible de les fractionner encore plus. Nombre d'entre eux ne sont utilisés que pour la production d'électricité. Allez voir la feuille de calcul pour plus de détails que cette quête ne peut en contenir.%n%nPour l'instant, trouvez du butane et du propane.
 
 # Quest: Sifting Machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.name=§2§lSifting Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.desc=Do you need flawless or exquisite diamonds, emeralds, rubies or other gems? Or, interested in getting more flint, coal, or whatnot out of your ore? Well then it's time for you to make a Sifting Machine.%n%nYou can find small Zinc ores (look in NEI) or you can search the Nether for Sphalerite.%n%nThe Sifter only takes Purified ores, but you can get these easily by throwing Crushed ores into a Cauldron with water.%n%n[note]Note that you need Polyethylene to make this machine![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.desc=Besoin de diamants, d'émeraudes, de rubis ou d'autres gemmes sans défaut ou exquises ? Ou envie de tirer plus de silex, de charbon ou autre de vos minerais ? Alors il est temps de fabriquer un Sifting Machine.%n%nVous pouvez trouver des petits minerais de Zinc (regardez dans NEI) ou chercher de la Sphalérite dans le Nether.%n%nLe Sifter n'accepte que les minerais purifiés, mais vous pouvez facilement en obtenir en jetant des minerais broyés dans un chaudron rempli d'eau.%n%n[note]Notez qu'il vous faut du Polyéthylène pour fabriquer cette machine ![/note]
 
 # Quest: GT Tanks, the LV Version
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=§2§lGT Tanks, the LV Version
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=The next version of GT tanks stores 64,000L in a tank. It actually requires a pump this time, so it's a little expensive. Consider staying with your ULV ones if you only need basic I/O.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=§2§lRéservoirs GT, version LV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=La version suivante des réservoirs GT stocke 64,000L dans un seul réservoir. Cette fois, elle demande une pompe, elle est donc un peu chère. Restez sur vos réservoirs ULV si vous n'avez besoin que d'entrées/sorties basiques.
 
 # Quest: GT MV Tank...Already?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADfA.name=§2§lGT MV Tank...Already?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADfA.desc=These store 128,000L. The dark steel plates and LV pump make it a little annoying to make, since it needs an EBF.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADfA.name=§2§lUn réservoir GT MV... déjà ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADfA.desc=Ceux-ci stockent 128,000L. Les plaques de Dark Steel et la pompe LV le rendent un peu pénible à fabriquer, puisqu'il faut un EBF.
 
 # Quest: Simple Ore Washer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADgg.name=§2§lSimple Ore Washer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADgg.desc=Too lazy to make an ore washer, yet bored with your non-automatable cauldron? Then the simple washer is the machine for you! It works much faster than a normal ore washer. Of course, you don't get any byproducts, but who cares!%n%nThere are simple washers for every tier up to UV, but the speed doesn't increase much past the HV version.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADgg.desc=Trop paresseux pour fabriquer un Ore Washer, mais lassé de votre chaudron impossible à automatiser ? Alors le Simple Washer est fait pour vous ! Il fonctionne bien plus vite qu'un Ore Washer normal. Bien sûr, vous n'obtenez aucun sous-produit, mais qui s'en soucie ?%n%nIl existe des Simple Washers à chaque tier jusqu'à l'UV, mais la vitesse n'augmente plus beaucoup au-delà de la version HV.
 
 # Quest: Auto Mining
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADog.name=§2§lAuto Mining
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADog.desc=Automatic mining in LV tier? Wow! This nifty machine will collect ores for you, which can be helpful especially in the Nether, as it won't anger pigmen.%n%nPlace up to two stacks of mining pipes in the right slots. Each pipe can go 1 block, and allow the miner to dig 1 block further. If you're above Y64, you may need to pipe more in.%n%nThis machine only needs 8 EU/t to work, so LV batteries in a batbuff work OK if you don't want to make another generator.%n%nThe miner searches for ores in a 17x17 block work area (adjustable with a screwdriver), and comes with a level 1 fortune bonus! Great for gathering additional small ores!%n%nDon't forget to cover it up! These are GT machines, so remember to protect them (and their power sources!) from rain on all sides. And set a waypoint with JourneyMap so you don't forget where you placed it if you place it far away! You'll need to chunkload the miner if you want it to keep working when you're not there.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADog.name=§2§lMinage automatique
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADog.desc=Du minage automatique au tier LV ? Waouh ! Cette machine astucieuse récoltera des minerais pour vous, ce qui est très pratique, surtout dans le Nether, car elle n'énerve pas les cochons-zombies.%n%nPlacez jusqu'à deux piles de Mining Pipes dans les emplacements de droite. Chaque tuyau descend d'1 bloc et permet au Miner de creuser 1 bloc plus loin. Si vous êtes au-dessus de Y64, il vous faudra peut-être plus de tuyaux.%n%nCette machine ne consomme que 8 EU/t, donc des batteries LV dans un Battery Buffer suffisent si vous ne voulez pas fabriquer un autre générateur.%n%nLe Miner cherche des minerais dans une zone de travail de 17x17 blocs (réglable au tournevis), et dispose d'un bonus Fortune de niveau 1 ! Idéal pour récolter davantage de petits minerais !%n%nN'oubliez pas de l'abriter ! Ce sont des machines GT, alors protégez-les (ainsi que leurs sources d'énergie !) de la pluie de tous les côtés. Et placez un waypoint avec JourneyMap pour ne pas oublier où vous l'avez posé si c'est loin ! Il faudra chunkloader le Miner si vous voulez qu'il continue à travailler en votre absence.
 
 # Quest: Automated Sticky Resin Farmer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADqg.name=§2§lAutomated Sticky Resin Farmer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADqg.desc=If you're tired of crafting tons of tree taps, how about a machine that uses power but never breaks? Let's craft an electric tree tap!%n%nIf you're looking for better ways to get Sticky Resin, you might want to consider the Sticky Cane crop. For more information, check the crop quests.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADqg.name=§2§lRécolteur de résine collante automatisé
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADqg.desc=Si vous en avez assez de fabriquer des tonnes de Tree Taps, que diriez-vous d'une machine qui consomme de l'énergie mais ne casse jamais ? Fabriquons un Electric Tree Tap !%n%nSi vous cherchez de meilleurs moyens d'obtenir de la résine collante, pensez à la culture Sticky Cane. Pour plus d'informations, consultez les quêtes sur les cultures.
 
 # Quest: Automated Farmer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADqw.name=§2§lAutomated Farmer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADqw.desc=Your hoe must be getting worn out by now. Why not craft an electric one which never breaks?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADqw.name=§2§lFermier automatisé
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADqw.desc=Votre houe doit commencer à être bien usée. Pourquoi ne pas en fabriquer une électrique, qui ne casse jamais ?
 
 # Quest: Vroooooom...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADwg.name=§2§lVroooooom...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADwg.desc=Tired of standing around to collect all the drops and XP from your diamond spikes?%n%nMake yourself a vacuum hopper to suck up all the drops and XP. Feed the XP into a tank to store it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADwg.desc=Marre de rester planté là à ramasser tous les drops et l'XP de vos Diamond Spikes ?%n%nFabriquez-vous un Vacuum Hopper pour aspirer tous les drops et l'XP. Envoyez l'XP dans un réservoir pour la stocker.
 
 # Quest: Brewing, the Industrial Way
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-Q.name=§2§lBrewing, the Industrial Way
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-Q.desc=If you want brews or alcohol, I recommend you to build one of these. You might have noticed that you cannot build a brewing stand without Thaumcraft. But fear not, you can still find them in secret rooms on the first floor of some roguelike dungeons or ur-ghast towers. Better get searching...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-Q.name=§2§lBrasser, version industrielle
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-Q.desc=Si vous voulez des breuvages ou de l'alcool, je vous recommande d'en construire un. Vous avez peut-être remarqué qu'on ne peut pas fabriquer d'alambic sans Thaumcraft. Mais n'ayez crainte, vous pouvez encore en trouver dans les salles secrètes du premier étage de certains donjons roguelike ou dans les tours d'ur-ghast. Au boulot, cherchez...
 
 # Quest: Ferment Your Brew!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-g.name=§2§lFerment Your Brew!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-g.desc=What's better than lame brews? Alcoholic brews! Get one of these to make beer, rum or even vodka.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-g.name=§2§lFaites fermenter vos breuvages !
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE-g.desc=Quoi de mieux que des breuvages bien fades ? Des breuvages alcoolisés ! Procurez-vous une de ces machines pour faire de la bière, du rhum ou même de la vodka.
 
 # Quest: Be Sure to Get Your Armpits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.name=§2§lBe Sure to Get Your Armpits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.desc=Want to use all that delicious XP to raise your levels? Move the tank with XP above you and attach this convenient shower head to take the XP from the tank.%n%nThis thing can be laggy, so be careful about letting too many XP orbs out of the tank. Apply a redstone signal to turn it off.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.name=§2§lN'oubliez pas les aisselles
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAECw.desc=Envie d'utiliser toute cette délicieuse XP pour monter de niveau ? Placez le réservoir d'XP au-dessus de vous et fixez-y ce pommeau de douche bien pratique pour en tirer l'XP.%n%nCet appareil peut causer du lag, alors faites attention à ne pas laisser sortir trop d'orbes d'XP du réservoir. Envoyez-lui un signal de redstone pour l'éteindre.
 
 # Quest: Lubricant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPA.name=§2§lLubricant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPA.desc=Using lubricant instead of water or distilled water in your cutting machines will increase their speed.%n%nYou can make lubricant out of oil, seed oil, fish oil or creosote in a distillery (or distillation tower later on). If you're able to craft a brewery you can use talc or soapstone to get much more lubricant each cycle.%n%nLube cells are required to make low tier energy hatches, so stockpile a few cells and use the rest to make your cutting machine faster.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPA.name=§2§lLubrifiant
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEPA.desc=Utiliser du Lubrifiant au lieu d'eau ou d'eau distillée dans vos Cutting Machines augmente leur vitesse.%n%nVous pouvez fabriquer du Lubrifiant à partir de pétrole, d'Huile Végétale, d'Huile de Poisson ou de Créosote dans une Distillery (ou plus tard une Distillation Tower). Si vous pouvez fabriquer une Brewery, vous pouvez utiliser du Talc ou de la Pierre à Savon pour obtenir bien plus de Lubrifiant à chaque cycle.%n%nLes cellules de Lubrifiant sont nécessaires pour fabriquer les Energy Hatches de bas tier : faites donc des réserves de quelques cellules et utilisez le reste pour accélérer votre Cutting Machine.
 
 # Quest: Time to Dry Out the Nether
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQg.name=§2§lTime to Dry Out the Nether
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQg.desc=Pumps can do more than pump oil and water. You can go to the nether and pump lava from the huge lava lakes too.%n%nOnce you reach HV, lava can be centrifuged for Silicon Dioxide, Magnesia, Quicklime, Gold, Sapphire, and Tantalite. You can get Silicon, Magnesium, Calcium, Gold, Aluminium, Manganese, Tantalum, and Oxygen out of them.%n%nThis is a good use for your LV pumps once you upgrade to MV pumps for oil. If you get into Thaumcraft or Blood Magic, there are ways to produce lava with magic unlimitedly and easily too.%n%n[note]You'll want either ULV tanks and cells, or BC tanks and a dolly to transport your lava.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQg.name=§2§lIl est temps d'assécher le Nether
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQg.desc=Les pompes ne servent pas qu'à pomper du pétrole et de l'eau. Vous pouvez aussi aller dans le Nether et pomper la lave des immenses lacs de lave.%n%nUne fois en HV, la lave peut être centrifugée en Dioxyde de Silicium, Magnésie, Chaux Vive, Or, Saphir et Tantalite. Vous pouvez en tirer du Silicium, du Magnésium, du Calcium, de l'Or, de l'Aluminium, du Manganèse, du Tantale et de l'Oxygène.%n%nC'est un bon usage pour vos pompes LV une fois que vous serez passé aux pompes MV pour le pétrole. Si vous vous lancez dans Thaumcraft ou Blood Magic, il existe aussi des moyens de produire de la lave par magie, facilement et sans limite.%n%n[note]Il vous faudra soit des réservoirs et cellules ULV, soit des réservoirs BC et un diable pour transporter votre lave.[/note]
 
 # Quest: Diamond Tanks... Ooo, Shiny
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQw.name=§2§lDiamond Tanks... Ooo, Shiny
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQw.desc=After you build a cutting machine you can make some diamond plates for your new 64,000L single block tank.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQw.name=§2§lDes réservoirs en Diamant... Oooh, ça brille
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEQw.desc=Après avoir construit une Cutting Machine, vous pouvez fabriquer des plaques de Diamant pour votre nouveau réservoir monobloc de 64,000L.
 
 # Quest: Firestone Ore/Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§6§lFirestone Ore/Dust
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=Firestone ore is used to make some BC machines like the filler, and some other stuff. Unfortunately, it's in the nether...at the bottom of the lava ocean!%n%nHere are some tips for finding it:%n%n-Firestone only spawns in deep lava, at least 6 deep. It will only replace netherrack, so a fjord filled with soulsand won't have any. Can you think of ways to check the lava depth, and what's down there?%n-Alternatively, if you keep your head at just the correct height above the lava and at the correct angle, you'll be able to see underneath it - surely there must be a hovering jetpack?%n-...or just look for the biome when your cursor is over the JM map. Hell is the default one that has netherrack.%n%nFirestone can be mined with the GT miners, if you place it within horizontal range. Firestone ore and products will cause random fires to start nearby, so get it into a backpack quickly!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.name=§6§lMinerai/poudre de Firestone
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAE_w.desc=Le minerai de Firestone sert à fabriquer certaines machines BC comme le Filler, et quelques autres choses. Malheureusement, il se trouve dans le Nether... au fond de l'océan de lave !%n%nVoici quelques conseils pour en trouver :%n%n- La Firestone n'apparaît que dans la lave profonde, d'au moins 6 blocs. Elle ne remplace que la netherrack, donc un fjord rempli de sable des âmes n'en contiendra pas. Voyez-vous des moyens de vérifier la profondeur de la lave, et ce qui se trouve au fond ?%n- Sinon, si vous gardez la tête juste à la bonne hauteur au-dessus de la lave et sous le bon angle, vous pourrez voir en dessous ; il doit bien exister un jetpack capable de faire du surplace ?%n- ... ou cherchez simplement le biome en passant le curseur sur la carte JM. Hell est le biome par défaut, celui qui contient de la netherrack.%n%nLa Firestone peut être extraite avec les Miners GT, si elle se trouve dans leur portée horizontale. Le minerai de Firestone et ses produits déclenchent des incendies aléatoires à proximité, alors mettez-les vite dans un sac à dos !
 
 # Quest: Ardite and Cobalt
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaw.name=§2§lArdite and Cobalt
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaw.desc=If you have some time you can look for cobalt and ardite in the Nether.%n%nYou've heard rumors of a special wood only found in another land, a forest of Twilight, that can make tools strong enough to mine them.%n%nRemember, you need an electric blast furnace to process these materials before you can make tools with them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaw.name=§2§lArdite et Cobalt
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaw.desc=Si vous avez un peu de temps, vous pouvez chercher du Cobalt et de l'Ardite dans le Nether.%n%nVous avez entendu parler d'un bois spécial qu'on ne trouverait que dans une autre contrée, une forêt crépusculaire, et qui permettrait de fabriquer des outils assez solides pour les extraire.%n%nN'oubliez pas qu'il vous faut un Electric Blast Furnace pour traiter ces matériaux avant de pouvoir en faire des outils.
 
 # Quest: LV Advanced Steam Boiler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbg.name=§2§lLV Advanced Steam Boiler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbg.desc=The LV GT++ Steam Boiler is the next machine you can build to produce steam more efficiently than with the previous single block boilers. It won't use fuel unless it cools below 100 degrees and gains a higher efficiency with longer burning fuels.%n%n[note]Fortunately, it won't explode if you let it run dry but it §nwill waste fuel§r if there is no water present.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbg.name=§2§lAdvanced Steam Boiler LV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEbg.desc=Le Steam Boiler LV de GT++ est la prochaine machine que vous pouvez construire pour produire de la Vapeur plus efficacement qu'avec les chaudières monobloc précédentes. Il ne consomme pas de combustible tant qu'il ne refroidit pas en dessous de 100 degrés, et son rendement augmente avec les combustibles qui brûlent plus longtemps.%n%n[note]Heureusement, il n'explose pas si vous le laissez à sec, mais il §ngaspillera du combustible§r s'il n'y a pas d'eau.[/note]
 
 # Quest: Lossless LV Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEcA.name=§2§lLossless LV Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEcA.desc=How about lossless 32 EU cables? Redstone alloy is a superconductor and will transfer your energy without any loss.%n%nRedstone Alloy is a new alloy which requires an EBF. Mix redstone, silicon and coal by hand, or in the mixer for a better result.%n%n[note]Remember not to mix it up with Red Alloy, that's the ULV one.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEcA.name=§2§lCâbles LV sans perte
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEcA.desc=Que diriez-vous de câbles 32 EU sans perte ? L'Alliage de Redstone est un supraconducteur et transportera votre énergie sans aucune perte.%n%nL'Alliage de Redstone est un nouvel alliage qui nécessite un EBF. Mélangez de la redstone, du Silicium et du charbon à la main, ou dans le Mixer pour un meilleur résultat.%n%n[note]Attention à ne pas le confondre avec l'Alliage Rouge, qui est celui du ULV.[/note]
 
 # Quest: A New Alloy - Magnalium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfQ.name=§2§lA New Alloy - Magnalium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfQ.desc=Wondering why you need magnalium now? It's not for GT machines but for a material update for your crossbow.%n%nYou already made some Aluminium dust before. Getting Aluminium will become easier once you get an EBF or MV electrolyzer.%nIf you can't find any aluminium, search for chests in the Twilight Forest or kill a few monsters. %n%nCombine Aluminium and Magnesium in your alloy smelter to get Magnalium.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfQ.name=§2§lUn nouvel alliage, le Magnalium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEfQ.desc=Vous vous demandez pourquoi il vous faut du Magnalium maintenant ? Ce n'est pas pour les machines GT, mais pour améliorer le matériau de votre arbalète.%n%nVous avez déjà fabriqué de la poudre d'Aluminium auparavant. Obtenir de l'Aluminium deviendra plus facile une fois que vous aurez un EBF ou un Electrolyzer MV.%nSi vous ne trouvez pas d'Aluminium, fouillez les coffres de la Twilight Forest ou tuez quelques monstres. %n%nCombinez de l'Aluminium et du Magnésium dans votre Alloy Smelter pour obtenir du Magnalium.
 
 # Quest: Basic Fluid Solidifier
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEgw.name=§2§lBasic Fluid Solidifier
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEgw.desc=To get your molten fluids back to a solid state you need a fluid solidifier. This is handy for processing molten rubber directly from the chemical reactor. It's used for crossbow bolts as well.%n%nKeep in mind that GT fluids are different from Tinker's Construct. You will mainly work with GT fluids going forward.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEgw.desc=Pour ramener vos fluides en fusion à l'état solide, il vous faut un Fluid Solidifier. C'est pratique pour traiter directement le caoutchouc en fusion qui sort du Chemical Reactor. Il sert aussi pour les carreaux d'arbalète.%n%nGardez à l'esprit que les fluides GT sont différents de ceux de Tinker's Construct. Désormais, vous travaillerez surtout avec les fluides GT.
 
 # Quest: Empty Cells
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEiA.name=§2§lEmpty Cells
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEiA.desc=With your plate bender you're able to make empty cells. The circuit needs to be configured to 12 otherwise you will make foils. Once you have an LV Extruder, you can make cells directly from ingots.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEiA.name=§2§lCellules vides
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEiA.desc=Avec votre Bending Machine, vous pouvez fabriquer des Empty Cells. Le circuit doit être configuré sur 12, sinon vous fabriquerez des feuilles fines. Une fois que vous aurez un Extruder LV, vous pourrez fabriquer des cellules directement à partir de lingots.
 
 # Quest: Quartzite Veins
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjg.name=§2§lQuartzite Veins
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjg.desc=The Nether is full of different kinds of quartz. Go and find a quartzite vein. They're located between Y 80-120. It might be hard to find one, because that area is usually air, you'll just have to keep looking.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjg.name=§2§lFilons de Quartzite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjg.desc=Le Nether regorge de différentes sortes de quartz. Partez à la recherche d'un filon de Quartzite. On les trouve entre Y 80 et 120. Il peut être difficile d'en trouver un, car cette zone est généralement vide ; il faudra simplement continuer à chercher.
 
 # Quest: Lithium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjw.name=§2§lLithium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjw.desc=Lithium can be washed out of Lepidolite Ore or centrifuged out of either Lepidolite Ore or Spodumene Ore. At MV you can electrolyze clay dust for it. Look for canyons to find hardened clay and macerate it for dust.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEjw.desc=Le Lithium peut être obtenu en lavant du minerai de Lépidolite, ou en centrifugeant du minerai de Lépidolite ou de Spodumène. En MV, vous pourrez électrolyser de la poudre d'Argile pour en obtenir. Cherchez des canyons pour trouver de l'argile durcie, et broyez-la en poudre.
 
 # Quest: Sodium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEkA.name=§2§lSodium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEkA.desc=Sodium can be washed out of Glauconite Ore and Sand. It can also be electrolyzed out of salt.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEkA.desc=Le Sodium peut être obtenu en lavant du minerai de Glauconite et du Sable de Glauconite. On peut aussi l'extraire du Sel par électrolyse.
 
 # Quest: Cheaper Annealed Production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAElA.name=§2§lCheaper Annealed Production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAElA.desc=It's both cheaper and faster to make Annealed Copper in the Arc Furnace as opposed to the Electric Blast Furnace. %n%nYou may find this to be quite useful as an MV cable material since it only loses 1 EU per block.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAElA.name=§2§lProduction de Cuivre recuit moins chère
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAElA.desc=Il est à la fois moins cher et plus rapide de fabriquer du Cuivre recuit dans l'Arc Furnace que dans l'Electric Blast Furnace. %n%nVous trouverez peut-être ce matériau très utile pour les câbles MV, puisqu'il ne perd que 1 EU par bloc.
 
 # Quest: Personal Chunkloading
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF-A.name=§2§lPersonal Chunkloading
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF-A.desc=Let's craft a personal chunkloader. It will load a 3x3 chunk area. You need ender fragments, ender pearls, or coins to power the chunkloader.%n%nPersonal anchors can be powered with ender fragments for 1h, ender pearls for 4 hours, and a varying amount depending on the coin used.%n%nPersonal Anchors§r are loaded once the owner visits, and stays loaded while the player is logged in.%n%nPassive Anchors§r are loaded once the owner visits, and stays loaded until the server resets.%n%nWorld Anchors§r are always loaded, even after a server reset.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF-A.name=§2§lChunkloading personnel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF-A.desc=Fabriquons un chunkloader personnel. Il charge une zone de 3x3 chunks. Il vous faut des fragments d'ender, des perles de l'Ender ou des pièces pour alimenter le chunkloader.%n%nLes Personal Anchors peuvent être alimentées avec des fragments d'ender pour 1h, des perles de l'Ender pour 4 heures, et une durée variable selon la pièce utilisée.%n%nLes Personal Anchors§r sont chargées dès que leur propriétaire passe, et restent chargées tant que le joueur est connecté.%n%nLes Passive Anchors§r sont chargées dès que leur propriétaire passe, et restent chargées jusqu'au redémarrage du serveur.%n%nLes World Anchors§r sont toujours chargées, même après un redémarrage du serveur.
 
 # Quest: Chemical Bath
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF2w.name=§2§lChemical Bath
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF2w.desc=Wait, what? You want more byproducts from your ores? A cheaper way to make paper? Well, the chemical bath is perfect for you!%n%nYou'll have to provide liquids like mercury to extract different products like nickel, silver, copper, and platinum (only as PMP) from ores.%n%nFor paper you'll only need some water and wood pulp. Maybe you'll find more uses for it!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF2w.desc=Attendez, quoi ? Vous voulez encore plus de sous-produits de vos minerais ? Une façon moins chère de fabriquer du papier ? Alors le Chemical Bath est fait pour vous !%n%nVous devrez fournir des liquides comme le Mercure pour extraire des minerais différents produits, comme le Nickel, l'Argent, le Cuivre et le Platine (uniquement sous forme de PMP).%n%nPour le papier, il vous suffit d'un peu d'eau et de pâte de bois. Vous lui trouverez peut-être d'autres usages !
 
 # Quest: Biomes Everywhere, But Not the One You Want?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5g.name=§2§lBiomes Everywhere, But Not the One You Want?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5g.desc=Tired of searching all over the map for that Bamboo Forest or Tropical Rainforest? Desperate for clay dust and need to find a Canyon or Mesa biome? Nature's compass will lead you to the biome you're looking for, if it's within its range.%n%nThe compass menu has the following functionality:%n* When Sorted By: Name, you can filter the list by name or its parts. The search is case-insensitive.%n* You can search by keys and their combinations. For instance, name: bamboo, climate: warm, bh: -1.8, tag: forest.%nAll available keys are:%nname,%nclimate [hellish, hot, warm, normal, cold, icy],%nbaseheight | bh (float, can be negative),%nheightvariation | hv (float),%nrainfall | rain (float),%ntemperature | temp (float),%nhumidity [damp, normal, arid],%ntags.%n%nSome things to keep in mind:%n* Biomes from other dimensions show up on the list, don't bother searching for those unless you're in that dimension.%n* In general, the full list has biomes that are not generated by Realistic World Generator, like Sunflower Plains.%n* Radius 10000 means it couldn't find the biome. In this case after the initial search, its menu will show only the biomes in the 10k radius. Use Shift+RMB to see the whole list again.%n* You can try again at a different location - the range is 10k from your current position.%n* Artificially created biomes count, so remove them if you want to find a natural one.%n* There's lots of different 'versions' of biomes under the same category, so if you want a tropical one for tropical bees, there are actually a bunch of places you can get it.%n* For those who don't mind the freeze when searching, the radius can be changed in a config. The HUD position can also be changed in the config.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5g.name=§2§lDes biomes partout, sauf celui que vous cherchez ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5g.desc=Marre de chercher partout sur la carte cette Bamboo Forest ou cette Tropical Rainforest ? Désespérément à court de poudre d'Argile et à la recherche d'un biome Canyon ou Mesa ? Le Nature's Compass vous guidera jusqu'au biome que vous cherchez, s'il est à sa portée.%n%nLe menu de la boussole offre les fonctionnalités suivantes :%n* En mode de tri par nom (Sorted By: Name), vous pouvez filtrer la liste par nom ou par partie de nom. La recherche ne tient pas compte de la casse.%n* Vous pouvez chercher par clés et par combinaisons de clés. Par exemple : name: bamboo, climate: warm, bh: -1.8, tag: forest.%nToutes les clés disponibles sont :%nname,%nclimate [hellish, hot, warm, normal, cold, icy],%nbaseheight | bh (décimal, peut être négatif),%nheightvariation | hv (décimal),%nrainfall | rain (décimal),%ntemperature | temp (décimal),%nhumidity [damp, normal, arid],%ntags.%n%nQuelques points à garder en tête :%n* Les biomes d'autres dimensions apparaissent dans la liste ; inutile de les chercher si vous n'êtes pas dans la dimension correspondante.%n* En général, la liste complète contient des biomes qui ne sont pas générés par Realistic World Generator, comme les Sunflower Plains.%n* Un rayon de 10000 signifie que le biome n'a pas été trouvé. Dans ce cas, après la recherche initiale, le menu n'affichera que les biomes situés dans un rayon de 10k. Faites Maj + clic droit pour revoir la liste complète.%n* Vous pouvez réessayer à un autre endroit : la portée est de 10k autour de votre position actuelle.%n* Les biomes créés artificiellement comptent, alors supprimez-les si vous voulez en trouver un naturel.%n* Il existe de nombreuses « versions » de biomes dans une même catégorie ; si vous voulez un biome tropical pour des abeilles tropicales, il y a en fait tout un tas d'endroits possibles.%n* Pour ceux que le gel du jeu pendant la recherche ne dérange pas, le rayon peut être modifié dans la config. La position du HUD peut aussi y être modifiée.
 
 # Quest: Portable Tanks Too Small?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF7w.name=§2§lPortable Tanks Too Small?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF7w.desc=How about large steel fluid cells instead? Each holds 8000L, and they can stack to 64. Unfortunately, you have to load and unload them using a machine's interface - like ULV tanks for example - but hey, 512 buckets in a single slot is pretty good!%n%nYou cannot use these cells directly in the world, like BC tanks, or to dump the fluid on the ground.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF7w.name=§2§lRéservoirs portables trop petits ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF7w.desc=Et pourquoi pas des grandes cellules de fluide en Acier ? Chacune contient 8000L, et elles s'empilent par 64. Malheureusement, vous devez les remplir et les vider via l'interface d'une machine (comme les réservoirs ULV, par exemple), mais bon, 512 seaux dans un seul emplacement, c'est plutôt pas mal !%n%nVous ne pouvez pas utiliser ces cellules directement dans le monde, comme les réservoirs BC, ni pour vider le fluide par terre.
 
 # Quest: Diamond Spikes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBQ.name=§2§lDiamond Spikes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBQ.desc=Diamond Spikes damages mobs (or you!) that touch any side of it other than the bottom. With 7 attack damage, the Spike does as much damage as a Diamond Sword. Mobs will not walk around the block, but will try to walk over it as if it were a regular solid block. Most explosions won't destroy the Spike because it has a very high blast resistance.%n%nThese can also be enchanted with all the enchantments a regular diamond sword would receive. This includes Looting and Sharpness, which function exactly as it does on a sword. Interestingly, mobs killed by the Diamond Spike will return experience as if killed by the player.%n%nThere are weaker versions, but who wants that? If you happen to want the last hit, you might want the wooden ones though.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFBQ.desc=Les Diamond Spikes blessent les créatures (ou vous !) qui touchent n'importe laquelle de leurs faces, sauf celle du dessous. Avec 7 points de dégâts d'attaque, la Spike inflige autant de dégâts qu'une épée en diamant. Les créatures ne contournent pas le bloc, mais essaient de marcher dessus comme s'il s'agissait d'un bloc solide normal. La plupart des explosions ne détruisent pas la Spike, car elle a une très grande résistance aux explosions.%n%nElles peuvent aussi recevoir tous les enchantements d'une épée en diamant normale. Cela inclut Butin et Tranchant, qui fonctionnent exactement comme sur une épée. Fait intéressant, les créatures tuées par la Diamond Spike donnent de l'expérience comme si elles avaient été tuées par le joueur.%n%nIl en existe des versions plus faibles, mais qui en voudrait ? Si vous tenez à porter le dernier coup vous-même, les versions en bois pourraient toutefois vous intéresser.
 
 # Quest: Black and Decker
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGAQ.name=§2§lBlack and Decker
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGAQ.desc=Tired of having to replace tools all the time because they constantly break? Now that you can make batteries, it's time to make some electric versions of the Screwdriver and Wrench! Charge them up like Batteries, and they'll last much longer than the non-electric versions of these tools.%n%nYou can use Lithium Batteries, or if you're on a budget, Cadmium or Sodium Batteries instead. This does reduce their energy capacity though. Later on, Vibrant Alloy will make excellent tools with great durability. There are, however, a multitude of other great materials that you may have access to, so take a look around in NEI and decide for yourself.%n%nThere are also MV and HV versions, though they require that you can process Aluminium or Stainless Steel, respectively.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGAQ.desc=Marre de devoir remplacer vos outils en permanence parce qu'ils cassent sans arrêt ? Maintenant que vous pouvez fabriquer des batteries, il est temps de fabriquer des versions électriques du tournevis et de la clé ! Rechargez-les comme des batteries, et ils dureront bien plus longtemps que leurs versions non électriques.%n%nVous pouvez utiliser des batteries au Lithium ou, si votre budget est serré, des batteries au Cadmium ou au Sodium. Leur capacité énergétique sera toutefois réduite. Plus tard, le Vibrant Alloy permettra de fabriquer d'excellents outils très durables. Il existe cependant une multitude d'autres excellents matériaux auxquels vous aurez peut-être accès, alors fouillez un peu dans NEI et décidez par vous-même.%n%nIl en existe aussi des versions MV et HV, mais elles nécessitent de pouvoir traiter respectivement l'Aluminium ou l'Acier inoxydable.
 
 # Quest: Magnesium Source
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBA.name=§2§lMagnesium Source
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBA.desc=Magnesite, the source of Magnesium can be found in the Twilight Forest at Y 10-40. Fullers Earth can be found on the Overworld at Y 50-70. Marble dust is a great source of Magnesium too.%nOther options in LV are Pyrope, Olivine, or Ashes.%n%n§3You only need one of the three to complete the quest.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBA.name=§2§lSource de Magnésium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGBA.desc=La Magnésite, source de Magnésium, se trouve dans la Twilight Forest entre Y 10 et 40. La Terre à foulon se trouve dans l'Overworld entre Y 50 et 70. La poudre de Marbre est aussi une excellente source de Magnésium.%nLes autres options en LV sont le Pyrope, l'Olivine ou les Cendres.%n%n§3Vous n'avez besoin que d'une des trois pour terminer la quête.
 
 # Quest: Node Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPw.name=§2§lNode Upgrades
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPw.desc=Nodes can take many upgrades. For now, try building a World Interaction Upgrade. With it, you can set up simple autocrafting.%n%nPut a WIU in a transfer node attached to a crafting table. On the other side of the table, the 3x3 area is now treated as a crafting grid. Place items in inventories on the other side and if they make a valid recipe, the WIU will craft it. To speed it up, you will need to wait until HV for stainless steel.%n%nAlso, if you place a node on a block of cobble that has lava and water next to it, and a WIU in it, it will produce cobble for you automatically. Use upgrades to get more at a time and faster.%n%n[warn]The WIU can NOT be used for infinite water in GTNH.[/warn]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPw.name=§2§lAméliorations des nodes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGPw.desc=Les nodes acceptent de nombreuses améliorations. Pour l'instant, essayez de fabriquer une World Interaction Upgrade. Avec elle, vous pouvez mettre en place une fabrication automatique simple.%n%nPlacez une WIU dans un Transfer Node relié à un établi. De l'autre côté de l'établi, la zone de 3x3 est désormais traitée comme une grille de fabrication. Placez des objets dans des inventaires de l'autre côté : s'ils forment une recette valide, la WIU la fabriquera. Pour l'accélérer, il faudra attendre le HV et l'Acier inoxydable.%n%nDe plus, si vous placez un node sur un bloc de pierre taillée à côté duquel se trouvent de la lave et de l'eau, avec une WIU dedans, il produira automatiquement de la pierre taillée pour vous. Utilisez des améliorations pour en obtenir plus à la fois, et plus vite.%n%n[warn]La WIU ne peut PAS servir à produire de l'eau infinie dans GTNH.[/warn]
 
 # Quest: Oilsand, or How You Get Heavy Oil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_w.name=§2§lOilsand, or How You Get Heavy Oil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_w.desc=Oilsand is another way to get heavy oil. Maybe you got lucky and found some in a mountainous biome. With your centrifuge you're able to get heavy oil and sand out of the ore. The veins can be found between Y 50-80.%n%nSadly, you can't use heavy oil until MV, so just stick them in a barrel or something until then.%n%n[note]Until MV it can only be used for lubricant and burning in a semifluid generator.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_w.name=§2§lLes Sables Bitumineux, ou comment obtenir du Pétrole Lourd
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAG_w.desc=Les Sables Bitumineux sont un autre moyen d'obtenir du Pétrole Lourd. Vous avez peut-être eu de la chance et en avez trouvé dans un biome montagneux. Avec votre Centrifuge, vous pouvez extraire du minerai du Pétrole Lourd et du sable. On trouve ces filons entre Y 50 et 80.%n%nMalheureusement, vous ne pouvez pas utiliser le Pétrole Lourd avant le MV, alors stockez-le dans un tonneau ou autre en attendant.%n%n[note]Jusqu'au MV, il ne peut servir qu'à faire du Lubrifiant ou à être brûlé dans un Semifluid Generator.[/note]
 
 # Quest: Akihabara
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGdQ.name=§2§lAkihabara
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGdQ.desc=Tired of talking one by one with every villager to determine their trades? A trading post will show you all available trades from villagers in the area.%n%nYou'll need an Assembler to finish it up.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGdQ.desc=Marre de parler un par un à chaque villageois pour connaître ses échanges ? Un Trading Post vous montrera tous les échanges disponibles auprès des villageois de la zone.%n%nIl vous faudra un Assembler pour le terminer.
 
 # Quest: I Guess it's an Inkjet?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAA.name=§2§lI Guess it's an Inkjet?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAA.desc=When you use the seismic prospector, you'll need a scanner and a printer to create the books full of tasty ores and delicious fluids.%n%nUse ink sacs in a fluid extractor to get squid ink. Then move it using pipes or cells.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAA.name=§2§lJe suppose que c'est une imprimante à jet d'encre ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHAA.desc=Quand vous utiliserez le Seismic Prospector, il vous faudra un Scanner et un Printer pour créer les livres remplis de savoureux minerais et de délicieux fluides.%n%nUtilisez des poches d'encre dans un Fluid Extractor pour obtenir de l'encre de calmar. Déplacez-la ensuite avec des tuyaux ou des cellules.
 
 # Quest: Better Gallium and Arsenic Sources
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.name=§2§lBetter Gallium and Arsenic Sources
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.name=§2§lDe meilleures sources de Gallium et d'Arsenic
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHBA.desc=Il y a deux façons d'augmenter votre Gallium.%n%n1. Élever des Abeilles à Zinc et traiter les Rayons de Gallium avec de l'Acide Chlorhydrique. L'abeille n'est pas trop loin dans la progression de l'élevage et le traitement ne nécessite que du LV.%n%n2. Utilisez les Plants IC2 sous l'onglet Agriculture pour obtenir des Feuilles de Galvanie, pour multiplier par 4 vos minerais de Zinc et de Sphalérite broyés en minerais purifiés.%n%n3. Utilisez le Broyeur HV sur les Minerais Centrifugés pour avoir 10% de chance d'obtenir une Poudre de Gallium entière.%n%n4. Utilisez les riches minerais de Bauxite de la Lune.%n%n5. Tuez les Sapeurs à Calotte Rouge dans la Forêt du Crépuscule. Les Kobolds laissent également tomber de l'Arsenic.%n%n6. Dupliquez les Pépites avec Thaumcraft. Pour l'Arsenic, le minerai de Cobaltite dans la Forêt du Crépuscule est une excellente source. Pour plus d'informations, allez à la Quête "Cobalt et Arsenic à partir de Cobaltite".%n%nLa Cobaltite peut également être multipliée par 4 par le Nickelback d'IC2.
 
 # Quest: Filling the World With Fluids...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNg.name=§2§lFilling the World With Fluids...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNg.desc=Need to make a lake? Look no further than the Flood Gate. It will fill the world with any fluid you provide it, up to the level below the gate. This can get kinda laggy in a large area, so keep that in mind.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNg.name=§2§lRemplir le monde de fluides...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHNg.desc=Besoin de créer un lac ? Ne cherchez pas plus loin que la Flood Gate. Elle remplit le monde avec n'importe quel fluide que vous lui fournissez, jusqu'au niveau situé sous la vanne. Cela peut causer pas mal de lag sur une grande zone, gardez-le en tête.
 
 # Quest: Throwing Out the Trash
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHRw.name=§2§lThrowing Out the Trash
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHRw.desc=Already have barrels full of cobblestone? The voiding drop filter can be set up to automatically void any item on pickup. Cobble, dirt, arrows, saplings, etc. It's handy for when you don't have much room for junk.%n%nTo use, right-click the item filter you get as a reward. Put the things you want voided in the item filter list by clicking in there with them. Esc, then right-click the voiding drop filter, and put the item filter inside.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHRw.name=§2§lSortir les poubelles
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHRw.desc=Vous avez déjà des tonneaux remplis de pierre taillée ? Le Voiding Drop Filter peut être configuré pour détruire automatiquement n'importe quel objet ramassé. Pierre taillée, terre, flèches, pousses, etc. C'est pratique quand vous n'avez pas beaucoup de place pour les déchets.%n%nPour l'utiliser, faites un clic droit avec l'Item Filter que vous recevez en récompense. Placez les objets à détruire dans la liste de l'Item Filter en cliquant dedans avec eux. Appuyez sur Échap, puis faites un clic droit avec le Voiding Drop Filter et placez l'Item Filter à l'intérieur.
 
 # Quest: Enderman Smelterman
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSQ.name=§2§lEnderman Smelterman
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSQ.desc=Need enderpearls? Getting them by killing endermen can be dangerous. Instead of doing that, put an enderman into a smeltery with hot fluids and use a gem cast to get guaranteed pearls.%n%nThe higher the hit points, the longer they'll last, so the more pearls you get. If you can find a regenerating enderman, or an enderman spawner, you'll have all the pearls you would ever want. Later on with EnderIO you can even create your own powered spawner to make endermen on-demand. Or just place it in the End and move the mobs inside.%n%nUse a nametag on a regenerating enderman to make sure he doesn't despawn. You'll want to keep him from seeing the sky or else he'll teleport away.%n%nIf you haven't found a regen enderman yet, you can buy enderman spawn eggs to put into your smeltery with coins. Maybe you'll get lucky and get a regenerating one. As a slightly more volatile alternative, an ender creeper works too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSQ.name=§2§lEnderman à la fonderie
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHSQ.desc=Besoin de perles de l'Ender ? Les obtenir en tuant des endermen peut être dangereux. Au lieu de ça, placez un enderman dans une Smeltery contenant des fluides chauds et utilisez un moule à gemme pour obtenir des perles à coup sûr.%n%nPlus il a de points de vie, plus il tiendra longtemps, et plus vous obtiendrez de perles. Si vous trouvez un enderman régénérant, ou un spawner d'endermen, vous aurez toutes les perles que vous pourriez désirer. Plus tard, avec EnderIO, vous pourrez même créer votre propre Powered Spawner pour produire des endermen à la demande. Ou placez-la simplement dans l'End et faites entrer les créatures dedans.%n%nUtilisez une étiquette sur un enderman régénérant pour qu'il ne disparaisse pas. Veillez à ce qu'il ne voie pas le ciel, sinon il se téléportera ailleurs.%n%nSi vous n'avez pas encore trouvé d'enderman régénérant, vous pouvez acheter avec des pièces des œufs d'apparition d'enderman à placer dans votre Smeltery. Avec un peu de chance, vous tomberez sur un régénérant. Alternative un peu plus explosive : un ender creeper fonctionne aussi.
 
 # Quest: Electric Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHXw.name=§2§lElectric Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHXw.desc=It's, like, faster than a normal one I guess? But uses power.%n%nIf you would prefer to use steam instead, then the multiblock is also a good option.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHXw.desc=Il est genre plus rapide qu'un four normal, je crois ? Mais il consomme de l'énergie.%n%nSi vous préférez utiliser de la Vapeur, le multibloc est aussi une bonne option.
 
 # Quest: One in a Million
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcw.name=§2§lOne in a Million
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcw.desc=Or 4? Need to store ludicrous amounts of cobble? Stone dust? Saplings? Super chests are the thing to use. A Super Chest I can store 4 million items, worry free. You will need to take items out manually 64 at a time, or use conveyors etc. to extract them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcw.name=§2§lUn sur un million
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHcw.desc=Ou 4 ? Besoin de stocker des quantités absurdes de pierre taillée ? De poudre de pierre ? De pousses ? Les Super Chests sont faits pour ça. Un Super Chest I peut stocker 4 millions d'objets, sans souci. Vous devrez retirer les objets à la main par 64, ou utiliser des convoyeurs, etc., pour les extraire.
 
 # Quest: Craftsman Used to Mean Quality
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHdw.name=§2§lCraftsman Used to Mean Quality
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHdw.desc=Now that you have an EBF you can make vanadiumsteel GT tools. With 192k durability they'll last you a long time.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHdw.name=§2§lLe travail d'artisan, gage de qualité
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHdw.desc=Maintenant que vous avez un EBF, vous pouvez fabriquer des outils GT en Acier au Vanadium. Avec 192k de durabilité, ils vous dureront longtemps.
 
 # Quest: Too Much Fluid??
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHfg.name=§2§lToo Much Fluid??
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHfg.desc=Impossible! If you really think you have so much fluid that you want to just get rid of it, make a fluid trashcan. You can route as much excess creosote or whatever into it that you want.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHfg.name=§2§lTrop de fluide ??
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHfg.desc=Impossible ! Si vous pensez vraiment avoir tellement de fluide que vous voulez simplement vous en débarrasser, fabriquez une poubelle à fluides. Vous pouvez y envoyer autant de Créosote excédentaire (ou autre) que vous le souhaitez.
 
 # Quest: Automated Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXg.name=§2§lAutomated Crafting
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXg.desc=The Auto Workbench is a simple automated crafting system. You place ghost items in the grid to create the recipe, and place components in the inventory. They will slowly be converted into the crafted item. While not fast and can only do 1 recipe each, it does support automation - only items acceptable to the recipe are allowed in the inventory. It does not use power.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXg.name=§2§lFabrication automatisée
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXg.desc=L'Auto Workbench est un système de fabrication automatisée simple. Vous placez des objets fantômes dans la grille pour définir la recette, et les composants dans l'inventaire. Ils seront lentement convertis en l'objet fabriqué. Elle n'est pas rapide et ne gère qu'une recette à la fois, mais elle prend en charge l'automatisation : seuls les objets acceptés par la recette peuvent entrer dans l'inventaire. Elle ne consomme pas d'énergie.
 
 # Quest: Choices, Choices
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXw.name=§2§lChoices, Choices
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXw.name=§2§lQue de choix, que de choix
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIXw.desc=Besoin d'une fiche sur les choix de carburants ? Nous ne l'avons pas, mais nous avons des suggestions. Vous pouvez utiliser de la vapeur jusqu'à IV, mais au-delà de MV, cela devient assez pénible. En LV, vous pouvez commencer à raffiner le pétrole pour obtenir soit du fioul léger pour un générateur à combustion, soit du gaz de raffinage pour une turbine à gaz. Une fois que vous aurez atteint le tier MV, vous pourrez passer de la vapeur au benzène renouvelable (gaz) à partir de vos bûches. D'autres alternatives renouvelables sont le bio diesel (combustion) à base d'huile de poisson ou d'huile végétale. L'huile végétale peut provenir des arachides de Pam, des cultures de colza IC2 ou des noix de Forestry.%n%nEn MV, vous pouvez également améliorer votre fioul léger avec du fioul lourd pour obtenir du diesel. Lorsque vous atteignez HV, transformez le diesel ou le biodiesel en diesel à indice de cétane élevé. En EV, vous pouvez fabriquer de l'essence à indice d'octane élevé (HOG), mais c'est complexe et vous devrez revoir toute votre installation de distillation du pétrole, car elle utilise des fluides différents de ceux du cétane.%n%nEV introduit la grande turbine à gaz, la grande turbine à vapeur, la grande turbine à vapeur HP et le grand moteur à combustion, qui sont des versions plus efficaces des précédentes. Les trois premiers nécessitent des turbines. Pour les opérations de faible puissance, ou pour les joueurs dévoués qui souhaitent mettre en place un système d'autocrafting, vous pouvez commencer à utiliser des panneaux solaires en MV.
 
 # Quest: Fertilized Earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJWQ.name=§2§lFertilized Earth
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJWQ.name=§2§lTerre fertilisée
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJWQ.desc=Avec un réacteur chimique, vous pouvez fabriquer de la terre fertilisée. Elle pousse plus vite que les terres labourées normales, ce qui permet aux cultures de mûrir plus rapidement. En prime, elle peut être labourée à l'abri de l'eau et n'est pas endommagée lorsque vous tombez dessus.%n%nIl est possible d'y placer des semences IC2, mais cela n'accélère pas leur croissance.
 
 # Quest: Where Does it All Go?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYw.name=§2§lWhere Does it All Go?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYw.desc=The time may come when you finally decide you have enough of a fluid. This overflow cover lets you tune how full a tank can get. You can put it on a smaller tank leading to a bigger tank, and when the bigger tank gets full, the fluid will backup into the smaller tank. Once the fluid level in the smaller tank exceeds the setting on the cover, it will start voiding fluid.%n%nHandy for an oxygen centrifuge setup when you don't want to stop from excess nitrogen.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYw.name=§2§lOù tout cela s'en va-t-il ?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJYw.desc=Il viendra peut-être un moment où vous déciderez enfin que vous avez assez d'un fluide. Ce cover Overflow vous permet de régler le niveau de remplissage maximal d'un réservoir. Vous pouvez le placer sur un petit réservoir qui mène à un plus grand : quand le grand réservoir est plein, le fluide reflue dans le petit. Une fois que le niveau de fluide du petit réservoir dépasse le réglage du cover, celui-ci commence à détruire le fluide.%n%nPratique pour une installation de centrifugation d'Oxygène quand vous ne voulez pas qu'elle s'arrête à cause de l'Azote excédentaire.
 
 # Quest: Long Distance Fluid Pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjA.name=§2§lLong Distance Fluid Pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjA.desc=Wouldn't it be great if you could transport your oil from a far away oil spout or oil field by pipes to your base?%n%nThis is not a problem anymore. Connect your setup on the start and end point with a Long Distance Fluid Pipeline block. In between use the associated pipe blocks - the total distance between endpoints must be more than 64 blocks apart (4 or more chunks). There can only be one start and end point per pipeline.%n%nTo actually connect it, you need to align the start LDFP block such that the arrows are facing inwards, and the opposite side of it has a LDFPP block. Put a pump on the side of the block that has the arrows and set to import. It will now attempt to import fluid to the endpoint LDFP. §2This will go as fast as you can put fluid into it.§r%n%nDo the opposite on the far side, except you don't need a pump.%n%nNow you only need to chunkload the start and end points and the fluid will be "teleported" to you.%n%nOf course, later on you'll probably use ender tanks to §oactually§r teleport the fluid, especially from other dims.%n%nThis setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjA.name=§2§lPipeline de fluides longue distance
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJjA.desc=Ce ne serait pas génial de pouvoir transporter par tuyaux votre pétrole depuis un geyser ou un gisement de pétrole lointain jusqu'à votre base ?%n%nCe n'est plus un problème. Raccordez votre installation au point de départ et au point d'arrivée avec un bloc Long Distance Fluid Pipeline. Entre les deux, utilisez les blocs de tuyau associés ; la distance totale entre les extrémités doit dépasser 64 blocs (4 chunks ou plus). Il ne peut y avoir qu'un seul point de départ et un seul point d'arrivée par pipeline.%n%nPour réellement le connecter, vous devez orienter le bloc LDFP de départ de façon à ce que les flèches pointent vers l'intérieur, avec un bloc LDFPP sur sa face opposée. Placez une pompe sur la face du bloc qui porte les flèches et réglez-la en importation. Elle essaiera alors d'importer du fluide vers le LDFP d'arrivée. §2Le débit est aussi rapide que la vitesse à laquelle vous y injectez du fluide.§r%n%nFaites l'inverse à l'autre extrémité, sauf qu'il n'y a pas besoin de pompe.%n%nIl ne vous reste plus qu'à chunkloader les points de départ et d'arrivée, et le fluide vous sera « téléporté ».%n%nBien sûr, plus tard, vous utiliserez sans doute des Ender Tanks pour téléporter §oréellement§r le fluide, notamment depuis d'autres dimensions.%n%nCette installation ne cause aucun lag dans les blocs de tuyau, elle est donc aussi utile dans votre base si vous voulez réduire le lag.
 
 # Quest: Chlorine, Your New Best Friend
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKiQ.name=§2§lChlorine, Your New Best Friend
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKiQ.desc=Chlorine is a fluid that is used in significant quantities throughout the game, so you might as well get used to collecting it now.%n%nYou can electrolyze Salt, Rock Salt, Sodalite (finally a use!), or Salt Water for it. Since you'll need so much, you may wish to consider using your first Super Tank to hold it all.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKiQ.name=§2§lLe Chlore, votre nouveau meilleur ami
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKiQ.desc=Le Chlore est un fluide utilisé en quantités importantes tout au long de la partie, alors autant prendre dès maintenant l'habitude d'en récolter.%n%nVous pouvez en obtenir en électrolysant du Sel, du Sel Gemme, de la Sodalite (enfin une utilité !) ou de l'Eau Salée. Comme il vous en faudra énormément, pensez à utiliser votre premier Super Tank pour tout stocker.
 
 # Quest: Faster Steam Transportation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALIQ.name=§2§lFaster Steam Transportation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALIQ.desc=Do you think that steam fluid transport is far too slow? Your LV pumps got you down, doing only 640L/s? Then it's time to make the 32 times faster LV steam valves!%n%nThey only work with steam and are just as fast as the valve on a Railcraft tank (if you put it on the bottom side).%n%nThere are also MV, HV, EV, and IV versions.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALIQ.name=§2§lTransport de Vapeur plus rapide
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALIQ.desc=Vous trouvez le transport de Vapeur bien trop lent ? Vos pompes LV vous dépriment, avec leurs maigres 640L/s ? Alors il est temps de fabriquer les Steam Valves LV, 32 fois plus rapides !%n%nElles ne fonctionnent qu'avec la Vapeur et sont aussi rapides que la vanne d'un réservoir Railcraft (si vous la placez sur la face du dessous).%n%nIl en existe aussi des versions MV, HV, EV et IV.
 
 # Quest: Long Distance Item Pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALIg.name=§2§lLong Distance Item Pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALIg.desc=Wouldn't it be great if you could transport ores from a far away ore vein by pipes to your base?%n%nThis is not a problem anymore. Connect your setup on the start and end point with a Long Distance Item Pipeline block. In between use the associated pipe blocks - the total distance between endpoints must be more than 64 blocks apart (4 or more chunks). There can only be one start and end point per pipeline.%n%nTo actually connect it, you need to align the start LDIP block such that the arrows are facing inwards, and the opposite side of it has a LDIPP block. Put a conveyor on the side of the block that has the arrows and set to import. It will now attempt to import stuff to the endpoint LDIP. This will go as fast as you can put items into it.§r%n%nDo the opposite on the far side, except you don't need a conveyor.%n%nNow you only need to chunkload the start and end points and the items will be "teleported" to you.%n%nOf course, later on you'll probably use ender chests to §oactually§r teleport the ore, especially from other dims.%n%nThis setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALIg.name=§2§lPipeline d'objets longue distance
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALIg.desc=Ce ne serait pas génial de pouvoir transporter par tuyaux les minerais d'un filon lointain jusqu'à votre base ?%n%nCe n'est plus un problème. Raccordez votre installation au point de départ et au point d'arrivée avec un bloc Long Distance Item Pipeline. Entre les deux, utilisez les blocs de tuyau associés ; la distance totale entre les extrémités doit dépasser 64 blocs (4 chunks ou plus). Il ne peut y avoir qu'un seul point de départ et un seul point d'arrivée par pipeline.%n%nPour réellement le connecter, vous devez orienter le bloc LDIP de départ de façon à ce que les flèches pointent vers l'intérieur, avec un bloc LDIPP sur sa face opposée. Placez un convoyeur sur la face du bloc qui porte les flèches et réglez-le en importation. Il essaiera alors d'importer des objets vers le LDIP d'arrivée. Le débit est aussi rapide que la vitesse à laquelle vous y injectez des objets.§r%n%nFaites l'inverse à l'autre extrémité, sauf qu'il n'y a pas besoin de convoyeur.%n%nIl ne vous reste plus qu'à chunkloader les points de départ et d'arrivée, et les objets vous seront « téléportés ».%n%nBien sûr, plus tard, vous utiliserez sans doute des Ender Chests pour téléporter §oréellement§r le minerai, notamment depuis d'autres dimensions.%n%nCette installation ne cause aucun lag dans les blocs de tuyau, elle est donc aussi utile dans votre base si vous voulez réduire le lag.
 
 # Quest: Prison Gangs are Obsolete
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALLQ.name=§2§lPrison Gangs are Obsolete
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALLQ.desc=Want lots of cobble, stone, obsidian, or another type of rock? This is the machine for you!%n%n§lCobble:§r Water and lava on the side.%n§lStone:§r Water on the side, lava on top.%n§lObsidian:§r Lava on top or side, Water on side, and redstone in the machine.%n§lNetherrack:§r Lava on top or side, Water on side, and glowstone in the machine.%n§lBasalt:§r Lava on side, soul sand below, and one packed ice in the machine.%n§lCobbled Deepslate:§r Lava on side, soul sand below, and one magma block in the machine.%n%nYou of course need to power it. If you don't want to spend power on cobble, do it the ExU way with the WIU.%n%nYou need to toggle the ghost circuit to circuit 1 or 6 depending on the recipe, check NEI.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALLQ.name=§2§lLes bagnards, c'est dépassé
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALLQ.desc=Vous voulez beaucoup de pierre taillée, de roche, d'obsidienne ou d'un autre type de pierre ? Cette machine est faite pour vous !%n%n§lPierre taillée :§r eau et lave sur les côtés.%n§lRoche :§r eau sur le côté, lave au-dessus.%n§lObsidienne :§r lave au-dessus ou sur le côté, eau sur le côté, et de la redstone dans la machine.%n§lNetherrack :§r lave au-dessus ou sur le côté, eau sur le côté, et de la glowstone dans la machine.%n§lBasalte :§r lave sur le côté, sable des âmes en dessous, et un bloc de glace compacte dans la machine.%n§lDeepslate taillée :§r lave sur le côté, sable des âmes en dessous, et un bloc de magma dans la machine.%n%nBien sûr, il faut l'alimenter. Si vous ne voulez pas dépenser d'énergie pour de la pierre taillée, faites-le à la manière d'ExU, avec la WIU.%n%nVous devez régler le ghost circuit sur 1 ou 6 selon la recette ; consultez NEI.
 
 # Quest: Magnets != Magic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALSw.name=§2§lMagnets != Magic
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALSw.desc=Tired of running after ore or other blocks? Use a magnet! It has a limited range, but who cares? Just remember to turn it on.%n%nIn HV you can craft it into the better one, if you still need a magnet by then.%n%n[note]Tips:%n- This can be toggled using the "Toggle Magnet" Draconic Evolution keybind%n%n- The collection noise it makes can be disabled in the Draconic Evoution mod settings.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALSw.name=§2§lAimants != Magie
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALSw.desc=Marre de courir après les minerais ou d'autres blocs ? Utilisez un aimant ! Sa portée est limitée, mais qui s'en soucie ? N'oubliez simplement pas de l'activer.%n%nEn HV, vous pourrez le transformer en un meilleur modèle, si vous avez encore besoin d'un aimant d'ici là.%n%n[note]Astuces :%n- Il peut être activé/désactivé avec le raccourci « Toggle Magnet » de Draconic Evolution%n%n- Le bruit qu'il fait en ramassant les objets peut être désactivé dans les réglages du mod Draconic Evolution.[/note]
 
 # Quest: Cobalt and Arsenic from Cobaltite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALYg.name=§2§lCobalt and Arsenic from Cobaltite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALYg.desc=Can't find any Cobalt in the Nether? Too lazy to bother finding some Ironwood in the Twilight Forest, even though it's super duper easy?%n%nYou can make it with your EBF now using Cobaltite Ore from the Twilight Forest and Oxygen to get Cobalt. It's a little complicated, but you also get arsenic out of it.%n%nYou can also just electrolyze it out in MV, which is what you §oshould§r be doing instead of this, but assuming you actually need it this method has higher yields (at the cost of carbon of course).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALYg.name=§2§lCobalt et Arsenic à partir de Cobaltite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALYg.desc=Vous ne trouvez pas de Cobalt dans le Nether ? Trop paresseux pour aller chercher de l'Ironwood dans la Twilight Forest, alors que c'est hyper méga facile ?%n%nVous pouvez désormais en fabriquer avec votre EBF, en utilisant du minerai de Cobaltite de la Twilight Forest et de l'Oxygène pour obtenir du Cobalt. C'est un peu compliqué, mais vous en tirez aussi de l'Arsenic.%n%nVous pouvez aussi simplement l'extraire par électrolyse en MV, ce que vous §odevriez§r faire plutôt que ceci, mais si vous en avez réellement besoin, cette méthode a un meilleur rendement (au prix du Carbone, bien sûr).
 
 # Quest: Damascus Steel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALYw.name=§2§lDamascus Steel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALYw.desc=Damascus Steel is one of the hardest materials you can get, at your current tier. It's time to craft a stack of Damascus Steel.%n%nYou can't get it through the Mixer yet, but there is a crafting recipe.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALYw.name=§2§lAcier Damas
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALYw.desc=L'Acier Damas est l'un des matériaux les plus durs que vous puissiez obtenir à votre tier actuel. Il est temps de fabriquer une pile d'Acier Damas.%n%nVous ne pouvez pas encore l'obtenir avec le Mixer, mais il existe une recette de fabrication.
 
 # Quest: Aluminium Tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALow.name=§2§lAluminium Tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALow.desc=If you make some Double Aluminium Plates, you can make a new 96,000L single block tank.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALow.name=§2§lRéservoir en Aluminium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALow.desc=Si vous fabriquez des plaques doubles d'Aluminium, vous pourrez fabriquer un nouveau réservoir monobloc de 96,000L.
 
 # Quest: Mica Ore
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALpw.name=§2§lMica Ore
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALpw.desc=Mica is a very rare but useful ore. You need it in order to craft your coils for the Electric Blast Furnace. Only for cupronickel coils there is a replacement recipe. If you have no luck in finding this vein yet try to look for it with a Prospector once you get them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALpw.name=§2§lMinerai de Mica
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALpw.desc=Le Mica est un minerai très rare mais utile. Vous en avez besoin pour fabriquer les bobines de l'Electric Blast Furnace. Seules les bobines en Cupronickel ont une recette de remplacement. Si vous n'avez pas encore eu la chance de trouver ce filon, essayez de le chercher avec un Prospector une fois que vous en aurez.
 
 # Quest: Handle Resources Like a Bo$$ #2
-betterquesting.quest.JRrD8MoLRuCHCD-fFpeNvQ.name=§2§lHandle Resources Like a Bo$$ #2
-betterquesting.quest.JRrD8MoLRuCHCD-fFpeNvQ.desc=A feat of human engineering at your disposal!%n%nThis machine allows you to filter 9 items, and will only output set batches. This allows you to automate processes such as electrolyzing that require different amounts of inputs that may clog the system otherwise.%n%n[note]This will be particularly useful in MV once you unlock more electrolysis recipes![/note]
+betterquesting.quest.JRrD8MoLRuCHCD-fFpeNvQ.name=§2§lGérez vos ressources comme un Bo$$ #2
+betterquesting.quest.JRrD8MoLRuCHCD-fFpeNvQ.desc=Le summum de l'ingénierie humaine à votre disposition !%n%nCette machine vous permet de filtrer 9 objets et ne libère que des lots définis. Vous pouvez ainsi automatiser des procédés comme l'électrolyse, qui demandent des quantités d'entrée différentes susceptibles sinon d'engorger le système.%n%n[note]Elle sera particulièrement utile en MV, une fois que vous aurez débloqué davantage de recettes d'électrolyse ![/note]
 
 # Quest: Keeping things organized
-betterquesting.quest.b47jlBoHTFGGB3j7nq60Zw.name=§2§lKeeping things organized
-betterquesting.quest.b47jlBoHTFGGB3j7nq60Zw.desc=Are you tired of storing Shapes and/or Molds near your Extruders and Solidifiers instead of inside them? Today must be your lucky day, because these item holders let you do exactly that!%n%nThey allow your machines to hold a small number of extra items, though each slot can only store one item at a time. There are three versions of this cover, each offering a different amount of storage:%n%nBasic Item Holder: 9 slots%nGood Item Holder: 12 slots%nAdvanced Item Holder: 15 slots%n%n[note]If that's still not enough space and you are already using the highest tier, you can simply attach multiple holders to your machine of choice.[/note]
+betterquesting.quest.b47jlBoHTFGGB3j7nq60Zw.name=§2§lGarder les choses en ordre
+betterquesting.quest.b47jlBoHTFGGB3j7nq60Zw.desc=Vous en avez assez de ranger vos Shapes et/ou Molds à côté de vos Extruders et Solidifiers plutôt que dedans ? C'est votre jour de chance, car ces Item Holders vous permettent justement de le faire !%n%nIls permettent à vos machines de contenir un petit nombre d'objets supplémentaires, mais chaque emplacement ne peut contenir qu'un seul objet à la fois. Il existe trois versions de ce cover, chacune offrant une capacité de stockage différente :%n%nBasic Item Holder : 9 emplacements%nGood Item Holder : 12 emplacements%nAdvanced Item Holder : 15 emplacements%n%n[note]Si ce n'est toujours pas assez et que vous utilisez déjà le tier le plus élevé, vous pouvez simplement fixer plusieurs holders sur la machine de votre choix.[/note]
 
 # Quest: Void Buses
 betterquesting.quest.kYGqUPpnQqq4aQJJTQakqw.name=§2§lVoid Buses
-betterquesting.quest.kYGqUPpnQqq4aQJJTQakqw.desc=Another good use for Trash Cans is combining them in the Assembler with either an Output Bus or an Output Hatch to create a Void Bus or Void Hatch. These handy buses allow you to instantly void any desired item or fluid output from a multiblock.%n%nYou may or may not find these useful now, depending on whether you are taking advantage of steam multiblocks, but you will definitely find them useful later when you start creating electric multiblocks.
+betterquesting.quest.kYGqUPpnQqq4aQJJTQakqw.desc=Autre bon usage des Trash Cans : les combiner dans l'Assembler avec un Output Bus ou une Output Hatch pour créer un Void Bus ou une Void Hatch. Ces bus bien pratiques permettent de détruire instantanément n'importe quel objet ou fluide produit par un multibloc.%n%nVous les trouverez peut-être utiles dès maintenant, selon que vous exploitez ou non les multiblocs à vapeur, mais ils vous seront assurément utiles plus tard, quand vous commencerez à construire des multiblocs électriques.
 
 # Quest: Refined Firestone
 betterquesting.quest.njE33db1TxaiJhEBA16E4A.name=§2§lRefined Firestone
-betterquesting.quest.njE33db1TxaiJhEBA16E4A.desc=Cut Firestone is the basic shape for producing Refined Firestone.%nUse a Diamond or Firestone Lens for cutting.%nIt is then fired with lava in the EBF.%n%nLastly it is thrown into lava and charged by absorbing lava blocks around it.%nIt needs 5000 lava blocks to be fully charged, so a large lava lake is required, preferably in the Nether.%n%nThis is most often used to heat up Steam Boilers very quickly or as a fuel. Additionally, it can function as a Flint and Steel.%n%n[note]If the firestone breaks, it can be repaired with lava in the EBF and recharged.[/note]
+betterquesting.quest.njE33db1TxaiJhEBA16E4A.desc=La Cut Firestone est la forme de base pour produire de la Refined Firestone.%nUtilisez une lentille en Diamant ou en Firestone pour la tailler.%nElle est ensuite cuite avec de la lave dans l'EBF.%n%nEnfin, on la jette dans la lave, où elle se charge en absorbant les blocs de lave qui l'entourent.%nIl lui faut 5000 blocs de lave pour être entièrement chargée, il faut donc un grand lac de lave, de préférence dans le Nether.%n%nElle sert le plus souvent à chauffer très rapidement des Steam Boilers, ou comme combustible. Elle peut en outre servir de briquet (Flint and Steel).%n%n[note]Si la Firestone se casse, elle peut être réparée avec de la lave dans l'EBF, puis rechargée.[/note]
 
 # Quest: Precision Laser Engraver
 betterquesting.quest.vV8Pw_lTTSiMmWOLqkyIWg.name=§2§lPrecision Laser Engraver
-betterquesting.quest.vV8Pw_lTTSiMmWOLqkyIWg.desc=The Precision Laser Engraver does not have many functions in LV, but is needed to create Cut Firestone which can later be filled with lava.
+betterquesting.quest.vV8Pw_lTTSiMmWOLqkyIWg.desc=Le Precision Laser Engraver n'a pas beaucoup d'usages en LV, mais il est nécessaire pour créer la Cut Firestone, qui pourra ensuite être remplie de lave.
 
 
 ## Quest Line: Tier 2 - MV
